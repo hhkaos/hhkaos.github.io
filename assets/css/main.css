@@ -31,10 +31,6 @@ h1 img{
 }
 
 p{
-    margin-top: .5rem;
-    text-align: right;
-    padding-top: .5rem;
-    border-top: 1px solid #ccc;
     margin-bottom: 1rem;
 }
 
@@ -93,7 +89,7 @@ ul{
 	content: ' y ';
 }
 
-#footer{
+p#footer{
 	    margin-top: .5rem;
     text-align: right;
     padding-top: .5rem;
