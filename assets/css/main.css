@@ -1,0 +1,105 @@
+html {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 17px;
+    font-weight: 300;
+    line-height: 1.45;
+}
+
+body{
+	font-family: 'Source Sans Pro', sans-serif;
+	line-height: 1.45rem;
+	width: 80%;
+	margin: 1rem auto;
+}
+
+h1,h2{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 600;
+	margin-bottom: .85rem;
+}
+h1{
+    font-size: 1.85rem;
+}
+h2{
+    font-size: 1.45rem;
+}
+
+h1 img{
+	float: left;
+	width: 120px;
+	margin: 0 1em .5em 0;
+}
+
+p{
+    margin-top: .5rem;
+    text-align: right;
+    padding-top: .5rem;
+    border-top: 1px solid #ccc;
+    margin-bottom: 1rem;
+}
+
+table{border: 1px solid #000;margin-bottom: 1rem;width: 100%;}
+
+	table td,
+	table th{
+		border: 1px solid #000;
+		padding: .5em;
+	}
+	table th{
+		text-transform: uppercase;
+		background-color: #f1f1f1;
+	}
+	tbody tr:hover{
+		background-color: #f4f4f4;
+		transition: background-color .5s;
+	}
+
+#educacion td:nth-child(3){
+	text-align: center;
+}
+#experiencia td:nth-child(3),
+#experiencia td:nth-child(4){
+	text-align: center;
+}
+
+strong{
+    font-weight: 400;
+}
+ul{
+  list-style-type: square;
+  margin: 0 0 1rem 2rem;
+}
+	li{
+    margin-bottom: .5rem;
+	}
+	
+
+.inline{
+	list-style-type: none;
+	margin: 0;
+	display: inline-block;
+	word-wrap: normal;
+}
+.inline li{
+    display: inline-block;
+}
+.inline li:after{
+	content: ', ';
+}
+.inline li:last-child:after{
+	content: '.';
+}
+.inline li:nth-last-child(2):after{
+	content: ' y ';
+}
+
+#footer{
+	    margin-top: .5rem;
+    text-align: right;
+    padding-top: .5rem;
+    border-top: 1px solid #ccc;
+    margin-bottom: 1rem;
+}
+#footer a{
+	text-decoration: none;
+}
