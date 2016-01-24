@@ -226,6 +226,10 @@ input,select,textarea{
 	box-shadow: 0 0 3px #ccc;
 }
 
+#expertise-list{
+	display: none;
+}
+
 textarea, input, select{
 	padding: .5em .6em;
 	display: inline-block;
@@ -304,7 +308,7 @@ input:focus, textarea:focus, keygen:focus, select:focus {
 			box-sizing: border-box;
 		}
 		li{
-			
+
 		}
 		label{width: 100%;margin-bottom: .5rem;}
 		textarea, input, select{
