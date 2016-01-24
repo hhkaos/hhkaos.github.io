@@ -78,6 +78,7 @@ function showModal(i){
 	document.getElementById("company-text").innerHTML = obj.company;
 	document.getElementById("position").innerHTML = obj.position;
 	document.getElementById("city").innerHTML = obj.city;
+	document.getElementById("period").innerHTML = obj.period;
 	document.getElementById("achievements").innerHTML = obj.achievements.replace("\n", "<br>");;
 }
 

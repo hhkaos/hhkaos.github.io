@@ -1,10 +1,23 @@
 html {
-    font-family: 'Source Sans Pro', sans-serif;
-    font-size: 17px;
-    font-weight: 300;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 17px;
+	font-weight: 300;
 }
 body{
 	line-height: 1.45;
+}
+hr{
+	border: 0;
+	border-top: 1px dotted #ccc;
+	margin: 1.5rem 0;
+}
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
 }
 #header{
 	color: #222;
@@ -23,21 +36,22 @@ body{
 	width: 80%;
 	max-width: 980px;
 	margin: 1rem auto;
+	padding-top: .5rem;
 }
 
 h1,h2, h3{
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 600;
-	margin-bottom: .85rem;
+	margin: 1rem 0;
 }
 h1{
-    font-size: 1.85rem;
+	font-size: 1.85rem;
 }
 h2{
-    font-size: 1.45rem;
+	font-size: 1.45rem;
 }
 h3{
-    font-size: 1.25rem;
+	font-size: 1.25rem;
 }
 
 h1 img{
@@ -47,20 +61,24 @@ h1 img{
 }
 
 p{
-    margin-bottom: 1rem;
+	margin-bottom: 1rem;
 }
 
-table{border: 1px solid #000;margin-bottom: 1rem;width: 100%;}
+table{border: 1px solid #000;margin-bottom: 2rem;width: 100%;}
 
-	table td,
-	table th{
-		border: 1px solid #000;
-		padding: .5em;
-	}
-	table th{
-		text-transform: uppercase;
-		background-color: #f1f1f1;
-	}
+table td,
+table th{
+	border: 1px solid #000;
+	padding: .5em;
+}
+table th{
+	text-transform: uppercase;
+	background-color: #f1f1f1;
+}
+
+table tr:nth-child(even) {
+    background: #f7f7f7;
+}
 #expertise tbody tr:hover{
 	background-color: #f4f4f4;
 	transition: background-color .5s;
@@ -76,16 +94,16 @@ table{border: 1px solid #000;margin-bottom: 1rem;width: 100%;}
 }
 
 strong{
-    font-weight: 400;
+	font-weight: 400;
 }
 ul{
-  list-style-type: square;
-  margin: 0 0 1rem 2rem;
+	list-style-type: square;
+	margin: 0 0 1rem 2rem;
 }
-	li{
-    margin-bottom: .5rem;
-	}
-	
+li{
+	margin-bottom: .5rem;
+}
+
 
 .inline{
 	list-style-type: none;
@@ -94,7 +112,7 @@ ul{
 	word-wrap: normal;
 }
 .inline li{
-    display: inline-block;
+	display: inline-block;
 }
 .inline li:after{
 	content: ', ';
@@ -142,10 +160,10 @@ button[type="submit"]{
 	clear: both;
 }
 #footer{
-	  margin-top: .5rem;
-    padding-top: .5rem;
-    border-top: 1px solid #ccc;
-    margin-bottom: 1rem;
+	margin-top: .5rem;
+	padding-top: .5rem;
+	border-top: 1px solid #ccc;
+	margin-bottom: 1rem;
 }
 #footer a{
 	margin-left: .5rem;
@@ -177,10 +195,10 @@ input,select,textarea{
 	box-shadow: 0px 0px 7px #ccc;
 	transition: top 1s;
 }
-	.modal.closed{
-		top: -500px;
-	}
-	.fa-times{
-		float: right;
-		cursor: pointer;
-	}
+.modal.closed{
+	top: -500px;
+}
+.fa-times{
+	float: right;
+	cursor: pointer;
+}
