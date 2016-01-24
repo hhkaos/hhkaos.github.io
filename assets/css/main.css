@@ -278,7 +278,7 @@ select{
 /*
 	iPhone 6 Portrait
 */
-@media (max-width: 375px) {
+@media (max-width: 600px) {
 	html{
 		font-size: 15px;
 	}
