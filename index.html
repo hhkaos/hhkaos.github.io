@@ -10,8 +10,7 @@
   <meta name="author" content="Raúl Jiménez Ortega">
 
   <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600%7CSource+Sans+Pro:400,300,600' rel='stylesheet' type='text/css'>
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-  <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css">
+  
   <link rel="stylesheet" href="assets/css/reset.css">
   <link rel="stylesheet" href="assets/css/main.css">
 
@@ -26,13 +25,15 @@
   </div>
 
   <div id="container">
-    <h1><img src="assets/img/raul_jimenez_ortega.jpg" alt="Mi fotografía">Raúl Jiménez Ortega</h1>
-    <p>
-      Me apasionan temas como son: los negocios en Internet, la analítica web, la optimización web (A/B Testing, UX,...), el SEO, los móviles y el SoLoMo, el emprendiemiento y las startups, las redes sociales aplicadas a los negocios, las tecnologías web, etc.
-    </p>
-    <p>
-      Pero creo que es mejor que me conozcas en <a href="https://www.youtube.com/watch?v=eOTY6fOTRTk" target="_blank">mi vídeo de presentación</a>.
-    </p>
+    <div id="me">
+      <h1>Raúl Jiménez Ortega</h1>
+      <p>
+        Me apasionan temas como son: los negocios en Internet, la analítica web, la optimización web (A/B Testing, UX,...), el SEO, los móviles y el SoLoMo, el emprendiemiento y las startups, las redes sociales aplicadas a los negocios, las tecnologías web, etc.
+      </p>
+      <p>
+        Pero creo que es mejor que me conozcas en <a href="https://www.youtube.com/watch?v=eOTY6fOTRTk" target="_blank">mi vídeo de presentación</a>.
+      </p>
+    </div>
 
     <hr>
     <h2 id="experiencia">Experiencia profesional</h2>
@@ -48,6 +49,8 @@
       <tbody>
       </tbody>
     </table>
+
+    <ol id="expertise-list"></ol>
 
     <hr>
     <h2 id="habilidades">Habilidades y conocimientos</h2>
@@ -128,16 +131,16 @@
 
     <hr>
     <h2 id="contactar">Contactar</h2>
-    <form id="email" method="GET" class="pure-form pure-form-aligned">
-      <div class="pure-control-group">
+    <form id="email" method="GET">
+      
         <label for="to">Para:</label>
         <input id="to" type="email" required>
         <div id="note">
           Resuelve este CAPTCHA para saber mi email: <a href="http://www.google.com/recaptcha/mailhide/d?k=019WHQqL0MridJJIEFIBpXKQ==&amp;c=7N5sHi7bjJwxICWXaOAEZw1FA0oPKSewOA2aCzes2EQ=" onclick="window.open('http://www.google.com/recaptcha/mailhide/d?k\075019WHQqL0MridJJIEFIBpXKQ\75\75\46c\0757N5sHi7bjJwxICWXaOAEZw1FA0oPKSewOA2aCzes2EQ\075', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" title="Reveal this e-mail address">h...</a>@gmail.com
         </div>
-      </div>
+      
 
-      <div class="pure-control-group">
+      
         <label for="topic">Temática: </label>
         <select id="topic">
           <option>-- Elige un tema --</option>
@@ -146,24 +149,24 @@
           <option>Reporte</option>
           <option>Otro</option>
         </select>
-      </div>
+      
 
-      <div class="pure-control-group">
+      
         <label for="subject">Asunto: </label>
         <input id="subject" type="text" required>
-      </div>
+      
 
-      <div class="pure-control-group">
+      
         <label for="body">Cuerpo:</label>
         <textarea id="body" required></textarea>
-      </div>
-      <div class="pure-controls">
+      
+      
         <button type="submit" class="pure-button pure-button-primary">Enviar</button>
-      </div>
+      
     </form>
 
     <p id="footer" class="center">
-      Esta web ha sido desarrollada aplicando los conocimientos adquiridos en el <span id="video" class="linkify">curso HTML5 desde cero</span> <i class="fa fa-video-camera"></i>.<br>
+      Cualquier persona puede desarrollar una página como esta a partir de los conocimientos adquiridos en el <span id="video" class="linkify">curso HTML5 desde cero</span>.<br>
 
       <a href="https://validator.w3.org/check?uri=http%3A%2F%2Fhhkaos.github.io&charset=%28detect+automatically%29&doctype=Inline&group=0" target="_blank">
         <img style="border:0;width:88px;height:31px"
@@ -180,7 +183,7 @@
   </div>  
 
   <div id="job" class="modal closed">
-    <i class="fa fa-times"></i>
+    <i class="close">X</i>
     <h3 id="position"></h3>
     <p>
       <a href="#" id="company-link"><span id="company-text"></span></a>, 
@@ -191,7 +194,7 @@
   </div>
 
   <div id="youtube-video" class="modal closed">
-    <i class="fa fa-times"></i>
+    <i class="close">X</i>
     <iframe width="420" height="315" src="https://www.youtube.com/embed/asVBLY0POKY" allowfullscreen></iframe>
     <p class="center"><a href="http://www.cursohtml5desdecero.com/" class="btn">Inscríbete gratis al curso</a></p>
   </div>  

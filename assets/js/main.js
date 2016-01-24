@@ -7,7 +7,7 @@ var $APP = {};
 	var url = 'https://spreadsheets.google.com/feeds/list/1DmlsW78hm916t9sK1UDdnICOWO9QHPO5piJHaR5t-Lg/1/public/values?alt=json';
 
 	load(url, function(xhr) {
-		var len, i, tbody = '', response, id, obj;
+		var len, i, tbody = '', li = '', response, obj;
 
 		response = JSON.parse(xhr.responseText);
 		$APP.data = response.feed.entry;
@@ -18,16 +18,24 @@ var $APP = {};
 
 			tbody += '\
 				<tr onclick="showModal(\''+ i +'\')">\
-				<td>'+ obj.company +'</td>\
-				<td>'+ obj.position +'</td>\
-				<td>'+ obj.city +'</td>\
-				<td>'+ obj.period +'</td>\
+					<td>'+ obj.company +'</td>\
+					<td>'+ obj.position +'</td>\
+					<td>'+ obj.city +'</td>\
+					<td>'+ obj.period +'</td>\
 				</tr>';
+
+			li += '\
+				<li>\
+					<strong>'+ obj.position +'</strong><br>\
+					<a href="'+ obj.web +'">'+ obj.company +'</a>, '+ obj.period +', '+ obj.city +'<br>\
+				</li> \
+				';
 		}
 		(document.getElementById("expertise").querySelectorAll("tbody")[0]).innerHTML = tbody;
+		document.getElementById("expertise-list").innerHTML = li;
 	});
 
-	(document.querySelectorAll('#job .fa-times')[0]).addEventListener('click', function(){
+	(document.querySelectorAll('#job .close')[0]).addEventListener('click', function(){
 		document.getElementById("job").setAttribute('class', 'modal closed');
 	});
 
@@ -35,7 +43,7 @@ var $APP = {};
 		document.getElementById("youtube-video").setAttribute('class', 'modal');
 	});
 
-	(document.querySelectorAll('#youtube-video .fa-times')[0]).addEventListener('click', function(){
+	(document.querySelectorAll('#youtube-video .close')[0]).addEventListener('click', function(){
 		document.getElementById("youtube-video").setAttribute('class', 'modal closed');
 	});
 

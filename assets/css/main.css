@@ -19,6 +19,10 @@ hr{
 	clear: both;
 	height: 0;
 }
+#me{
+	background: url('../img/raul_jimenez_ortega.jpg') left/15% auto no-repeat;
+	padding-left: 18%;
+}
 #header{
 	color: #222;
 	border-bottom: 1px solid #ccc;
@@ -43,9 +47,11 @@ h1,h2, h3{
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 600;
 	margin: 1rem 0;
+	line-height: 1.85rem;
 }
 h1{
 	font-size: 1.85rem;
+	margin-bottom: .5rem;
 }
 h2{
 	font-size: 1.45rem;
@@ -126,7 +132,7 @@ li{
 
 iframe{
 	width: 100%;
-	margin-top: 1rem;
+	margin-bottom: 1rem;
 }
 
 .center{
@@ -144,26 +150,31 @@ iframe{
 form{
 	border: 1px dotted #ccc;
 	padding: 1rem;
-	width: 690px;
 	margin: 0 auto;
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: flex-end;
 }
-
+label{
+	width: 20%;
+}
 button[type="submit"]{
-	width: 400px;
 }
 
 #note{
-	margin-left: 11.2rem;
-	margin-top: .5rem;
 	display: block;
 	font-size: .8rem;
 	clear: both;
+	width: 80%;
+	padding-left: 20%;
+	margin-bottom: .5rem;
 }
 #footer{
-	margin-top: .5rem;
+	margin-top: 1.75rem;
 	padding-top: .5rem;
 	border-top: 1px solid #ccc;
 	margin-bottom: 1rem;
+	font-size: .85rem;
 }
 #footer a{
 	margin-left: .5rem;
@@ -185,7 +196,7 @@ input,select,textarea{
 .modal{
 	position: fixed;
 	z-index: 1;
-	top: 1rem;
+	top: 4rem;
 	background-color: white;
 	border: 1px solid #ccc;
 	padding: 1rem;
@@ -198,7 +209,101 @@ input,select,textarea{
 .modal.closed{
 	top: -500px;
 }
-.fa-times{
+.close{
 	float: right;
 	cursor: pointer;
+	font-weight: 400;
+	border: 1px solid #ccc;
+	padding: 6px 9px;
+	border-radius: 100%;
+	font-size: 0.9rem;
+	line-height: .8rem;
+	color: #999;
+	position: relative;
+	top: -32px;
+	background-color: white;
+	right: -32px;
+	box-shadow: 0 0 3px #ccc;
+}
+
+textarea, input, select{
+	padding: .5em .6em;
+	display: inline-block;
+	border: 1px solid #ccc;
+	box-shadow: inset 0 1px 3px #ddd;
+	border-radius: 4px;
+	vertical-align: middle;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	height: 2.25rem;
+	font-size: .9rem;
+	font-weight: 300;
+	width: 80%;
+	margin-bottom: .5rem;
+}
+textarea{
+	height: 6rem;
+}
+button{
+	    background-color: #0078e7;
+	    color: #fff;
+	    padding: .5em 1em;
+	    border: 0 rgba(0,0,0,0);
+	    border-radius: 2px;
+	    width: 80%;
+	    font-size: .9rem;
+	    font-weight: 300;
+}
+select{
+	height: 2.25rem;
+	border: 1px solid #ccc;
+	background-color: #fff;
+	display: inline-block;
+	vertical-align: middle;
+}
+ input:focus:invalid, textarea:focus:invalid, select:focus:invalid {
+    color: #b94a48;
+    border-color: #e9322d;
+}
+ input:focus, textarea:focus, select:focus{
+ 	border-color: #129FEA;
+ 	outline: none;
+ 	box-shadow: none;
+ }
+ input:focus, textarea:focus, keygen:focus, select:focus {
+    outline-offset: -2px;
+}
+
+/*
+	iPhone 6 Portrait
+*/
+@media (max-width: 375px) {
+	html{
+		font-size: 15px;
+	}
+	p{
+		text-align: justify;
+	}
+	#header{
+		display: none;
+	}
+	#container{
+		width: 90%;
+		margin: .5rem auto;
+	}
+  #me{
+    background: none;
+    padding-left: 0;
+    padding-top: 0;
+  }
+  #expertise{
+  	display: none;
+  }
+  h1{margin-top: 0;margin-bottom: .75rem;}
+  .modal{
+  	width: 90%;
+  	margin-left: -45%;
+  	box-sizing: border-box;
+  }
 }
