@@ -336,6 +336,9 @@ input:focus, textarea:focus, keygen:focus, select:focus {
 		html{
 			font-size: 15px;
 		}
+		#expertise-list{
+			display: block;
+		}
 		p{
 			text-align: justify;
 		}
