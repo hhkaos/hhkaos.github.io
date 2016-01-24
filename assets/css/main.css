@@ -4,15 +4,26 @@ html {
     font-weight: 300;
     line-height: 1.45;
 }
+#header{
+	color: #222;
+	border-bottom: 1px solid #ccc;
+	box-shadow: 0 0 4px #ccc;
+}
+#header a{
+	padding: .65rem .5rem;
+	display: inline-block;
+	font-size: .85rem;
+}
 
-body{
+#container{
 	font-family: 'Source Sans Pro', sans-serif;
 	line-height: 1.45rem;
 	width: 80%;
+	max-width: 980px;
 	margin: 1rem auto;
 }
 
-h1,h2{
+h1,h2, h3{
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 600;
 	margin-bottom: .85rem;
@@ -22,6 +33,9 @@ h1{
 }
 h2{
     font-size: 1.45rem;
+}
+h3{
+    font-size: 1.25rem;
 }
 
 h1 img{
@@ -45,16 +59,17 @@ table{border: 1px solid #000;margin-bottom: 1rem;width: 100%;}
 		text-transform: uppercase;
 		background-color: #f1f1f1;
 	}
-	tbody tr:hover{
-		background-color: #f4f4f4;
-		transition: background-color .5s;
-	}
+#expertise tbody tr:hover{
+	background-color: #f4f4f4;
+	transition: background-color .5s;
+	cursor: pointer;
+}
 
-#educacion td:nth-child(3){
+#education td:nth-child(3){
 	text-align: center;
 }
-#experiencia td:nth-child(3),
-#experiencia td:nth-child(4){
+#expertise td:nth-child(3),
+#expertise td:nth-child(4){
 	text-align: center;
 }
 
@@ -89,13 +104,81 @@ ul{
 	content: ' y ';
 }
 
-p#footer{
-	    margin-top: .5rem;
-    text-align: right;
+iframe{
+	width: 100%;
+	margin-top: 1rem;
+}
+
+.center{
+	text-align: center;
+}
+.btn{
+	background-color: #FF9800;
+	color: white;
+	text-decoration: none;
+	padding: .5rem 1rem;
+	border-radius: 5px;
+	text-shadow: 0px 0 1px #000;
+	display: inline-block;
+}
+form{
+	border: 1px dotted #ccc;
+	padding: 1rem;
+	width: 690px;
+	margin: 0 auto;
+}
+
+button[type="submit"]{
+	width: 400px;
+}
+
+#note{
+	margin-left: 11.2rem;
+	margin-top: .5rem;
+	display: block;
+	font-size: .8rem;
+	clear: both;
+}
+#footer{
+	  margin-top: .5rem;
     padding-top: .5rem;
     border-top: 1px solid #ccc;
     margin-bottom: 1rem;
 }
 #footer a{
+	margin-left: .5rem;
+	margin-top: .5rem;
 	text-decoration: none;
+	display: inline-block;
 }
+
+.linkify{
+	text-decoration: underline;
+	color: rgb(0, 0, 238);
+	cursor: pointer;
+}
+
+input,select,textarea{
+	width: 400px;
+}
+
+.modal{
+	position: fixed;
+	z-index: 1;
+	top: 1rem;
+	background-color: white;
+	border: 1px solid #ccc;
+	padding: 1rem;
+	margin-left: -300px;
+	width: 600px;
+	left: 50%;
+	box-shadow: 0px 0px 7px #ccc;
+	transition: top 1s;
+}
+	.modal.closed{
+		top: -500px;
+	}
+	.fa-times{
+		float: right;
+		cursor: pointer;
+	}
