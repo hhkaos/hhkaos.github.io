@@ -26,8 +26,13 @@ var $APP = {};
 
 			li += '\
 				<li>\
-					<strong>'+ obj.position +'</strong><br>\
-					<a href="'+ obj.web +'">'+ obj.company +'</a>, '+ obj.period +', '+ obj.city +'<br>\
+					<p>\
+						<strong>'+ obj.position +'</strong><br>\
+						<a href="'+ obj.web +'">'+ obj.company +'</a>, '+ obj.period +', '+ obj.city +'\
+					</p>\
+					<p>\
+						'+ obj.achievements +'\
+					</p>\
 				</li> \
 				';
 		}
