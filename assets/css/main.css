@@ -2,7 +2,9 @@ html {
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 17px;
     font-weight: 300;
-    line-height: 1.45;
+}
+body{
+	line-height: 1.45;
 }
 #header{
 	color: #222;
