@@ -6,11 +6,9 @@ sidebar_position: 1
 
 Welcome to my Digital Brain 🧠.
 
-If there is something that I have always disliked is to create content and resources and leave them in a drawer, so I have decided to create this section to share resources that I have been creating for different reasons (helping acquaintances, my own concerns, ventures, things that I want to share, etc.) with the community,
+If there is something that I have always disliked is creating content and resources and leaving them in a drawer, so I have decided to create this section to share resources that I have been creating for different reasons (helping acquaintances, my concerns, ventures, things that I want to share, etc.) with the community,
 
-
-
-On this section, I will be [learning in public](https://www.swyx.io/learn-in-public), specifically, by sharing knowledge I get based on my experience, research, etc.
+In this section, I will be [learning in public](https://www.swyx.io/learn-in-public), specifically, by sharing knowledge I get based on my experience, research, etc.
 
 Here you will find open resources that I'm building on my continuous learning path.
 

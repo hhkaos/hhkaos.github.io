@@ -6,7 +6,7 @@ title: Geo Developer superpowers
 
 **This document aims to inspire, motivate, and developers** about the exciting world of geospatial development.  
 
-As developers, **we love to write software we feel proud of**, so we can say: "I’m part of the team that built it!". We can feel proud for many reasons, because the app is scalable or has a great UX/UI, or it was challenging to solve a complex issue, or a problem in an innovative way, or it will save a lot of time to the user, automatizes a lot of tasks, etc. 
+As developers, **we love to write software we feel proud of**, so we can say: "I’m part of the team that built it!". We can feel proud for many reasons, because the app is scalable or has a great UX/UI, or it was challenging to solve a complex issue, or a problem innovatively, or it will save a lot of time for the user, automatizes a lot of tasks, etc. 
 
 And **what does localization have to do with it?** Well, much of the information is geolocated or can be geolocated, since all real-world objects, actions, events, etc. occur in a certain place and at a certain time, although it is true that there are actions to which geolocation adds little or no value, such as resolving an issue, designing an interface or industrial piece, analyzing an X-ray image, assign diet plan, where a chat, training take or online game match place, and many more. 
 
@@ -68,20 +68,20 @@ Like Spatial Lookup, Boundary Lookup, ...:
 
 ### Data transformation
 
-Like cartographic transformations, format transformation, ...
+Like cartographic transformations, format transformations, ...
 
 - How to transform data to optimize for storage (change format, generalize data by reducing the size of polygons, ...)
 - How to transform my data to optimize for certain analysis
 - How do I combine two spatial datasets? (spatial joins, etc.)
 - How do I combine/join shapes (e.g. multiple polygons) by a common attribute?
-- How to correct GPS data (e.g. snap to roads, nearest roads, fix data anomalies, -> e.g. [accurate store visits](https://www.safegraph.com/blog/revealing-safegraphs-secret-method-for-getting-accurate-store-visits-from-gps-data)  by safegraph, madrid cleaning data...)
+- How to correct GPS data (e.g. snap to roads, nearest roads, fix data anomalies, -> e.g. [accurate store visits](https://www.safegraph.com/blog/revealing-safegraphs-secret-method-for-getting-accurate-store-visits-from-gps-data)  by Safegraph, Madrid cleaning data...)
 - Convert raster/images to vector
 - How do I need to transform / project coordinates
 
 ### Georeferenced Image analysis (aerial, ground, satellite, ...)
 
 - How to get ground coordinates from a given pixel in a panorama (e.g [oriented imagery](https://github.com/Esri/oriented-imagery))
-- How to get area covered by an aerial picture (e.g. done image)
+- How to get the area covered by an aerial picture (e.g. done image)
 - How to detect/identify elements like water, snow, ice, vegetation, soil, roads, buildings ... areas from raster/image (satellite)  using spectral signature (combine bands, etc)
 - How to convert those elements to vector data? (using deep learning) (extract and geolocate buildings, roads, pools, etc -> eg. RapID)
 - How to do camera image segmentation and geolocate? camera-based AI semantic segmentation, object detection, and classification (geolocate and geolocate from a ground picture/”3D”) (e.g. Advanced driver-assistance systems (ADAS))
