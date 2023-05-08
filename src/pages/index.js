@@ -6,7 +6,7 @@ import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 require('@site/static/img/undraw_docusaurus_react.svg').default
 import HhkaosImageUrl from '@site/static/img/hhkaos-raul-jimenez-ortega.jpeg';
-
+import Translate, {translate} from '@docusaurus/Translate';
 
 import styles from './index.module.css';
 
@@ -15,16 +15,14 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-        <h1 className="hero__title">{siteConfig.title}</h1>
-        {/* <p className="hero__subtitle">{siteConfig.tagline}</p> */}
         <img className="rounded img-medium" src={HhkaosImageUrl} alt="Raul Jimenez photography"/>
-        <div className={styles.buttons}>
+        {/* <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
             Go to my digital brain 🧠
           </Link>
-        </div>
+        </div> */}
       </div>
     </header>
   );
@@ -38,7 +36,12 @@ export default function Home() {
       description="This website contain my digital brain">
       <HomepageHeader />
       <main>
-        <HomepageFeatures />
+        <p>Puedes encontrarme en:</p>
+        <ul>
+          <li>https://www.twitter.com/hhkaos</li>
+          <li>https://www.github.com/hhkaos</li>
+          <li>....</li>
+        </ul>
       </main>
     </Layout>
   );
