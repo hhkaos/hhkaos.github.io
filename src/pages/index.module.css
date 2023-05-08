@@ -21,3 +21,11 @@
   align-items: center;
   justify-content: center;
 }
+
+.rounded {
+  border-radius: 100%;
+} 
+
+.img-medium{
+  width: 5rem;
+}
