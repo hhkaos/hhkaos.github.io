@@ -1,0 +1,8 @@
+{
+  "label": "📄 Developers",
+  "position": 20,
+  "link": {
+    "type": "generated-index",
+    "description": "Developer related topics."
+  }
+}

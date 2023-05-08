@@ -1,6 +1,6 @@
 {
   "version.label": {
-    "message": "Next",
+    "message": "Siguiente",
     "description": "The label for version current"
   },
   "sidebar.tutorialSidebar.category.📄 Resources": {
@@ -14,5 +14,25 @@
   "sidebar.tutorialSidebar.category.🚧 Draft notes": {
     "message": "🚧 Notas en sucio",
     "description": "The label for category 🚧 Draft notes in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.📄 Developers": {
+    "message": "📄 Desarrolladores",
+    "description": "The label for category 📄 Developers in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.📄 Developers.link.generated-index.description": {
+    "message": "Temas relacionados con desarrolladores.",
+    "description": "The generated-index page description for category 📄 Developers in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.🌎 Geospatial": {
+    "message": "🌎 Geo y Mapas",
+    "description": "The label for category 🌎 Geospatial in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.🌎 Geospatial.link.generated-index.description": {
+    "message": "Todos ellos son recursos abiertos que he creado a lo largo de los años basándome en mi experiencia. ",
+    "description": "The generated-index page description for category 🌎 Geospatial in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.🚧 Draft notes.link.generated-index.description": {
+    "message": "Estas notas probablemente no estén traducidas aún.",
+    "description": "The generated-index page description for category 🚧 Draft notes in sidebar tutorialSidebar"
   }
 }

@@ -42,3 +42,5 @@ If you are using GitHub pages for hosting, this command is a convenient way to b
 
 
 npm run write-translations -- --locale es
+
+npm run start -- --locale es
