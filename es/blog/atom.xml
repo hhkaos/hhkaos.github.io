@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://hhkaos.github.io/es/blog</id>
+    <title>RaulJimenez.info Blog</title>
+    <updated>2021-08-26T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://hhkaos.github.io/es/blog"/>
+    <subtitle>RaulJimenez.info Blog</subtitle>
+    <icon>https://hhkaos.github.io/es/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Lanzando mi nueva web]]></title>
+        <id>https://hhkaos.github.io/es/blog/launching-my-new-website</id>
+        <link href="https://hhkaos.github.io/es/blog/launching-my-new-website"/>
+        <updated>2021-08-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[asdasde many of]]></summary>
+        <content type="html"><![CDATA[<p>asdasde many of
+the markdown notes and resources I create with all of you.</p>]]></content>
+        <author>
+            <name>Raul Jimenez Ortega</name>
+            <uri>https://github.com/hhkaos</uri>
+        </author>
+        <category label="esri" term="esri"/>
+        <category label="hello" term="hello"/>
+        <category label="docusaurus" term="docusaurus"/>
+    </entry>
+</feed>
