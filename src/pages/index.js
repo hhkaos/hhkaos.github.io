@@ -41,6 +41,9 @@ export default function Home() {
         <a href="https://twitter.com/hhkaos" rel="nofollow">
           <img src="https://camo.githubusercontent.com/5d03c86f6a75f7cbe80d135d9162fbf6dc46a31253cf30a8e9bb8279b4d574d3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d3144413146323f7374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" alt="René Rubalcava Twitter" data-canonical-src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" />
         </a>
+        <a href="https://github.com/hhkaos">
+          <img src="https://camo.githubusercontent.com/ab2402e8e757783f1f90056c66921e913d7fbfab11b71660fc18c74ebba47033/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3138313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d313031303130" alt="GitHub" data-canonical-src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=101010" />
+        </a>
         <a href="https://www.youtube.com/hhkaos" rel="nofollow">
           <img src="https://camo.githubusercontent.com/d79c5549652f9c7690992eb49571d216a70a480681561cbd93bfbfc77c491e54/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f596f75547562652d4646303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d796f7574756265266c6f676f436f6c6f723d7768697465" alt="René Rubalcava YouTube" data-canonical-src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" />
         </a>

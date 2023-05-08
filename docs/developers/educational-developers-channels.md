@@ -10,7 +10,7 @@ This is a compilation of websites, blogging platforms, video channels, etc. wher
 
 ### Accepting contributions
 
-**Guest blogging** is the practice of writing and publishing an original blog post on a third-party website. Here a list of channels you can use:
+**Guest blogging** is the practice of writing and publishing an original blog post on a third-party website. Here is a list of channels you can use:
 
 - [Postman Guest blogger program](https://www.postman.com/postman-contributor-guest-blogger/): API platform for building and using APIs.
 - [TheNextWeb contributor program](https://thenextweb.com/news/everything-you-need-to-know-about-the-tnw-contributor-program): We inform, inspire, and connect people who love tech.
@@ -24,12 +24,12 @@ This is a compilation of websites, blogging platforms, video channels, etc. wher
 - [sitepoint.com](https://www.sitepoint.com/write-for-us/): Learn HTML, CSS, JavaScript, PHP, Ruby, ...
 - [smashingmagazine.com/write-for-us/](http://www.smashingmagazine.com/write-for-us/): Articles for web designers and developers
 - [css-tricks.com](https://css-tricks.com/guest-posting/): Tips, Tricks, and Techniques on using CSS.
-- [techcrunch.com](https://techcrunch.com/2019/11/20/submit-a-guest-post-to-extra-crunch/): experiences about starting, growing or funding a tech company.
+- [techcrunch.com](https://techcrunch.com/2019/11/20/submit-a-guest-post-to-extra-crunch/): experiences about starting, growing, or funding a tech company.
 - [The New Stack](https://thenewstack.io/contributions/): For developers and engineers building and managing new stacks around the world that are built on open source technologies and distributed infrastructures.  
-- [SD Times](https://sdtimes.com/sd-times-magazine/guest-view-guidelines/): Software Development Times, better known as SD Times, is a magazine published by D2 Emerge, in both a print version and an on-line electronic edition.
+- [SD Times](https://sdtimes.com/sd-times-magazine/guest-view-guidelines/): Software Development Times, better known as SD Times, is a magazine published by D2 Emerge, in both a print version and an online electronic edition.
 - [AppDeveloperMagazine.com](https://appdevelopermagazine.com/Submission-Guidelines): App Developer Magazine is an app programming and software tech media property, dedicated to covering news, and stories for iOS iPhone, Android, Gaming, IoT, VR, and AR app developers.
 - [Dzone.com](https://dzone.com/pages/submission-guidelines)  the premier \#developer community. Tips on \#Java, \#webdev, \#integrations, #database, and more.
-- [DevOps.com](https://devops.com/about/): DevOps.com has the largest collection of original content related to DevOps on the web and one of the top result for DevOps-related search terms.
+- [DevOps.com](https://devops.com/about/): DevOps.com has the largest collection of original content related to DevOps on the web and one of the top results for DevOps-related search terms.
 - [HackerNoon.com](https://help.hackernoon.com/submit-a-story-checklist): how hackers start their afternoons. where 25k+ tech pros publish stories & expertise for 4M+ monthly readers. have a dope story?.
 - [Business Insider](https://www.businessinsider.com/how-to-write-for-business-insider-2020-4): Insider tells the global tech, finance, markets, media, healthcare, and strategy stories you want to know.
 - [geopois.com](https://geopois.com/contacto) (Spanish): Aprende Tecnologías Geoespaciales, somos especialistas en sistemas de información geográfica, base de datos espaciales y visores online web mapping.
@@ -104,10 +104,17 @@ Extracted from [State of JavaScript](https://2022.stateofjs.com/en-US/resources/
 * https://medium.com/airbnb-engineering
 * https://medium.com/bbc-product-technology
 * https://eng.lyft.com/
+* https://www.eventbrite.com/engineering/
+* https://engblog.nextdoor.com/
+* https://deliveroo.engineering/
+* https://www.canva.dev/blog/engineering/
+* https://engineering.prezi.com/
+* https://doordash.engineering/blog/
+* https://engineering.blackrock.com/
 
 ### Not found contribution guidelines
 - [Application Development Trends](https://adtmag.com/Home.aspx)
-- [Visual Studio Magazine](https://visualstudiomagazine.com/Home.aspx): The home page of Visual Studio Magazine online, is the leading site for enterprise .NET developers.  
+- [Visual Studio Magazine](https://visualstudiomagazine.com/Home.aspx): The home page of Visual Studio Magazine online is the leading site for enterprise .NET developers.  
 - [ArsTechnia](https://arstechnica.com/): Original news, reviews, analysis of tech trends, and expert advice on the most fundamental aspects of tech.
 - [Converge360](https://converge360.com/Home.aspx)
 - [Washington Technology](https://washingtontechnology.com/)
