@@ -22,6 +22,8 @@ Así que, el próximo paso es empezar a migrar el contenido que pueda recuperar 
 
 Por otro lado, siempre he pensado que es una pena crear recursos y dejarlos guardados en un cajón, así que de ahora en adelante, mi objetivo es empezar a publicar aquí muchos de los recursos que he ido creando a lo largo de los años y compartirlos en lo que he definido como mi ["🧠 Cerebro Digital"](/docs/digital-brain).
 
+He empezado por recopilar [recursos que podría compartir](https://github.com/hhkaos/hhkaos.github.io/issues/1), así que por favor, si te interesa algún dímelo en los comentarios del issue.
+
 Y como esta herramienta no pretende ser una herramienta social a la que nadie se pueda suscribir... si queréis estar al día de lo que comparto, estaré republicando estos artículos en dos canales:
 * https://medium.com/@hhkaos para los hispanohablantes.
 * https://dev.to/hhkaos para los angloparlantes.

@@ -20,7 +20,9 @@ Today I have decided to replace it for this new website built with [docusaurus.i
 
 So, the next step is to start migrating the content I could rescue [from my blog](https://blog.rauljimenez.info/) and put it here.
 
-I have always thought that it is a pity to create resources and leave them in a drawer, so from now on I plan to start taking many of the resources that I have created over the years and share them in what I have defined as my ["🧠 Digital Brain"](/docs/digital-brain).
+I have always thought that it is a pity to create resources and leave them in a drawer, so from now on I plan to start taking many of the resources that I have created over the years and share them in what I have defined as my ["🧠 Digital Brain"](/docs/digital-brain). 
+
+I'm starting by compiling [all the resources I could share](https://github.com/hhkaos/hhkaos.github.io/issues/1), so please, if you are interested in one in particular let me know in the comments.
 
 This tool is not meant to be a social tool where you can subscribe, so if you want to stay up to date on what I share I will be republishing my articles in two channels:
 * https://medium.com/@hhkaos for Spanish speakers
