@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>RaulJimenez.info Blog</title>
-        <link>https://rauljimenez.info/blog</link>
+        <link>https://www.rauljimenez.info/blog</link>
         <description>RaulJimenez.info Blog</description>
         <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>en</language>
         <item>
             <title><![CDATA[Welcome to the new website 🆕]]></title>
-            <link>https://rauljimenez.info/blog/new-website</link>
-            <guid>https://rauljimenez.info/blog/new-website</guid>
+            <link>https://www.rauljimenez.info/blog/new-website</link>
+            <guid>https://www.rauljimenez.info/blog/new-website</guid>
             <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Welcome to my new website!, it was time for a change...😁]]></description>
             <content:encoded><![CDATA[<p>Welcome to my new website!, it was time for a change...😁</p><p>Some of you might remember <a href="http://web.archive.org/web/20160322140938/http://rauljimenez.info/" target="_blank" rel="noopener noreferrer">the old website</a> I built back in 2013:</p><p><a href="http://web.archive.org/web/20160322140938/http://rauljimenez.info/" target="_blank" rel="noopener noreferrer"><img loading="lazy" alt="Screenshot of rauljimenez.info old website" src="/assets/images/rauljimenez.info-47d71d02435be4ef651ef69061e1f929.png" width="1509" height="1069" class="img_ev3q"></a></p><p>Back in the days, I decided to build that website to introduce myself, share some thoughts, and give updates about my life to my friends.</p><p>Today I have decided to replace it for this new website built with <a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">docusaurus.io</a> for several reasons, but mainly because I will be:</p><ul><li><strong>Easier to maintain and update</strong> (no backend and almost everything in <a href="https://en.wikipedia.org/wiki/Markdown" target="_blank" rel="noopener noreferrer">markdown</a>),</li><li>Able to <strong>share resources in Spanish and English</strong>.</li><li><strong>Allow you to contribute/repurpose the content I share</strong> (it is <a href="https://github.com/hhkaos/hhkaos.github.io" target="_blank" rel="noopener noreferrer">hosted on GitHub</a>).</li></ul><p>So, the next step is to start migrating the content I could rescue <a href="https://blog.rauljimenez.info/" target="_blank" rel="noopener noreferrer">from my blog</a> and put it here.</p><p>I have always thought that it is a pity to create resources and leave them in a drawer, so from now on I plan to start taking many of the resources that I have created over the years and share them in what I have defined as my <a href="/docs/digital-brain">"🧠 Digital Brain"</a>. </p><p>I'm starting by compiling <a href="https://github.com/hhkaos/hhkaos.github.io/issues/1" target="_blank" rel="noopener noreferrer">all the resources I could share</a>, so please, if you are interested in one in particular let me know in the comments.</p><p>This tool is not meant to be a social tool where you can subscribe, so if you want to stay up to date on what I share I will be republishing my articles in two channels:</p><ul><li><a href="https://medium.com/@hhkaos" target="_blank" rel="noopener noreferrer">https://medium.com/@hhkaos</a> for Spanish speakers</li><li><a href="https://dev.to/hhkaos" target="_blank" rel="noopener noreferrer">https://dev.to/hhkaos</a> for English speakers</li></ul><p>I hope you like it, and any suggestions are more than welcome.</p>]]></content:encoded>
