@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrauljimenez_info=self.webpackChunkrauljimenez_info||[]).push([[1479],{6879:e=>{e.exports=JSON.parse('{"label":"google-glass","permalink":"/es/blog/tags/google-glass","allTagsPath":"/es/blog/tags","count":1}')}}]);
