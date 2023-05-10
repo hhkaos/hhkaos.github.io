@@ -3,7 +3,6 @@ slug: new-website
 title: Welcome to the new website 🆕
 authors: [hhkaos]
 tags: [esri, hello, docusaurus]
-
 ---
 
 Welcome to my new website!, it was time for a change...😁
