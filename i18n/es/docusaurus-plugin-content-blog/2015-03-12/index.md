@@ -9,7 +9,7 @@ Y…. un año más no paran de crecer las felicitaciones!! frente a las: 146 de 
 
 Muchísimas gracias por acordaros (o tener el detalle de escribirme cuando Facebook/Linkedin/Skype… os dió el chivatazo jajaja) a:
 
-![Foto de Raú y su actual mujer](./maria-y-raul.jpeg)
+![Foto de Raúl y su actual mujer](./maria-y-raul.jpeg)
 
 El primer regalito… by María ^_^
 

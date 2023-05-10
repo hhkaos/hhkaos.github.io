@@ -8,7 +8,7 @@ tags: [experiences]
 
 ### Google Glass y Android Wear
 
-Aunque ya os conté que había conseguido unas Google Glass y [cómo funcionaban](../2014-07-13/index.md) como-funcionan-las-google-glass), desde Septiembre también tengo un [G Watch](https://play.google.com/store/devices/details/LG_G_Watch_Black_Titan?id=lg_g_watch_black&hl=en) con Android Wear. Además me he animado a desarrollar una aplicación de alertas geolocalizadas básica que funciona tanto [en el reloj](https://www.youtube.com/watch?v=lImhDJYrnt4&list=PLwq5dz_FjCx7Q8qLN45nJqNXz7hBdNgeN) como [en las gafas](https://www.youtube.com/watch?v=TVvgNtIxdNo&list=PLwq5dz_FjCx7Q8qLN45nJqNXz7hBdNgeN&index=3).
+Aunque ya os conté que había conseguido unas Google Glass y [cómo funcionaban](/blog/como-funcionan-las-google-glass), desde Septiembre también tengo un [G Watch](https://play.google.com/store/devices/details/LG_G_Watch_Black_Titan?id=lg_g_watch_black&hl=en) con Android Wear. Además me he animado a desarrollar una aplicación de alertas geolocalizadas básica que funciona tanto [en el reloj](https://www.youtube.com/watch?v=lImhDJYrnt4&list=PLwq5dz_FjCx7Q8qLN45nJqNXz7hBdNgeN) como [en las gafas](https://www.youtube.com/watch?v=TVvgNtIxdNo&list=PLwq5dz_FjCx7Q8qLN45nJqNXz7hBdNgeN&index=3).
 
 [![](https://web.archive.org/web/20150419165740im_/http://www.rauljimenez.info/blog/wp-content/uploads/2014/07/Screenshot-2014-07-13-13.51.23-250x175.png)](https://web.archive.org/web/20150419165740/http://www.rauljimenez.info/blog/2014/07/13/como-funcionan-las-google-glass/)
 
