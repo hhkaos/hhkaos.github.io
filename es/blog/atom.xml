@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://hhkaos.github.io/es/blog</id>
+    <id>https://rauljimenez.info/es/blog</id>
     <title>RaulJimenez.info Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://hhkaos.github.io/es/blog"/>
+    <link rel="alternate" href="https://rauljimenez.info/es/blog"/>
     <subtitle>RaulJimenez.info Blog</subtitle>
-    <icon>https://hhkaos.github.io/es/img/favicon.ico</icon>
+    <icon>https://rauljimenez.info/es/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Mi nueva web 🆕]]></title>
-        <id>https://hhkaos.github.io/es/blog/launching-my-new-website</id>
-        <link href="https://hhkaos.github.io/es/blog/launching-my-new-website"/>
+        <id>https://rauljimenez.info/es/blog/launching-my-new-website</id>
+        <link href="https://rauljimenez.info/es/blog/launching-my-new-website"/>
         <updated>2021-08-26T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Bienvenidx a mi nueva web!, ya era hora... 😁]]></summary>
         <content type="html"><![CDATA[<p>Bienvenidx a mi nueva web!, ya era hora... 😁</p><p>Algunas personas recordaréis <a href="http://web.archive.org/web/20160322140938/http://rauljimenez.info/" target="_blank" rel="noopener noreferrer">la antigua página</a> que cree en 2013:</p><p><a href="http://web.archive.org/web/20160322140938/http://rauljimenez.info/" target="_blank" rel="noopener noreferrer"><img loading="lazy" alt="Pantallazo de la antigua web rauljimenez.info" src="/es/assets/images/rauljimenez.info-47d71d02435be4ef651ef69061e1f929.png" width="1509" height="1069" class="img_ev3q"></a></p><p>Por aquellos tiempos decidí crear una web que me permitiese presentarme, compartir algunas reflexiones y experiencias entre otras cosas para mantener a las personas de mi entorno al día sobre mi vida.</p><p>Mi vida ha cambiado mucho en los últimos 10 años, y por eso he decidido reemplazar esa web con esta hecha con <a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">docusaurus.io</a>. Las razones son varias, pero principalmente porque:</p><ul><li><strong>Será más fácil mantenerla y actualizarla</strong> (ya no necesito un backend y casi todo está hecho en <a href="https://es.wikipedia.org/wiki/Markdown" target="_blank" rel="noopener noreferrer">markdown</a>).</li><li><strong>Podré compartire recursos traducidos en Español e Inglés</strong>.</li><li><strong>Porque podréis reutilizar y contribuir a las cosas que os comparta</strong> (todo está <a href="https://github.com/hhkaos/hhkaos.github.io" target="_blank" rel="noopener noreferrer">alojado en GitHub</a>).</li></ul><p>Así que, el próximo paso es empezar a migrar el contenido que pueda recuperar <a href="https://blog.rauljimenez.info/" target="_blank" rel="noopener noreferrer">de mi blog anterior</a> y ponerlo aquí.</p><p>Por otro lado, siempre he pensado que es una pena crear recursos y dejarlos guardados en un cajón, así que de ahora en adelante, mi objetivo es empezar a publicar aquí muchos de los recursos que he ido creando a lo largo de los años y compartirlos en lo que he definido como mi <a href="/es/docs/digital-brain">"🧠 Cerebro Digital"</a>.</p><p>He empezado por recopilar <a href="https://github.com/hhkaos/hhkaos.github.io/issues/1" target="_blank" rel="noopener noreferrer">recursos que podría compartir</a>, así que por favor, si te interesa algún dímelo en los comentarios del issue.</p><p>Y como esta herramienta no pretende ser una herramienta social a la que nadie se pueda suscribir... si queréis estar al día de lo que comparto, estaré republicando estos artículos en dos canales:</p><ul><li><a href="https://medium.com/@hhkaos" target="_blank" rel="noopener noreferrer">https://medium.com/@hhkaos</a> para los hispanohablantes.</li><li><a href="https://dev.to/hhkaos" target="_blank" rel="noopener noreferrer">https://dev.to/hhkaos</a> para los angloparlantes.</li></ul><p>Espero que te guste la idea, pero en cualquier caso las sugerencias son más que bienvenidas.</p>]]></content>
