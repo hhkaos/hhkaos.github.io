@@ -3,9 +3,10 @@ slug: launching-my-new-website
 title: Mi nueva web 🆕
 authors: [hhkaos]
 tags: [esri, hello, docusaurus]
+
 ---
 
-Bienvenidx a mi nueva web!, ya era hora... 😁
+Bienvenidx aa mi nueva web!, ya era hora... 😁
 
 Algunas personas recordaréis [la antigua página](http://web.archive.org/web/20160322140938/http://rauljimenez.info/) que cree en 2013:
 
