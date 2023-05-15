@@ -147,23 +147,52 @@ Add podcasts that use to add guests.
 
 * To be done
 
+## Hands-on
+
+- https://adventofcode.com/
+- https://adventjs.dev/
+- https://flexboxfroggy.com/ 
+
+
+### Coding competitions
+
+- https://devpost.com/
+- https://mlh.io/
+- https://codingcompetitions.withgoogle.com/
+- https://www.kaggle.com/
+- https://www.hackerrank.com/
+- https://www.topcoder.com/
+- https://codeforces.com/
+- https://coderbyte.com/
+- https://leetcode.com/
+- https://www.codechef.com/
+- https://www.beecrowd.com.br/
+- https://projecteuler.net/
+- https://atcoder.jp/
+- https://codecombat.com/
+
+### Corporate gamified
+
+- https://www.twilio.com/quest
+
 ## Other developer websites 
 
 ### Forums
 
-- stackoverflow.com
-- reddit.com
+- https://stackoverflow.com
+- https://reddit.com
+- https://stackexchange.com/
 
 ### Other sites
 
 - [Codecademy](https://www.codecademy.com/)
+- [Academind](https://academind.com/)
 - Scrimba
 - Frontend Masters
 - Wes Bos
 - Egghead.io
 - Kent C. Dodds
 - O'Reilly
-- [Academind](https://academind.com/)
 - ui.dev
 - Vue Mastery
 - Newline
@@ -184,7 +213,6 @@ Add podcasts that use to add guests.
 - thedailywtf.com
 - maestrosdelweb.com
 - womenwhocode.com
-- adventofcode.com
 
 
 
