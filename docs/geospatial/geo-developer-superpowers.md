@@ -176,7 +176,7 @@ Get more categories http://datos.gob.es/es
 
 What resolution do I need to build my app/analysis?  
 
-## Data gathering
+### Data gathering
 
 - Aerial images (satellite, plane, drones) <- historical, multispectral, ...
 - Boundaries (administrative, ambiental, geometric, ..)
@@ -190,7 +190,7 @@ What resolution do I need to build my app/analysis?
 - Weather and climate (temperature, wind, atmospheric pressure, hazards alerts, clouds,  ...)
 - ...
 
-## Data geolocation (georeferencing)
+### Data geolocation (georeferencing)
 
 - How to georeference vector (IPs, addresses, spreadsheet field, ... ) and raster (planes, pictures, CAD files, ...    ) data 
 - How do I improve my geocoding results (limit to a certain extent, fallback, ..)
