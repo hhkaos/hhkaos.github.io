@@ -6,11 +6,18 @@ title: Geo Developer superpowers
 
 **This document aims to inspire, motivate, and developers** about the exciting world of geospatial development.  
 
-As developers, **we love to write software we feel proud of**, so we can say: "I’m part of the team that built it!". We can feel proud for many reasons, because the app is scalable or has a great UX/UI, or it was challenging to solve a complex issue, or a problem innovatively, or it will save a lot of time for the user, automatizes a lot of tasks, etc. 
+As developers, **we love to write software we feel proud of**, so we can say: "I’m part of the team that built it!". We can feel proud for many reasons, for example, because the app:
+* Has a great UX/UI.
+* Perform well and is scalable.
+* Solves a challenging technical problem.
+* Is innovative.
+* Will save a lot of time for the end users.
+* Automatizes a lot of work.
+* Etc. 
 
 And **what does localization have to do with it?** Well, much of the information is geolocated or can be geolocated, since all real-world objects, actions, events, etc. occur in a certain place and at a certain time, although it is true that there are actions to which geolocation adds little or no value, such as resolving an issue, designing an interface or industrial piece, analyzing an X-ray image, assign diet plan, where a chat, training take or online game match place, and many more. 
 
-Therefore, just as knowing software architectures, communication networks, operating systems, ... is useful to know how to create robust and scalable applications that solve different problems, **we will be prepared to better solve such challenges if we know what can be done with the geographic component** (coordinates) **of the data**.
+Therefore, just as knowing about [operating systems](https://en.wikipedia.org/wiki/Operating_system), [networks](https://en.wikipedia.org/wiki/Computer_network), [databases](https://en.wikipedia.org/wiki/Database), [architectural patterns](https://en.wikipedia.org/wiki/Architectural_pattern), ... it is useful to know how to create robust and scalable applications that solve different problems, **we will be prepared to better solve such challenges if we know what can be done with the geographic component** (coordinates) **of the data**.
 
 For this reason, in this document, you will **learn what problems a developer with geospatial knowledge can help solve**. To illustrate some of these, it includes some examples of popular applications implementing such features.
 
