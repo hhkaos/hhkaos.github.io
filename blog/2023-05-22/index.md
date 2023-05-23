@@ -59,7 +59,7 @@ This time, I presented a variety of proposals:
 
 I was lucky that the conference organizers accepted “OAuth, OpenID Connect, and JWT for Dummies” because it gave me the **opportunity to share what these auth standards are and how they work**. I showed practical examples based on some of the resources that we have created from [Esri's Developer Experience team](https://www.youtube.com/playlist?list=PL0VMTWv3XRwWL4zG7rB8SlHkE5XXbd5OW), like the **[Authentication workspace in Postman](https://www.postman.com/esridevs/workspace/authentication-in-arcgis/overview)**.
 
-![Photo of Raul's talk during his talk on oAuth showing Raul speaking and the audience of about 100 people.](./commitconf23-raul-jimenez-ortega.png)
+![Photo of Raul's talk during his talk on oAuth showing Raul speaking and the audience of about 100 people.](./commitconf23-raul-jimenez-ortega.jpg)
 
 In case you want, you can **[check the slides out here](https://bit.ly/oauth-commit)**. If you are interested in the topic and want me to repeat this talk online, just let me know in the comments!
 
