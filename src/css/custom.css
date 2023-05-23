@@ -48,3 +48,8 @@
 .social-icons img{
   margin-right: 1rem;;
 }
+
+[itemprop="blogPost"] h2,
+[itemprop="blogPost"] h1{
+  font-size: 2.4rem;
+}
