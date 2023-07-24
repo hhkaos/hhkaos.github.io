@@ -81,6 +81,7 @@ Extracted from [State of JavaScript](https://2022.stateofjs.com/en-US/resources/
 ### Corporate engineering blogs
 
 * https://netflixtechblog.com/
+* https://testing.googleblog.com
 * https://www.atlassian.com/team-playbook
 * https://www.etsy.com/codeascraft
 * https://engineering.fb.com/
