@@ -1,35 +1,38 @@
 # 📈 Personal track record
 
-For work experience please check [my Linkedin profile](https://www.linkedin.com/in/jimenezortegaraul/).
+> **Note**: I'f you are looking for work experience please check [my Linkedin profile](https://www.linkedin.com/in/jimenezortegaraul/).
 
 <!-- <iframe src="http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0Ajgk_dG_CbQBdE50czVrbVVnSmJkXzgwQkh3ekJrTUE&font=Bevan-PotanoSans&maptype=toner&lang=en&height=650" width="100%" height="500px"> </iframe> -->
 
 ## Communities
 
-I have been involved in communities since I was ~15 years old (~1999) when I joined IRC-Hispano and after that HackHispano. Since then I have participated, cofounded or lead many others community iniciatives (several of them as non-profits). These are just a few:
+I have been involved in communities since I was ~15 years old (~1999) when I joined IRC-Hispano and after that HackHispano. Since then, I have participated, co-founded or lead many others community initiatives, several of them became non-profits:
 
 * 2020 - today - [Asociación Española de GeoVoluntariado](https://geovoluntarios.org/) (co-founder & president)
 * 2014 - today - [GeoDevelopers.org](https://www.meetup.com/es-ES/geodevelopers/) (founder & lead)
 * 2018 - 2022 - [Asociación Tomelloso Tech](https://web.archive.org/web/20201130180149/https://www.tomellosotech.org/) (co-founder &president)
-* 2015 - 2016 -  [Iniciador Madrid & Iniciador Foundation](http://www.iniciador.com/es/que-es-iniciador/historia) (organizer & governing board)
+* 2015 - 2016 - [Iniciador Madrid & Iniciador Foundation](http://www.iniciador.com/es/que-es-iniciador/historia) (organizer & governing board)
 * 2014 - 2015 - [Startup Weekend Madrid](http://www.techstars.com/startup-weekend/) (organizer)
+* 2014 - 2014 - [Comunidades Tecnológicas Madrid](https://github.com/Comunidades-Tecnologicas)
 * 2012 - 2012 - [Google Developer Group (GDG) Spain](https://gdg.es/) (lead)
-* 2010 - 2012 - [Google Developer Group (GDG) Granada](https://web.archive.org/web/20200807235648/http://rauljimenez.info/proyectos/gdg/) (cofounder & organizer)
+* 2010 - 2012 - [Google Developer Group (GDG) Granada](https://web.archive.org/web/20200807235648/http://rauljimenez.info/proyectos/gdg/) (co-founder & organizer)
 * 2010 - 2011 - [Asociación de Webmasters de Málaga](https://www.youtube.com/watch?v=3Wum7zkXYfM&list=PLPAGhVhnLUfDAYRoJPN3QBm9U4w_PqCoe) (co-founder & secretary)
 * 2009 - 2011 - [Asociación de Webmasters de Granada](https://web.archive.org/web/20120627123011/http://www.webmastergranada.es/) (co-founder & president)
-* 2009 - 2011 - [Iniciador Granada & Málaga](https://www.youtube.com/watch?v=mR7M9YssJZw&list=PLPAGhVhnLUfDAYRoJPN3QBm9U4w_PqCoe&index=2) (cofounder & organizer)
+* 2009 - 2011 - [Iniciador Granada & Málaga](https://www.youtube.com/watch?v=mR7M9YssJZw&list=PLPAGhVhnLUfDAYRoJPN3QBm9U4w_PqCoe&index=2) (co-founder & organizer)
 * 2009 - 2010 - [Oficina de Software Libre de Granada](http://osl.ugr.es/) (volunteer / speaker)
 * 2004 - 2009 - [ForosdelWeb.com](https://www.google.com/search?q=hhkaos+site%3Aforosdelweb.com) (active user)
 * 2001 - 2003 - [HackHispano](https://foro.hackhispano.com/threads/22596-Q-pasa-con-la-programaci%C3%B3n-Para-KaoS) (moderator)
-* 1999 - 2001 - [IRC-Hispano](https://es.wikipedia.org/wiki/IRC-Hispano)
+* 1999 - 2001 - [IRC-Hispano](https://es.wikipedia.org/wiki/IRC-Hispano) (user & moderator)
 
-But I'm have joined more communities than I can remember 😅 (mailing lists, meetups, Slack, Discord, Telegram, ... ).
+But I'm have joined many more communities than I can remember 😅 (mailing lists, meetups, Slack, Discord, Telegram, ... ).
 
 ## Presentations & Workshops
 
-Below you will find a sample of events I have been able to recover so far.
+The following are some of the events in which I have had the opportunity to participate as a speaker
 
 ### Esri conferences 🇪🇸 & 🇺🇸
+
+> **Note**: This list is not complete.
 
 Esri [DevSummit](https://www.esri.com/en-us/about/events/devsummit/save-date) (Palm Springs, CA), [European DevSummit](https://www.esri.com/en-us/about/events/devsummit-europe/save-date) (Berlin, Germany), and [Conferencia Esri España](https://www.esri.es/es-es/acerca-de/eventos/cesri23/conferencia-esri23) (Madrid, Spain):
 
@@ -68,7 +71,9 @@ Esri [DevSummit](https://www.esri.com/en-us/about/events/devsummit/save-date) (P
 * 🇪🇸 2015 Conferencia Esri España - Developers Track (múltiples charlas)
 * 🇪🇸 2014 Conferencia Esri España - Developers Track (múltiples charlas)
 
-### Conferences 🇪🇸
+### Other conferences 🇪🇸
+
+> **Note**: This list is not complete.
 
 * 2023 - APIAddictDays - [Retos de reinventar APIs cuando tienes cientos de miles de clientes](https://www.apiaddicts.org/apiaddictsdays/agenda/)
 * 2023 - CommitConf - [🔑 🔓 OAuth, OpenID Connect and JWT para dummies](https://koliseo.com/events/commit-2023/agenda/0)
@@ -92,9 +97,10 @@ Esri [DevSummit](https://www.esri.com/en-us/about/events/devsummit/save-date) (P
 
 ### Meetups and other events 🇪🇸
 
-This is just some of the many talks I have given:
+> **Note**: This list is not complete.
+
 * 2022 - GeoDevelopers - [Novedades de ArcGIS para GIS developers](https://www.youtube.com/watch?v=HXUvU1cD7CQ)
-* 2022 -  GeoDevelopers - [Redescubriendo Postman ... tras 7 años 🥰](https://www.youtube.com/watch?v=P63DVUagt_s)
+* 2022 - GeoDevelopers - [Redescubriendo Postman ... tras 7 años 🥰](https://www.youtube.com/watch?v=P63DVUagt_s)
 * 2021 - GeoDevelopers - [From Zero to Newbie with ArcGIS API for JS and TypeScript](https://www.youtube.com/watch?v=vkK22tmCeXQ)
 * 2021 - GeoDevelopers - [Datos abiertos: OSM, Facebook y Esri](https://www.youtube.com/watch?v=_Jmtu2lj4kY)
 * 2020 - MadridJS Meetup - [Representando y analizando geodatos like a Pro](https://www.youtube.com/watch?v=mKkVDzUMIEU)
