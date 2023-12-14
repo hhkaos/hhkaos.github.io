@@ -1,35 +1,3 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
-
-- [Educational developers channels](#educational-developers-channels)
-  - [Written content](#written-content)
-    - [Accepting contributions](#accepting-contributions)
-    - [Top JS Blogs & Magazines](#top-js-blogs--magazines)
-    - [Documentation & training](#documentation--training)
-    - [Developer blogging platforms](#developer-blogging-platforms)
-    - [Corporate engineering blogs](#corporate-engineering-blogs)
-    - [Not found contribution guidelines](#not-found-contribution-guidelines)
-  - [Video](#video)
-    - [Channels accepting contributions](#channels-accepting-contributions)
-    - [Video courses](#video-courses)
-    - [YouTube channels](#youtube-channels)
-    - [Developer Streams](#developer-streams)
-  - [Audio / Podcasts](#audio--podcasts)
-    - [Geospatial / mapping / GIS podcasts](#geospatial--mapping--gis-podcasts)
-  - [Hands-on / Games of coding / Challenges](#hands-on--games-of-coding--challenges)
-  - [Events](#events)
-    - [Meetups](#meetups)
-    - [Coding competitions](#coding-competitions)
-  - [Other developer websites](#other-developer-websites)
-    - [Forums](#forums)
-    - [Twitter accounts](#twitter-accounts)
-    - [Other sites](#other-sites)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
----
-
 # Educational developers channels
 
 This is a compilation of websites, blogging platforms, video channels, etc. where anyone can find relevant content and give back to the developer community.
@@ -38,7 +6,7 @@ This is a compilation of websites, blogging platforms, video channels, etc. wher
 
 ### Accepting contributions
 
-**Guest blogging** is the practice of writing and publishing an original blog post on a third-party website. Here is a list of channels you can use:
+**Guest blogging** is the practice of writing and publishing an original blog post on a third-party website. Here is a list of channels you should look into:
 
 * [Postman Guest blogger program](https://www.postman.com/postman-contributor-guest-blogger/): API platform for building and using APIs.
 * [TheNextWeb contributor program](https://thenextweb.com/news/everything-you-need-to-know-about-the-tnw-contributor-program): We inform, inspire, and connect people who love tech.
@@ -155,9 +123,6 @@ Extracted from [State of JavaScript](https://2022.stateofjs.com/en-US/resources/
 
 ### Channels accepting contributions
 
-* [TensorFlow](https://www.youtube.com/@TensorFlow) (e.g. [Classifying satellite imagery * Made with TensorFlow.js](https://www.youtube.com/watch?v=9zqjgeqc-ew))
-* To be done
-
 ### Video courses 
 
 * udemy.com
@@ -177,6 +142,7 @@ Extracted from [State of JavaScript](https://2022.stateofjs.com/en-US/resources/
 
 Lot of YouTube channels in [JoseDeFreitas/awesome-youtubers repo](https://github.com/JoseDeFreitas/awesome-youtubers)
 
+* https://www.youtube.com/@TensorFlow (e.g. [Classifying satellite imagery * Made with TensorFlow.js](https://www.youtube.com/watch?v=9zqjgeqc-ew))
 * https://www.youtube.com/WebDevSimplified
 * https://www.youtube.com/traversymedia
 * https://www.youtube.com/c/TheNetNinja
@@ -233,7 +199,7 @@ These are some podcasts that use to do interviews:
 * https://geospatiallyafrica.com/
 * https://scenefromabove.podbean.com/
 * https://ndsshow.podbean.com/
-* https://www..com/jjk/podcast/
+* https://www.josephkerski.com/jjk/podcast/
 * https://www.terrawatchspace.com/
 * Esri's:
   * Esri & The Science of Where Podcast: https://www.esri.com/about/newsroom/podcast/
