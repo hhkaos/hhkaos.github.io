@@ -13,7 +13,7 @@ I have been involved in communities since I was ~15 years old (~1999) when I joi
 * 2018 - 2022 - [Asociación Tomelloso Tech](https://web.archive.org/web/20201130180149/https://www.tomellosotech.org/) (co-founder &president)
 * 2015 - 2016 - [Iniciador Madrid & Iniciador Foundation](http://www.iniciador.com/es/que-es-iniciador/historia) (organizer & governing board)
 * 2014 - 2015 - [Startup Weekend Madrid](http://www.techstars.com/startup-weekend/) (organizer)
-* 2014 - 2014 - [Comunidades Tecnológicas Madrid](https://github.com/Comunidades-Tecnologicas)
+* 2014 - 2014 - [Comunidades Tecnológicas Madrid](https://github.com/Comunidades-Tecnologicas) (member)
 * 2012 - 2012 - [Google Developer Group (GDG) Spain](https://gdg.es/) (lead)
 * 2010 - 2012 - [Google Developer Group (GDG) Granada](https://web.archive.org/web/20200807235648/http://rauljimenez.info/proyectos/gdg/) (co-founder & organizer)
 * 2010 - 2011 - [Asociación de Webmasters de Málaga](https://www.youtube.com/watch?v=3Wum7zkXYfM&list=PLPAGhVhnLUfDAYRoJPN3QBm9U4w_PqCoe) (co-founder & secretary)
