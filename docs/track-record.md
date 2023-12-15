@@ -1,6 +1,7 @@
 # 📈 Personal track record
 
-> **Note**: I'f you are looking for work experience please check [my Linkedin profile](https://www.linkedin.com/in/jimenezortegaraul/).
+
+I'f you are looking for how/why I became a computer scientist, check [My personal journey](my-journey.md); for work experience, please check [my Linkedin profile](https://www.linkedin.com/in/jimenezortegaraul/).
 
 <!-- <iframe src="http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0Ajgk_dG_CbQBdE50czVrbVVnSmJkXzgwQkh3ekJrTUE&font=Bevan-PotanoSans&maptype=toner&lang=en&height=650" width="100%" height="500px"> </iframe> -->
 
