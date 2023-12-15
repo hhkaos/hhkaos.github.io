@@ -129,15 +129,6 @@ Esri [DevSummit](https://www.esri.com/en-us/about/events/devsummit/save-date) (P
 * 2009 - Oficina de Software Libre - [Cómo ha influido el Software Libre en el desarrollo de Internet](https://osl.ugr.es/2011/09/16/manana-es-el-software-freedom-day/)
 * 2009 - Oficina de Software Libre - [Taller de OpenOffice en la ETSIIT](https://osl.ugr.es/2009/03/08/taller-de-openoffice-en-la-etsiit/)
 
-## Courses
-
-> **Note**: This list is not complete.
-
-* ...
-* 2016 - 2017 - [CursoHTML5desdeCero.com](https://github.com/hhkaos/cursohtml5desdecero)
-* 2011 - 2012 - [Curso de streaming de video por internet](https://cursostreaming.wordpress.com/)
-* ...
-
 ## Blog articles
 
 > **Note**: This list is still to be done... I lost many blog articles when my web hosting service expired
@@ -150,6 +141,15 @@ I will compile them from different sources:
 * https://medium.com/@hhkaos
 * [http://www.rauljimenez.info/blog/](https://web.archive.org/web/20140318051424/http://www.rauljimenez.info/blog/) (Web Archive)
 * https://nefertec.wordpress.com/
+
+## Courses
+
+> **Note**: This list is not complete.
+
+* ...
+* 2016 - 2017 - [CursoHTML5desdeCero.com](https://github.com/hhkaos/cursohtml5desdecero)
+* 2011 - 2012 - [Curso de streaming de video por internet](https://cursostreaming.wordpress.com/)
+* ...
 
 ## Documents
 
