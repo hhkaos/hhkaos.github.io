@@ -16,3 +16,5 @@ Retrieved from Web Archive:
 * 2006 - 2008 - [team-cs.org](https://web.archive.org/web/20060610181345/http://team-cs.org/)
 * 2006 - 2007 - [nerfertec.com](https://web.archive.org/web/20070108061320/http://www.nefertec.com/)
 * 2006 - [bibianblue.com](https://web.archive.org/web/20060718074759/http://www.bibianblue.com/)
+* ~2002 - http://usuarios.tripod.es/hackhis/index.htm (unavailable)
+* ~1999 - http://www.geocities.com/hhkaos (unavailable)

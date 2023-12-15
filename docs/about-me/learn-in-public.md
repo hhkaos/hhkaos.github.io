@@ -1,30 +1,34 @@
 # Learn in public
 
-I'm a fervent believer (and evangelist) of the benefits of open culture (open knowledge, open source, open data, ...), collaboration, and continuous learning, hence I love the idea of [learning in public](https://www.swyx.io/learn-in-public) popularized by [@Swyx](https://twitter.com/swyx). But things are proven by facts and not by words, so on this page I will be gathering references to these facts.
+I'm a enthusiastic believer and evangelist of the benefits of open culture (open knowledge, open source, open data, ...), collaboration, and continuous learning, hence **I love helping others (as much as I can) and the idea of [learning in public](https://www.swyx.io/learn-in-public)**. 
+
+> *And as if that wasn't enough... I also believe in karma 🫶🏼.*
+
+**But things are proven by facts and not by words**, so on this page I will be gathering references to these facts.
 
 <!-- <iframe src="http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0Ajgk_dG_CbQBdE50czVrbVVnSmJkXzgwQkh3ekJrTUE&font=Bevan-PotanoSans&maptype=toner&lang=en&height=650" width="100%" height="500px"> </iframe> -->
 
 ## Communities
 
-I have been involved in communities/forums since I was ~15 years old (~1999) when I joined IRC-Hispano and after that HackHispano. Since then, I have participated, co-founded or lead many others community initiatives, several of them became non-profits:
+I have been involved in technical communities & forums for [more than ~20 years now](my-journey), when I joined IRC-Hispano. Since then, I have contributed, co-founded or lead many others community initiatives, several of them became non-profits:
 
 * 2020 - today - [Asociación Española de GeoVoluntariado](https://geovoluntarios.org/) (co-founder & president)
-* 2014 - today - [GeoDevelopers.org](https://www.meetup.com/es-ES/geodevelopers/) (founder & lead) & [Esri Community](https://community.esri.com/t5/user/viewprofilepage/user-id/124187)
-* 2018 - 2022 - [Asociación Tomelloso Tech](https://web.archive.org/web/20201130180149/https://www.tomellosotech.org/) (co-founder &president)
-* 2015 - 2016 - [Iniciador Madrid & Iniciador Foundation](http://www.iniciador.com/es/que-es-iniciador/historia) (organizer & governing board)
+* 2014 - today - [GeoDevelopers.org](https://www.meetup.com/es-ES/geodevelopers/) (founder & community leader) & [Esri Community](https://community.esri.com/t5/user/viewprofilepage/user-id/124187)
+* 2018 - 2022 - [Asociación Tomelloso Tech](https://web.archive.org/web/20201130180149/https://www.tomellosotech.org/) (co-founder & president)
+* 2015 - 2016 - [Iniciador Madrid & Iniciador Foundation](http://www.iniciador.com/es/que-es-iniciador/historia) (community leader & governing board)
 * 2014 - 2015 - [Startup Weekend Madrid](http://www.techstars.com/startup-weekend/) (organizer)
 * 2014 - 2014 - [Comunidades Tecnológicas Madrid](https://github.com/Comunidades-Tecnologicas) (member)
-* 2012 - 2012 - [Google Developer Group (GDG) Spain](https://gdg.es/) (lead)
-* 2010 - 2012 - [Google Developer Group (GDG) Granada](https://web.archive.org/web/20200807235648/http://rauljimenez.info/proyectos/gdg/) (co-founder & organizer)
+* 2012 - 2012 - [Google Developer Group (GDG) Spain](https://gdg.es/) (community leader)
+* 2010 - 2012 - [Google Developer Group (GDG) Granada](https://web.archive.org/web/20200807235648/http://rauljimenez.info/proyectos/gdg/) (co-founder & community leader)
 * 2010 - 2011 - [Asociación de Webmasters de Málaga](https://www.youtube.com/watch?v=3Wum7zkXYfM&list=PLPAGhVhnLUfDAYRoJPN3QBm9U4w_PqCoe) (co-founder & secretary)
 * 2009 - 2011 - [Asociación de Webmasters de Granada](https://web.archive.org/web/20120627123011/http://www.webmastergranada.es/) (co-founder & president)
-* 2009 - 2011 - [Iniciador Granada & Málaga](https://www.youtube.com/watch?v=mR7M9YssJZw&list=PLPAGhVhnLUfDAYRoJPN3QBm9U4w_PqCoe&index=2) (co-founder & organizer)
-* 2009 - 2010 - [Oficina de Software Libre de Granada](http://osl.ugr.es/) (volunteer / speaker)
+* 2009 - 2011 - [Iniciador Granada & Málaga](https://www.youtube.com/watch?v=mR7M9YssJZw&list=PLPAGhVhnLUfDAYRoJPN3QBm9U4w_PqCoe&index=2) (co-founder & community leader)
+* 2009 - 2010 - [Free Software Office of the University of Granada](http://osl.ugr.es/) (contributor)
 * 2004 - 2009 - [ForosdelWeb.com](https://www.google.com/search?q=hhkaos+site%3Aforosdelweb.com) (active user)
 * 2001 - 2003 - [HackHispano](https://foro.hackhispano.com/threads/22596-Q-pasa-con-la-programaci%C3%B3n-Para-KaoS) (moderator)
 * 1999 - 2001 - [IRC-Hispano](https://es.wikipedia.org/wiki/IRC-Hispano) (user & moderator)
 
-But I'm have joined many more communities than I can remember 😅 (mailing lists, meetups, Slack, Discord, Telegram, ... ).
+In addition to all these, I'm have joined and participated in more communities than I can remember 😅 (mailing lists, meetups, Slack, Discord, Telegram, ... ).
 
 ## Presentations & Workshops
 
@@ -126,13 +130,7 @@ Esri [DevSummit](https://www.esri.com/en-us/about/events/devsummit/save-date) (P
 * 2009 - Oficina de Software Libre - [Cómo ha influido el Software Libre en el desarrollo de Internet](https://osl.ugr.es/2011/09/16/manana-es-el-software-freedom-day/)
 * 2009 - Oficina de Software Libre - [Taller de OpenOffice en la ETSIIT](https://osl.ugr.es/2009/03/08/taller-de-openoffice-en-la-etsiit/)
 
-## Created content
-
-**I have always disliked creating content and resources and leaving them in a drawer**, so I have decided to create this section to share resources that I have been creating for different reasons, like personal projects, helping friends, sharing things I enjoyed, etc.
-
-This will probably take years, so I decided to create **[this issue to compile many of these resources](https://github.com/hhkaos/hhkaos.github.io/issues/1#issue-1701390134)** 📦.
-
-### Courses
+## Courses
 
 > **Note**: This list is not complete.
 
@@ -141,6 +139,21 @@ This will probably take years, so I decided to create **[this issue to compile m
 * 2011 - 2012 - [Curso de streaming de video por internet](https://cursostreaming.wordpress.com/)
 * ...
 
-### Blog articles
+## Blog articles
 
-> **Note**: To be done
+> **Note**: This list is still to be done... I lost many blog articles when my web hosting service expired
+
+I will compile them from different sources:
+
+* https://www.esri.com/arcgis-blog/author/rjimenez/
+* https://www.rauljimenez.info/blog
+* https://dev.to/hhkaos
+* https://medium.com/@hhkaos
+* [http://www.rauljimenez.info/blog/](https://web.archive.org/web/20140318051424/http://www.rauljimenez.info/blog/) (Web Archive)
+* https://nefertec.wordpress.com/
+
+## Documents
+
+**I have always disliked creating content and resources and leaving them in a drawer**, so I have decided to create this section to share resources that I have been creating for different reasons, like personal projects, helping friends, sharing things I enjoyed, etc.
+
+This will probably take years, so I decided to create **[this issue to compile many of these resources](https://github.com/hhkaos/hhkaos.github.io/issues/1#issue-1701390134)** 📦. My intention is to be able to publish & translate some of them as blog articles (e.g. [How to boost technology communities](https://docs.google.com/document/d/1txUERZ8vcXD2F99_WbiQO-lryAVk6ftUS3OuGwDVNZ4/edit?usp=sharing))
