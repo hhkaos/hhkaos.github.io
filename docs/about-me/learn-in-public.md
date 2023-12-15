@@ -126,7 +126,6 @@ Esri [DevSummit](https://www.esri.com/en-us/about/events/devsummit/save-date) (P
 * 2012 - Centro de enseñanzas de la UGR - [XHTMLy CSS 4a Edicion](https://www.slideshare.net/hhKaoS/xhtmly-css-4a-edicion)
 * 2009 - Asoc. de Webmasters de Granada - [Introducción al desarrollo web](https://www.slideshare.net/hhKaoS/introd-al-desarrollo-web)
 * 2009 - Asoc. de Webmasters de Granada - [Instalación de Apache+Subversion+Trac en Ubuntu](https://www.slideshare.net/hhKaoS/instalacin-de-apachesubversiontrac-en-ubuntu-2228618)
-* 2009 - Oficina de Software Libre - [Taller de Subversion en la ETSIIT](https://osl.ugr.es/2009/02/17/taller-de-subversion-en-la-etsiit/)
 * 2009 - Oficina de Software Libre - [Cómo ha influido el Software Libre en el desarrollo de Internet](https://osl.ugr.es/2011/09/16/manana-es-el-software-freedom-day/)
 * 2009 - Oficina de Software Libre - [Taller de OpenOffice en la ETSIIT](https://osl.ugr.es/2009/03/08/taller-de-openoffice-en-la-etsiit/)
 
