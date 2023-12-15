@@ -1,16 +1,15 @@
-# 📈 Personal track record
+# Learn in public
 
-
-I'f you are looking for how/why I became a computer scientist, check [My personal journey](my-journey.md); for work experience, please check [my Linkedin profile](https://www.linkedin.com/in/jimenezortegaraul/).
+I'm a fervent believer (and evangelist) of the benefits of open culture (open knowledge, open source, open data, ...), collaboration, and continuous learning, hence I love the idea of [learning in public](https://www.swyx.io/learn-in-public) popularized by [@Swyx](https://twitter.com/swyx). But things are proven by facts and not by words, so on this page I will be gathering references to these facts.
 
 <!-- <iframe src="http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0Ajgk_dG_CbQBdE50czVrbVVnSmJkXzgwQkh3ekJrTUE&font=Bevan-PotanoSans&maptype=toner&lang=en&height=650" width="100%" height="500px"> </iframe> -->
 
 ## Communities
 
-I have been involved in communities since I was ~15 years old (~1999) when I joined IRC-Hispano and after that HackHispano. Since then, I have participated, co-founded or lead many others community initiatives, several of them became non-profits:
+I have been involved in communities/forums since I was ~15 years old (~1999) when I joined IRC-Hispano and after that HackHispano. Since then, I have participated, co-founded or lead many others community initiatives, several of them became non-profits:
 
 * 2020 - today - [Asociación Española de GeoVoluntariado](https://geovoluntarios.org/) (co-founder & president)
-* 2014 - today - [GeoDevelopers.org](https://www.meetup.com/es-ES/geodevelopers/) (founder & lead)
+* 2014 - today - [GeoDevelopers.org](https://www.meetup.com/es-ES/geodevelopers/) (founder & lead) & [Esri Community](https://community.esri.com/t5/user/viewprofilepage/user-id/124187)
 * 2018 - 2022 - [Asociación Tomelloso Tech](https://web.archive.org/web/20201130180149/https://www.tomellosotech.org/) (co-founder &president)
 * 2015 - 2016 - [Iniciador Madrid & Iniciador Foundation](http://www.iniciador.com/es/que-es-iniciador/historia) (organizer & governing board)
 * 2014 - 2015 - [Startup Weekend Madrid](http://www.techstars.com/startup-weekend/) (organizer)
@@ -127,16 +126,21 @@ Esri [DevSummit](https://www.esri.com/en-us/about/events/devsummit/save-date) (P
 * 2009 - Oficina de Software Libre - [Cómo ha influido el Software Libre en el desarrollo de Internet](https://osl.ugr.es/2011/09/16/manana-es-el-software-freedom-day/)
 * 2009 - Oficina de Software Libre - [Taller de OpenOffice en la ETSIIT](https://osl.ugr.es/2009/03/08/taller-de-openoffice-en-la-etsiit/)
 
-## Other projects
+## Created content
 
-To be finished:
+**I have always disliked creating content and resources and leaving them in a drawer**, so I have decided to create this section to share resources that I have been creating for different reasons, like personal projects, helping friends, sharing things I enjoyed, etc.
 
-* 2022 - today - [rauljimenez.info](https://web.archive.org/web/20230530182354/https://www.rauljimenez.info/) (v3)
-* 2021 - 2023 - [geovoluntarios.github.io/geonight/](https://geovoluntarios.github.io/geonight/)
-* 2021 - 2023 - [escolarizacion.tomelloso.es](http://escolarizacion.tomelloso.es/)
+This will probably take years, so I decided to create **[this issue to compile many of these resources](https://github.com/hhkaos/hhkaos.github.io/issues/1#issue-1701390134)** 📦.
+
+### Courses
+
+> **Note**: This list is not complete.
+
 * ...
-* 2014 - 2022 - [rauljimenez.info](https://web.archive.org/web/20140210061053/http://www.rauljimenez.info/) (v2)
-* 2009 - 2013 - [rauljimenez.info](https://web.archive.org/web/20130823185428/http://www.rauljimenez.info/)
+* 2016 - 2017 - [CursoHTML5desdeCero.com](https://github.com/hhkaos/cursohtml5desdecero)
 * 2011 - 2012 - [Curso de streaming de video por internet](https://cursostreaming.wordpress.com/)
-* 2008 - 2009 - [nefertec.wordpress.com](https://nefertec.wordpress.com/)
-* 2006 - 2008 - [netvibes.com/hhkaos](https://web.archive.org/web/20121231005059/http://netvibes.com/hhkaos)
+* ...
+
+### Blog articles
+
+> **Note**: To be done

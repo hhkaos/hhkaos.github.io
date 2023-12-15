@@ -1,4 +1,4 @@
-# ✈️ My personal journey
+# My personal journey
 
 I have been in contact with technology since I was ~6-7 years old. Below I am going through the main milestones in my early life that led me to love computers and became a computer scientist:
 * **Late 80's-early 90's** (~6-7 years): My older brother was given an [Amstrad CPC](https://en.wikipedia.org/wiki/Amstrad_CPC) with which we spent hours playing computer games(Ghosts'N Goblins, Contra, Double Dragon, Shadow Warriors, etc.)

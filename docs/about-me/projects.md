@@ -1,4 +1,4 @@
-# 🧳 Portfolio
+# Portfolio
 
 This page will also take a long time to build, but you can find some additional info in [rauljimenez.info](https://web.archive.org/web/20140210061053/http://www.rauljimenez.info/) (v2).
 
