@@ -1,7 +1,10 @@
 # My personal journey
 
-I have been in contact with technology since I was ~6-7 years old. Below I am going through the main milestones in my early life that led me to love computers and became a computer scientist:
-* **Late 80's-early 90's** (~6-7 years): My older brother was given an [Amstrad CPC](https://en.wikipedia.org/wiki/Amstrad_CPC) with which we spent hours playing computer games like Ghosts'N Goblins, Contra, Double Dragon, Shadow Warriors, etc.
+Looking backwards, I think I could consider myself a technologist at heart, because I have always found a way to be involved with technologies not out of obligation, but out of passion for it.
+
+Below I am going through the main milestones in my early life that led me to love computers and became a software engineer:
+
+* **Late 80's-early 90's** (~6-7 years): My first contact with computers started when my older brother was given an [Amstrad CPC](https://en.wikipedia.org/wiki/Amstrad_CPC) with which we spent hours playing computer games like Ghosts'N Goblins, Contra, Double Dragon, Shadow Warriors, etc.
 * **~1991-1992** (~8 years old): My father bought an [i486](https://en.wikipedia.org/wiki/I486) and I had to learn how to use using MS-DOS, [Norton Commander](https://en.wikipedia.org/wiki/Norton_Commander), etc. Although the main thing I did at that time was to keep playing games like [Doom](https://en.wikipedia.org/wiki/Doom_(franchise)) and [Duke Nukem](https://en.wikipedia.org/wiki/Duke_Nukem).
 * **~1993** (~9 years old): [Windows 3.11](https://en.wikipedia.org/wiki/Windows_3.1x) came out, and among other programs I spent many hours with [my cousin](https://www.linkedin.com/in/pablo-perez-ortega-0a382747/) talking to [HERBIE](https://www.youtube.com/watch?v=7wSmsn5kWts), an amazing conversational chatbot (made by Rafael García González in 1985) that felt like ChatGPT these days, but also creating movies with "[Cartooners](https://www.youtube.com/watch?v=xmjRKd9E7Cw)" which remind me a rudimentary version of [Scratch](https://en.wikipedia.org/wiki/Scratch_programming_language) nowadays. 
 * **~1995** (~11 years old): My brother, with the help of a book, taught me how to develop in [BASIC](https://en.wikipedia.org/wiki/BASIC) using [QBasic](https://en.wikipedia.org/wiki/QBasic). Inspired by the role-playing games we used to play together, I created my first [choose your own adventure](https://en.wikipedia.org/wiki/Choose_Your_Own_Adventure) game type, based on *IF*, *ELSE*, *GOTO* and a few more statements (a nightmare!! 🤣... and full of bugs).
