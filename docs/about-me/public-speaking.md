@@ -1,12 +1,14 @@
 # Public speaking
 
+I started doing public speaking more than ten years ago, originally all my talks were all motivated by my genuine interest in technology, and of course, all of them were [ad honorem](https://en.wikipedia.org/wiki/Ad_honorem). 
+
+But I was once told: "*if you find a company that pays you for what you would do for free, you won't have to work anymore*. 
+
+In 2014 I joined Esri, among other things, to share knowledge with developers for free (+ build a community of developers). Since then, although I have continued giving talks in my spare time, a large part of them have been paid by the company.
+
 <!-- <iframe src="http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0Ajgk_dG_CbQBdE50czVrbVVnSmJkXzgwQkh3ekJrTUE&font=Bevan-PotanoSans&maptype=toner&lang=en&height=650" width="100%" height="500px"> </iframe> -->
 
-The following are some of the events in which I have had the opportunity to participate as a speaker either as a hobby or for work.
-
-> **Disclaimer**: Originally all my talks were all motivated by my genuine interest in technology and of course none of them did I charge anything. But I was once told: "*if you find a company that pays you for what you would do for free, you won't have to work anymore*. In fact, in 2014 I joined Esri Spain, among other things, to share free knowledge with developers for free (and build a community of developers). Since then, although I have continued to prepare and give talks in my free time, a large part have been paid by the company.
-
-### Meetups and other events 
+### Meetups & small events 
 
 I am going to start with my first public talks, outside of classroom presentations, which were in small in-person meetups. Since I have been speaking in public for more than twenty years, I have tried not to include more than two or three per year:
 
@@ -39,13 +41,13 @@ I am going to start with my first public talks, outside of classroom presentatio
 * 2022 - GeoDevelopers - [Redescubriendo Postman ... tras 7 años 🥰](https://www.youtube.com/watch?v=P63DVUagt_s)
 * 2022 - GeoDevelopers - [Novedades de ArcGIS para GIS developers](https://www.youtube.com/watch?v=HXUvU1cD7CQ)
 
+> **Note**: Some ratings can be found at the meetup events.
+
 ### Conferences
 
-The first big conference I remember attended was the [Google Developer Day in 2008](https://web.archive.org/web/20080905225048/http://code.google.com/intl/es/events/developerday/2008/home.html) (Madrid), and then the [Webmasters Congress in 2009](https://web.archive.org/web/20080702121112/http://www.congresodewebmasters.com/) (Madrid). A few years later and after attending as a speaker, I not only started to participate as a speaker, but I even organized some of them.
+The first big conference I remember attended was the [Google Developer Day in 2008](https://web.archive.org/web/20080905225048/http://code.google.com/intl/es/events/developerday/2008/home.html) (Madrid), and then the [Webmasters Congress in 2009](https://web.archive.org/web/20080702121112/http://www.congresodewebmasters.com/) (Madrid). A few years later, and after starting to attend as an attendee, I began to give talks at them, and even organized some of them. As in the previous section, there have been quite a few conferences, so I will not include them all:
 
-As in the previous section, there have been quite a few conferences, so I will not include all of them:
-
-* 2012 - [Nuevos Retos](https://www.flickr.com/photos/pidecurso/with/6986850859) (UGR y EOI Sevilla) - Multiple talks
+* 2012 - PideCurso - [Nuevos Retos (UGR y EOI Sevilla)](https://www.flickr.com/photos/pidecurso/with/6986850859)
 * 2012 - NSConf- [Sencha touch - Proceso básico de desarrollo](https://www.slideshare.net/hhKaoS/sencha-touch-proceso-bsico-de-desarrollo)
 * 2013 - Google DevFest Sur - [Herramientas para la optimización](https://www.slideshare.net/hhKaoS/herramientas-para-la-optimizacin-un-enfoque-prctico)
 * 2015 - Statup Weekend Summit - [Building a strong community feeling](https://docs.google.com/presentation/d/1q_qpGc-tsx6xQXqO1VhS8nnxQhMVQhvDHRe1vxRtqfQ/edit?usp=sharing)
@@ -65,25 +67,25 @@ As in the previous section, there have been quite a few conferences, so I will n
 
 > **Note**: Some ratings can be found at [Koliseo](https://koliseo.com/rauljimenezortega/comments).
 
-### Esri conferences 🇪🇸 & 🇺🇸
+### Esri conferences 
 
-All of these talks at Esri [DevSummit](https://www.esri.com/en-us/about/events/devsummit/save-date) (Palm Springs, CA), [European DevSummit](https://www.esri.com/en-us/about/events/devsummit-europe/save-date) (Berlin, Germany), and [Conferencia Esri España](https://www.esri.es/es-es/acerca-de/eventos/cesri23/conferencia-esri23) (Madrid, Spain) have been for work-related reasons:
+All of these talks at Esri [DevSummit](https://www.esri.com/en-us/about/events/devsummit/save-date) (Palm Springs, CA), [European DevSummit](https://www.esri.com/en-us/about/events/devsummit-europe/save-date) (Berlin, Germany), and [Conferencia Esri España](https://www.esri.es/es-es/acerca-de/eventos/cesri23/conferencia-esri23) (Madrid, Spain) have been for work-related reasons. This list is not complete either:
 
-* 🇪🇸 2014 Conferencia Esri España - Developers Track (múltiples charlas)
-* 🇪🇸 2015 Conferencia Esri España - Developers Track (múltiples charlas)
+* 🇪🇸 2014 Conferencia Esri España - Developers Track (multiple talks)
+* 🇪🇸 2015 Conferencia Esri España - Developers Track (multiple talks)
 * 🇺🇸 2015 - European DevSummit - [Choosing the Best JavaScript Framework for You](https://proceedings.esri.com/library/userconf/devsummit-euro15/papers/devsummit-euro_12.pdf)
 * 🇺🇸 2015 - European DevSummit - [ArcGIS API for JavaScript: An Introduction](https://proceedings.esri.com/library/userconf/devsummit-euro15/papers/devsummit-euro_07.pdf)
 * 🇪🇸 2016 DevSummit Esri España - [Multiple talks](https://www.youtube.com/watch?v=860ZxjltwXI&list=PLwq5dz_FjCx7f_YTKAjG8ho_Y-6frw1XU)
 * 🇺🇸 2016 - European DevSummit  - [Choosing the Best JavaScript Framework for You](https://proceedings.esri.com/library/userconf/devsummit-euro16/papers/devsummit-euro_07.pdf)
-* 🇪🇸 2017 Conferencia Esri España - [Developers Track (múltiples charlas)](https://www.youtube.com/watch?v=B7KbFQKa-7I&list=PLwq5dz_FjCx702K99Ae1pQqTP2Yr8aAT4&pp=iAQB)
+* 🇪🇸 2017 Conferencia Esri España - [Developers Track (multiple talks)](https://www.youtube.com/watch?v=B7KbFQKa-7I&list=PLwq5dz_FjCx702K99Ae1pQqTP2Yr8aAT4&pp=iAQB)
 * 🇪🇸 2017 DevSummit Esri España - [Multiple talks](https://www.youtube.com/watch?v=HsNzMQRQsQg&list=PLwq5dz_FjCx6C9-ZtGJGM1eBEjFyndXd6&pp=iAQB)
 * 🇺🇸 2017 - European DevSummit  - [Choosing a JavaScript Framework for You	](https://proceedings.esri.com/library/userconf/devsummit-euro17/papers/devsummit-euro_28.pdf)
 * 🇺🇸 2017 - European DevSummit  - [ArcGIS API for JavaScript: Getting Started](https://proceedings.esri.com/library/userconf/devsummit-euro17/papers/devsummit-euro_21.pdf)
 * 🇪🇸 2017 - The Sciende Of Where en Bizkaia - [Crear WebApps impresionantes con menos de 100 líneas de código](https://docs.google.com/document/d/1it6K3EIC2bWt3nclFJSBHCiLw96cRKBzxmPp9caiPc8/edit?usp=sharing)
-* 🇪🇸 2018 - Conferencia Esri España - Developers Track (múltiples charlas)
+* 🇪🇸 2018 - Conferencia Esri España - Developers Track (multiple talks)
 * 🇺🇸 2019 - European DevSummit  - [ArcGIS REST API: Getting Started](https://www.esri.com/content/dam/esrisites/en-us/about/events/media/2019-european-developers-summit/eurodev-29.pdf)
 * 🇺🇸 2019 - European DevSummit - [Esri Koop: Using Third Party Data Sources in ArcGIS](https://www.esri.com/content/dam/esrisites/en-us/about/events/media/2019-european-developers-summit/eurodev-43.pdf)
-* 🇪🇸 2019 Conferencia Esri España - Developers Track (múltiples charlas)
+* 🇪🇸 2019 Conferencia Esri España - Developers Track (multiple talks)
 * 🇪🇸 2020 - Conferencia Esri España - [Visión Esri Respecto a Developers y Data Scientists](https://docs.google.com/presentation/d/1NRfesqnFPNuaTU5Mb91F9l7oL4aE-4aKVSV1bnSkP8M/edit?usp=sharing)
 * 🇺🇸 2021 - DevSummit - [Esri Koop: Converting Data in PostgreSQL to Feature Layers](https://www.youtube.com/watch?v=-TCFaXQuhUE)
 * 🇺🇸 2021 - DevSummit - [The ArcGIS GeoInformation Model](https://www.youtube.com/watch?v=uj0tHzM9G5c)
@@ -103,5 +105,3 @@ All of these talks at Esri [DevSummit](https://www.esri.com/en-us/about/events/d
 * 🇺🇸 2023 - European DevSummit - ArcGIS Maps SDK for JavaScript: Real-Time Data Visualization and Analytics
 * 🇺🇸 2023 - European DevSummit - Building Web Apps with Open Source Mapping APIs
 * 🇺🇸 2023 - European DevSummit - Strategies for Web Developers
-
-> **Note**: This list is not complete either.
