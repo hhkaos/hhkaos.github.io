@@ -1,6 +1,6 @@
 # My personal journey
 
-Looking backwards, I think I could consider myself a technologist at heart, because I have always found a way to be involved with technologies not out of obligation, but out of passion for it.
+## My childhood
 
 Below I am going through the main milestones in my early life that led me to love computers and became a software engineer:
 
@@ -18,4 +18,9 @@ Below I am going through the main milestones in my early life that led me to lov
  > **Note**: Here is a video that not only shows me [how the popularity of web pages has evolved since 1993-2022](https://www.youtube.com/watch?v=hNDILCdZmRo), but also reminds me of how old I am getting... 👴🏻🤣.
  > <iframe width="560" height="315" src="https://www.youtube.com/embed/hNDILCdZmRo?si=F6ckMVtVJMRvcn0_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
- To be continued...
+Looking backwards... I guess I can consider myself a technologist at heart, because I have always found a way to be involved with technologies not out of obligation, but out of passion for it.
+
+## Adult stage
+
+I will continue adding milestones about my professional development and the different stages I have been going through. For now, you can check [my Linkedin profile](https://www.linkedin.com/in/jimenezortegaraul/)
+
