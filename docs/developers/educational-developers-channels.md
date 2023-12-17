@@ -8,6 +8,8 @@ This is a compilation of websites, blogging platforms, video channels, etc. wher
 
 **Guest blogging** is the practice of writing and publishing an original blog post on a third-party website. Here is a list of channels you should look into:
 
+* [TechRepublic](https://www.techrepublic.com/article/contribute-articles-and-ideas-for-developer-republic/): Providing IT professionals with a unique blend of original content, peer-to-peer advice from the largest community of IT leaders on the Web.
+* [A List Apart](https://alistapart.com/about/contribute/): webzine that explores the design, development, and meaning of web content, with a special focus on web standards and best practices.
 * [Postman Guest blogger program](https://www.postman.com/postman-contributor-guest-blogger/): API platform for building and using APIs.
 * [TheNextWeb contributor program](https://thenextweb.com/news/everything-you-need-to-know-about-the-tnw-contributor-program): We inform, inspire, and connect people who love tech.
 * [geeoksforgeeks.org](https://www.geeksforgeeks.org/contribute/): A computer science portal for geeks.
@@ -21,7 +23,7 @@ This is a compilation of websites, blogging platforms, video channels, etc. wher
 * [smashingmagazine.com/write-for-us/](http://www.smashingmagazine.com/write-for-us/): Articles for web designers and developers
 * [css-tricks.com](https://css-tricks.com/guest-posting/): Tips, Tricks, and Techniques on using CSS.
 * [techcrunch.com](https://techcrunch.com/2019/11/20/submit-a-guest-post-to-extra-crunch/): experiences about starting, growing, or funding a tech company.
-* [The New Stack](https://thenewstack.io/contributions/): For developers and engineers building and managing new stacks around the world that are built on open source technologies and istributed infrastructures.  
+* [The New Stack](https://thenewstack.io/contributions/): For developers and engineers building and managing new stacks around the world that are built on open source technologies and istributed infrastructures. ([disclosure guidelines](https://thenewstack.io/disclosure-guidelines/))
 * [SD Times](https://sdtimes.com/sd-times-magazine/guest-view-guidelines/): Software Development Times, better known as SD Times, is a magazine published by D2 Emerge, in both a print version nd an online electronic edition.
 * [AppDeveloperMagazine.com](https://appdevelopermagazine.com/Submission-Guidelines): App Developer Magazine is an app programming and software tech media property, dedicated to covering news, nd stories for iOS iPhone, Android, Gaming, IoT, VR, and AR app developers.
 * [Dzone.com](https://dzone.com/pages/submission-guidelines)  the premier \#developer community. Tips on \#Java, \#webdev, \#integrations, #database, and more.
@@ -29,12 +31,19 @@ This is a compilation of websites, blogging platforms, video channels, etc. wher
 * [HackerNoon.com](https://help.hackernoon.com/submit-a-story-checklist): how hackers start their afternoons. where 25k+ tech pros publish stories & expertise for 4M+ monthly readers. have a ope story?.
 * [Business Insider](https://www.businessinsider.com/how-to-write-for-business-insider-2020-4): Insider tells the global tech, finance, markets, media, healthcare, and strategy stories you ant to know.
 * [geopois.com](https://geopois.com/contacto) (Spanish): Aprende Tecnologías Geoespaciales, somos especialistas en sistemas de información geográfica, base de datos espaciales y visores online eb mapping.
-* [The New Stack](https://thenewstack.io/) ([disclosure guidelines](https://thenewstack.io/disclosure-guidelines/))
 * [Medium publications](https://help.medium.com/hc/en-us/articles/115004681607-Getting-started-with-a-Medium-publication):  
   * [The startup](https://medium.com/swlh/start-it-up-submissions-3e8ed27bcd3e).  
   * [Javarevisited](https://medium.com/javarevisited) ([how to get published](https://medium.com/javarevisited/how-to-contribute-to-javarevisited-e95dcb0e8769)).  
   * [Better Programming](https://medium.com/better-programming) ([how to get published](https://betterprogramming.pub/write-for-us-5c4bcba59397)): Advice for programmers.
+* [Infoq](https://www.infoq.com/guidelines/): Helping dev teams adopt new technologies and practices. Written by software engineers. Read by over 1.5 million developers worldwide.
+* [OpenApis.org](https://www.openapis.org/openapi-blog-guidelines): The OpenAPI Initiative blog
+* [ReadWrite](https://readwrite.com/contributor-guidelines/): topics like transport, smart cities, fintech, connected devices, industrial, health and more.  All content shared is intended to assist our community of readers understand today’s technology, including how to invest in, apply, and benefit from it.
+* [Tuts+](https://tutsplus.com/teach): ts+" property="og:site_name" />: We help students learn creative and technical skills through self­-paced courses and tutorials. Whether you’re knowledgeable in code, design, illustration, photography, web design, or another subject, get paid a competitive rate to share your ideas and experience.
+* [TechTarget](https://www.techtarget.com/whatis/promo/Write-for-us): WhatIs.com is TechTarget's free encyclopedia and learning center for IT and business professionals
+* [Opensource.com](https://opensource.com/article/20/1/write-for-us): provide articles, resources, and guides to help everyone learn more, do more, and be more.
 > Find more at: [awesome devrel collective](https://github.com/devrelcollective/awesome-devrel#websites-to-publish-articles)  
+
+> **About guest blogging**: Recommended readings: [The decay and fall of guest blogging for SEO (by Matt Cutts, Google)](https://www.mattcutts.com/blog/guest-blogging/), [A reminder about links in large-scale article campaigns (Google Search Central)](https://developers.google.com/search/blog/2017/05/a-reminder-about-links-in-large-scale) , [guest blogging remains the absolute best](https://neilpatel.com/blog/why-guest-blogging-is-the-best-inbound-marketing-strategy-a-data-driven-answer/)
 
 ### Top JS Blogs & Magazines
 
@@ -50,7 +59,7 @@ Extracted from [State of JavaScript](https://2022.stateofjs.com/en-US/resources/
 8. [Bytes](https://bytes.dev/)
 9. [Codrops](https://tympanus.net/codrops/)
 10. [SitePoint](https://www.sitepoint.com/)
-11. [A List Apart](https://alistapart.com/)
+11. [A List Apart](https://alistapart.com/about/contribute/)
 12. [DailyJS](https://medium.com/dailyjs)
 13. [Frontend Focus](https://frontendfoc.us/)
 14. [Alligator.io](https://alligator.io/)
@@ -283,7 +292,7 @@ I keep the [Tech thought leaders](https://twitter.com/i/lists/828546487369990144
 
 ### Other sites
 
-* [Codecademy](https://www.codecademy.com/)
+* [Codecademy](https://www.codecademy.com/pages/contribute-docs)
 * [Academind](https://academind.com/)
 * Scrimba
 * Frontend Masters
