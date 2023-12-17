@@ -1,6 +1,6 @@
 # Open culture
 
-In this page I will share several life experiences that have shaped my personality and a part of my philosophy of life. These are related to different aspects of open culture (open knowledge, open communities, open source, ...), which have become deeply rooted in me, to the point of making me an evangelist of it.
+In this page I will share **several life experiences that have shaped my personality and a part of my philosophy of life**. These are related to different aspects of open culture (communities, open knowledge, open source, ...), which have become deeply rooted in me, to the point of making me an evangelist of it.
 
 ## Communities
 
