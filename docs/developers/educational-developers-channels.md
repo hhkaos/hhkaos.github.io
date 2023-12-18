@@ -127,8 +127,13 @@ Extracted from [State of JavaScript](https://2022.stateofjs.com/en-US/resources/
 * https://engineering.blackrock.com/
 * https://medium.com/criteo-engineering
 
-### Not found contribution guidelines
+### Not accepting contributions
 
+> **Note**: or at least, not found contribution guidelines
+
+* [TheNextWeb](https://thenextweb.com/)
+* [InfoWorld](https://www.infoworld.com/)
+* [TheVergue Tech](https://www.theverge.com/)
 * [Application Development Trends](https://adtmag.com/Home.aspx)
 * [Visual Studio Magazine](https://visualstudiomagazine.com/Home.aspx): The home page of Visual Studio Magazine online is the leading site for enterprise .NET developers.  
 * [ArsTechnia](https://arstechnica.com/): Original news, reviews, analysis of tech trends, and expert advice on the most fundamental aspects of tech.
