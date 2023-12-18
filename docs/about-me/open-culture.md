@@ -39,7 +39,7 @@ It wasn't almost until I started university, when I started to participate more 
 
 Later on, especially after joining the Free Software Office of the University of Granada (2009), led by [@JJMerelo](https://twitter.com/jjmerelo), I understood the importance of sharing code, content, ... openly. Since then, **I have tried to continue to share openly as much as I can**, [talking in public](public-speaking) but also sharing online content, like presentations, recordings of talks, code, tutorials, courses, knowledge in forums, audios, images, etc.
 
-> **Note**: when I joined Esri Inc (~2021), one of my job responsibilities is to train, facilitate and encourage engineers at the company to share more (great) tech content openly.
+> **Note**: when I joined Esri Inc (~2021), one of my job responsibilities is to train, facilitate and encourage engineers at the company to share more (great) tech content openly. That's one of the reasons I added channels blogs, channels, etc accepting contributions to [Educational developers channels](/docs/developers/educational-developers-channels), for those that do not want to start their own blog/channel or want to consider contributing to a third party channel.
 
 **But things are proven by facts and not by words**, so even though many of those contents have disappeared... as well as the platforms where they were hosted, here I will try to compile things I have been doing:
 

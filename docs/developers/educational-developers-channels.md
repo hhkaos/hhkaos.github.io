@@ -2,6 +2,14 @@
 
 This is a compilation of websites, blogging platforms, video channels, etc. where anyone can find relevant content and give back to the developer community.
 
+As soon as you feel ready, I encourage you to contribute with your knowledge. Check:
+
+* Written content > Accepting contributions
+* Video content > Accepting contributions
+* Events > Accepting contributions
+* Audio content > Accepting contributions
+* Or find any organization with developer relations/advocates and get in touch with them (e.g. [companies list](https://docs.google.com/spreadsheets/d/1i4ge1DcQGxIyiC3lOOWZJFw_aJPyY3T8GDDhvdx__hc/edit?usp=sharing), or check in Linkedin, [DevRel careers](https://devrelcareers.com/), etc)
+
 ## Written content
 
 ### Accepting contributions
@@ -38,7 +46,6 @@ This is a compilation of websites, blogging platforms, video channels, etc. wher
 * [Infoq](https://www.infoq.com/guidelines/): Helping dev teams adopt new technologies and practices. Written by software engineers. Read by over 1.5 million developers worldwide.
 * [OpenApis.org](https://www.openapis.org/openapi-blog-guidelines): The OpenAPI Initiative blog
 * [ReadWrite](https://readwrite.com/contributor-guidelines/): topics like transport, smart cities, fintech, connected devices, industrial, health and more.  All content shared is intended to assist our community of readers understand today’s technology, including how to invest in, apply, and benefit from it.
-* [Tuts+](https://tutsplus.com/teach): ts+" property="og:site_name" />: We help students learn creative and technical skills through self­-paced courses and tutorials. Whether you’re knowledgeable in code, design, illustration, photography, web design, or another subject, get paid a competitive rate to share your ideas and experience.
 * [TechTarget](https://www.techtarget.com/whatis/promo/Write-for-us): WhatIs.com is TechTarget's free encyclopedia and learning center for IT and business professionals
 * [Opensource.com](https://opensource.com/article/20/1/write-for-us): provide articles, resources, and guides to help everyone learn more, do more, and be more.
 > Find more at: [awesome devrel collective](https://github.com/devrelcollective/awesome-devrel#websites-to-publish-articles)  
@@ -128,41 +135,44 @@ Extracted from [State of JavaScript](https://2022.stateofjs.com/en-US/resources/
 * [Converge360](https://converge360.com/Home.aspx)
 * [Washington Technology](https://washingtontechnology.com/)
 
-## Video
+## Video content
 
-### Channels accepting contributions
+### Accepting contributions
 
-### Video courses 
+Many organizations producing SDKs, libraries, APIs, developer tools, ... within their YouTube channels have a section or playlist like these:
+* [Made with Tensorflow.js](https://www.youtube.com/playlist?list=PLQY2H8rRoyvzSZZuF0qJpoJxZR1NgzcZw) #MadeWithTFJS(e.g. [Classifying satellite imagery * Made with TensorFlow.js](https://www.youtube.com/watch?v=9zqjgeqc-ew))
+* [Mapbox Developer Spotlights](https://www.youtube.com/playlist?list=PL86WBCjNmqh5bwLvx0x3CiyeJBIT5uaYh)
+* [Android Developer Stories](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc9ofd2f-_-xmUi07wIGZa1c)
+* [Postman Breaking changes](https://www.youtube.com/watch?v=g-RqxEwBnuk&list=PLM-7VG-sgbtA5ywMlGAYlPo_PYy6vdJ4O), [Blindfold challenge](https://www.youtube.com/@postman/search?query=blindfold), ...
+* Or Community Show & tells, Build with..., projects showcase, ...
 
-* udemy.com
-* coursera.org
-* edx.org
-* udacity.com
-* pluralsight.com
-* platzi.com
-* tutellus.com
-* LinkedIn Learning
-* [Level Up](https://levelup.video/) ([contribute](https://level-up.cc/community/contribute/))
-* [Skillshare](https://www.skillshare.com/en/)
-* [Design+Code](https://designcode.io/)
-* https://twitter.com/CodelyTV (🇪🇸)
+Also keep in mind that some [Events] will be recorded and uploaded afterwards to their channels.
 
 ### YouTube channels
 
 Lot of YouTube channels in [JoseDeFreitas/awesome-youtubers repo](https://github.com/JoseDeFreitas/awesome-youtubers)
 
-* https://www.youtube.com/@TensorFlow (e.g. [Classifying satellite imagery * Made with TensorFlow.js](https://www.youtube.com/watch?v=9zqjgeqc-ew))
 * https://www.youtube.com/WebDevSimplified
 * https://www.youtube.com/traversymedia
 * https://www.youtube.com/c/TheNetNinja
 * https://www.youtube.com/@CodingGarden
+* https://www.youtube.com/@funfunfunction
 * https://www.youtube.com/c/programmingwithmosh
+
 
 ### Developer Streams
 
 Find more at: https://github.com/bnb/awesome-developer-streams
 
-## Audio / Podcasts
+## Audio content
+
+### Accepting contributions
+
+Many or I would say, most podcasts use to have guests or interview relevant people to their podcasts. So identify relevant podcasts where you think you could contribute and engage with the host to assest if you are right.
+
+There are even tools to match hosts and guests (heck: [How to Get On Podcasts as a Guest in 2024: The Easy Way](https://edwardsturm.com/articles/get-on-podcasts-as-guest-2024/))
+
+### Podcasts
 
 There are some existing lists of podcasts for developers:
 
@@ -231,35 +241,92 @@ These are some podcasts that use to do interviews:
   * https://www.geospatialworld.net/podcast/
   * https://geospatialgurus.buzzsprout.com/
 
-## Hands-on / Games of coding / Challenges
+## Communities 
+
+Many developers with related interests join together in different ways. Many of these can be found in Meetup.com:
+
+### Accepting contributions
+
+Community are all about collaboration, knowledge sharing, contributions, ... And almost every community going online or in person meetup are always searching for speakers.
+
+### Mailing lists
+
+Tradditionaly, lot of developer communities used to host they own mailing lists isolated in their own servers, but most organizers tend to use ready-to-use services nowadays.
+
+* Google groups (e.g [Python groups](https://groups.google.com/search/groups?q=python))
+* [Python local user groups](https://wiki.python.org/moin/LocalUserGroups) ([on Meetup](https://www.meetup.com/es-ES/topics/python/))
+* [Google Developer Groups](https://gdg.community.dev/chapters/) ([on Meetup](https://www.meetup.com/es-ES/topics/google-developer-group/es/))
+* [CoderDojo](https://coderdojo.com/en/) ([on Meetup](https://www.meetup.com/es-ES/topics/coderdojo/))
+* More [programming Meetups](https://www.meetup.com/topics/computer-programming/)
+
+### Forums
+
+* [stackexchange.com](https://stackexchange.com/sites): network of community forums 
+* [stackoverflow.com](https://stackoverflow.com/): tack Overflow being geared towards programming
+* [reddit.com/r/programming](https://www.reddit.com/r/programming/) (or [Awesome Subreddits](https://github.com/iCHAIT/awesome-subreddits#awesome-subreddits))
+* [forum.freecodecamp.org](https://forum.freecodecamp.org/)
+* ...
+
+###  Instant messaging forums
+
+* [Discod servers tagged with "developer"](https://disboard.org/servers/tag/developer):
+  * [JavaScript servers](https://disboard.org/servers/tag/javascript)
+  * [Python](https://disboard.org/servers/tag/python)
+  * ...
+* [Slack channels](https://github.com/thisdot/tech-community-slacks#-spain)
+* [IRC Freenode programming channels](https://stackoverflow.com/questions/1640811/best-irc-server-for-programming-channels)
+* [Telegram programming channels](https://qubit-labs.com/telegram-channels-sharpen-software-development-skills/)
+* [Whatsapp communities](https://blog.whatsapp.com/communities-now-available)
+* ...
+
+### Social platforms
+
+* [GitHub Discussions](https://docs.github.com/en/discussions/collaborating-with-your-community-using-discussions/about-discussions)
+* [Twitter communities](https://twitter.com/i/communities/suggested): [JavaScript](https://twitter.com/i/communities/suggested?q=javascript), [frontend](https://twitter.com/i/communities/suggested?q=frontend), ...
+* [Linkedin groups](https://www.linkedin.com/search/results/groups/?keywords=developers)
+* ...
+
+## Tech Conferences
+
+### Accepting contributions
+
+Keep in mind:
+* Check conferences with open call for papers (C4P): [Awesome DevRel > CFPs and Speaking Resources](https://github.com/devrelcollective/awesome-devrel#cfps-and-speaking-resources)
+* Many organizations producing SDKs, libraries, APIs, developer tools, ... **within their own events** will have a section like "Community Show & tells", "Customer/User/Developer stories", "User presentations", "Demo theathers", ....
+
+### Global conferences
+
+* [International Tech Conferences](https://manfred-event-calend-f4dj.glide.page/dl/6471c6)
+* [Events for developers & startups (in Spanish)](https://docs.google.com/spreadsheets/d/1VJRVTa1xm7-VlshZY5TD76iHjw0D7qik3b_aIneBl2A/edit#gid=184559133)
+* [My list of International Dev Events](https://twitter.com/i/lists/1572356362813726720/members) (list on X)
+
+### Spanish Tech Conferences
+
+* [Spanish Tech Conferences](https://manfred-event-calend-f4dj.glide.page/dl/da19fa)
+* [Eventos para developers, startuperos y tecnólogos](https://docs.google.com/spreadsheets/d/1VJRVTa1xm7-VlshZY5TD76iHjw0D7qik3b_aIneBl2A/edit#gid=373674928)
+
+## Challenges & competitions
+
+Compilation of hands-on experiences
+
+### Challenges
 
 Challenges, games and gamified experiences to learn programming:
 
 * https://adventofcode.com/
 * https://adventjs.dev/
-* https://flexboxfroggy.com/ 
-* https://www.twilio.com/quest
-* https://www.thinkfun.com/robot-turtles/
 * https://edabit.com/challenges
+* 30days of &lt;TOPIC&gt; ([find more](https://www.google.com/search?q=%2230+days+of%22+AND+\(%22javascript%22+OR+%22python%22+OR+%22Postman%22+OR+...\)), e.g. [Postman](https://www.postman.com/postman/workspace/30-days-of-postman-for-developers/overview))
 * https://codeforces.com/
-* https://leetcode.com/
 * https://www.codechef.com/
 * https://www.beecrowd.com.br/
 * https://projecteuler.net/
-* https://codecombat.com/
 * https://www.codewars.com/
 * https://leetcode.com/
-* Hiring / recruiting:
-  * https://www.hackerrank.com/
-  * https://coderbyte.com/
 
-## Events
-
-### Meetups
-
-* https://www.meetup.com/topics/computer-programming/
-* https://coderdojo.com/en/
-* https://gdg.community.dev/
+For hiring / recruiting:
+* https://www.hackerrank.com/
+* https://coderbyte.com/
 
 ### Coding competitions
 
@@ -271,27 +338,54 @@ Coding competitions:
 * https://www.kaggle.com/
 * https://atcoder.jp/
 
-
 **Find more:**
 * https://github.com/lnishan/awesome-competitive-programming#readme
 * https://github.com/truell20/awesome-programming-competitions#readme
 * https://github.com/michelpereira/awesome-games-of-coding#readme
 * https://finance.yahoo.com/news/15-best-coding-games-learn-145531940.html
 
-## Other developer websites 
+### Games of coding
 
-### Forums
+* https://flexboxfroggy.com/ 
+* https://www.twilio.com/quest
+* For kids:
+  * https://www.thinkfun.com/robot-turtles/
+  * https://codecombat.com/
+* ...
 
-* https://stackoverflow.com
-* https://reddit.com
-* https://stackexchange.com/
+## Courses
 
-### Twitter accounts
+### Formal education
 
-I keep the [Tech thought leaders](https://twitter.com/i/lists/828546487369990144/members) Twitter list 
+* Professional education
+* College/University
+* Master degrees
+* Business schools (programming related courses, e.g.: Big data)
+* ...
 
-### Other sites
+### MOOCs
 
+* udemy.com
+* coursera.org
+* edx.org
+* udacity.com
+* pluralsight.com
+* platzi.com
+* tutellus.com
+* LinkedIn Learning
+* [Level Up](https://levelup.video/) ([contribute](https://level-up.cc/community/contribute/))
+* [Skillshare](https://www.skillshare.com/en/)
+* [Design+Code](https://designcode.io/)
+* codely.com (🇪🇸)
+* [Tuts+](https://tutsplus.com/teach): learn creative and technical skills through self­-paced courses and tutorials. Whether you’re knowledgeable in code, design, illustration, photography, web design, or another subject, get paid a competitive rate to share your ideas and experience.
+
+### Bootcamps
+
+* https://github.com/theodesp/awesome-coding-camps
+
+## Other places
+
+* X accounts (former Twitter): I keep updating a [*Tech thought leaders* X list](https://twitter.com/i/lists/828546487369990144/members)", where you can find recognized voices: content creators, popular engineers (CTOs, etc), ...
 * [Codecademy](https://www.codecademy.com/pages/contribute-docs)
 * [Academind](https://academind.com/)
 * Scrimba
@@ -320,3 +414,4 @@ I keep the [Tech thought leaders](https://twitter.com/i/lists/828546487369990144
 * thedailywtf.com
 * maestrosdelweb.com
 * womenwhocode.com
+
