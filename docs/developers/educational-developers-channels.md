@@ -1,14 +1,12 @@
 # Educational developers channels
 
-This is a compilation of websites, blogging platforms, video channels, etc. where anyone can find relevant content and give back to the developer community.
+There is a widely held belief among developers that **this profession requires continuous learning**, mainly to stay current and competitive. This is due to the fast pace software technologies emerge and evolve, and that's probably right, **but please hold you [fear of missing out](https://en.wikipedia.org/wiki/Fear_of_missing_out) feeling**, you don't need to adopt every trend. 
 
-As soon as you feel ready, I encourage you to contribute with your knowledge. Check:
+Said that, it's good to keep up to date, that's why I have made this compilation where you can find relevant content that you can add to a [news aggregators](https://en.wikipedia.org/wiki/News_aggregator), or subscribe (channels / newsletters / podcasts / ...), or follow other people to help you with this.
 
-* Written content > Accepting contributions
-* Video content > Accepting contributions
-* Events > Accepting contributions
-* Audio content > Accepting contributions
-* Or find any organization with developer relations/advocates and get in touch with them (e.g. [companies list](https://docs.google.com/spreadsheets/d/1i4ge1DcQGxIyiC3lOOWZJFw_aJPyY3T8GDDhvdx__hc/edit?usp=sharing), or check in Linkedin, [DevRel careers](https://devrelcareers.com/), etc)
+For me, the **best way to keep up with developer technologies is to talk to highly motivated and passionate developers** (a.k.a. technologist at heart). So, if you don't find those people in your current environment, I encourage you to find them in a [developer community](#communities) that matches your passion and interests.
+
+> **Note**: As soon as you feel prepared, I encourage you to contribute too, that's why I have separated those mediums accepting contributions in it's own section. In addition to those, you can always search for organization with developer relations teams and get in touch with them (e.g. [companies list](https://docs.google.com/spreadsheets/d/1i4ge1DcQGxIyiC3lOOWZJFw_aJPyY3T8GDDhvdx__hc/edit?usp=sharing), [DevRel careers](https://devrelcareers.com/), or check in Linkedin). Many of us are happy to help/guide you on how to do it.
 
 ## Written content
 
@@ -272,7 +270,7 @@ Tradditionaly, lot of developer communities used to host they own mailing lists 
 * [forum.freecodecamp.org](https://forum.freecodecamp.org/)
 * ...
 
-###  Instant messaging forums
+###  Instant Messaging (IM) channels
 
 * [Discod servers tagged with "developer"](https://disboard.org/servers/tag/developer):
   * [JavaScript servers](https://disboard.org/servers/tag/javascript)
