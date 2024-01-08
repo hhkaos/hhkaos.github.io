@@ -222,3 +222,7 @@ Work with a cartographer, GIS analyst:
   
 
 Related knowledge: **data providers** (public and private), **source types** (Spatial Data Infrastructures / SDIs, APIs, Open Data portals, VGI/OSM, ...), **sources** (OSM, ArcGIS Living Atlas, Google Earth Engine, GeoNetwork, ...), **remote sensing techniques** (Radar, Lidar, Aerial Photography, multi-spectral/hyperspectral imaging, ... ),  **types are available** ( photogrammetry,...) + [how to manage that data](https://docs.google.com/document/d/1sIbvbR35fpltvXcHBXQ_51lZ7lbmfHkJEC95nc8nqpY/edit#heading=h.tscg2piw2oe7).
+
+import GiscusComponent from '@site/src/components/GiscusComponent';
+
+<GiscusComponent></GiscusComponent>

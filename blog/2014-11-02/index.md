@@ -2,9 +2,10 @@
 slug: lo-sucedido-desde-abril-nov-2014
 authors: [hhkaos]
 tags: [experiences]
+enableComments: true 
 ---
 
-# What's new since April
+# Lo sucedido desde Abril 2014
 
 ### Google Glass y Android Wear
 

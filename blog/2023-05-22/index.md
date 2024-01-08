@@ -3,6 +3,7 @@ slug: why-attend-developer-conferences
 title: Why Attend Developer Conferences
 authors: [hhkaos]
 tags: [conferences, commitconf, community, events]
+enableComments: true 
 ---
 
 > **📄 Note**: The interactive version of this article is available at [Dev.to 🇺🇸🇬🇧](https://dev.to/hhkaos/why-attend-developer-conferences-59b3) & [Medium.com 🇪🇸](https://medium.com/@hhkaos/por-qu%C3%A9-asistir-a-conferencias-para-desarrolladores-4c22cbe132cf).
@@ -89,9 +90,7 @@ Below are some of the takeaways from the sessions that I attended:
 
 ![Composition of photographs of different sessions attended by Raul.](./commitconf23-techsessions.jpg)
 
-In summary, if you don't use to go to developer conferences, **I hope my experience has encouraged you and given you arguments to attend in the future**. I would say also to the **
-
-[Esri Developer Summit in the USA](https://www.esri.com/en-us/about/events/devsummit/)** (or [in Europe](https://www.esri.com/en-us/about/events/devsummit-europe/save-date)), although this rather applies if you are an Esri partner or customer 😉.
+In summary, if you don't use to go to developer conferences, **I hope my experience has encouraged you and given you arguments to attend in the future**. I would say also to the **[Esri Developer Summit in the USA](https://www.esri.com/en-us/about/events/devsummit/)** (or [in Europe](https://www.esri.com/en-us/about/events/devsummit-europe/save-date)), although this rather applies if you are an Esri partner or customer 😉.
 
 Remember, **although much of the content of these conferences is then made available online, there are many other things that can only be achieved by attending.**
 

@@ -105,3 +105,7 @@ All of these talks at Esri [DevSummit](https://www.esri.com/en-us/about/events/d
 * 🇺🇸 2023 - European DevSummit - ArcGIS Maps SDK for JavaScript: Real-Time Data Visualization and Analytics
 * 🇺🇸 2023 - European DevSummit - Building Web Apps with Open Source Mapping APIs
 * 🇺🇸 2023 - European DevSummit - Strategies for Web Developers
+
+import GiscusComponent from '@site/src/components/GiscusComponent';
+
+<GiscusComponent></GiscusComponent>

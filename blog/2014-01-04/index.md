@@ -2,6 +2,7 @@
 slug: invertir-en-formacion-online
 authors: [hhkaos]
 tags: [education]
+enableComments: true 
 ---
 
 # Investing in online training

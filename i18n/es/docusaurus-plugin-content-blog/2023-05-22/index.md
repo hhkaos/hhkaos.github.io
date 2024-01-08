@@ -3,6 +3,7 @@ slug: why-attend-developer-conferences
 title: ¿Por qué asistir a conferencias para desarrolladores?
 authors: [hhkaos]
 tags: [conferencias, commitconf, comunidad, eventos]
+enableComments: true 
 ---
 
 > **📄 Nota**: La versión interactiva de este artículo se encuentra en [Medium.com 🇪🇸](https://medium.com/@hhkaos/por-qu%C3%A9-asistir-a-conferencias-para-desarrolladores-4c22cbe132cf) & [Dev.to 🇺🇸🇬🇧](https://dev.to/hhkaos/why-attend-developer-conferences-59b3).

@@ -2,6 +2,7 @@
 slug: como-funcionan-las-google-glass
 authors: [hhkaos]
 tags: [google-glass]
+enableComments: true 
 ---
 
 # How Google Glass works

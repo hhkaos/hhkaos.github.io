@@ -11,10 +11,6 @@
     "message": "Algunos recursos que he ido creando con el paso de los años.",
     "description": "The generated-index page description for category 📄 Resources in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.🚧 Draft notes": {
-    "message": "🚧 Notas en sucio",
-    "description": "The label for category 🚧 Draft notes in sidebar tutorialSidebar"
-  },
   "sidebar.tutorialSidebar.category.📄 Developers": {
     "message": "📄 Desarrolladores",
     "description": "The label for category 📄 Developers in sidebar tutorialSidebar"
@@ -31,8 +27,12 @@
     "message": "Todos ellos son recursos abiertos que he creado a lo largo de los años basándome en mi experiencia. ",
     "description": "The generated-index page description for category 🌎 Geospatial in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.🚧 Draft notes.link.generated-index.description": {
-    "message": "Estas notas probablemente no estén traducidas aún.",
-    "description": "The generated-index page description for category 🚧 Draft notes in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.🤓 About me": {
+    "message": "🤓 Sobre mi",
+    "description": "The label for category 🤓 About me in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.🤓 About me.link.generated-index.description": {
+    "message": "Todo tipo de cosas sobre mí y mi forma de ser.",
+    "description": "The generated-index page description for category 🤓 About me in sidebar tutorialSidebar"
   }
 }

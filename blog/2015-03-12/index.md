@@ -2,6 +2,7 @@
 slug: cumpleanios-2015
 authors: [hhkaos]
 tags: [birthday]
+enableComments: true 
 ---
 
 # ¡161 Thanks!, my 31 birthday

@@ -21,3 +21,7 @@ Below I am going through the main milestones in my early life that led me to lov
 I will continue adding milestones about my professional development and the different stages I have been going through. For now, you can check [my Linkedin profile](https://www.linkedin.com/in/jimenezortegaraul/)
 
 <!-- Looking backwards... I think I was lucky + made some right choices,  I guess I have always found a way to be involved with technologies not out of obligation, but out of passion for it. -->
+
+import GiscusComponent from '@site/src/components/GiscusComponent';
+
+<GiscusComponent></GiscusComponent>

@@ -46,7 +46,8 @@ For me, the **best way to keep up with developer technologies is to talk to high
 * [ReadWrite](https://readwrite.com/contributor-guidelines/): topics like transport, smart cities, fintech, connected devices, industrial, health and more.  All content shared is intended to assist our community of readers understand today’s technology, including how to invest in, apply, and benefit from it.
 * [TechTarget](https://www.techtarget.com/whatis/promo/Write-for-us): WhatIs.com is TechTarget's free encyclopedia and learning center for IT and business professionals
 * [Opensource.com](https://opensource.com/article/20/1/write-for-us): provide articles, resources, and guides to help everyone learn more, do more, and be more.
-> Find more at: [awesome devrel collective](https://github.com/devrelcollective/awesome-devrel#websites-to-publish-articles)  
+
+Find more at: [awesome devrel collective](https://github.com/devrelcollective/awesome-devrel#websites-to-publish-articles)  
 
 > **About guest blogging**: Recommended readings: [The decay and fall of guest blogging for SEO (by Matt Cutts, Google)](https://www.mattcutts.com/blog/guest-blogging/), [A reminder about links in large-scale article campaigns (Google Search Central)](https://developers.google.com/search/blog/2017/05/a-reminder-about-links-in-large-scale) , [guest blogging remains the absolute best](https://neilpatel.com/blog/why-guest-blogging-is-the-best-inbound-marketing-strategy-a-data-driven-answer/)
 
@@ -137,6 +138,8 @@ Extracted from [State of JavaScript](https://2022.stateofjs.com/en-US/resources/
 * [ArsTechnia](https://arstechnica.com/): Original news, reviews, analysis of tech trends, and expert advice on the most fundamental aspects of tech.
 * [Converge360](https://converge360.com/Home.aspx)
 * [Washington Technology](https://washingtontechnology.com/)
+* [CNET.com](https://www.cnet.com/)
+* [The Register](https://www.theregister.com/)
 
 ## Video content
 
@@ -418,3 +421,6 @@ Coding competitions:
 * maestrosdelweb.com
 * womenwhocode.com
 
+import GiscusComponent from '@site/src/components/GiscusComponent';
+
+<GiscusComponent></GiscusComponent>

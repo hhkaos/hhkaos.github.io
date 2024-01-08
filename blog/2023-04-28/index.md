@@ -3,6 +3,7 @@ slug: about-geo-development-skills
 title: Geo development skills
 authors: [hhkaos]
 tags: [learning, career-path, geo]
+enableComments: true 
 ---
 
 I have shared a new document (not 100% polished) where **I try to explain what problems anyone can better solve by learning new geospatial skills and tools**, including spatial databases, spatial analysis techniques, web mapping frameworks, geospatial libraries and APIs, spatial data formats, and spatial data visualization tools, GIS software, etc.
