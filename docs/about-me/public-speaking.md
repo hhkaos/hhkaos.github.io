@@ -24,7 +24,7 @@ I am going to start with my first public talks, outside of classroom presentatio
 * 2014 - GeoDevelopers - [Visores Leaflet con servicios ArcGIS](https://www.youtube.com/watch?v=56glRmg_bZ8)
 * 2015 - GeoDevelopers - [Trabajando con la API REST de ArcGIS](https://www.youtube.com/watch?v=ov9orEizbhQ&t=736s)
 * 2015 - GeoDevelopers - [Introducción a ArcGIS Online para desarrolladores](https://www.youtube.com/watch?v=g9UJHsUe-e8)
-* 2015 - GDG Madrid - [Taller de Google Apps Script](https://docs.google.com/presentation/d/10fFyxr7fxZvvThqz8h6bU3UqUEMSzpCAOzgEK29p0FU/edit?usp=sharing)
+* 2015 - GDEG Madrid - [Taller de Google Apps Script](https://docs.google.com/presentation/d/10fFyxr7fxZvvThqz8h6bU3UqUEMSzpCAOzgEK29p0FU/edit?usp=sharing)
 * 2015 - GeoDevelopers - [The state of mapping on the web: Esri, CartoDB and Mapbox](https://www.youtube.com/watch?v=gI69mmZY-TA)
 * 2015 - GeoDevelopers - [Introducción al GIS para desarrolladores](https://www.youtube.com/watch?v=6YCBgJqJ7Hs)
 * 2015 - HTML5Spain - [Measuring Impact on our sites](https://slides.com/hhkaos/measuring-impact)

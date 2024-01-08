@@ -17,7 +17,7 @@ export default function GiscusComponent() {
         strict="0"
         reactionsEnabled="1"
         emitMetadata="1"
-        inputPosition="top"
+        inputPosition="bottom"
         theme={colorMode}
         lang="en"
         loading="lazy"
