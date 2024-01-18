@@ -1,6 +1,6 @@
-# Educational developers channels
+# Educational channels for developers
 
-> **Note**: This page include +250 channels educational channels.
+> **Note**: This page include +250 educational channels.
 
 There is a widely held belief among developers that **this profession requires continuous learning**, mainly to stay current and competitive. This is due to the fast pace software technologies emerge and evolve, and that's probably right, **but please hold you [fear of missing out](https://en.wikipedia.org/wiki/Fear_of_missing_out) feeling**, you don't need to adopt every trend. 
 
