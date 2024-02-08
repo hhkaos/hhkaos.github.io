@@ -59,6 +59,10 @@ export default function Home() {
         <a href="https://dev.to/hhkaos" rel="nofollow">
           <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&amp;logo=dev.to&amp;logoColor=white" alt="Raúl Jimenez Ortega Dev.to" data-canonical-src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&amp;logo=dev.to&amp;logoColor=white" />
         </a>
+        <a href="https://sessionize.com/hhkaos/" rel="nofollow">
+          <img src="https://img.shields.io/badge/sessionize-1AB394?style=for-the-badge&amp;logo=sessionize&amp;logoColor=white" alt="Raúl Jimenez Ortega Sessionize" data-canonical-src="https://img.shields.io/badge/sessionize-1AB394?style=for-the-badge&amp;logo=sessionize&amp;logoColor=white" />
+        </a>
+        
       </p>
       </main>
     </Layout>
