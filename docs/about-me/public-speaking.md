@@ -40,6 +40,7 @@ I am going to start with my first public talks, outside of classroom presentatio
 * 2021 - GeoDevelopers - [From Zero to Newbie with ArcGIS API for JS and TypeScript](https://www.youtube.com/watch?v=vkK22tmCeXQ)
 * 2022 - GeoDevelopers - [Redescubriendo Postman ... tras 7 años 🥰](https://www.youtube.com/watch?v=P63DVUagt_s)
 * 2022 - GeoDevelopers - [Novedades de ArcGIS para GIS developers](https://www.youtube.com/watch?v=HXUvU1cD7CQ)
+* 2023 - GeoDevelopers - [Introducción a los mapas base y ArcGIS Basemaps Styles (v2)](https://www.youtube.com/watch?v=SBf8d6PeJMQ)
 
 > **Note**: Some ratings can be found at the meetup events.
 
