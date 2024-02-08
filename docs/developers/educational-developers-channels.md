@@ -492,6 +492,7 @@ Most of the most popular the e-learning platforms, MOOCs, ... based on video are
 * https://www.tutellus.com
 * https://www.udacity.com
 * https://www.udemy.com
+* https://moderndevtools.com/
 
 ### Developer Streams
 
