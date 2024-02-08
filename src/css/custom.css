@@ -53,3 +53,21 @@
 [itemprop="blogPost"] h1{
   font-size: 2.4rem;
 }
+
+.full-width{
+  width: 100%;
+}
+.sixteen-nine{
+  width: 100%;
+  padding-top: 56.25%;
+  position: relative;
+  margin-bottom: 1rem;
+}
+
+.sixteen-nine .content {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
