@@ -216,7 +216,8 @@ Datos "raster" (bitmaps): https://esri-es.github.io/awesome-arcgis/arcgis/conten
 Multidimensionales
 
 
-[¿Qué son los datos ráster?](https://desktop.arcgis.com/en/arcmap/latest/manage-data/raster-and-images/what-is-raster-data.htm)
+
+[¿Qué son los datos ráster?](https://desktop.arcgis.com/es/arcmap/latest/manage-data/raster-and-images/what-is-raster-data.htm)
 
 
 voxel
@@ -466,7 +467,7 @@ A veces, que sin conocer la historia y su evolución, cuesta entender en el pres
 
 [![Pantallazo de la web: Introducción al GIS, ArcGIS y Esri](./intro-sig-arcgis/introduccion-a-gis-arcgis-y-esri.png)](https://geogeeks.maps.arcgis.com/apps/MapSeries/index.html?appid=5a6400a6d9bb45d4a6c389b11de39b45)
 
-## ELIMINAR
+<!-- ## ELIMINAR
 
 Si no te interesa tanto la historia, aquí tienes una charla titulada "[Introducción al GIS para desarrolladores](https://www.youtube.com/live/6YCBgJqJ7Hs?si=7cWRG7bn1NE5bH0U)" que toca varias cosas a modo introductorio:
 
@@ -487,7 +488,7 @@ Si no te interesa tanto la historia, aquí tienes una charla titulada "[Introduc
 * [La complejidad de pintar mapas](https://www.youtube.com/live/6YCBgJqJ7Hs?si=9GIdJQ4MZOvN0eM9&t=2323)
 * [Funcionalidades de un GIS](https://www.youtube.com/live/6YCBgJqJ7Hs?si=RyM1jmjODhwJIy0-&t=2460)
 
-> **Nota** Aunque creo que la información sigue siendo válida, hay cosas que contaría de otra manera, y otras cosas que añadiría.
+> **Nota** Aunque creo que la información sigue siendo válida, hay cosas que contaría de otra manera, y otras cosas que añadiría. -->
 
 ## Conclusión
 
