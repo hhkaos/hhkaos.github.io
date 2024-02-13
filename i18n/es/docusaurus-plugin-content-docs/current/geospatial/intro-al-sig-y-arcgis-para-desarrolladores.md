@@ -209,14 +209,14 @@ Por ejemplo, estas son 3 de las [32 reglas tológicas soportadas en ArcGIS](http
 
 [![](./intro-sig-arcgis/reglas-topologicas-arcgis.png)](https://pro.arcgis.com/en/pro-app/latest/help/editing/pdf/topology_rules_poster.pdf)
 
-Las restricciones, limitaciones o *constraints* topológicas se pueden definir a nivel de base de datos, pero como veremos en el apartado "[Análisis](#análisis)", también se pueden usar vía SDK para detectar errores o arregar los datos antes de intentar persistirlos.
+Las restricciones, limitaciones o *constraints* topológicas se pueden definir a nivel de base de datos, pero como veremos en el apartado "[Análisis](#análisis)", también se pueden usar por código (a través de una biblioteca) para detectar errores o arreglar los datos antes de persistirlos.
 
 
 ### Datos vectoriales
 
-Usaremos [datos vectoriales](#datos-vectoriales) para geolocalizar son [entidades geográficas](https://en.wikipedia.org/wiki/Geographical_feature) que tienen una identidad y localización cláramente diferenciada a otras entidades geográficas (a veces se les llama entidades discretas), por ejemplo: objetos, edificios, posiciones, perímetros, ... 
+Usaremos [datos vectoriales](#datos-vectoriales) para geolocalizar [entidades geográficas](https://en.wikipedia.org/wiki/Geographical_feature) que tienen una identidad y localización claramente diferenciada a otras entidades geográficas (a veces se les llama entidades discretas), por ejemplo: objetos, edificios, posiciones, perímetros, ... 
 
-La ubicación de estos datos se pueden representar con diferentes tipos de geometrías, y el **tipo de geometría soportado** para cada tecnología, **la forma de representarlo**, el incluso **el nombre que se les da**, varía entre unas tecnologías y otras<sup><a href="#6-tipos-de-geometría-geojsongeometrías-en-arcgis-formas-de-google">[6]</a></sup> (bases de datos, SDKs, formatos de archivo, etc). 
+La ubicación de estos datos se pueden representar con diferentes tipos de geometrías, y el **tipo de geometrías soportadas** por cada tecnología, **la forma de representarlas internamente**, e incluso **el nombre que se les da**, varía entre unas tecnologías y otras<sup><a href="#6-tipos-de-geometría-geojsongeometrías-en-arcgis-formas-de-google">[6]</a></sup> (bases de datos, SDKs, formatos de archivo, etc). 
 
 #### GEOMETRIAS (*PRIMITIVAS*)
 
@@ -228,11 +228,13 @@ La ubicación de estos datos se pueden representar con diferentes tipos de geome
 |---|---|---|
 |Punto|![](./intro-sig-arcgis/point.png)|Paradas de taxi, árboles, semáforos ... aunque a veces, lo que podría ser un polígono (por ej: el perímetro de un local, negocio, o tienda), se reduce a un punto (la entrada principal, o el [centroide](https://es.wikipedia.org/wiki/Centroide#:~:text=El%20centroide%20de%20un%20tri%C3%A1ngulo,de%20la%20superficie%20del%20tri%C3%A1ngulo.)).
 |Polilínea o linestring|![](./intro-sig-arcgis/polyline.png)|Calles, tendidos eléctricos, redes de tuberías, carreteras, líneas de autobús, metro, rutas comerciales, senderos de montaña, líneas de costa, diques, ríos, cordilleras, fallas geológicas, ...
-|Polígono|![](./intro-sig-arcgis/polygon.png)|Superficie/huellas de edificios, barrios, municipios, [perímetros](https://www.arcgis.com/home/item.html?id=d957997ccee7408287a963600a77f61f#visualize), parques, zonas industriales, parques naturales, bosques, países, zonas de tráfico restringidas,  ...
+|Polígono|![](./intro-sig-arcgis/polygon.png)|Superficie/huellas de edificios, barrios, municipios, [perímetros](https://www.arcgis.com/home/item.html?id=d957997ccee7408287a963600a77f61f#visualize), parques, zonas industriales, parques naturales, bosques, países, zonas de paso restringidas,  ...
 |Malla de triángulos (Mesh)|![](./intro-sig-arcgis/Jungle_Gym.png)|Para representar [objetos](https://developers.arcgis.com/javascript/latest/visualization/symbols-color-ramps/esri-web-style-symbols-3d/#low-poly-vegetation) en [escenarios 3D](https://developers.arcgis.com/javascript/latest/sample-code/?tagged=Mesh) como estructuras o moviliarios hurbano, edificios, vegetación, vehículos, personas, señales de tráfico, iconos 3D, cajeros, fuentes, farolas, antenas de telefonía,  etc..
 
 
 #### GEOMETRÍAS *COMPUESTAS* ("multipart geometries" en inglés)
+
+> **Nota**: faltan por añadir las representaciones 3D equivalentes.
 
 |Tipo|Representación|Ejemplo de uso|
 |---|---|---|
@@ -270,22 +272,22 @@ Aunque los datos vectoriales son frecuentes en todos los campos y sectores econ�
 
 ## Capas de datos
 
-De manera análoga a como se trabaja con herramientas de diseño gráfico como Photoshop, los datos en un SIG se suelen organizar, almacenar por capas porque se adapta mejor a las necesidades específicas de representación, análisis y visualización de datos geolocalizados.
+De manera análoga a como se trabaja con herramientas de diseño gráfico (ej: Photoshop), los datos en un SIG se suelen organizar y almacenar por capas, principalmente porque se adapta mejor a las necesidades específicas de representación, análisis y visualización de datos geolocalizados.
+
+> **Nota**: Del mismo modo, en [portales de datos abiertos](#datos-abiertos), lo normal es encontrar ficheros donde cada uno representa una capa de datos.
+
+En la siguiente figura representa conceptualmente una aplicación donde se visualizan varias capas de datos simultáneamente:
 
 [![](./intro-sig-arcgis/capas-de-datos-gis.png)](./intro-sig-arcgis/capas-de-datos-gis.png)
 
-Si te fijas en la imagen verás:
-* En la parte superior una capa gráfica que contiene diferentes tipos de geometrías
-* Que en la parte intermedia cada capa contiene un único tipo de geometría<sup>1</sup> (puntos, líneas, o polígonos). 
-* Y en la parte inferior hay dos capas raster, la de elevación (relieve) y la del mapa satélite de fondo.
+En la figura vemos:
+* En la parte superior una capa de gráficos (**capa gráfica**). Normalmente **se usan para mejorar la usabilidad de las aplicaciones**, y sirven para representar elementos mientras se interactúa con la aplicación (por ejemplo mostrar un "pin"/marcador tras hacer la búsqueda de una dirección, mostrar la traza de una geometría mientras se está dibujando, etc). En este caso contiene diferentes tres geometrías de dos tipos distintos dos marcadores y un polígono). Esta **sólo existe en memoria RAM**.
+* En la parte intermedia cada **capa persistida en disco contiene un único tipo de geometría**<sup>1</sup> (puntos, líneas, o polígonos). 
+* Y en la parte inferior **hay dos capas raster**, la de elevación (relieve) y la del mapa satélite de fondo.
 
-Las capas gráficas se usan normalmente:
-1. Para mejorar la usabilidad de las aplicaciones, y sirven para representar elementos mientras se interactúa con la aplicación (por ejemplo mostrar un "pin"/marcador tras hacer la búsqueda de una dirección, mostrar la traza de una geometría mientras se está dibujando, etc).
-2. Aunque cuando una aplicación es muy sencilla, los propios datos geolocalizados se puede añadir manualmente en una capa gráfica.
+> **Nota**: Aunque cuando una aplicación es muy sencilla, los propios datos geolocalizados se puede añadir manualmente en una capa gráfica.
 
-Del mismo modo, en [portales de datos abiertos](#datos-abiertos) lo normal es encontrar ficheros donde cada uno representa una capa de datos.
-
-Es habitual que cuando estos datos se alojen en un SGBD relacional, cada capa se almacene en con una tabla de la base de datos. 
+Es habitual que cuando estos datos se alojen en un SGBD relacional, cada capa se almacene en una tabla de la base de datos. 
 
 <details>
   <summary>¿¿Eso significa que las bases de datos espaciales no se normalizan?? 🤔</summary>
