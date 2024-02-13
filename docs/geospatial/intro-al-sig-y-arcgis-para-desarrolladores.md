@@ -1,3 +1,3 @@
-# Introduction to GIS and ArcGIS for developers
+# Intro to GIS for developers
 
-Workin in progress in the Spanish version.
+Work in in progress in [the Spanish version](https://www.rauljimenez.info/es/docs/geospatial/intro-al-sig-y-arcgis-para-desarrolladores).
