@@ -1,6 +1,6 @@
-# Educational channels for developers
+# Educational channels
 
-> **Note**: This page include +250 educational channels.
+> **Note**: This page include +250 educational channels **for developers**.
 
 There is a widely held belief among developers that **this profession requires continuous learning**, mainly to stay current and competitive. This is due to the fast pace software technologies emerge and evolve, and that's probably right, **but please hold you [fear of missing out](https://en.wikipedia.org/wiki/Fear_of_missing_out) feeling**, you don't need to adopt every trend. 
 
@@ -387,12 +387,15 @@ These are not called "engineering" blogs, but the content is pretty close:
   * [Codrops](https://tympanus.net/codrops/) ([contributions](https://tympanus.net/codrops/collective/))
   * [Frontend Focus](https://frontendfoc.us/)
 * Data Engineering
-  * [Data Engineering Central](https://dataengineeringcentral.substack.com/)
-  * [Data Engineering Weekly](https://www.dataengineeringweekly.com/)
-  * [Joe Reis](https://www.dataengineeringweekly.com/)
+  * [Data Engineering Central](https://dataengineeringcentral.substack.com/) 
+  * [Data Engineering Weekly](https://www.dataengineeringweekly.com/) 
+  * [Joe Reis](https://joereis.substack.com/) 
   * [EcZachly Data Engineering](https://blog.dataengineer.io/)
   * [SeattleDataGuy’s](https://seattledataguy.substack.com/)
   * [Daily Dose of Data Science](https://www.blog.dailydoseofds.com/)
+* Engineering / Software programming
+  * [Software Design: Tidy First?](https://tidyfirst.substack.com/)
+  * [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/) 
 
 > **Awesome 😎** Find hundreds of newsletters at [github.com/zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters)
 
