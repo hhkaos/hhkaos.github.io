@@ -3,25 +3,43 @@
 <!-- > **📄 Note**: The interactive version of this article is available at [Dev.to 🇺🇸🇬🇧](https://dev.to/hhkaos/why-attend-developer-conferences-59b3) & [Medium.com 🇪🇸](https://medium.com/@hhkaos/por-qu%C3%A9-asistir-a-conferencias-para-desarrolladores-4c22cbe132cf). -->
 
 ---
+<iframe src="https://giphy.com/embed/IPbS5R4fSUl5S" width="200" height="115" frameBorder="0" class="float-right" allowFullScreen></iframe>
 
-**Es probable que hayas escuchado** a otros informáticos (o percibido) **que es difícil aprender a usar los sistemas de información geográfica** (SIG, or *GIS* por sus siglas en inglés), **y no me extraña**. Yo llevo desde 2014 en este sector, y la verdad es que **nunca he encontrado un único recurso que sea capaz de recomendar a alguien que quiere empezar**, por eso he creado yo este.
+**¿Es difícil aprender qué son y cómo funcionan los sistemas de información geográfica (SIG, or *GIS* por sus siglas en inglés)?**
 
-Aquí explicaré los conceptos básicos, usando el vocabulario más sencillo que pueda y similitudes/comparativas con el mundo de la informática tradicional, para que entiendas cómo **los SIG están contruídos sobre muchos conceptos que ya conoces**.
+Como informático que lleva desde 2014 en este mundo, **sé que al principio es difícil entender la mayoría de recursos disponibles**, porque a mi también me ha costado, es más... ¡a veces me sigue costando! 😅. 
+
+
+Esto se debe a muchas razones:
+1. La mayoría de los recursos **dan por sentado que conoces el vocabulario/jerga de los SIG** como: mapa base, capas, geometrías, entidades, datos ráster, extensión, geocodificar, geodésico, geoprocesamiento, teselas, datum, ... 🤨.
+2. También que **dominas todos conceptos fundamentales y relativamente complejos** como: sistemas de coordenadas o de referencia, proyección, topología, ... 😮.
+3. En ocasiones, **los términos en el contexto de los SIG tienen significados totalmente distintos a la informática tradicional**, por ej: [**buffer** informático != **buffer** geográfico](https://es.wikipedia.org/wiki/Buffer) 😱.
+4. **Falta de consenso y un vocabulario universal** en conceptos básicos. Diferentes tecnologías terminan dando diferentes nombres al mismo concepto. Por ejemplo: Google y Esri llamamos `Polyline` a los que en GeoJSON se llama `Linestring`, o lo que en Google Maps es un `InfoWindow`, en Esri es un `PopupTemplate`, y en Leaflet un `Popup` 😭.
+5. **No razonan el por qué** se hacen algunas cosas de manera distinta a como estamos acostumbrados 🤔.
+6. Los SIG **abarcan una amplia gama de tecnologías**, desde servidores a aplicaciones de escritorio, SDKs, ... **que puede abrumar al principio** 🤯.
+
+Si a esto le sumamos que **casi nunca se le deja claro a alguien con un perfil informático los beneficios potenciales y los problemas que podrán resolver con ellos**, no es de extrañar que muchas personas terminen frustándose, abandonando y dedicando su tiempo a aprender otras tecnologías.
+
+Por eso he creado yo este recurso, porque **nunca he encontrado un único recurso empiece desde los beneficios, pasando por los conceptos básicos y profundizando lo suficiente** como para ser capaz de recomendarlo a alguien (como yo) que quiera empezar.
+
+<!-- > **Nota**: desde Esri, para reducir esa fricción añadimos un [glosario para desarrolladores](https://developers.arcgis.com/documentation/glossary/) con definiciones para intentar ayudar a quienes empiezan con ArcGIS. Pero ten en cuenta que con otras tecnologías, hay algunos conceptos que pueden tener diferente nombre. -->
+
+Así que aquí explicaré los conceptos básicos, usando el vocabulario más sencillo que pueda y similitudes/comparativas con el mundo de la informática tradicional, para que entiendas cómo **los SIG están contruídos sobre muchos conceptos que ya conoces**.
 
 ## Para qué sirven
 
-Si no tienes claro para qué te pueden servir los SIG, aquí te dejo un breve vídeo que muestra algunas de las cosas que puedes llegar a hacer con ellos, en este caso concretamente con [ArcGIS](https://developers.arcgis.com/).
+Si no tienes claro para qué te pueden servir los SIG, y si **merece la pena invertir tiempo en ellos**, aquí te dejo un breve vídeo que muestra algunas de las cosas que puedes llegar a hacer. En este caso, concretamente con [ArcGIS](https://developers.arcgis.com/):
 
 <div class="sixteen-nine">
-<iframe class="content" src="https://www.youtube.com/embed/rd2izZ1LiFc?si=B2VqMPAdXP_0HraM?version=3&autoplay=1&loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe class="content" src="https://www.youtube.com/embed/rd2izZ1LiFc?si=B2VqMPAdXP_0HraM?version=3&autoplay=1&loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 
-Y si quieres, en [Geo Developer superpowers 🦸](https://www.rauljimenez.info/es/docs/geospatial/geo-developer-superpowers), he hecho una recopilación problemas que puedes resolver con ellos.
+Y si quieres, en [Geo Developer superpowers 🦸](https://www.rauljimenez.info/es/docs/geospatial/geo-developer-superpowers), he hecho una recopilación de problemas que puedes resolver con ellos.
 
-Y si te preguntas... **¿y esto no lo puedo hacer yo a mano?.** A lo mejor sí... aunque es** fácil infravalorar la complejidad de crear algunas estas tecnologías** (por desconocimiento), por lo que yo lo desaconsejo, por lo menos hasta haberlas probado y haberte familiarizado con las complejidades que oculta.
+Si te preguntas... **¿y esto no lo puedo hacer yo a mano?.** A lo mejor sí... aunque es** fácil infravalorar la complejidad de crear algunas estas tecnologías** (por desconocimiento), por lo que yo lo desaconsejo, por lo menos hasta haberlas probado y haberte familiarizado con las complejidades que ocultan.
 
-Dicho esto, reinventar la rueda es siempre una opción, y no soy yo de ponerle puertas al campo... además, hay que reconocer que algunas de las tecnologías que hoy forman parte del ecosistema han surgido de personas inconformistas, valientes y comprometidas como Volodymyr Agafonkin ([el creador de Leaflet.js](https://www.youtube.com/watch?v=NLbyHffKQuU)).
+Dicho esto, reinventar la rueda es siempre una opción, y no soy yo de ponerle puertas al campo... además, hay que reconocer que algunas de las tecnologías que hoy forman parte del ecosistema han surgido de personas inconformistas, valientes y comprometidas, como Volodymyr Agafonkin, [el creador de Leaflet.js](https://www.youtube.com/watch?v=NLbyHffKQuU).
 
 
 
@@ -49,24 +67,22 @@ import VectorvsRaster from './intro-sig-arcgis/vector-vs-vector-rasterized.png';
   <img src={VectorvsRaster} />
 </div>
 
-Si te interesa, al final del documento hay un apartado "[Captura / Generación](#captura--generación)" explicaremos que:
-* A veces el dato se crea originalmente como dato vectorial, y otras veces en ráster.
-* Otras se transforma de vectoriales a ráster, mediante un proceso de *[rasterización](https://es.wikipedia.org/wiki/Rasterizaci%C3%B3n)*, como el mostrado en la imagen anterior.
-* En ocasiones se extraen datos vectoriales a partir de los datos ráster.
+Si te interesa, al final del documento hay un apartado "[Captura / Generación](#captura--generación)" donde se explica que:
+* El dato se puede crear originalmente tanto como dato vectorial, como en ráster.
+* A veces se transforman los datos vectoriales a ráster mediante un proceso llamado *[rasterización](https://es.wikipedia.org/wiki/Rasterizaci%C3%B3n)*.
+* Otras veces se extraen datos vectoriales a partir de los datos ráster mediante un proceso llamado *[extracción de entidades](https://support.esri.com/en-us/gis-dictionary/feature-extraction#:~:text=%5Bdigital%20image%20processing%5D%20In%20image,features%20based%20on%20those%20measurements.)*.
 
-> <strong>💡 ¿Sabías que...?</strong> Hay un campo conocido como GeoAI donde se usan <a href="https://livingatlas.arcgis.com/es/browse/?q=deep%20learning%20package#d=2&type=tool&q=deep+learning+package">modelos de <i>deep learning</i></a>, para extraer datos vectoriales a partir de datos ráster (<strong>entre otras muchas cosas</strong><sup><a href="#0-geospatial-deep-learning-with-arcgis">[0]</a></sup>), y se cree<sup><a href="#0-the-birth-and-evolution-of-geoai">[0]</a></sup> que surgió a mediados de los años 60.
+> <strong>💡 ¿Sabías que...?</strong> Hay un campo conocido como GeoAI donde se usan <a href="https://livingatlas.arcgis.com/es/browse/?q=deep%20learning%20package#d=2&type=tool&q=deep+learning+package">modelos de <i>deep learning</i></a>, para extraer datos vectoriales a partir de datos ráster (<strong>entre otras muchas cosas</strong><sup><a href="#0-geospatial-deep-learning-with-arcgis">[0]</a></sup>), y que se cree<sup><a href="#0-the-birth-and-evolution-of-geoai">[0]</a></sup> que surgió a mediados de los años 60.
 
-En este documento repasaremos las ventajas y limitaciones de cada uno, junto a herramientas y técnicas para manipularlos.
+En este documento repasaremos las ventajas y limitaciones de cada tipo de dato, junto a herramientas y técnicas para manipularlos.
 
 ### Calidad de datos
 
-Antes de entrar en el detalle de los datos vectoriales y ráster, necesitamos conocer algunos **conceptos cruciales** que nos acompañarán siempre que trabajemos con datos geolocalizados, y a que a su vez nos permitirán entender cómo crear aplicaciones de visualización, análisis, ... e implementar procesos (ej: ETL) con **garantías de calidad**.
+Antes de entrar en el detalle de los datos vectoriales y ráster, necesitamos conocer algunos **conceptos cruciales** que nos acompañarán siempre que trabajemos con datos geolocalizados, y a que a su vez nos permitirán entender cómo crear aplicaciones de visualización, análisis, ... además de implementar procesos (ej: ETL) con **garantías de calidad**.
 
 > <strong>💡 ¿Sabías que...?</strong>: Si no conoces estos conceptos podrías... A) Malinterpretar una ubicación y enviar a una persona o vehículo a decenas o kilómetros de distancia de la ubicación deseada, B) Medir erróneamente la superficie de una parcela, piscina, edificio y calcular incorretamente tasas o ayudas, C) Registrar incorrectamente la delimitación de fincas (<a href="https://es.wikipedia.org/wiki/Deslinde">deslindes</a>) con posibles consecuencias legales, ¿y muchas cosas más?.
 
-Por tanto, no importa si accedemos a los datos vía API de un tercero, si los descargamos de fuentes abiertas, si los compramos a un proveedor, o si nos los proporciona *ingeniero de datos* especializado en [geoinformática](https://es.wikipedia.org/wiki/Geoinform%C3%A1tica) (conocido como técnico o analista/SIG). 
-
-En cualquier caso necesitamos conocer estos conceptos poder manipularlos con garantías, **pero también para evitar posibles quebraderos de cabeza**.
+Por tanto, no importa si accedemos a los datos vía API de un tercero, si los descargamos de fuentes abiertas, si los compramos a un proveedor, o si nos los proporciona *ingeniero de datos* especializado en [geoinformática](https://es.wikipedia.org/wiki/Geoinform%C3%A1tica) (conocido como técnico o analista/SIG).  En cualquier caso necesitamos conocer estos conceptos poder manipularlos con garantías, **pero también para evitar posibles quebraderos de cabeza**.
 
 Vamos a ver tres conceptos principales: 
 
@@ -87,50 +103,59 @@ import BasemapProjected from './intro-sig-arcgis/web-mercator-vs-wgs84.png';
 import GeoideYDeformaciones from './intro-sig-arcgis/geoide-sistema-de-referencia-proyeccion-mercator.png';
 import PrecisionVsExactitud from './intro-sig-arcgis/precision-vs-exactitud-sig.png';
 import Ed50VsWgs84 from './intro-sig-arcgis/ed50-vs-wgs84.png';
+import Wgs84VsMercator from './intro-sig-arcgis/wgs84vs-mercator.png';
+
 
 <Tabs>
   <TabItem value="apple" label="🌎 Forma de la tierra" default>
     <p>Calcular las coordenadas de una ubicación en la tierra no es trivial, principalmente porque la tierra no es una esfera o elipsoide perfecto, si no un <a href="https://es.wikipedia.org/wiki/Geoide">geoide</a> (una roca gigante): </p>
-    <blockquote><strong>💡 ¿Sabías que...?</strong>: existen asignaturas completas en grados universitarios donde se estudia la forma de la tierra. Por ejemplo, en Ingeniería Geodesia o Geomática. </blockquote>
+    <blockquote><strong>💡 ¿Sabías que...?</strong>: existen asignaturas completas en grados universitarios donde se estudia la forma de la tierra. Por ejemplo, en Ingeniería en Geodesia o Geomática. </blockquote>
     <img src={GeoideYDeformaciones} />
     <p>Sin embargo, comprender completamente todos los conceptos teóricos matemáticos que se esconden detrás de este tema va más allá del objetivo de esta introdución. Por lo que me conformo con que sepas que <strong>para poder medir con precisión y exactitud las ubicaciones en la superficie de la tierra existen diferentes <a href="https://en.wikipedia.org/wiki/Spatial_reference_system">sistemas de referencia de coordenadas</a> (CRS por sus siglas en inglés)</strong>.</p>
     <p>Ahora, antes de seguir, vuelve arriba y pulsa la pestaña: <strong>📍 Sistema de referencia</strong>.</p>
     
   </TabItem>
   <TabItem value="coordenadas" label="📍 Sistema de referencia" default>
-    <p>Esto nos lleva a la conclusión de que, aunque habitualmente pensemos que unas <a href="https://es.wikipedia.org/wiki/Coordenadas_geogr%C3%A1ficas">coordenadas geográficas</a> (por ejemplo: [latitud, longitud]) corresponden siempre a una única ubicación en la tierra, esto no tiene por qué ser así, ya que dependen del sistema de coordenadas al que estén asociadas. </p>
-    <p>En la siguiente imagen se ven representadas el mismo par de coordenadas ([-3.684217, 40.415779]), pero cada una de ellas asociadas a un sistema de de referencia diferente, a la izquierda en <a href="https://epsg.io/map#srs=4326&x=-3.684217&y=40.415779&z=16&layer=satellite">EPSG 4230 / ED50</a> y a la derecha en <a href="https://epsg.io/map#srs=4230&x=-3.684308&y=40.415769&z=16&layer=satellite">EPSG 4326 / WGS84</a> (ambas en un sistema de coordenadas geográficas <sup><a href="#1-coordinate-systems-whats-the-difference-datum-referencia-espacial-y-sistema-de-coordenadas">[1]</a></sup>).</p>
+    <p>Habitualmente pensamos que unas <a href="https://es.wikipedia.org/wiki/Coordenadas_geogr%C3%A1ficas">coordenadas geográficas</a> (por ejemplo: [latitud, longitud]) corresponden siempre a una única ubicación en la tierra, pero esto no tiene por qué ser así, ya que dependen del sistema de coordenadas al que estén asociadas. </p>
+    <p>En la siguiente imagen se ven representadas el mismo par de coordenadas ([-3.684217, 40.415779]), pero cada una de ellas asociadas a un sistema de referencia diferente, a la izquierda en <a href="https://epsg.io/map#srs=4326&x=-3.684308&y=40.415769&z=16&layer=satellite">EPSG 4326 / WGS84</a> y a la derecha en <a href="https://epsg.io/map#srs=4230&x=-3.684217&y=40.415779&z=16&layer=satellite">EPSG 4230 / ED50</a>. En la parte inferior se muestran dos ejemplos de cómo se representan esas coordenadas en formato JSON usando dos esquemas distintos (GeoJSON y Esri JSON) y cómo se espefica el sistema de referencia.</p>
     <div style={{textAlign: 'center'}}>
       <img src={Ed50VsWgs84} />
     </div>
+    <p>El sistema ED50 fue el sistema oficial del gobierno de España hasta su cambio por el <a href="https://epsg.io/4258">EPSG:4258 / ETRS89</a> anunciado en el <a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2007-15822#:~:text=Se%20adopta%20el%20sistema%20ETRS89,se%20adopta%20el%20sistema%20REGCAN95.">BOE-A-2007-15822</a>, de ahí que los datos abiertos oficiales del gobierno suelan estar en alguno de estos sistemas de referencia. Pero lo que es peor...hay casos en los que nos encontramos ficheros que no indican en qué sistema de referencia están! 😅. Si ese es tu caso, intenta contactar con la fuente que generó el dato.</p>
     <p>A continuación, vuelve arriba y pulsa la pestaña: <strong>🎯 Precisión y exactitud de la ubicación</strong>.</p>
   </TabItem>
   <TabItem value="orange" label="🎯 Precisión y exactitud de la ubicación">
-  <p>Me parece relevante entender la diferencia entre estos dos conceptos:</p>
+  <p>Recuerda que <strong>la exactitud de los datos puede verse afectada por el sistema de referencia</strong> en el que se registraron los datos.</p>
+  <p>Aprovecho para aclarar la diferencia entre los conceptos exactitud (<i>accuracy</i>) y precision (<i>precision</i>):</p>
   <ul>
-  <li><strong>Exactitud de los datos (figuras A y C)</strong>: Se refiere a la proximidad entre un valor medido y el valor real. Los datos pueden ser exáctos pero no precisos (C). Las técnicas para garantizar la exactitud incluyen la verificación sobre el terreno, el uso de equipos GPS de alta calidad, etc.</li>
-  <li><strong>Precisión de los datos (figuras A y B)</strong>: La precisión se refiere al nivel de detalle o granularidad de los datos. Los datos pueden ser precisos pero no exáctos (B). Es importante definir los requisitos de precisión del proyecto y asegurarse de que los métodos de recopilación de datos cumplen esas normas.</li>
+  <li><strong>Exactitud de los datos (figuras A y C)</strong>: Se refiere a la proximidad entre un valor medido y el valor real (<a href="https://es.wikipedia.org/wiki/Verdad_fundamental">verdad fundamental</a> o <i>ground truth</i>). Los datos pueden ser exáctos pero no precisos (C). Las técnicas para garantizar la exactitud incluyen la verificación sobre el terreno, el uso de equipos GPS de alta calidad, etc.</li>
+  <li><strong>Precisión de los datos (figuras A y B)</strong>: La precisión se refiere al nivel de detalle o granularidad de los datos (por ej: un mayor número de  dígitos en las coordenadas indica mayor precisión). Los datos pueden ser precisos pero no exáctos (B).</li>
   </ul>
   <div style={{textAlign: 'center'}}>
     <img src={PrecisionVsExactitud}/>
   </div>
-  <p>Se puede ver más en el apartado: <a href="#captura--generación">Captura / generación</a>.</p>
+  <p>Por tanto, es importante tener claros los requisitos de exactitud y precisión del proyecto, y asegurarse de que los métodos de recopilación de datos sean los adecuados. Veremos más en el apartado: <a href="#captura--generación">Captura / generación</a>.</p>
   </TabItem>
   
 </Tabs>
+
 
 ---
 
 #### PROYECCIONES
 
+Este es uno de los conceptos más desconocidos y confusos para la mayoría de los desarrolladores, quizás porque **muchas tecnologías realizan este proceso automáGicamente** ocultando la complejidad al desarrollador.
 
 <Tabs>
   <TabItem value="proyectados" label="🗺️ Proyecciones" default>
     <p>
-    Una <a href="https://es.wikipedia.org/wiki/Proyecci%C3%B3n_cartogr%C3%A1fica">proyección cartográfica</a> es un método matemático que se utiliza para representar la superficie tridimensional de la Tierra en un plano bidimensional (como un mapa o una pantalla), y <strong>no se puede hacer sin introducir algún tipo de distorsión en algún aspecto, ya sea en la forma, el área, la distancia o la dirección</strong><sup><a href="#2-tutorial-elegir-la-proyección-adecuada">[2]</a></sup>. Estos dos vídeos los explican de manera muy visual: <a href="https://www.youtube.com/watch?v=kIID5FDi2JQ">Why all maps are wrong</a> y <a href="https://www.youtube.com/watch?v=wkK_HsY7S_4">The Impossible Map</a>.
+    Hasta ahora hemos visto los <a href="https://en.wikipedia.org/wiki/Geographic_coordinate_system">sistemas de referencia/coordenadas <b>geográficas</b></a>. Estos suelen expresar las coordenadas en grados, normalmente especificados como: latitud y longitud. Los valores en WGS84 oscilan entre [-180, 180] para la longitud, y entre [-90, 90] para la latitud.
     </p>
     <p>
-    A la hora de combinar datos de diferentes fuentes, o al representarlos en el mapa de referencia, que es el que da contexto para superponer los datos geolocalizados (también conocido como "mapa de fondo", mapa base o <a href="https://wiki.openstreetmap.org/wiki/Basemap">basemap</a>), es importante asegurar que estén todos los datos y el mapa base en el mismo sistema de referencia <sup><a href="#3-sistemas-de-referencia-en-la-arcgis-maps-sdk-for-javascript">[3]</a></sup>.
+    Sin embargo, cuando queremos representar la superficie tridimensional de la Tierra en un plano bidimensional, como un mapa o una pantalla, tenemos que transformar la forma usando una <a href="https://es.wikipedia.org/wiki/Proyecci%C3%B3n_cartogr%C3%A1fica">proyección cartográfica</a><sup>[1]</sup>. En este caso las coordenadas se expresan en metros, normalmente especificados como: "x" e "y". En Web Mercator los valores oscilan entre [-103676511,103676511] para "y", y entre [-20037508, 20037508] para  "x".
+    </p>
+    <p>
+    Los métodos matemáticos que se utilizan para proyectar <strong>SIEMPRE introducen algún tipo de distorsión en algún aspecto, ya sea en la forma 🔻🔷🛑⭕, el área ▨, la distancia 📏, o la dirección 📐</strong><sup><a href="#2-tutorial-elegir-la-proyección-adecuada">[2]</a></sup>. Estos dos vídeos los explican de manera muy visual: <a href="https://www.youtube.com/watch?v=kIID5FDi2JQ">Why all maps are wrong</a> y <a href="https://www.youtube.com/watch?v=wkK_HsY7S_4">The Impossible Map</a>.
     </p>
     <p>
     En la siguiente imagen se puede ver:
@@ -140,8 +165,16 @@ import Ed50VsWgs84 from './intro-sig-arcgis/ed50-vs-wgs84.png';
     <li>Y a la derecha (B), otro <a href="https://www.arcgis.com/apps/mapviewer/index.html?layers=898f58f2ee824b3c97bae0698563a4b3">mapa base satelital, pero esta vez proyectado en WGS84</a>, más preciso para <a href="https://jsbin.com/jubuhid/edit?output">representaciones en 3D</a>.</li>
     </ul>
     <img src={BasemapProjected} />
+    <p>Es habitual encontrarse las coordenadas en WGS84 (coordenadas geográficas) y querer cambiarlas a Web Mercator (coordenadas proyectadas) y vicebersa. De hecho, yo me creé un conversor de un sistema a otro: <a href="https://www.rauljimenez.info/mercator-geographic-converter/">Mercator to Geographic converter</a>.</p>
+    <img src={Wgs84VsMercator} />
+    <p>
+    Un error bastante común es que cuando no se cargan correctamente las coordenadas geográficas en un mapa proyectado, por ejemplo si asignamos a "y" el valor de latitud, y al "x" el valor de longitud, los datos acaben en la <a href="https://en.wikipedia.org/wiki/Null_Island">Null island</a> 🏝️🤣 (dado que si se le asignan valores pequeñitos de longitud y latitud a "x" e "y" que oscilan entre valores tan grandes, aparezcan en el centro del mapa). 
+    </p>
+    <p>
+    Por eso, para evitar errores, a la hora de combinar datos de diferentes fuentes, o al representarlos en un <b>mapa base</b> (conocido comúnmente como <a href="https://wiki.openstreetmap.org/wiki/Basemap">basemap</a>, <i>mapa de referencia</i>, o <i>mapa de fondo</i>), que es el que da contexto para superponer los datos geolocalizados, es importante tener en cuenta que todos estén en el mismo sistema de referencia <sup><a href="#3-sistemas-de-referencia-en-la-arcgis-maps-sdk-for-javascript">[3]</a></sup>.
+    </p>
     <blockquote>
-    <strong>¿Cómo se refleja todo esto en una biblioteca de mapas/SIG?</strong> por ejemplo, en la <a href="https://developers.arcgis.com/javascript/latest/">ArcGIS Maps SDK for JavaScript</a>, multitud de clases tienen una propiedad "spatialReference" que es donde se define el sistema de referencia, por ejemplo las que se usan para representar la vista del mapa (<a href="https://developers.arcgis.com/javascript/latest/api-reference/esri-views-MapView.html#spatialReference">MapView</a> para mapas 2D, y <a href="https://developers.arcgis.com/javascript/latest/api-reference/esri-views-SceneView.html#spatialReference">SceneView</a> para mapas 3D), las clases utilizadas para pintar los datos (<a href="https://developers.arcgis.com/javascript/latest/api-reference/esri-geometry-Point.html#properties-summary">Point</a>, <a href="https://developers.arcgis.com/javascript/latest/api-reference/esri-geometry-Polyline.html#spatialReference">Polyline</a>, etc)
+    <strong>¿Qué implicaciones tiene todo esto en una biblioteca de mapas/SIG?</strong> por ejemplo, en la <a href="https://developers.arcgis.com/javascript/latest/">ArcGIS Maps SDK for JavaScript</a>, multitud de clases tienen una propiedad "spatialReference" que es donde se define el sistema de referencia, por ejemplo las que se usan para representar la vista del mapa (<a href="https://developers.arcgis.com/javascript/latest/api-reference/esri-views-MapView.html#spatialReference">MapView</a> para mapas 2D, y <a href="https://developers.arcgis.com/javascript/latest/api-reference/esri-views-SceneView.html#spatialReference">SceneView</a> para mapas 3D), las clases utilizadas para pintar los datos (<a href="https://developers.arcgis.com/javascript/latest/api-reference/esri-geometry-Point.html#properties-summary">Point</a>, <a href="https://developers.arcgis.com/javascript/latest/api-reference/esri-geometry-Polyline.html#spatialReference">Polyline</a>, etc)
     </blockquote>
     
 
@@ -151,11 +184,17 @@ import Ed50VsWgs84 from './intro-sig-arcgis/ed50-vs-wgs84.png';
   <TabItem value="deformaciones" label="🌀 Distorsiones">
   <p>Para demostrar las distorsiones que provocan algunas proyecciones os dejo un vídeo de <a href="https://developers.arcgis.com/documentation/mapping-apis-and-services/spatial-analysis/geometry-analysis/projection/">una aplicación que hice</a> que te permite seleccionar la proyección en la que quieres que se pinten los datos de un fichero que contiene las fronteras de todos los países, y luego muestra un área de 1000km alrededor de la ubicación del cursor (la misma posición tanto en el mapa en 2D, como en el mapa en 3D).</p>
    <div style={{textAlign: 'center'}}>
-   <iframe width="507" height="315" src="https://www.youtube.com/embed/MGARty5xrMU?si=PaK21-mnalFUbFm2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <div class="sixteen-nine">
+      <iframe class="content" width="507" height="315" src="https://www.youtube.com/embed/MGARty5xrMU?si=PaK21-mnalFUbFm2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
    </div>
    <blockquote><strong>👀 Fíjate en el desplegable</strong>: las proyecciones están agrupadas por <a href="https://es.wikipedia.org/wiki/Proyecci%C3%B3n_acimutal_equidistante">equidistantes</a>, <a href="https://en.wikipedia.org/wiki/Conformal_map_projection">conformal</a>, ... y está indicado qué distorniones provoca cada proyección.</blockquote>
   </TabItem>
 </Tabs>
+
+---
+
+> **Note**: Aunque para los casos más básicos esto no sea muy relevante, es importante saber que tecnologías populares como Google Maps o Leaflet tienen un soporte limitado para trabajar con datos en diferentes proyecciones ([1](https://developers.google.com/maps/documentation/javascript/examples/map-projection-simple), [2](https://gis.stackexchange.com/questions/198695/leaflet-changing-base-map-crs))
 
 ----
 
@@ -231,18 +270,18 @@ Aunque los datos vectoriales son frecuentes en todos los campos y sectores econ�
 
 ## Capas de datos
 
-Otro concepto importante son las capas.
-
-Tanto a nivel de almacenamiento como a nivel de visualización, se suele trabajar en capas
-Cuando una aplicación es sencilla se pueden cargar los datos geolocalizdos recuperados pintando manualmente en una capa gráfica... entonces
-
-De manera análoga a como se trabaja con herramientas de diseño gráfico como Photoshop, los datos en un SIG se suelen organizar y persistir por capas:
+De manera análoga a como se trabaja con herramientas de diseño gráfico como Photoshop, los datos en un SIG se suelen organizar, almacenar por capas porque se adapta mejor a las necesidades específicas de representación, análisis y visualización de datos geolocalizados.
 
 [![](./intro-sig-arcgis/capas-de-datos-gis.png)](./intro-sig-arcgis/capas-de-datos-gis.png)
 
-Si te fijas en la imagen, verás que en cada capa de datos vectoriales, el tipo de geometría es homogénea<sup>1</sup> (puntos, líneas, ...), salvo en la capa gráfica que aparece encima de todas. 
+Si te fijas en la imagen verás:
+* En la parte superior una capa gráfica que contiene diferentes tipos de geometrías
+* Que en la parte intermedia cada capa contiene un único tipo de geometría<sup>1</sup> (puntos, líneas, o polígonos). 
+* Y en la parte inferior hay dos capas raster, la de elevación (relieve) y la del mapa satélite de fondo.
 
-Las capas gráficas se usan normalmente para mejorar la usabilidad de las aplicaciones, y sirven para representar elementos mientras se interactúa con la aplicación (por ejemplo mostrar un pin tras hacer la búsqueda de una dirección, mostrar la traza de una geometría mientras se está creando, etc).
+Las capas gráficas se usan normalmente:
+1. Para mejorar la usabilidad de las aplicaciones, y sirven para representar elementos mientras se interactúa con la aplicación (por ejemplo mostrar un "pin"/marcador tras hacer la búsqueda de una dirección, mostrar la traza de una geometría mientras se está dibujando, etc).
+2. Aunque cuando una aplicación es muy sencilla, los propios datos geolocalizados se puede añadir manualmente en una capa gráfica.
 
 Del mismo modo, en [portales de datos abiertos](#datos-abiertos) lo normal es encontrar ficheros donde cada uno representa una capa de datos.
 
@@ -265,14 +304,14 @@ Es habitual que cuando estos datos se alojen en un SGBD relacional, cada capa se
 
 ## Formatos de datos
 
-Antes de pasar a las bases de datos, vamos a repasar los formatos en los que solemos encontrar datos en internet, ya sea en archivos o en APIs y que sirven para mejorar la interoperabilidad entre sistemas, pero sin entrar en cómo se representan.
+Antes de pasar a las bases de datos, vamos a repasar los formatos en los que solemos encontrar datos en internet, ya sea en archivos estáticos o a través de APIs, y que sirven para mejorar la interoperabilidad entre sistemas. Aunque no entraremos en detalle en cómo se representan.
 
 ### Para datos vectoriales
 
 ** ⚠️ Pendiente de hacer**
 
 <!-- * Extensiones a formatos de texto plano que definen esquemas:
-  * JSON -> [GeoJSON](https://en.wikipedia.org/wiki/GeoJSON) y [TopoJSON](https://en.wikipedia.org/wiki/GeoJSON#TopoJSON)
+  * JSON -> [GeoJSON](https://en.wikipedia.org/wiki/GeoJSON), ver [GeoJSON JSON Schema](https://github.com/geojson/schema) y [TopoJSON](https://en.wikipedia.org/wiki/GeoJSON#TopoJSON)
   * XML -> [KML](https://en.wikipedia.org/wiki/Keyhole_Markup_Language), [GPX](https://en.wikipedia.org/wiki/GPS_Exchange_Format), [GML](https://es.wikipedia.org/wiki/Geography_Markup_Language), ...
   * CSV -> GeoCSV
 * Comprimidos:
@@ -337,6 +376,7 @@ https://en.wikipedia.org/wiki/Spatial_database#List -->
 
 <!-- nginx Apache pero para servir
 
+tabla rosetta de capas 
 o share, process and edit geospatial data. Designed for interoperability, it publishes data from any major spatial data source using open standards.
 
 Cuando los datos se ofrecen vía API, se suelen servir en formatos de texto plano, GeoJSON ubitualmente, aunque puede ser KML, JSON, TopoJSON, CSV/GeoCSV, KML, ... 
@@ -377,6 +417,9 @@ https://docs.google.com/spreadsheets/d/1bF4YYH7bXPSLI___zMfh3tDfSxDlWWZLkkuT5vD4
 <!-- Stiching... en WebGL, canvas, ... sopo
 https://docs.google.com/presentation/d/16wNWpNhnzxVxQ1TXPccERxBfi_q2T8sKBMHHbi6rcOg/edit#slide=id.g6c1957d15_1161
 
+learn Renderers using  mapviewer, scene viewer
+VTSE
+
 [Thematic Mapping: 101 Inspiring Ways to Visualise Empirical Data](https://amzn.eu/d/68PvGRm)
 [Cartography](https://amzn.eu/d/7WcAz4p)
 
@@ -407,7 +450,10 @@ SDKs + arcpy
 
 Para asegurar calidad de datos, comprobar topologías, generar nuevos datos -->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3e5LzMgF1w?si=VRafuHLn9P1u3c4Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="sixteen-nine">
+  <iframe class="content" width="560" height="315" src="https://www.youtube.com/embed/y3e5LzMgF1w?si=VRafuHLn9P1u3c4Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 
 <!-- ### Geoestadística
 

@@ -71,3 +71,12 @@
   width: 100%;
   height: 100%;
 }
+
+.float-right{
+  float: right;
+  margin: 0 0 1rem 1rem;
+}
+.tabs-container > div{
+  background-color: #f15b2414 !important;
+  padding: 1rem !important;
+}
