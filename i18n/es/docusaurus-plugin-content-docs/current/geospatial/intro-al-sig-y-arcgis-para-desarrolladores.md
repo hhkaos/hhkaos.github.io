@@ -117,7 +117,7 @@ import Wgs84VsMercator from './intro-sig-arcgis/wgs84vs-mercator.png';
   </TabItem>
   <TabItem value="coordenadas" label="📍 Sistema de referencia" default>
     <p>Habitualmente pensamos que unas <a href="https://es.wikipedia.org/wiki/Coordenadas_geogr%C3%A1ficas">coordenadas geográficas</a> (por ejemplo: [latitud, longitud]) corresponden siempre a una única ubicación en la tierra, pero esto no tiene por qué ser así, ya que dependen del sistema de coordenadas al que estén asociadas. </p>
-    <p>En la siguiente imagen se ven representadas el mismo par de coordenadas ([-3.684217, 40.415779]), pero cada una de ellas asociadas a un sistema de referencia diferente, a la izquierda en <a href="https://epsg.io/map#srs=4326&x=-3.684308&y=40.415769&z=16&layer=satellite">EPSG 4326 / WGS84</a> y a la derecha en <a href="https://epsg.io/map#srs=4230&x=-3.684217&y=40.415779&z=16&layer=satellite">EPSG 4230 / ED50</a>. En la parte inferior se muestran dos ejemplos de cómo se representan esas coordenadas en formato JSON usando dos esquemas distintos (GeoJSON y Esri JSON) y cómo se espefica el sistema de referencia.</p>
+    <p>En la siguiente imagen se ven representadas el mismo par de coordenadas ([-3.684217, 40.415779]), pero cada una de ellas asociadas a un sistema de referencia diferente, a la izquierda en <a href="https://epsg.io/map#srs=4326&x=-3.684308&y=40.415769&z=16&layer=satellite">EPSG 4326 / WGS84</a> y a la derecha en <a href="https://epsg.io/map#srs=4230&x=-3.684217&y=40.415779&z=16&layer=satellite">EPSG 4230 / ED50</a>. En la parte inferior se muestran dos ejemplos de cómo se representan esas coordenadas en formato JSON usando dos esquemas distintos (GeoJSON/JSON-FG y Esri JSON) y cómo se espefica el sistema de referencia.</p>
     <div style={{textAlign: 'center'}}>
       <img src={Ed50VsWgs84} />
     </div>
@@ -135,6 +135,8 @@ import Wgs84VsMercator from './intro-sig-arcgis/wgs84vs-mercator.png';
     <img src={PrecisionVsExactitud}/>
   </div>
   <p>Por tanto, es importante tener claros los requisitos de exactitud y precisión del proyecto, y asegurarse de que los métodos de recopilación de datos sean los adecuados. Veremos más en el apartado: <a href="#captura--generación">Captura / generación</a>.</p>
+  <!-- <p>WGS puede introducir 2 metros de error: https://en.wikipedia.org/wiki/World_Geodetic_System#Updates_and_new_standards. At inception, WGS84 provided positional accuracy in the order of one to two metres. Over time, the datum has been mathematically refined and the input parameters revised to reflect new gravitational models, improving resultant accuracies to mere centimetres.</p> Influencia del movimiento de las placas tectónicas (0-10cm anual) https://en.wikipedia.org/wiki/Plate_tectonics https://www.youtube.com/watch?v=q-ng6YpxHxU https://www.exprodat.com/blog/how-tectonic-motion-is-affecting-your-map-accuracy/ Proyectos que requieren de precisión centimétrica en los datos de geolocalización (GPS / GNSS de alta precisión), Sistemas de navegación para vehículos autónomos y robots (AR navigation) Construcción de edificios de gran altura, Instalación de tuberías; . Indoor positioning and navigation
+  -->
   </TabItem>
   
 </Tabs>
@@ -214,7 +216,9 @@ Las restricciones, limitaciones o *constraints* topológicas se pueden definir a
 
 ### Datos vectoriales
 
-Usaremos [datos vectoriales](#datos-vectoriales) para geolocalizar [entidades geográficas](https://en.wikipedia.org/wiki/Geographical_feature) que tienen una identidad y localización claramente diferenciada a otras entidades geográficas (a veces se les llama entidades discretas), por ejemplo: objetos, edificios, posiciones, perímetros, ... 
+Usaremos [datos vectoriales](#datos-vectoriales) para geolocalizar [entidades geográficas](https://en.wikipedia.org/wiki/Geographical_feature) (geographical ***features***, un término que se usa mucho) que tienen una identidad y localización claramente diferenciada a otras entidades geográficas (a veces se les llama entidades discretas), por ejemplo: objetos, edificios, posiciones, perímetros, ... 
+
+<!-- https://ogcapi.ogc.org/features/ -->
 
 La ubicación de estos datos se pueden representar con diferentes tipos de geometrías, y el **tipo de geometrías soportadas** por cada tecnología, **la forma de representarlas internamente**, e incluso **el nombre que se les da**, varía entre unas tecnologías y otras<sup><a href="#6-tipos-de-geometría-geojsongeometrías-en-arcgis-formas-de-google">[6]</a></sup> (bases de datos, SDKs, formatos de archivo, etc). 
 
@@ -308,12 +312,19 @@ Es habitual que cuando estos datos se alojen en un SGBD relacional, cada capa se
 
 Antes de pasar a las bases de datos, vamos a repasar los formatos en los que solemos encontrar datos en internet, ya sea en archivos estáticos o a través de APIs, y que sirven para mejorar la interoperabilidad entre sistemas. Aunque no entraremos en detalle en cómo se representan.
 
+<!--
+The same way W3c, IETF and IEEE (LAN, WAN, PAN), there is an OGC
+https://twitter.com/opengeospatial/status/1758131563638743349
+
+
+-->
+
 ### Para datos vectoriales
 
 ** ⚠️ Pendiente de hacer**
 
 <!-- * Extensiones a formatos de texto plano que definen esquemas:
-  * JSON -> [GeoJSON](https://en.wikipedia.org/wiki/GeoJSON), ver [GeoJSON JSON Schema](https://github.com/geojson/schema) y [TopoJSON](https://en.wikipedia.org/wiki/GeoJSON#TopoJSON)
+  * JSON -> [GeoJSON](https://en.wikipedia.org/wiki/GeoJSON), ver [GeoJSON JSON Schema](https://github.com/geojson/schema) y [TopoJSON](https://en.wikipedia.org/wiki/GeoJSON#TopoJSON), JSON-FG
   * XML -> [KML](https://en.wikipedia.org/wiki/Keyhole_Markup_Language), [GPX](https://en.wikipedia.org/wiki/GPS_Exchange_Format), [GML](https://es.wikipedia.org/wiki/Geography_Markup_Language), ...
   * CSV -> GeoCSV
 * Comprimidos:
@@ -321,7 +332,7 @@ Antes de pasar a las bases de datos, vamos a repasar los formatos en los que sol
     * Shapefile
     * [GTFS](https://en.wikipedia.org/wiki/GTFS), ...
     * KMZ
-  * Protobuf
+  * Protobuf -> https://github.com/Esri/arcgis-pbf
   * Otros
   * Geoparquet
   * Protomaps
@@ -352,31 +363,46 @@ Si quieres explorar más, aquí tienes un [listado de formatos de ficheros para 
 
 ** ⚠️ Pendiente de hacer**
 
-<!-- Aunque hay ficheros de datos geoespaciales avanzados, como FBG que usar una base de datos Access. "Enterprise database"..
+<!--
+
+ Aunque hay ficheros de datos geoespaciales avanzados, como FBG que usar una base de datos Access. "Enterprise database"..
 ventajas de usar bases de datos editar ficheros directamente vs 
 
 Al igual que en cualquier otro sistema, cuando neLo acceso multi usuario, etc
 
 para gestionar eficientemente estos datos, se han creado extensiones, módulos, plugins, ... que se añaden a los SGBDs que conocemos para dotarles de funcionalidades para poder trabajar con datos geolocalizados (por ej: hacer [operaciones geometricas](https://developers.arcgis.com/documentation/mapping-apis-and-services/spatial-analysis/geometry-analysis/introduction/#types-of-geometry-operations) como  calcular distancias entre puntos, buscar puntos dentro de un polígono, ...).
 
+PostGIS extension mantenido por el software geoespacial es OSGEO: https://en.wikipedia.org/wiki/Open_Source_Geospatial_Foundation (but much smaller) Equivalente a la Apache Software Foundation para 
+
 * ¿Habilitar una base de datos relacional como espacial?:
       * Viejo: [Understanding ArcSDE](https://downloads.esri.com/support/documentation/sde_/706understanding_arcsde.pdf) (Database schema)
       * Crear una "Enterprise Geodatabase" de Esri (\== añadir ArcSDE a un SGBD) en PostgreSQL: https://pro.arcgis.com/en/pro-app/3.1/help/data/geodatabases/manage-postgresql/setup-geodatabase-postgresql-windows.htm (mediante la herramienta de escritorio) también se soportan (MS SQL Server, Oracale, SAP HANA, ... [más](https://pro.arcgis.com/en/pro-app/3.1/help/data/geodatabases/introduction/geodatabase-administration.htm)); existen otros tipos de Geodatabases (file geodatabase, mobile geodatabase, ...)
       * Igual extensiones para dotar de capacidades para trabajar con datos geolocalizados a la BD: ArcSDE (de Esri) existen PostGIS (para PostgreSQL), SpatiaLite (para SQLite), Oracle Spatial (para Orace) etc. <- cada una con unas capacidades
+duckdb extension
+https://duckdb.org/docs/extensions/spatial.html
 * ¿Cuál es la UI para diseñar/modificar una Esri Enterprise Geodatabases? (del SGDB):
       * Normalmente se hace a través de herramientas y "Wizards" de escritorio (ArcGIS Pro) ([ejemplo](https://youtu.be/L2hmTvSEK0c?si=GZ2qiy-mF0TBDxjj&t=286))
       * Los usuarios avanzados pueden abrir la UI por defecto el SGBD y ver (aunque se recomienda encareciadamente no tocar directamente)
       * Una vez publicado un servicio, se ofrece una interfaz&API para poder modificar el servicio e incluso modificar esquema (aunque no existe documentación para casos avanzados). Un ejemplo: https://youtu.be/D9PMC2yGJbA?si=vx6ugoQtSDmj18DA&t=647
       * Esta es la misma inte
 
-https://en.wikipedia.org/wiki/Spatial_database#List -->
+https://en.wikipedia.org/wiki/Spatial_database#List
+
+otros amagos de docs:
+* [Introducción a las bases de datos en ArcGIS - GeoDatabases (para informáticos)](https://docs.google.com/document/d/1yVjQg9fi9bTO158IqEnyDrtCKVFvoA_rlE4ziYsUIIc/edit)
+* [Introducción a las bases de datos en ArcGIS - GeoDatabases](https://docs.google.com/document/d/1mc1fTGuRax2vEq1EgBQl5cnK8CwJQi4MMDyllCtddbY/edit)
+* [Guión de la playlist: Introducción a ArcGIS para "dummies"](https://docs.google.com/document/d/1mx-PDrwcZHjVyNWYsgwN4eZwJK38XT8KNjiUVqYqrGs/edit)
+ -->
 
 
 ## Servidores y APIs
 
 ** ⚠️ Pendiente de hacer**
 
-<!-- nginx Apache pero para servir
+<!-- nginx Apache pero para servir, infraestructura backend para servir los datos, etc.
+
+The Billion Dollar Code: https://www.netflix.com/es-en/title/81074012
+Intrevista a Brian McClendon (co-founded Keyhole): https://www.mindsbehindmaps.com/episode/brian-mcclendon-the-story-of-google-maps-pokemon-go-amp-keyhole-mbm59
 
 tabla rosetta de capas 
 o share, process and edit geospatial data. Designed for interoperability, it publishes data from any major spatial data source using open standards.
@@ -393,7 +419,34 @@ Un mapa base con 23 niveles de zoom puede pesar ~20.480 GB (en raster con tesela
 [Desktop Mapping: Creating Vector Tiles](https://youtu.be/dqKsEos1iSw?si=JTsb9KtbGRyETyDP&t=732)
 [Cómo se crean y almacenan los mapas base](https://www.youtube.com/live/b182O1Yscnc?si=LmaA1Wa5318GpZbT&t=239)
 
+Showing tiles and vertex https://codepen.io/matt9222/pen/OJqdZBV
+
 * Hoy en día se publican servicios/APIs con especificaciones públicas, ya sean estándares (OGC, función equivalente al W3C pero en el ámbito espacial) o no: https://esri-es.github.io/awesome-arcgis/arcgis/content/data-storage/service-types/
+
+TMS especificación de OSGEO
+
+
+Geocoders son motores de búsqueda que no sólo hacen fuzzy search (o fuzzy string searching / correspondencia aproximada de cadenas) (e.g. google refine [clustering methods](https://openrefine.org/docs/manual/cellediting#cluster-and-edit)) ya que hay muchos lugares en el mundo con varios nombres alternativos (el nombre oficial y otros nombres por los que se les conoce localmente). historical names. https://pro.arcgis.com/en/pro-app/3.1/help/data/geocoding/alternate-name-table-roles.htm (e.g. Interstate 10 in California = Christopher Columbus Transcontinental Highway https://en.wikipedia.org/wiki/Interstate_10_in_California). [Place ID](https://developers.google.com/maps/documentation/places/web-service/place-id) / [GERS](https://overturemaps.org/enriching-overture-maps-data-with-gers/). [Pelias](https://pelias.io/). Multi language / https://openaddresses.io/
+Open Cage interview https://podcast.scalingdevtools.com/episodes/ed-freyfogle/transcript (7:00min tried yourself) first learn the developers like to tinker and play, so a lot of people need to first learn the hard lesson that it's, uh, it's better for us to do it for them.
+The data is changing continually (OSM gets five to 6 million edits a day). 
+Ana Deyde: https://youtu.be/H1SzQtK057k . Why building and maintaining your own geocoder service might not be a good idea? Edge cases, complexities?
+In open streetmap https://wiki.openstreetmap.org/wiki/Names#Name_keys
+UK postal codes https://en.wikipedia.org/wiki/Postcodes_in_the_United_Kingdom#Formatting
+Problema con Place ID: https://www.youtube.com/live/QAgKhprUftM?si=Q0iXMgWo9L3yZZT5&t=1072 (e.g. Santa marta de los barros (https://es.wikipedia.org/wiki/Santa_Marta_(Badajoz)), Sta Marta de los Barros, Santa marta de barros, Sta Mta de los Barros) -> https://www.geonames.org/6355986/santa-marta.html (alternate names), Sevilla, Seville, ... autocompletado/geosearch (predict)
+Difficult, not exicting or glamourous.
+Comparando 10 geocoders https://slides.com/hhkaos/geocodificadores
+
+ Alternate names, alternate spelling's, localised versions of place name. https://www.geonames.org/
+
+For example, the below two addresses if matched using an exact match algorithm will fail but actually, these are the same places :
+
+* 134 Ashewood Walk, Summerhill Lane, Portlaoise
+* 134 Summerhill Ln, Ashewood Walk, Summerhill, Portlaoise, Co. Laois, R32 C52X, Ireland
+More: https://prakhargurawa.medium.com/fuzzy-address-matching-algorithm-using-googles-geocoding-api-74c0d8d6a56f
+
+ArcGIS Enterprise vs Online vs Plaform (slides) & GeoServer (otro proyecto de OsGEO)
+
+Enterprise also adds a portal/catalog is a map-centric content management system  in which an organization can utilize the web geographic information system (GIS) portal concept in an infrastructure. Members within an organization can use this for ... ([more](https://wiki.gis.com/wiki/index.php/Portal_for_ArcGIS))
 
 Open api espect of ocg apis? -->
 
@@ -404,11 +457,17 @@ Open api espect of ocg apis? -->
 <!-- Una vez comprendidos los diferentes [tipos de datos geolocalizados](#datos-geolocalizados), en qué [formatos](#formatos-de-archivo) en los que se pueden almacenar/exportar y compartir, 
 Con todo lo que hemos visto ya estamos preparados para entender
 
+OpenStreetMap
 IDEs, etcportales open data, ..
+
+
+Google: https://takeout.google.com/ 
+Location History (Timeline)
+Your Timeline data, like settings and locations.
 
 como [datos.gob.es](https://datos.gob.es) o [hub.arcgis.com](https://hub.arcgis.com/)
 
-https://github.com/esri-es/open-data-search
+https://github.com/esri-es/open-data-search <- awesome data >
 https://medium.com/@ochwada/navigating-the-world-of-free-geospatial-data-a-comprehensive-guide-114ded8b0196
 https://docs.google.com/spreadsheets/d/1bF4YYH7bXPSLI___zMfh3tDfSxDlWWZLkkuT5vD4zHQ/edit#gid=746167425 -->
 
@@ -470,6 +529,8 @@ https://developers.arcgis.com/rest/geoenrichment/api-reference/data-apportionmen
 Extracción (semi) automática de entidad, Detección de cambios, predicciones, indentificar patrones
 #1-the-birth-and-evolution-of-geoai
 
+https://medium.com/geoai
+
 [Spatial Statistics Illustrated](https://amzn.eu/d/b2Cj8kI) -->
 
 
@@ -477,7 +538,7 @@ Extracción (semi) automática de entidad, Detección de cambios, predicciones, 
 
 ** ⚠️ Pendiente de hacer**
 
-<!-- Desktop, transformación, interoperability, portal / GDAL, etc -->
+<!-- Desktop ArcGIS & QGIS(otro proyecto de OsGEO), gvSIG desarrollando en España, transformación, interoperability, portal  GDAL/OGR (otro proyecto de OsGEO), etc -->
 
 ## Captura / generación
 
@@ -510,34 +571,17 @@ Posiciones GPS
 
 https://en.wikipedia.org/wiki/Ground_truth#Geographical_information_systems -->
 
+<!-- 
+
+Getting started with ArcGIS
+Para frontend developers: https://docs.google.com/document/d/18Eq6y_VTOmbl0e4qIEyPszXixNB9FytumhchoR3lv10/edit?usp=sharing
+ -->
+
 ## Historia del GIS
  
 A veces, que sin conocer la historia y su evolución, cuesta entender en el presente. Por eso, en ~2018 creé la web [Introducción al GIS, ArcGIS y Esri](https://geogeeks.maps.arcgis.com/apps/MapSeries/index.html?appid=5a6400a6d9bb45d4a6c389b11de39b45) con el objetivo de ayudar a entender por qué los sistemas de información geográfica son hoy como son:
 
 [![Pantallazo de la web: Introducción al GIS, ArcGIS y Esri](./intro-sig-arcgis/introduccion-a-gis-arcgis-y-esri.png)](https://geogeeks.maps.arcgis.com/apps/MapSeries/index.html?appid=5a6400a6d9bb45d4a6c389b11de39b45)
-
-<!-- ## ELIMINAR
-
-Si no te interesa tanto la historia, aquí tienes una charla titulada "[Introducción al GIS para desarrolladores](https://www.youtube.com/live/6YCBgJqJ7Hs?si=7cWRG7bn1NE5bH0U)" que toca varias cosas a modo introductorio:
-
-* [Qué es un GIS y para que se usan](https://www.youtube.com/live/6YCBgJqJ7Hs?si=hS_3Kk5r0A1-_Hpd&t=134)
-* [Qué hace un GIS que no pueda hacer yo](https://www.youtube.com/live/6YCBgJqJ7Hs?si=PVWVs4D1hipRa0cc&t=500) (por mi cuenta)
-* [Por qué son necesarios](https://www.youtube.com/live/6YCBgJqJ7Hs?si=zFf91J88LzmluyXt&t=577)
-* [Sistemas de referencia](https://www.youtube.com/live/6YCBgJqJ7Hs?si=tmOyepORsH2oRriT&t=628)
-* [Sistemas de proyección](https://www.youtube.com/live/6YCBgJqJ7Hs?si=5oGNEYkrpuvvIWre&t=890)
-* [Qué hace un GIS](https://www.youtube.com/live/6YCBgJqJ7Hs?si=A9HmHdDmHTS9v6TO&t=1018)
-* [¿Puedo hacer esto sin un GIS?](https://www.youtube.com/live/6YCBgJqJ7Hs?si=OpmNswzmZp2I__zr&t=1116)
-* [Flujo de trabajo habitual](https://www.youtube.com/live/6YCBgJqJ7Hs?si=wwuIcdW4Vu4YOQZR&t=1187)
-* [Servicios de mapas de fondo (mapas base)](https://www.youtube.com/live/6YCBgJqJ7Hs?si=SRk9sMLTqEStZO9A&t=1283)
-* [Factores a valorar en un servicio de mapas](https://www.youtube.com/live/6YCBgJqJ7Hs?si=Q-Lm0KQtj4zMkPJK&t=1430)
-* [Fuentes de datos](https://www.youtube.com/live/6YCBgJqJ7Hs?si=3ZayJb8xokEXug_h&t=1601)
-* [Formatos de ficheros de datos geográficos](https://www.youtube.com/live/6YCBgJqJ7Hs?si=5V517M8Tb1wgv0lm&t=1759)
-* [Cómo se almacenan los datos en un GIS](https://www.youtube.com/live/6YCBgJqJ7Hs?si=oHQbGv_voCLp40sJ&t=2221)
-* [Diferencias en BBDD alfanuméricas y geográficas](https://www.youtube.com/live/6YCBgJqJ7Hs?si=rtmYGbl96K-EaBbh&t=2266)
-* [La complejidad de pintar mapas](https://www.youtube.com/live/6YCBgJqJ7Hs?si=9GIdJQ4MZOvN0eM9&t=2323)
-* [Funcionalidades de un GIS](https://www.youtube.com/live/6YCBgJqJ7Hs?si=RyM1jmjODhwJIy0-&t=2460)
-
-> **Nota** Aunque creo que la información sigue siendo válida, hay cosas que contaría de otra manera, y otras cosas que añadiría. -->
 
 ## Conclusión
 
