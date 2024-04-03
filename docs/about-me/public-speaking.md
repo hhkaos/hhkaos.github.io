@@ -50,7 +50,7 @@ The first big conference I remember attended was the [Google Developer Day in 20
 
 * 2012 - PideCurso - [Nuevos Retos (UGR y EOI Sevilla)](https://www.flickr.com/photos/pidecurso/with/6986850859)
 * 2012 - NSConf- [Sencha touch - Proceso básico de desarrollo](https://www.slideshare.net/hhKaoS/sencha-touch-proceso-bsico-de-desarrollo)
-* 2013 - Google DevFest Sur - [Herramientas para la optimización](https://www.slideshare.net/hhKaoS/herramientas-para-la-optimizacin-un-enfoque-prctico)
+* 2013 - Google DevFest Sur - [Herramientas para la optimización](https://www.slideshare.net/hhKaoS/herramientas-para-la-optimizacin-un-enfoque-prctico) ([video](https://www.youtube.com/watch?v=NIl5-CHRbZs))
 * 2015 - Statup Weekend Summit - [Building a strong community feeling](https://docs.google.com/presentation/d/1q_qpGc-tsx6xQXqO1VhS8nnxQhMVQhvDHRe1vxRtqfQ/edit?usp=sharing)
 * 2015 - VIII Congreso RITSI - [APIs y SDKs para GeoDevelopers](https://cadiz2015.congreso.ritsi.org/programa/)
 * 2016 - The API Hour (BBVA) - [Hackeando la API de ArcGIS con AngularJS](https://www.youtube.com/watch?v=p0atBUO6Yxo)

@@ -455,6 +455,7 @@ Programming in general:
 * freecodecamp.org: https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ (+8.95M)
 * Intellipaat: https://www.youtube.com/intellipaaat (+8.22M)
 * Programming with Mosh: https://www.youtube.com/c/programmingwithmosh (+3.7M)
+* Fireship: https://www.youtube.com/@Fireship (+2.79M)
 * Telusko: https://www.youtube.com/@Telusko (+2.2M)
 * Traversy Media: https://www.youtube.com/c/traversymedia (+2.19M)
 * ProgrammingKnowledge: https://www.youtube.com/c/ProgrammingKnowledge (+1.72M)
