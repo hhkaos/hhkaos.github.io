@@ -135,12 +135,11 @@ import Wgs84VsMercator from './intro-sig-arcgis/wgs84vs-mercator.png';
     <img src={PrecisionVsExactitud}/>
   </div>
   <p>Por tanto, es importante tener claros los requisitos de exactitud y precisión del proyecto, y asegurarse de que los métodos de recopilación de datos sean los adecuados. Veremos más en el apartado: <a href="#captura--generación">Captura / generación</a>.</p>
-  <!-- <p>WGS puede introducir 2 metros de error: https://en.wikipedia.org/wiki/World_Geodetic_System#Updates_and_new_standards. At inception, WGS84 provided positional accuracy in the order of one to two metres. Over time, the datum has been mathematically refined and the input parameters revised to reflect new gravitational models, improving resultant accuracies to mere centimetres.</p> Influencia del movimiento de las placas tectónicas (0-10cm anual) https://en.wikipedia.org/wiki/Plate_tectonics https://www.youtube.com/watch?v=q-ng6YpxHxU https://www.exprodat.com/blog/how-tectonic-motion-is-affecting-your-map-accuracy/ Proyectos que requieren de precisión centimétrica en los datos de geolocalización (GPS / GNSS de alta precisión), Sistemas de navegación para vehículos autónomos y robots (AR navigation) Construcción de edificios de gran altura, Instalación de tuberías; . Indoor positioning and navigation
-  -->
   </TabItem>
-  
+
 </Tabs>
 
+<!-- WGS puede introducir 2 metros de error: https://en.wikipedia.org/wiki/World_Geodetic_System#Updates_and_new_standards. At inception, WGS84 provided positional accuracy in the order of one to two metres. Over time, the datum has been mathematically refined and the input parameters revised to reflect new gravitational models, improving resultant accuracies to mere centimetres. Influencia del movimiento de las placas tectónicas (0-10cm anual) https://en.wikipedia.org/wiki/Plate_tectonics https://www.youtube.com/watch?v=q-ng6YpxHxU https://www.exprodat.com/blog/how-tectonic-motion-is-affecting-your-map-accuracy/ Proyectos que requieren de precisión centimétrica en los datos de geolocalización (GPS / GNSS de alta precisión), Sistemas de navegación para vehículos autónomos y robots (AR navigation) Construcción de edificios de gran altura, Instalación de tuberías, Indoor positioning and navigation -->
 
 ---
 
