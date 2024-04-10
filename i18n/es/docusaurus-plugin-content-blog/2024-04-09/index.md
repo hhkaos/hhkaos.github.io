@@ -27,17 +27,21 @@ Esta situación es preocupante y triste para los que dinamizamos comunidades por
 
 Una de las preocupaciones que se han puesto de manifiesto es **que la edad media de las personas que forman parte de estas comunidades no para de crecer, **o lo que es lo mismo, cuesta enganchar a las nuevas generaciones. 
 
-Personalmente, me resisto a creer que se debe a que la experiencia que ofrecen las comunidades (entendidas [como explico luego](#qué-es-una-comunidad-tecnológica)) ya no aportan tanto valor a las nuevas generaciones como otros nuevos formatos, canales o "foros". En mi opinión se trata más de que la atención se está diversificando con el aumento de comunidades canales/medios (Discords, Slacks, ...), etc y el auge de los influencers. 
+Personalmente, me resisto a creer que se debe a que la experiencia que ofrecen las comunidades (entendidas [como explico luego](#qué-es-una-comunidad-tecnológica)) ya no aportan tanto valor a las nuevas generaciones como otros nuevos formatos, canales o "foros". 
 
-Aunque personalmente también pienso que el contacto digital está comiéndole más terreno al físico, no hay más que ver que ya casi todo se hace a través de apps: pedir comida, un taxi, hablar/chatear, trámites con la administración, ... ¡hasta ligar!. Por eso creo, que no es que las comunidades no aporten valor, si no que simplemente **tienen que tener en cuenta este cambio de contexto y reinventarse/modernizarse**.
+En [mi experiencia](#sobre-mi-experiencia-con-comunidades), se trata más de que la atención se está diversificando con el aumento de comunidades, canales/medios (Discords, Slacks, RRSS, ...) y el auge de los [influencers](https://twitter.com/i/lists/828546487369990144/members). 
+
+![En una habitación desordenada, una persona se esconde detrás de sus manos, ahogada entre pantallas y cables. Los ojos agotados reflejan la avalancha de notificaciones. Están perdidos en la soledad, sofocados bajo el peso de la sobrecarga de información. La conectividad digital se convierte en un tormento silencioso.](./information-saturation-noise-social-networks.png)
+
+Personalmente también pienso que el contacto digital está comiéndole más terreno al físico, no hay más que ver que **ya casi todo se hace a través de apps**: pedir comida, un taxi, hablar/chatear, trámites con la administración, ... ¡hasta ligar! 😅, y no me cabe duda que esto también tiene consecuencias. 
+
+Por eso creo, que no es que las comunidades no aporten valor, si no que simplemente **tienen que tener en cuenta este cambio de contexto y reinventarse/modernizarse**.
 
 > Un libro que me gusta mucho y que habla sobre adaptarse al cambio: [¿Quién se ha llevado mi queso?](https://www.amazon.es/%C2%BFQui%C3%A9n-llevado-queso-Narrativa-empresarial/dp/8495787091) 🧀🐁 . Como decía Albert Einstein, "_Locura es hacer lo mismo una y otra vez y esperar resultados diferentes_".
 
-En resumen, este planteamiento me ha llevado a publicar este artículo, con la esperanza de que compartiendo algunos de los **consejos** que escuché, y otros míos propios, pueda **ayudar a reflotar algunas comunidades y surjan otras nuevas. **
+En resumen, este planteamiento me ha llevado a publicar este artículo, con la esperanza de que compartiendo algunos de los **consejos** que escuché, y otros míos propios, pueda **ayudar a reflotar algunas comunidades y a que surjan otras nuevas. **
 
-> **Nota**: Si te interesa [mi experiencia, la he dejado al final del artículo](#sobre-mi-experiencia-con-comunidades).
-
-A continuación encontrarás ideas que espero te ayuden a hacer tu comunidad más sostenible en el tiempo, como:
+A continuación encontrarás ideas que espero os ayuden a hacer tu comunidad más sostenible en el tiempo, como:
 
 * [¿Cómo atraer a personas nuevas a nuestra comunidad?](#cómo-atraer-a-personas-nuevas-a-nuestra-comunidad)
 * [¿Cómo mantener el interés de las personas?](#cómo-mantener-el-interés-de-las-personas)
@@ -45,9 +49,9 @@ A continuación encontrarás ideas que espero te ayuden a hacer tu comunidad má
 
 La mayoría de estos consejos se aplican tanto a comunidades locales/presenciales como online, en pequeñas y en grandes ciudades, independientemente de que cada una tenga sus peculiaridades.
 
-Pero antes de entrar en materia quiero agradecer a [Dani Rey](https://www.linkedin.com/in/daniel-rey-rey-9022702a/) ([@kdarrey](https://twitter.com/kdarrey)) de [XantarDev](https://www.meetup.com/es-ES/XantarDev) y [al equipo de Commit](https://2023.commit-conf.com/es/team/) que hicieron posible que nos reuniésemos para compartir experiencias y reflexiones acerca de este gran tema. 
+Pero antes de entrar en materia **quiero agradecer a [Dani Rey](https://www.linkedin.com/in/daniel-rey-rey-9022702a/) ([@kdarrey](https://twitter.com/kdarrey)) de [XantarDev](https://www.meetup.com/es-ES/XantarDev) y [al equipo de Commit](https://2023.commit-conf.com/es/team/)**, que hicieron posible que nos reuniésemos para compartir experiencias y reflexiones acerca de este tema tan interesante y que ha sido el germen del artículo. 
 
-Comentar también que [al final del artículo](#asistentes-al-open-space) **he añadido un listado con todos los nombres** que pude recopilar **de las personas hicisteis aportaciones durante el open space a modo de agradecimiento**, porque como he dicho, he intentado que vuestras aportaciones estén reflejadas aquí. 
+Comentar también que al final del artículo **he añadido un [listado con todos los nombres](#asistentes-al-open-space)** que pude recopilar **de las personas hicisteis aportaciones durante el open space, a modo de agradecimiento** porque como he dicho, he intentado que vuestras aportaciones estén reflejadas aquí. 
 
 ¡Comenzamos! 😃
 
@@ -56,7 +60,11 @@ Comentar también que [al final del artículo](#asistentes-al-open-space) **he a
 
 O más bien, ¿**a qué me refiero con comunidad tecnológica**?
 
-Quizás sea bueno empezar por esta pregunta, ya que durante el encuentro, en mi opinión, hubo momentos en los que la conversación giró en torno a diferentes conceptos. Si buscamos el término [comunidad en el diccionario de la RAE](https://dle.rae.es/comunidad?m=form) veremos varias acepciones. Aunque creo que la que más se acerca es la acepción 4. "_Conjunto de personas vinculadas por características o intereses comunes_", voy a extenderla un poco, porque [existen otros muchos matices](https://twitter.com/DevRelPuzzle/status/1653365948072484865) que, de no tenerse en cuenta, pueden llevar a malentendidos.
+Quizás sea bueno empezar por esta pregunta, ya que durante el encuentro, en mi opinión, hubo momentos en los que la conversación giró en torno a diferentes conceptos. 
+
+Si buscamos el término [comunidad en el diccionario de la RAE](https://dle.rae.es/comunidad?m=form) veremos varias acepciones, aunque creo que la que más se acerca es la acepción 4: "_Conjunto de personas vinculadas por características o intereses comunes_".
+
+Si me lo permitís, voy a extenderla un poco, porque [existen otros muchos matices](https://twitter.com/DevRelPuzzle/status/1653365948072484865) que, de no tenerse en cuenta, pueden llevar a malentendidos.
 
 En el caso concreto de este artículo, estos consejos aplican principalmente a comunidades entendidas como **grupo de personas **(grupos de usuarios, asociaciones, meetups...) que:
 
@@ -67,7 +75,19 @@ En el caso concreto de este artículo, estos consejos aplican principalmente a c
 * están **siempre abiertas a nuevas personas**.
 * se sienten parte del grupo e identifican con él. 
 
-Dicho esto, ¿qué significa formar parte formar parte de la comunidad o grupo?, es una buena y difícil pregunta, aunque me temo que es algo subjetivo. Al final funciona igual que una relación de amistad, cuantas más interacciones y con mayor frecuencia, más oportunidades de conocer a otras personas, y mayor es el sentimiento de pertenencia al grupo. Aunque no depende únicamente del nivel de implicación o compromiso, que además este suele variar con el paso del tiempo, si que está relacionado. 
+<div style={{textAlign: 'center'}}>
+
+<figure>
+
+[![En un vibrante espacio de reunión, los tecnólogos se reúnen con caras animadas por el entusiasmo. Intercambian historias de código e innovación, compartiendo ansiosamente sus ideas y descubrimientos. Es un nexo de pasión, donde las ideas fluyen libremente, uniéndolas en una comunidad alimentada por un amor compartido por la tecnología.](./user-group-meetup-tech-community.png)](./user-group-meetup-tech-community.png)
+
+</figure>
+
+</div>
+
+Dicho esto, ¿qué significa formar parte formar parte de la comunidad o grupo?, ¿cómo se cuenta el tamaño de una comunidad?.
+
+Esta es difícil pregunta, y en mi opinión la respuesta es algo subjetiva. Para mi esto funciona igual que una relación de amistad, cuantas más interacciones tiene una persona y con mayor frecuencia... tendrás más oportunidades de fojar lazos con otras personas y aumentar el sentimiento de pertenencia al grupo. Y cuanto más sienta que está aportando, mayor será.
 
 Yo explicaba así los grados de implicación a mis compañeros de Esri hace varios años (antes de que [Jorge](https://www.linkedin.com/in/jorgebarrachina/) me descubriese la [teoría del 90-9-1](https://es.wikipedia.org/wiki/Teor%C3%ADa_90-9-1) y del *[Orbit Model](https://orbit.love/model)*; lo que me hizo evolucionarla): 
 
@@ -84,7 +104,7 @@ Yo explicaba así los grados de implicación a mis compañeros de Esri hace vari
 
 
 
-Como curiosidad dejo aquí otra taxonomía publicada por _[The Community RoundTable](https://communityroundtable.com/what-we-do/research/community-maturity-model/#:~:text=First%20published%20in%202009%2C%20the,required%20for%20successful%20community%20development)_, en este caso para categorizar las comunidades en función de madurez:
+Como curiosidad dejo aquí otra taxonomía publicada por _[The Community RoundTable](https://communityroundtable.com/what-we-do/research/community-maturity-model/#:~:text=First%20published%20in%202009%2C%20the,required%20for%20successful%20community%20development)_. En este caso sirve para categorizar las comunidades en función del nivel de madurez:
 
 <div style={{textAlign: 'center'}}>
 
@@ -97,7 +117,9 @@ Como curiosidad dejo aquí otra taxonomía publicada por _[The Community RoundTa
 
 </div>
 
-Dicho todo lo anterior, no quita que algunos de **estos consejos también se puedan aplicar a personas que se dediquen a divulgar contenido online o personas que organicen grandes conferencias**. Pero bueno, solo quería aclarar que esta es en mi experiencia y está basada principalmente en el tipo de comunidades que acabo de describir.
+Dicho todo lo anterior, no quita que algunos de **estos consejos también se puedan aplicar a personas que se dediquen a divulgar contenido online, o personas que organicen grandes conferencias**. 
+
+Pero bueno, solo quería aclarar que esta es en mi experiencia y está basada principalmente en el tipo de comunidades que acabo de describir.
 
 ## ¿Cómo atraer a personas nuevas a nuestra comunidad?
 
@@ -346,7 +368,7 @@ A continuación comento algunas de las propuestas que surgieron durante el Open 
 
 <figure>
 
-[![Foto del encuentro de comunidades del CommitConf 2023](./fotografia-del-open-space-comunidades-locales-fuera-de-grandes-ciudades-de-commitconf-2023-santyx_error.jpeg)]([./fotografia-del-open-space-comunidades-locales-fuera-de-grandes-ciudades-de-commitconf-2023-santyx_error.jpeg](https://twitter.com/santyx_error/status/1649761838312087552))
+[![Foto del encuentro de comunidades del CommitConf 2023](./fotografia-del-open-space-comunidades-locales-fuera-de-grandes-ciudades-de-commitconf-2023-santyx_error.jpeg)](https://twitter.com/santyx_error/status/1649761838312087552)
 
 <figcaption>Foto de Santiago B. / @Santyx_Error del Open Space</figcaption>
 </figure>
@@ -415,7 +437,7 @@ Este tema concretamente que no se discutió en el Open Space, pero es uno de los
 
 Por eso me gustaría hablar con otras personas sobre este asunto, especialmente con personas que tengan experiencia con comunidades que hayan mantenido la actividad constante durante diez o quince años, personas que hayan dinamizado organizaciones que no sigan una organización jerárquica, con una cultura de liderazgo compartido, etc.
 
-Si te interesa el tema, déjalo en los comentarios.
+Si os interesa el tema, déjalo en los comentarios.
 
 
 ### ¿Herramientas para gestionar una comunidad?
@@ -468,23 +490,25 @@ Como os prometí, aquí os dejo un listado de los nombres que pude captar durant
 
 Quiero agradecer también explícitamente a: [Soraya Muñoz](https://www.linkedin.com/in/soraya-mu%C3%B1oz/), [Juanma Ruiz](https://www.linkedin.com/in/juanmanuelruizfernandez/), y [Mariano Pérez Caro](https://www.linkedin.com/in/marianoperez/) las contribuciones y revisiones a este documento .
 
-
 ## Sobre mi experiencia con comunidades 
 
-En mi caso particular ... se podría decir que empecé en la universidad en 2009, desde entonces he participado en decenas de comunidades (técnicas y no técnicas), he organizado... diría que cerca 500 eventos (presenciales + online), y fundado o coorganizado las siguientes comunidades: 
+En mi caso particular ... se podría decir que empecé con este tipo concreto de comunidades en la universidad (en 2009), aunque empecé en comunidades online (IRC) en ~1999. Desde entonces he participado en decenas de comunidades (técnicas y no técnicas), he organizado... diría que cerca 500 eventos (entre presenciales y online), y [he participado, contribuido, moderado, fundado y coorganizado bastantes comunidades](/es/docs/about-me/open-culture#communities).
 
+## Iniciativas para organizadores de comunidades
 
-* [Asociación de Webmasters de Granada](https://web.archive.org/web/20220629094235/http://www.rauljimenez.info/proyectos/awgr/) y la [Asociación de Webmasters de Málaga](https://www.youtube.com/watch?v=3Wum7zkXYfM) (2009-2011)
-* [Iniciador Granada y Málaga](https://web.archive.org/web/20220809235955/http://rauljimenez.info/proyectos/iniciador/) (2009-2011)
-* [GDG Granada](https://web.archive.org/web/20220809225321/http://rauljimenez.info/proyectos/gdg/) y [GDG Spain](https://gdg.es/) (2010-2013)
-* [GeoDevelopers](https://www.geodevelopers.org/) (2014-2023)
-* Asociación [Tomelloso Tech](https://www.youtube.com/@TomellosoTech) (2018-2021)
-* [GeoVoluntarios](https://web.archive.org/web/20220116222822/https://geovoluntarios.org/) ó Asociación Española de GeoVoluntariado Digital (2020-2023)
+Me gustaría terminar listando y rescantado un tipo de **comunidades e iniciativas dirigidas a conectar a organizadores de comunidades**:
+* Lista de correo de CommitConf (2012-hoy)
+* [El meetup de Comunidades Tecnológicas de Madrid](https://www.meetup.com/es-ES/Comunidades-Tecnologicas-Madrid/?_locale=es-ES) ([ver en GitHub](https://github.com/comunidad-tecnologica)) (2014-2015)
+* [Community Leadership Summit Madrid](https://web.archive.org/web/20161202102359/http://www.clsxmadrid.es/index.es.html) (2015-2017)
+* [Community Leadership Summit (Internacional)](https://2020.allthingsopen.org/events/community-leadership-summit-2020/) (2020)
+* [Open Space: Comunidades locales fuera de grandes ciudades](https://koliseo.com/events/commit-2023/agenda/1) (2023)
+* [Málaga Community Organizers Day](https://geekstorming.wordpress.com/2023/12/20/sobre-malaga-community-organizers-day/) (2023)
+* [Open space: Principales retos que encuentran las comunidades tecnológicas y posibles estrategias para afrontarlos](https://2023.es.pycon.org/programa/) (2023)
+* [Open Space: Cómo sostener comunidades técnicas](https://koliseo.com/commit/2024/agenda/) (2024)
 
-Y me gustaría destacar una comunidad un tanto especial, que ojalá algún día encuentre gente con ganas de dinamizarla porque creo que podría hacer mucho bien, la [meta comunidad de organizadores de comunidades](https://www.meetup.com/es-ES/Comunidades-Tecnologicas-Madrid/?_locale=es-ES) ([ver en GitHub](https://github.com/comunidad-tecnologica)).
-
+Si conoces iniciativas que sirvan para poner en contacto a organizadores de comunidades, donde podamos seguir enriqueciéndonos de experiencias mutuas e idea... por favor añadela en los comentarios 🙏😊.
 
 ## ¿Y tú, qué opinas?
 
-¡Gracias por leer hasta el final!, espero tus comentarios
+**¡Gracias por leer hasta el final!**, espero tus comentarios con ideas, otros recursos que conozcas, opiones, o lo que quieras 😆
 
