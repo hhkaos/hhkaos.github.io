@@ -2,11 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.rauljimenez.info/blog</id>
     <title>RaulJimenez.info Blog</title>
-    <updated>2023-05-22T00:00:00.000Z</updated>
+    <updated>2024-04-09T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.rauljimenez.info/blog"/>
     <subtitle>RaulJimenez.info Blog</subtitle>
     <icon>https://www.rauljimenez.info/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Tech Community Leadership Handbook | Practical Tips and Examples]]></title>
+        <id>https://www.rauljimenez.info/blog/tech-community-leadership-handbook</id>
+        <link href="https://www.rauljimenez.info/blog/tech-community-leadership-handbook"/>
+        <updated>2024-04-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[📄 Note: Pending to be translated]]></summary>
+        <content type="html"><![CDATA[<blockquote><p><strong>📄 Note</strong>: Pending to be translated</p></blockquote>]]></content>
+        <author>
+            <name>Raul Jimenez Ortega</name>
+            <uri>https://github.com/hhkaos</uri>
+        </author>
+        <category label="guide" term="guide"/>
+        <category label="handbook" term="handbook"/>
+        <category label="community" term="community"/>
+        <category label="user groups" term="user groups"/>
+        <category label="meetups" term="meetups"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Attend Developer Conferences]]></title>
         <id>https://www.rauljimenez.info/blog/why-attend-developer-conferences</id>

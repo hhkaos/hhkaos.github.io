@@ -4,10 +4,23 @@
         <title>RaulJimenez.info Blog</title>
         <link>https://www.rauljimenez.info/blog</link>
         <description>RaulJimenez.info Blog</description>
-        <lastBuildDate>Mon, 22 May 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Apr 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Tech Community Leadership Handbook | Practical Tips and Examples]]></title>
+            <link>https://www.rauljimenez.info/blog/tech-community-leadership-handbook</link>
+            <guid>https://www.rauljimenez.info/blog/tech-community-leadership-handbook</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[📄 Note: Pending to be translated]]></description>
+            <content:encoded><![CDATA[<blockquote><p><strong>📄 Note</strong>: Pending to be translated</p></blockquote>]]></content:encoded>
+            <category>guide</category>
+            <category>handbook</category>
+            <category>community</category>
+            <category>user groups</category>
+            <category>meetups</category>
+        </item>
         <item>
             <title><![CDATA[Why Attend Developer Conferences]]></title>
             <link>https://www.rauljimenez.info/blog/why-attend-developer-conferences</link>
