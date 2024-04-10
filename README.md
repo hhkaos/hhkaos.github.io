@@ -4,6 +4,7 @@ This website is built using [Docusaurus 2](https://docusaurus.io/), a modern sta
 
 ## Development
 
+`npm run start`
 
 ### Translations
 
@@ -30,3 +31,6 @@ Use: `npm run doctoc` and the index.md file will create or update the TOC.
 
 
 ### Deployment
+
+To make sure the web Git
+`npm run docusaurus build`
