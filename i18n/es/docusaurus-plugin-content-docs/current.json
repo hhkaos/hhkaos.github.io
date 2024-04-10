@@ -34,5 +34,13 @@
   "sidebar.tutorialSidebar.category.🤓 About me.link.generated-index.description": {
     "message": "Todo tipo de cosas sobre mí y mi forma de ser.",
     "description": "The generated-index page description for category 🤓 About me in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.🌈 Tech Communities": {
+    "message": "🌈 Comunidades técnicas",
+    "description": "The label for category 🌈 Tech Communities in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.🌈 Tech Communities.link.generated-index.description": {
+    "message": "Recursos que recopilan experiencias sobre la gestión de comunidades técnicas, entendidas como comunidades tecnológicas.",
+    "description": "The generated-index page description for category 🌈 Tech Communities in sidebar tutorialSidebar"
   }
 }

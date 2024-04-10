@@ -80,3 +80,30 @@
   background-color: #f15b2414 !important;
   padding: 1rem !important;
 }
+article figure{
+  margin: 0;
+}
+
+
+article figure p{
+  margin-bottom: 0.5rem;
+}
+article figcaption{
+  font-size: .9rem;
+  color: gray;
+  margin-bottom: 1rem;
+  font-style: italic;
+}
+
+article img{
+  border: 1px solid #ccc;
+  box-shadow: 1px 0px 14px #ccc;
+}
+
+.sidebarItem_node_modules-\@docusaurus-theme-classic-lib-theme-BlogSidebar-Desktop-styles-module{
+  border-top: 1px dashed #ddd;
+  padding-top: .5rem;
+}
+sidebarItem_node_modules-\@docusaurus-theme-classic-lib-theme-BlogSidebar-Desktop-styles-module:hover{
+  background-color: #ddd;
+}
