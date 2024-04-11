@@ -1,5 +1,5 @@
 ---
-slug: tech-community-leadership-handbook
+slug: resources-for-community-leaders
 title: Resources for technical communities
 authors: [hhkaos]
 tags: [guide, handbook, community, user groups, meetups]
