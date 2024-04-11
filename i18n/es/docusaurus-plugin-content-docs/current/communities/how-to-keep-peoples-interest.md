@@ -153,7 +153,7 @@ Como explicaré a continuación, este último punto para que las personas conect
 
 ## Contribuciones y agradecimientos
 
-Este documento no sería posible sin las [contribuciones recibidas](/es/blog/recursos-para-comunidades-tecnologicas#contribuciones). ¡Gracias!
+Este documento no sería posible sin las contribuciones recibidas. ¡Gracias!
 
 ## Comentarios
 

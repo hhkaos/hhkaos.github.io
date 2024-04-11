@@ -27,7 +27,7 @@ A raíz del [documento que elaboré el año pasado tras el Open Space](https://d
 * [📄 Cómo mantener el interés de las personas](/es/docs/communities/how-to-keep-peoples-interest)
 * [📄 Cómo animar a personas nuevas a dar charlas](/es/docs/communities/how-to-encourage-people-to-participate)
 
-También he creado tres "_placeholders_" sobre recursos que espero poder desarrollar en base a las aportaciones del próximo Open Space<sup>(1)</sup>:
+También he creado varios "_placeholders_" sobre recursos que espero poder desarrollar en base a las aportaciones del próximo Open Space<sup>(1)</sup>:
 
 * [📄 Cómo financiar comunidades](/es/docs/communities/how-to-finance-communities)
 * [📄 Cómo animar a otras personas a que dinamicen](/es/docs/communities/how-to-encourage-other-people-to-energize)
@@ -46,9 +46,9 @@ Tras hablar con muchas personas, y en distintos foros, como el Open Space, mi pe
 
 Con "caída de actividad" me refiero a una mezcla de cosas, pero principalmente me refiero a una menor asistencia a los encuentros (presenciales y online), interacciones en las listas de correo/IMs, etc.
 
-Y esta situación como es normal nos preocupa a quienes dinamizamos comunidades.
+Y esta situación, como es normal, nos preocupa a quienes dinamizamos comunidades.
 
-Una de las preocupaciones que he escuchado recurrentemente es **que la edad media de las personas que forman parte de estas comunidades no para de crecer, **o lo que es lo mismo, que cuesta atraer y enganchar a las nuevas generaciones. 
+Una de las preocupaciones que he escuchado recurrentemente es que la edad media de las personas que forman parte de estas comunidades no para de crecer, **o lo que es lo mismo, que cuesta atraer y enganchar a las nuevas generaciones**. 
 
 Yo personalmente, me resisto a creer que se debe a que la experiencia que ofrecen las comunidades ya no aportan tanto valor a las nuevas generaciones como otros nuevos formatos, canales o "foros". 
 
@@ -64,7 +64,7 @@ Quizás sea bueno empezar por esta pregunta, ya que por ejemplo, durante el Open
 
 <figure>
 
-[![En un vibrante espacio de reunión, los tecnólogos se reúnen con caras animadas por el entusiasmo. Intercambian historias de código e innovación, compartiendo ansiosamente sus ideas y descubrimientos. Es un nexo de pasión, donde las ideas fluyen libremente, uniéndolas en una comunidad alimentada por un amor compartido por la tecnología.](./user-group-meetup-tech-community.png)](./user-group-meetup-tech-community.png)
+[![En un vibrante espacio de reunión, los tecnólogos se reúnen con caras animadas por el entusiasmo.](./user-group-meetup-tech-community.png)](./user-group-meetup-tech-community.png)
 
 </figure>
 
@@ -77,7 +77,7 @@ En mi caso, yo hablo de lo que se conoce como "[comunidades de práctica](https:
 * **organizan encuentros periódicos** (presenciales y/u online).
 * **comparten la pasión / profesión / inquietudes, ... por la tecnología** (software,  hardware, metodologías o buenas prácticas, ...).
 * principalmente, **buscan colaborar entre ellas, de manera voluntaria y altruista**.
-* **buscan el beneficio común** por encima del particular (incluido el interés particular de las organizaciones que puedan apoyar/patrocinar).
+* **buscan el beneficio común** por encima del particular (incluido el interés particular de las organizaciones que les puedan apoyar/patrocinar).
 * están **siempre abiertas a nuevas personas**.
 * se sienten parte del grupo e identifican con él. 
 
@@ -99,7 +99,7 @@ En base a esta experiencia, yo diría que la sensación de que la actividad est�
 
 Ahora la oferta es mayor y la atención se está diversificando con el aumento de comunidades, canales/medios (Discords, Slacks, RRSS, ...), pero también el auge de los [influencers](https://twitter.com/i/lists/828546487369990144/members). 
 
-![En una habitación desordenada, una persona se esconde detrás de sus manos, ahogada entre pantallas y cables. Los ojos agotados reflejan la avalancha de notificaciones. Están perdidos en la soledad, sofocados bajo el peso de la sobrecarga de información. La conectividad digital se convierte en un tormento silencioso.](./information-saturation-noise-social-networks.png)
+![La imagen muestra una habitación desordenada, una persona que se esconde detrás de sus manos, ahogada entre pantallas y cables.](./information-saturation-noise-social-networks.png)
 
 Personalmente también pienso que el contacto digital está comiéndole más terreno al físico, no hay más que ver que **ya casi todo se hace a través de apps**: pedir comida, un taxi, hablar/chatear, trámites con la administración, ... ¡hasta ligar! 😅, y no me cabe duda que esto también tiene consecuencias. 
 
@@ -128,8 +128,8 @@ Lo más básico son los **grados de implicación**. Yo los explicaba así a mis 
 
 Luego, [Jorge](https://www.linkedin.com/in/jorgebarrachina/) me descubrió varias teorías:  
 * El *[Orbit Model](https://orbit.love/model)* que me sirve como modelo para explicar que para aumentar el sentimiento de pertenencia a un grupo, hay que aumentar el número de interacciones e impactos positivos entre las personas, y que se fojen lazos.
-* La [teoría del 90-9-1](https://es.wikipedia.org/wiki/Teor%C3%ADa_90-9-1) que uso para ajustar expectativas de que no más del ~1% suelen ayudar a dinamizar, ni del ~10% participar, aunque realmente **medir esto suele ser algo bastante subjetivo, al igual que intentar medir una relación de amistad** (porque en el fondo, son eso).
-* [The Community Maturity Model](https://communityroundtable.com/what-we-do/research/community-maturity-model/) es un "framework" interesante para clarisificar diferentes tipos de comunidades.
+* La [teoría del 90-9-1](https://es.wikipedia.org/wiki/Teor%C3%ADa_90-9-1), que uso para ajustar expectativas de que no más del ~1% suelen ayudar a dinamizar, ni del ~10% participar, aunque realmente **medir esto suele ser algo bastante subjetivo, al igual que intentar medir una relación de amistad** (porque en el fondo, son eso).
+* [The Community Maturity Model](https://communityroundtable.com/what-we-do/research/community-maturity-model/), un "framework" interesante para clasificar diferentes tipos de comunidades.
 
 <div style={{textAlign: 'center'}}>
 
@@ -144,7 +144,7 @@ Luego, [Jorge](https://www.linkedin.com/in/jorgebarrachina/) me descubrió varia
 
 ## Contribuciones
 
-Primero **quiero agradecer a [Dani Rey](https://www.linkedin.com/in/daniel-rey-rey-9022702a/) ([@kdarrey](https://twitter.com/kdarrey)) de [XantarDev](https://www.meetup.com/es-ES/XantarDev) y [al equipo de Commit](https://2023.commit-conf.com/es/team/)**, que hicieron posible que nos reuniésemos el año pasado para compartir experiencias y reflexiones acerca de este tema tan interesante y que ha sido el germen de estos recursos. 
+Quiero empezar por **agradecer a [Dani Rey](https://www.linkedin.com/in/daniel-rey-rey-9022702a/) ([@kdarrey](https://twitter.com/kdarrey)) de [XantarDev](https://www.meetup.com/es-ES/XantarDev) y [al equipo de Commit](https://2023.commit-conf.com/es/team/)**, que hicieron posible que nos reuniésemos el año pasado para compartir experiencias y reflexiones acerca de este tema tan interesante y que ha sido el germen de estos recursos. 
 
 A continuación, un listado de los nombres que pude captar durante el Open Space celebrado en Abril de 2023 durante CommitConf.
 

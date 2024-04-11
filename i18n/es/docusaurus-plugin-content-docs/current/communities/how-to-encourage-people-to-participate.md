@@ -58,7 +58,7 @@ Si aún así alguien quiere hablar en público pero se resiste a hacerlo en vues
 
 ## Contribuciones y agradecimientos
 
-Este documento no sería posible sin las [contribuciones recibidas](/es/blog/recursos-para-comunidades-tecnologicas#contribuciones). ¡Gracias!
+Este documento no sería posible sin las contribuciones recibidas. ¡Gracias!
 
 ## Comentarios
 

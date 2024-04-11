@@ -4,7 +4,7 @@ title: Cómo atraer a nuevas personas a nuestra comunidad
 ---
 # Cómo atraer a nuevas personas a nuestra comunidad 🧲
 
-El grado de implicación/participación de las personas en una comunidad cambia a lo largo del tiempo. Por tanto, **para mantener la actividad de la comunidad es importante** captar la atención y **conseguir que nuevas personas se acerquen y **sobre todo**, quieran volver.**
+El grado de implicación/participación de las personas en una comunidad cambia a lo largo del tiempo. Por tanto, **para mantener la actividad de la comunidad es importante** captar la atención y **conseguir que nuevas personas se acerquen, pero sobre todo, quieran volver.**
 
 **Los principales consejos** para atraer nuevas personas a la comunidad los resumiría en:
 
@@ -16,7 +16,7 @@ El grado de implicación/participación de las personas en una comunidad cambia 
 
 ### Reducid la barrera de entrada
 
-Cuanto más fácil sea tener una primera toma de contacto con las personas que ya formáis parte, mejor.  Por tanto, el primer consejo es que (si aún no lo tenéis) deberíais crear un **canal bidireccional donde poder interactuar **de manera más "privada" (Discord, Telegram, Slack, ...). 
+Cuanto más fácil sea tener una primera toma de contacto con las personas que ya formáis parte, mejor.  Por tanto, el primer consejo es que (si aún no lo tenéis) deberíais crear un **canal bidireccional donde poder interactuar **de manera más "privada". Me refiero un Discord, Telegram, Slack, ... 
 
 Incluye un canal específico donde todo el mundo tenga la oportunidad de presentarse:
 
@@ -38,7 +38,7 @@ Nosotros, con la comunidad de [GeoVoluntarios](https://web.archive.org/web/20220
 Si queréis ser más originales, podéis probar con herramientas tipo [Gather Town](https://app.gather.town/app): 
 
 
-<div style={{textAlign: 'center'}}>
+<div class="half" style={{  textAlign: 'center' }}>
 
 <figure>
 
@@ -58,6 +58,16 @@ Si tenéis la oportunidad yo os recomiendo **grabar o retransmitir los eventos q
 
 Compartidlo todos **a través de un canal público **(Instagram, LinkedIn, X, Meetup, TikTok, Facebook, ...)**. **Usad herramientas como [StreamYard](https://streamyard.com/) o [Restream](https://restream.io) para retransmitir en múltiples plataformas de vídeo simultáneamente, Ivoox para publicar vuestros podcasts, etc. Y recordad siempre indicar cómo unirse al canal bidireccional. Aprovechad todos los canales posibles para anunciar los eventos, y deseablemente que cualquiera pueda inscribirse a los eventos y compartirlos.
 
+<div class="half" style={{  textAlign: 'center' }}>
+
+<figure>
+
+[![Una imagen con dispositivos interconectados e iconos de redes sociales rodeados de una multitud diversa](./how-to-attract-people-to-your-community/content-creation-and-dissemination.png)](./how-to-attract-people-to-your-community/content-creation-and-dissemination.png)
+
+</figure>
+
+</div>
+
 En cuanto a qué canales/redes sociales funcionan mejor... no me atrevo a decir ninguno, suele depender del público, edad, la ubicación, etc. Yo empezaría por preguntar a las personas de la comunidad** cuál es el canal por el que prefieren recibir las notificaciones** de los nuevos encuentros y recursos publicados (email, redes sociales, calendario compartido, mensajería instantánea, RSS, web/meetup, notificaciones push, ...), y habilitaría tantos como fueran posibles.
 
 Una opción es configurar una herramienta tipo [Zapier](https://zapier.com/)/[IFTTT](https://ifttt.com/)/[Make](https://www.make.com/en) que automatice la republicación entre redes, al menos hasta que veáis cuál os funciona mejor, aunque lo ideal sería encontrar a algún usuario de esta(s) y que se responsabilice de ella(s). No hace falta compartir a diario, pero al menos el "pre" y el "post" evento sí sería recomendable. 
@@ -69,7 +79,17 @@ En su defecto, intentad crear un hashtag único, lista de X, lista de correo, o 
 
 "_Si la montaña no va a Mahoma, Mahoma irá a la montaña_".
 
-**No os quedéis siempre en el mismo sitio**. Como organizador, sé que encontrar una "sede" y hacer siempre los eventos allí es lo más cómodo para quien organiza. Sin embargo, una de las mejores formas de atraer nuevas personas a una comunidad, tanto si empieza desde cero, como si es antigua pero está estancada y sólo buscas "revitalizarla", es contactando con centros formativos o profesionales en tu entorno (ej: academias, institutos, ciclos superiores, universidades, centros educativos para adultos, etc.). 
+**No os quedéis siempre en el mismo sitio**. Como organizador, sé que encontrar una "sede" y hacer siempre los eventos allí es lo más cómodo para vosotros. Sin embargo, una de las mejores formas de atraer nuevas personas a una comunidad, tanto si empieza desde cero, como si es antigua pero está estancada y sólo buscas "revitalizarla", es contactando con centros formativos o profesionales en tu entorno (ej: academias, institutos, ciclos superiores, universidades, centros educativos para adultos, etc.) celebrando los eventos allí. 
+
+<div class="half" style={{  textAlign: 'center' }}>
+
+<figure>
+
+[![Imagen que muestra la celebración de eventos en sitios distintos.](./how-to-attract-people-to-your-community/organizing-events-in-multiple-venues.png)](./how-to-attract-people-to-your-community/organizing-events-in-multiple-venues.png)
+
+</figure>
+
+</div>
 
 Contactad con ellos, buscad qué podríais ofrecerles que les pudiese interesar y valorad la posibilidad de hacer un futuro encuentro allí. Ejemplos de cosas que podríais ofrecer: compartir experiencias sobre vuestra realidad profesional, de vuestras trayectorias profesionales, nuevas tecnologías que domináis, repaso al panorama de comunidades, conferencias y [otros canales educativos](https://www.rauljimenez.info/docs/developers/educational-developers-channels), etc. 
 
@@ -78,11 +98,13 @@ Esto también aplica a comunidades online. Conectad con otras comunidades online
 
 ### Fomentad la diversidad
 
-Organizad eventos en **otros** **idiomas**, y repito, contactad con otras comunidades, buscad intereses que tengáis en común para ver si merece la pena organizar un evento o una agenda de eventos conjuntos. 
+Organizad eventos en **otros idiomas**, y repito, contactad con otras comunidades, buscad intereses que tengáis en común para ver si merece la pena organizar un evento o una agenda de eventos conjuntos. 
 
 Si vuestra comunidad es presencial, buscad **otras comunidades locales,** grupos de usuarios (puedes buscar en [meetup.com](https://www.meetup.com), facebook, etc.), **asociaciones** (puedes pedir un listado de las asociaciones registradas en tu ayuntamiento), contacta con **AMAs/AMPAs** de colegios (si tenéis familias en la comunidad o a través de sus webs), **grupos de empresarios** (Asociación de Jóvenes Empresarios, Cámara de Comercio, [incubadoras, aceleradoras, centros de emprendimiento](https://startupxplore.com/en/map), [Centros Tecnológicos](https://aplicaciones.ciencia.gob.es/inforct/), [CEEIs](https://www.ceei.es/), ...), etc. 
 
-Y más adelante hablaremos también de [crear ambientes seguros](/es/docs/communities/how-to-encourage-people-to-participate#cread-un-ambiente-seguro). No he comprobado personalmente el repositorio de [Awesome Diversity](https://github.com/folkswhocode/awesome-diversity#readme), pero si necesitas más ideas... creo que merece la pena ojearlo.
+En el documento sobre "Cómo animar a nuevas personas a dar charlas" hablaremos también de [crear ambientes seguros](/es/docs/communities/how-to-encourage-people-to-participate#cread-un-ambiente-seguro). 
+
+No he comprobado personalmente el repositorio de [Awesome Diversity](https://github.com/folkswhocode/awesome-diversity#readme), pero si necesitas más ideas... creo que merece la pena ojearlo.
 
 
 ### Plantead enfoques disruptivos
@@ -101,9 +123,11 @@ La realidad es que el tiempo de las personas es limitado,** y si nuestra propues
 
 ## Contribuciones y agradecimientos
 
-Este documento no sería posible sin las [contribuciones recibidas](/es/blog/recursos-para-comunidades-tecnologicas#contribuciones). ¡Gracias!
+Este documento no sería posible sin las contribuciones recibidas. ¡Gracias!
 
 ## Comentarios
+
+Y tú, ¿qué opinas?, ¿has probado estas u otras cosas?, por favor comparte tu experiencia para que otras personas se puedan enriquecer de ellas 😊
 
 import GiscusComponent from '@site/src/components/GiscusComponent';
 
