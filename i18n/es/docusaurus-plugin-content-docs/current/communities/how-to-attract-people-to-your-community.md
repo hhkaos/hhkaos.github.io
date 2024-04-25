@@ -114,8 +114,9 @@ Si habéis probado todo lo anterior y aún os sigue sin funcionar... algo que po
 En ese caso, si verdad creéis que necesitáis atraer a más personas, plantearos:
 
 * **Fusionar la comunidad con otra comunidad intereses afines **(local u online).
-* **Hacer más encuentros virtuales** (si no lo estáis haciendo aún).
+* **Aumentad la frecuencia de las reuniones virtuales**.
 * **Ampliar el abanico de temas a tratar**.
+* **Replantead si es este el tipo y formato de comunidad que queréis/necesitáis**
 
 La realidad es que el tiempo de las personas es limitado,** y si nuestra propuesta no es suficientemente atractiva** o no cubre necesidades e intereses de las personas a las que queremos llegar ... por más que lo deseemos, **no conseguiremos atraerla**<sup>*</sup>.
 

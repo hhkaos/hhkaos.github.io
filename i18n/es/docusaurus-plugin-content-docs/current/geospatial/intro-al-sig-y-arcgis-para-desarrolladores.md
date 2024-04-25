@@ -139,7 +139,11 @@ import Wgs84VsMercator from './intro-sig-arcgis/wgs84vs-mercator.png';
 
 </Tabs>
 
-<!-- WGS puede introducir 2 metros de error: https://en.wikipedia.org/wiki/World_Geodetic_System#Updates_and_new_standards. At inception, WGS84 provided positional accuracy in the order of one to two metres. Over time, the datum has been mathematically refined and the input parameters revised to reflect new gravitational models, improving resultant accuracies to mere centimetres. Influencia del movimiento de las placas tectónicas (0-10cm anual) https://en.wikipedia.org/wiki/Plate_tectonics https://www.youtube.com/watch?v=q-ng6YpxHxU https://www.exprodat.com/blog/how-tectonic-motion-is-affecting-your-map-accuracy/ Proyectos que requieren de precisión centimétrica en los datos de geolocalización (GPS / GNSS de alta precisión), Sistemas de navegación para vehículos autónomos y robots (AR navigation) Construcción de edificios de gran altura, Instalación de tuberías, Indoor positioning and navigation -->
+<!-- WGS puede introducir 2 metros de error: https://en.wikipedia.org/wiki/World_Geodetic_System#Updates_and_new_standards. At inception, WGS84 provided positional accuracy in the order of one to two metres. Over time, the datum has been mathematically refined and the input parameters revised to reflect new gravitational models, improving resultant accuracies to mere centimetres. Influencia del movimiento de las placas tectónicas (0-10cm anual) https://en.wikipedia.org/wiki/Plate_tectonics https://www.youtube.com/watch?v=q-ng6YpxHxU https://www.exprodat.com/blog/how-tectonic-motion-is-affecting-your-map-accuracy/ Proyectos que requieren de precisión centimétrica en los datos de geolocalización (GPS / GNSS de alta precisión), Sistemas de navegación para vehículos autónomos y robots (AR navigation) Construcción de edificios de gran altura, Instalación de tuberías, Indoor positioning and navigation 
+
+Las coordenadas GeoJSON suelen tener por defecto una precisión extrema, a menudo con 15-17 decimales, lo que equivale a una escala atómica. Para la mayoría de las aplicaciones prácticas, se puede reducir la precisión de las coordenadas a unos 6 decimales, lo que equivale aproximadamente a una escala de 1 cm. Esto reduce el tamaño del archivo sin comprometer la usabilidad.
+fuente: https://maplibre.org/maplibre-gl-js/docs/guides/large-data/
+-->
 
 ---
 
