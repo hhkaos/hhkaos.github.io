@@ -91,6 +91,8 @@ Por ejemplo, en la web [hackerspaces.org](https://wiki.hackerspaces.org/List_of_
 
 [![Mapa de Hackerspaces](./types-of-technical-communities/hackerspaces.org-map.png)](https://wiki.hackerspaces.org/List_of_Hacker_Spaces)
 
+</figure>
+
 </div>
 
 Algunas comunidades en España de este tipo:
