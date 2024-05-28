@@ -33,7 +33,7 @@ Puede ser sobre algo nuevo que esta persona haya aprendido o descubierto recient
 
 Un ejemplo de este apoyo, es por ejemplo el programa "[New presenters](https://blog.commit-conf.com/programa-new-presenters/)" que en este caso se puso en marcha desde CommitConf con el apoyo de [@kinisoftware](https://twitter.com/kinisoftware) y personas voluntarias de las diferentes comunidades tecnologicas españolas, a través de la que se creó un servidor Discord para conectar a mentores y mentees, compartir recursos, etc.
 
-Hay inclusos comunidades específicas como [Aspiring & Emerging Speakers](https://www.meetup.com/es-ES/aspiring-speakers/), [Aspiring Women Speakers](https://www.linkedin.com/company/aspiring-women-speakers/), etc.
+Hay incluso comunidades específicas como [Aspiring & Emerging Speakers](https://www.meetup.com/es-ES/aspiring-speakers/), [Aspiring Women Speakers](https://www.linkedin.com/company/aspiring-women-speakers/), [Toastmakers.org](https://www.youtube.com/toastmasters) ([online clubs](https://www.toastmasters.org/resources/online-only-clubs)), etc.
 
 
 ### Organizad un evento de debutantes

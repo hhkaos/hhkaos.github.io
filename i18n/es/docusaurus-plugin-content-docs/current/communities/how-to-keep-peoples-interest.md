@@ -64,6 +64,10 @@ En cualquier caso, lo importante es crear ambientes propicios para crear víncul
 
 Otro aspecto importante que ayuda a que una persona se sienta más segura de que encajará en la comunidad, es conocer claramente los **objetivos/fines, actividades y principios** de la misma. 
 
+Por eso, creo que hacer el esfuerzo de poner esto por escrito generará una conversación que ayudará a **conocer y alinear los intereses** de todas las personas que formáis parte de la comunidad, y también a **formar/ajustar las expectativas** de las personas que se acerquen en el futuro. 
+
+> **📙 Recurso**: Como ejemplo, os comparto el [documento de Fines, actividades y principios de TomellosoTech](https://docs.google.com/document/d/1MrXJkyb6lJgzInWWGi8rJj0mZfHIoMO19zMR93juXes/edit?usp=sharing), y el [manifiesto en formato PPT](https://docs.google.com/presentation/d/1tYPZmqF9fXFYVJrbgajEc7qwbOcq6_cPV4Kw06AruL8/edit?usp=sharing).
+
 <div style={{textAlign: 'center'}}>
 
 <figure>
@@ -74,10 +78,6 @@ Otro aspecto importante que ayuda a que una persona se sienta más segura de que
 </figure>
 
 </div>
-
-Por eso, creo que hacer el esfuerzo de poner esto por escrito generará una conversación que ayudará a **conocer y alinear los intereses** de todas las personas que formáis parte de la comunidad, y también a **formar/ajustar las expectativas** de las personas que se acerquen en el futuro. 
-
-> **📙 Recurso**: Como ejemplo, os comparto el [documento de Fines, actividades y principios de TomellosoTech](https://docs.google.com/document/d/1MrXJkyb6lJgzInWWGi8rJj0mZfHIoMO19zMR93juXes/edit?usp=sharing), y el [manifiesto en formato PPT](https://docs.google.com/presentation/d/1tYPZmqF9fXFYVJrbgajEc7qwbOcq6_cPV4Kw06AruL8/edit?usp=sharing).
 
 Tener un código de conducta también es útil, especialmente cuando la comunidad empieza a crecer.
 
