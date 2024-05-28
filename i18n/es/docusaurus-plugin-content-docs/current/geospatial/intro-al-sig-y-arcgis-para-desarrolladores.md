@@ -1,5 +1,5 @@
 ---
-title: Intro a los SIG para informáticos
+title: Intro a los SIG para developers
 image: /img/docs/intro-to-gis-for-developers/introduction-to-gis-for-developers.jpg
 <!-- > **📄 Note**: The interactive version of this article is available at [Dev.to 🇺🇸🇬🇧](https://dev.to/hhkaos/why-attend-developer-conferences-59b3) & [Medium.com 🇪🇸](https://medium.com/@hhkaos/por-qu%C3%A9-asistir-a-conferencias-para-desarrolladores-4c22cbe132cf). -->
 
