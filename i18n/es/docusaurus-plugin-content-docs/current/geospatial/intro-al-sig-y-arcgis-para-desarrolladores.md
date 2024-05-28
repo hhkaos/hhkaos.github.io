@@ -1,5 +1,6 @@
-# Intro a los SIG para informáticos
-
+---
+title: Intro a los SIG para informáticos
+image: /img/docs/intro-to-gis-for-developers/introduction-to-gis-for-developers.jpg
 <!-- > **📄 Note**: The interactive version of this article is available at [Dev.to 🇺🇸🇬🇧](https://dev.to/hhkaos/why-attend-developer-conferences-59b3) & [Medium.com 🇪🇸](https://medium.com/@hhkaos/por-qu%C3%A9-asistir-a-conferencias-para-desarrolladores-4c22cbe132cf). -->
 
 ---
@@ -22,11 +23,82 @@ Si a esto le sumamos que **casi nunca se le deja claro a alguien con un perfil i
 
 Por eso he creado yo este recurso, porque **nunca he encontrado un único recurso empiece desde los beneficios, pasando por los conceptos básicos y profundizando lo suficiente** como para ser capaz de recomendarlo a alguien (como yo) que quiera empezar.
 
-<!-- > **Nota**: desde Esri, para reducir esa fricción añadimos un [glosario para desarrolladores](https://developers.arcgis.com/documentation/glossary/) con definiciones para intentar ayudar a quienes empiezan con ArcGIS. Pero ten en cuenta que con otras tecnologías, hay algunos conceptos que pueden tener diferente nombre. -->
+:::info
 
-Así que aquí explicaré los conceptos básicos, usando el vocabulario más sencillo que pueda y similitudes/comparativas con el mundo de la informática tradicional, para que entiendas cómo **los SIG están contruídos sobre muchos conceptos que ya conoces**.
+Por ejemplo, para reducir esa fricción, desde el equipo de Developer Experience de Esri hemos creado un [glosario de términos](https://developers.arcgis.com/documentation/glossary/) que nos permite que al pasar el ratón por encima de estos, podamos ofrecer un modal con una aclaración:
+
+[![Glossary hover experience](/img/docs/intro-to-gis-for-developers/glossary-hover.jpg)](https://developers.arcgis.com/documentation/mapping-apis-and-services/maps/)
+
+:::
+
+En esta página explicaré los conceptos básicos, usando el vocabulario más sencillo que pueda y similitudes/comparativas con el mundo de la informática tradicional, para que entiendas cómo **los SIG están contruídos sobre muchos conceptos que ya conoces**.
 
 ## Para qué sirven
+
+<!-- 
+
+Visualización 2D y 3D (comunicación, medios) 
+* Outdoor (3D): wikilok, 
+* Ver ruta y compartirlas
+* Mapas estáticos, recibos, 
+* Exportar vídeo Relieve
+* pokemon go
+* Grandes cantidades de datos, GB): Resultados electorales
+* https://www.dotgiscorp.com/es/clientes/patios-cordoba/
+* https://www.dotgiscorp.com/es/clientes/vodafone/
+* Mis picaderos, canchas de basket, 
+
+Geocodificar & Encontrar puntos de interés:
+* Ecommerce (datos postales): Amazon, etc
+* Tinder places
+* AirBnb
+
+Filtrar espacialmente y calcular distancias a elementos cercanos (economía circular)
+* Booking (calcular distancia a POIs)
+* Holetes (Airbnb)
+* Franquicias (tiendas, cajeros, productos, más cercanos) -> Ikea, Leroy, Wallapop, Bancos (BBVA), Glovo, Pizzerías, Parkings
+* Taxis (Uber, Cabify...)
+* Ocio (Fever = actividades, Eltenedor)
+* Turismo (, MiNube, tripadvisor
+* Google Photos
+* Localizador de tiendas, rider, taxi, patinetes, etc
+* Booking (calcular distancia a POIs)
+* GeoGuessr & GeoNight
+* Snap to roads (GPS)
+* Waze alerts
+
+Personalizar mapa:
+- Uber
+- Cabify
+...
+
+Buscar en ruta
+* Gasolineras y Diesel España: https://play.google.com/store/apps/details?id=com.quadbits.smartrefueling&hl=es
+* Blablacar (pasajeros en ruta)
+
+IoT, sensorización, gestión de activos (recursos, espacios):
+* Eventos https://www.dotgiscorp.com/es/clientes/vodafone/
+* DAM Gestión eficiente de residuos de Estaciones Depuradoras de Aguas.https://www.dotgiscorp.com/es/clientes/dam/
+
+Business intelligence, Location analytics (GeoEstadísticas):
+* https://www.dotgiscorp.com/es/clientes/ing/
+* Goiko Site planning https://www.dotgiscorp.com/es/clientes/goiko-grill/
+* Geoporra (resultados de las elecciones)
+* https://www.dotgiscorp.com/es/clientes/correos/
+* EDP Energía: Smart Grids, la transformación digital de redes eléctricas: https://www.dotgiscorp.com/es/clientes/edpenergia/
+
+Rutas personalizadas
+- Ayuntamiento de Madrid (Taxi APP): https://www.dotgiscorp.com/es/clientes/ayuntamiento-madrid-taxi/
+
+Crear mapas personalizados (indoor)
+* centros comerciales, festival zoo (planos), costa cruceros, ifema (https://www.dotgiscorp.com/es/clientes/grupolar/)
+* Cálculo de potencial solar: https://eficiencia-energetica.ign.es/solar/
+* Mapas de inundaciones
+
+Mapas históricos:
+- Wayback
+
+ -->
 
 Si no tienes claro para qué te pueden servir los SIG, y si **merece la pena invertir tiempo en ellos**, aquí te dejo un breve vídeo que muestra algunas de las cosas que puedes llegar a hacer. En este caso, concretamente con [ArcGIS](https://developers.arcgis.com/):
 
@@ -53,6 +125,8 @@ Estas tecnologías son: bases de datos (espaciales), servidores (espaciales), li
 
 En los siguientes apartados iremos repasando estas tecnologías y destacando algunas de la familia de productos ArcGIS, pero también otras alternativas populares relevantes.
 
+
+
 ## Datos geolocalizados
 
 **Todo en un SIG gira en torno a los datos geolocalizados**, por eso, para entender todo lo demás, lo primero que necesitamos saber es cuáles son los diferentes tipos de datos geolocalizados que existen.
@@ -67,7 +141,7 @@ import VectorvsRaster from './intro-sig-arcgis/vector-vs-vector-rasterized.png';
   <img src={VectorvsRaster} />
 </div>
 
-Si te interesa, al final del documento hay un apartado "[Captura / Generación](#captura--generación)" donde se explica que:
+Si te interesa, al final del documento hay un apartado "[Captura](#captura)" donde se explica que:
 * El dato se puede crear originalmente tanto como dato vectorial, como en ráster.
 * A veces se transforman los datos vectoriales a ráster mediante un proceso llamado *[rasterización](https://es.wikipedia.org/wiki/Rasterizaci%C3%B3n)*.
 * Otras veces se extraen datos vectoriales a partir de los datos ráster mediante un proceso llamado *[extracción de entidades](https://support.esri.com/en-us/gis-dictionary/feature-extraction#:~:text=%5Bdigital%20image%20processing%5D%20In%20image,features%20based%20on%20those%20measurements.)*.
@@ -75,6 +149,8 @@ Si te interesa, al final del documento hay un apartado "[Captura / Generación](
 > <strong>💡 ¿Sabías que...?</strong> Hay un campo conocido como GeoAI donde se usan <a href="https://livingatlas.arcgis.com/es/browse/?q=deep%20learning%20package#d=2&type=tool&q=deep+learning+package">modelos de <i>deep learning</i></a>, para extraer datos vectoriales a partir de datos ráster (<strong>entre otras muchas cosas</strong><sup><a href="#0-geospatial-deep-learning-with-arcgis">[0]</a></sup>), y que se cree<sup><a href="#0-the-birth-and-evolution-of-geoai">[0]</a></sup> que surgió a mediados de los años 60.
 
 En este documento repasaremos las ventajas y limitaciones de cada tipo de dato, junto a herramientas y técnicas para manipularlos.
+
+
 
 ### Calidad de datos
 
@@ -103,11 +179,10 @@ import BasemapProjected from './intro-sig-arcgis/web-mercator-vs-wgs84.png';
 import GeoideYDeformaciones from './intro-sig-arcgis/geoide-sistema-de-referencia-proyeccion-mercator.png';
 import PrecisionVsExactitud from './intro-sig-arcgis/precision-vs-exactitud-sig.png';
 import Ed50VsWgs84 from './intro-sig-arcgis/ed50-vs-wgs84.png';
-import Wgs84VsMercator from './intro-sig-arcgis/wgs84vs-mercator.png';
-
 
 <Tabs>
   <TabItem value="apple" label="🌎 Forma de la tierra" default>
+    
     <p>Calcular las coordenadas de una ubicación en la tierra no es trivial, principalmente porque la tierra no es una esfera o elipsoide perfecto, si no un <a href="https://es.wikipedia.org/wiki/Geoide">geoide</a> (una roca gigante): </p>
     <blockquote><strong>💡 ¿Sabías que...?</strong>: existen asignaturas completas en grados universitarios donde se estudia la forma de la tierra. Por ejemplo, en Ingeniería en Geodesia o Geomática. </blockquote>
     <img src={GeoideYDeformaciones} />
@@ -117,13 +192,15 @@ import Wgs84VsMercator from './intro-sig-arcgis/wgs84vs-mercator.png';
   </TabItem>
   <TabItem value="coordenadas" label="📍 Sistema de referencia" default>
     <p>Habitualmente pensamos que unas <a href="https://es.wikipedia.org/wiki/Coordenadas_geogr%C3%A1ficas">coordenadas geográficas</a> (por ejemplo: [latitud, longitud]) corresponden siempre a una única ubicación en la tierra, pero esto no tiene por qué ser así, ya que dependen del sistema de coordenadas al que estén asociadas. </p>
-    <p>En la siguiente imagen se ven representadas el mismo par de coordenadas ([-3.684217, 40.415779]), pero cada una de ellas asociadas a un sistema de referencia diferente, a la izquierda en <a href="https://epsg.io/map#srs=4326&x=-3.684308&y=40.415769&z=16&layer=satellite">EPSG 4326 / WGS84</a> y a la derecha en <a href="https://epsg.io/map#srs=4230&x=-3.684217&y=40.415779&z=16&layer=satellite">EPSG 4230 / ED50</a>. En la parte inferior se muestran dos ejemplos de cómo se representan esas coordenadas en formato JSON usando dos esquemas distintos (GeoJSON/JSON-FG y Esri JSON) y cómo se espefica el sistema de referencia.</p>
+    <p>En la siguiente imagen se ven representadas el mismo par de coordenadas ([-3.684217, 40.415779]), pero cada una de ellas asociadas a un sistema de referencia diferente, a la izquierda en <a href="https://epsg.io/map#srs=4326&x=-3.684308&y=40.415769&z=16&layer=satellite">EPSG 4326 / WGS84</a> y a la derecha en <a href="https://epsg.io/map#srs=4230&x=-3.684217&y=40.415779&z=16&layer=satellite">EPSG 4230 / ED50</a>. En la parte inferior se muestran dos ejemplos de cómo se representan esas coordenadas en formato JSON usando dos esquemas distintos (GeoJSON y Esri JSON) y cómo se espefica el sistema de referencia.</p>
     <div style={{textAlign: 'center'}}>
       <img src={Ed50VsWgs84} />
     </div>
     <p>El sistema ED50 fue el sistema oficial del gobierno de España hasta su cambio por el <a href="https://epsg.io/4258">EPSG:4258 / ETRS89</a> anunciado en el <a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2007-15822#:~:text=Se%20adopta%20el%20sistema%20ETRS89,se%20adopta%20el%20sistema%20REGCAN95.">BOE-A-2007-15822</a>, de ahí que los datos abiertos oficiales del gobierno suelan estar en alguno de estos sistemas de referencia. Pero lo que es peor...hay casos en los que nos encontramos ficheros que no indican en qué sistema de referencia están! 😅. Si ese es tu caso, intenta contactar con la fuente que generó el dato.</p>
+    <p> Si quieres profundizar en este tema te recomiendo el vídeo "<a href="https://www.youtube.com/watch?v=PICwxT0fTHQ">Introducing Coordinate Systems and Map Projections</a>" y/o "<a href="https://www.youtube.com/watch?v=Fh0EeB8rjys">What You Should Know About Geographic (Datum) and Vertical Transformations</a>".</p>
     <p>A continuación, vuelve arriba y pulsa la pestaña: <strong>🎯 Precisión y exactitud de la ubicación</strong>.</p>
   </TabItem>
+
   <TabItem value="orange" label="🎯 Precisión y exactitud de la ubicación">
   <p>Recuerda que <strong>la exactitud de los datos puede verse afectada por el sistema de referencia</strong> en el que se registraron los datos.</p>
   <p>Aprovecho para aclarar la diferencia entre los conceptos exactitud (<i>accuracy</i>) y precision (<i>precision</i>):</p>
@@ -135,15 +212,47 @@ import Wgs84VsMercator from './intro-sig-arcgis/wgs84vs-mercator.png';
     <img src={PrecisionVsExactitud}/>
   </div>
   <p>Por tanto, es importante tener claros los requisitos de exactitud y precisión del proyecto, y asegurarse de que los métodos de recopilación de datos sean los adecuados. Veremos más en el apartado: <a href="#captura--generación">Captura / generación</a>.</p>
+
+  <details><summary>👀 <strong>Curiosidad</strong>: Precisión del WGS84 y vehículos autónomos</summary>
+<p>
+
+Como curiosidad, comentar que el primer sistema de coordenadas usado en los GPS ([WGS84 (G730)](https://en.wikipedia.org/wiki/World_Geodetic_System#Updates_and_new_standards)) podía introducir hasta uno o dos metros de error. A lo largo del tiempo el modelo matemático fue refinado hasta reducirlo a diez centrímetros aproximadamente.
+
+Te dejo esta interesante [entrevista a Brian McClendon](https://youtu.be/gC1x0pVu-YI?si=b7-CpR3ovj3mxaAG&t=3558), quien fue VP de Ingeniería en Keyhole y posteriormente Google, hablando de cómo el sistema GPS (WGS84) es totalmente insuficiente para casos de us como los sistemas de navegación de vehículos autónomos.
+
+</p>
+</details>
+
+<details><summary>👀 <strong>Curiosidad</strong>: El impacto del movimiento de las placas tectónicas en la precisión</summary>
+<p>
+
+En los proyectos que se requiere una precisión centimétrica, hasta el movimiento de las [placas tectónicas](https://en.wikipedia.org/wiki/Plate_tectonics), que es de un par de centímetros al año de media (aprox. la velocidad a la que crecen las uñas), puede ser un factor importante. En algunos casos hasta el punto de tener que supervisar periódicamente e incluso que actualizar los sistemas de referencia, y recalibrar para mantener la precisión y fiabilidad de los ubicación. Ejemplos de estos proyectos pueden ser sistemas de navegación para vehículos autónomos, instalación y **mantenimiento** de tuberías, vías de tren, construcción de puentes, etc.
+
+<div style={{textAlign: 'center'}}>
+  <div class="sixteen-nine">
+    <iframe class="content" width="507" height="315" src="https://www.youtube.com/embed/q-ng6YpxHxU?si=znw1saQKvPd3FA1H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  </div>
+</div>
+
+Más en: "[How Tectonic Motion is affecting your Map Accuracy](https://www.exprodat.com/blog/how-tectonic-motion-is-affecting-your-map-accuracy/)".
+
+</p>
+</details>
+
+<details><summary>👀 <strong>Curiosidad</strong>: Relación entre precisión y decimales en un GeoJSON</summary>
+<p>
+
+En ocasiones no encontramos ficheros GeoJSON donde las coordenadas tienen una precisión extrema, con hasta 15-17 decimales, lo que da una precisión a escala atómica (de átomos). Para la mayoría de las aplicaciones prácticas, se puede reducir la precisión de las coordenadas a unos 6 decimales, lo que equivale aproximadamente a una escala de 1-10 cm. Esto reduce el tamaño del archivo sin comprometer la usabilidad.
+
+Algo que traté en mi charla <a href="https://www.youtube.com/watch?v=7oTNGJDg238&t=802s">DataViz: Técnicas de optimización para visualización en mapas</a>.
+
+</p>
+</details>
+
+
   </TabItem>
 
 </Tabs>
-
-<!-- WGS puede introducir 2 metros de error: https://en.wikipedia.org/wiki/World_Geodetic_System#Updates_and_new_standards. At inception, WGS84 provided positional accuracy in the order of one to two metres. Over time, the datum has been mathematically refined and the input parameters revised to reflect new gravitational models, improving resultant accuracies to mere centimetres. Influencia del movimiento de las placas tectónicas (0-10cm anual) https://en.wikipedia.org/wiki/Plate_tectonics https://www.youtube.com/watch?v=q-ng6YpxHxU https://www.exprodat.com/blog/how-tectonic-motion-is-affecting-your-map-accuracy/ Proyectos que requieren de precisión centimétrica en los datos de geolocalización (GPS / GNSS de alta precisión), Sistemas de navegación para vehículos autónomos y robots (AR navigation) Construcción de edificios de gran altura, Instalación de tuberías, Indoor positioning and navigation 
-
-Las coordenadas GeoJSON suelen tener por defecto una precisión extrema, a menudo con 15-17 decimales, lo que equivale a una escala atómica. Para la mayoría de las aplicaciones prácticas, se puede reducir la precisión de las coordenadas a unos 6 decimales, lo que equivale aproximadamente a una escala de 1 cm. Esto reduce el tamaño del archivo sin comprometer la usabilidad.
-fuente: https://maplibre.org/maplibre-gl-js/docs/guides/large-data/
--->
 
 ---
 
@@ -160,6 +269,9 @@ Este es uno de los conceptos más desconocidos y confusos para la mayoría de lo
     Sin embargo, cuando queremos representar la superficie tridimensional de la Tierra en un plano bidimensional, como un mapa o una pantalla, tenemos que transformar la forma usando una <a href="https://es.wikipedia.org/wiki/Proyecci%C3%B3n_cartogr%C3%A1fica">proyección cartográfica</a><sup>[1]</sup>. En este caso las coordenadas se expresan en metros, normalmente especificados como: "x" e "y". En Web Mercator los valores oscilan entre [-103676511,103676511] para "y", y entre [-20037508, 20037508] para  "x".
     </p>
     <p>
+    Un error bastante común es que cuando no se cargan correctamente las coordenadas geográficas en un mapa proyectado, por ejemplo si asignamos a "y" el valor de latitud, y al "x" el valor de longitud, los datos acaben en la <a href="https://en.wikipedia.org/wiki/Null_Island">Null island</a> 🏝️🤣 (dado que si se le asignan valores pequeñitos de longitud y latitud a "x" e "y" que oscilan entre valores tan grandes, aparezcan en el centro del mapa). 
+    </p>
+    <p>
     Los métodos matemáticos que se utilizan para proyectar <strong>SIEMPRE introducen algún tipo de distorsión en algún aspecto, ya sea en la forma 🔻🔷🛑⭕, el área ▨, la distancia 📏, o la dirección 📐</strong><sup><a href="#2-tutorial-elegir-la-proyección-adecuada">[2]</a></sup>. Estos dos vídeos los explican de manera muy visual: <a href="https://www.youtube.com/watch?v=kIID5FDi2JQ">Why all maps are wrong</a> y <a href="https://www.youtube.com/watch?v=wkK_HsY7S_4">The Impossible Map</a>.
     </p>
     <p>
@@ -171,17 +283,12 @@ Este es uno de los conceptos más desconocidos y confusos para la mayoría de lo
     </ul>
     <img src={BasemapProjected} />
     <p>Es habitual encontrarse las coordenadas en WGS84 (coordenadas geográficas) y querer cambiarlas a Web Mercator (coordenadas proyectadas) y vicebersa. De hecho, yo me creé un conversor de un sistema a otro: <a href="https://www.rauljimenez.info/mercator-geographic-converter/">Mercator to Geographic converter</a>.</p>
-    <img src={Wgs84VsMercator} />
-    <p>
-    Un error bastante común es que cuando no se cargan correctamente las coordenadas geográficas en un mapa proyectado, por ejemplo si asignamos a "y" el valor de latitud, y al "x" el valor de longitud, los datos acaben en la <a href="https://en.wikipedia.org/wiki/Null_Island">Null island</a> 🏝️🤣 (dado que si se le asignan valores pequeñitos de longitud y latitud a "x" e "y" que oscilan entre valores tan grandes, aparezcan en el centro del mapa). 
-    </p>
     <p>
     Por eso, para evitar errores, a la hora de combinar datos de diferentes fuentes, o al representarlos en un <b>mapa base</b> (conocido comúnmente como <a href="https://wiki.openstreetmap.org/wiki/Basemap">basemap</a>, <i>mapa de referencia</i>, o <i>mapa de fondo</i>), que es el que da contexto para superponer los datos geolocalizados, es importante tener en cuenta que todos estén en el mismo sistema de referencia <sup><a href="#3-sistemas-de-referencia-en-la-arcgis-maps-sdk-for-javascript">[3]</a></sup>.
     </p>
     <blockquote>
-    <strong>¿Qué implicaciones tiene todo esto en una biblioteca de mapas/SIG?</strong> por ejemplo, en la <a href="https://developers.arcgis.com/javascript/latest/">ArcGIS Maps SDK for JavaScript</a>, multitud de clases tienen una propiedad "spatialReference" que es donde se define el sistema de referencia, por ejemplo las que se usan para representar la vista del mapa (<a href="https://developers.arcgis.com/javascript/latest/api-reference/esri-views-MapView.html#spatialReference">MapView</a> para mapas 2D, y <a href="https://developers.arcgis.com/javascript/latest/api-reference/esri-views-SceneView.html#spatialReference">SceneView</a> para mapas 3D), las clases utilizadas para pintar los datos (<a href="https://developers.arcgis.com/javascript/latest/api-reference/esri-geometry-Point.html#properties-summary">Point</a>, <a href="https://developers.arcgis.com/javascript/latest/api-reference/esri-geometry-Polyline.html#spatialReference">Polyline</a>, etc)
+    <strong>¿Qué implicaciones tiene todo esto en una biblioteca de mapas/SIG?</strong> por ejemplo, en la <a href="https://developers.arcgis.com/javascript/latest/">ArcGIS Maps SDK for JavaScript</a>, multitud de clases tienen una propiedad "spatialReference" que es donde se define el sistema de referencia, por ejemplo las que se usan para representar la vista del mapa (<a href="https://developers.arcgis.com/javascript/latest/api-reference/esri-views-MapView.html#spatialReference">MapView</a> para mapas 2D, y <a href="https://developers.arcgis.com/javascript/latest/api-reference/esri-views-SceneView.html#spatialReference">SceneView</a> para mapas/escenas 3D), las clases utilizadas para pintar los datos (<a href="https://developers.arcgis.com/javascript/latest/api-reference/esri-geometry-Point.html#spatialReference">Point</a>, <a href="https://developers.arcgis.com/javascript/latest/api-reference/esri-geometry-Polyline.html#spatialReference">Polyline</a>, etc)
     </blockquote>
-    
 
    <p>Ahora, antes de seguir, vuelve arriba y pulsa la pestaña: <strong>🌀 Distorsiones</strong>.</p>
    
@@ -197,11 +304,9 @@ Este es uno de los conceptos más desconocidos y confusos para la mayoría de lo
   </TabItem>
 </Tabs>
 
----
-
-> **Note**: Aunque para los casos más básicos esto no sea muy relevante, es importante saber que tecnologías populares como Google Maps o Leaflet tienen un soporte limitado para trabajar con datos en diferentes proyecciones ([1](https://developers.google.com/maps/documentation/javascript/examples/map-projection-simple), [2](https://gis.stackexchange.com/questions/198695/leaflet-changing-base-map-crs))
-
-----
+:::info
+Aunque para los casos más básicos esto no sea muy relevante, es importante saber que tecnologías populares como Google Maps o Leaflet tienen un soporte limitado para trabajar con datos en diferentes proyecciones ([1](https://developers.google.com/maps/documentation/javascript/examples/map-projection-simple), [2](https://gis.stackexchange.com/questions/198695/leaflet-changing-base-map-crs))
+:::
 
 
 #### TOPOLOGÍAS GEOESPACIALES
@@ -212,7 +317,7 @@ Esto se puede usar para garantizar que una calle no atraviese un edificio, que e
 
 Por ejemplo, estas son 3 de las [32 reglas tológicas soportadas en ArcGIS](https://pro.arcgis.com/en/pro-app/latest/help/editing/pdf/topology_rules_poster.pdf):
 
-[![](./intro-sig-arcgis/reglas-topologicas-arcgis.png)](https://pro.arcgis.com/en/pro-app/latest/help/editing/pdf/topology_rules_poster.pdf)
+[![Ejemplos de reglas topológicas en ArcGIS](./intro-sig-arcgis/reglas-topologicas-arcgis.png)](https://pro.arcgis.com/en/pro-app/latest/help/editing/pdf/topology_rules_poster.pdf)
 
 Las restricciones, limitaciones o *constraints* topológicas se pueden definir a nivel de base de datos, pero como veremos en el apartado "[Análisis](#análisis)", también se pueden usar por código (a través de una biblioteca) para detectar errores o arreglar los datos antes de persistirlos.
 
@@ -221,15 +326,9 @@ Las restricciones, limitaciones o *constraints* topológicas se pueden definir a
 
 Usaremos [datos vectoriales](#datos-vectoriales) para geolocalizar [entidades geográficas](https://en.wikipedia.org/wiki/Geographical_feature) (geographical ***features***, un término que se usa mucho) que tienen una identidad y localización claramente diferenciada a otras entidades geográficas (a veces se les llama entidades discretas), por ejemplo: objetos, edificios, posiciones, perímetros, ... 
 
-<!-- https://ogcapi.ogc.org/features/ -->
-
 La ubicación de estos datos se pueden representar con diferentes tipos de geometrías, y el **tipo de geometrías soportadas** por cada tecnología, **la forma de representarlas internamente**, e incluso **el nombre que se les da**, varía entre unas tecnologías y otras<sup><a href="#6-tipos-de-geometría-geojsongeometrías-en-arcgis-formas-de-google">[6]</a></sup> (bases de datos, SDKs, formatos de archivo, etc). 
 
 #### GEOMETRIAS (*PRIMITIVAS*)
-
-<!-- import GiscusComponent from '@site/src/components/GiscusComponent';
-
-<GiscusComponent></GiscusComponent> -->
 
 |Tipo|Representación|Ejemplo de uso|
 |---|---|---|
@@ -241,8 +340,6 @@ La ubicación de estos datos se pueden representar con diferentes tipos de geome
 
 #### GEOMETRÍAS *COMPUESTAS* ("multipart geometries" en inglés)
 
-> **Nota**: faltan por añadir las representaciones 3D equivalentes.
-
 |Tipo|Representación|Ejemplo de uso|
 |---|---|---|
 |Multipuntos|![](./intro-sig-arcgis/multipunto.png)|Tracks de GPS, paradas de bus por ciudad, postes de servicios públicos, inventarios de árboles, lugares de pesca, aparcamientos, bocas de incendios, baños públicos, fuentes de agua, etc. 
@@ -250,49 +347,130 @@ La ubicación de estos datos se pueden representar con diferentes tipos de geome
 |Multipolígonos|![](./intro-sig-arcgis/multipoligono.png) ![](./intro-sig-arcgis/multipoligono-con-agujero.png)| Islas, territorio soberado de países (e.g. [España](https://services.arcgis.com/P3ePLMYs2RVChkJx/ArcGIS/rest/services/World_Countries_(Generalized)/FeatureServer/0/query?where=ISO+%3D+%27ES%27&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0&units=esriSRUnit_Meter&relationParam=&returnGeodetic=false&outFields=*&returnGeometry=true&returnCentroid=false&returnEnvelope=false&featureEncoding=esriDefault&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=&defaultSR=&datumTransformation=&applyVCSProjection=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnQueryGeometry=false&returnDistinctValues=false&cacheHint=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&returnZ=false&returnM=false&returnExceededLimitFeatures=true&quantizationParameters=&sqlFormat=none&f=pgeojson&token=)), municipios, comunidades autónomas, parque naturales y reservas, zonas costeras y marítimas, 
 |Colección de geometrías o GeometryCollection|![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/SFA_GeometryCollection.svg/102px-SFA_GeometryCollection.svg.png)|Es un tipo de geometría se puede usar para geometrías complejas, esbozar o guardar dibujos o indicaciones a suponer en un mapa, agregaciones de datos, etc.
 
+:::note
+**Faltan por hacer:**
+* Añadir las representaciones 3D equivalentes.
+* Ventajas y limitaciones
+<!-- Point cloud, indoor? -->
+:::
 
-Por hacer: **Ventajas y limitaciones**
 
 ### Datos raster
 
+Aunque los datos vectoriales son frecuentes en todos los campos y sectores económicos, en algunos como el energético, defensa, agricultura, climatología, medio ambiente, conservación, etc, es muy habitual trabajar con datos de resultantes de la [observación de la tierra](https://en.wikipedia.org/wiki/Earth_observation) que se almacenan en formato [ráster](https://en.wikipedia.org/wiki/Data_model_(GIS)#Raster_data_model), y que se obtienen mediante [teledetección](https://en.wikipedia.org/wiki/Remote_sensing) (a partir de sensores ubicados en satélites, aviones, drones, etc.).
 
-** ⚠️ Pendiente de hacer**
-
-<!-- Los [datos ráster](#datos-raster-bitmaps) para [variables contínuos](https://es.wikipedia.org/wiki/Variable_discreta_y_variable_continua) (e.j. temperatura, elevación, [usos de suelo](https://en.wikipedia.org/wiki/Land_use), ...).
-
-Datos "raster" (bitmaps): https://esri-es.github.io/awesome-arcgis/arcgis/content/data-types/raster/
-
-(ej: datos de elevación, datos de temperatura, o una una fotografía aérea).
-Multidimensionales
+<details><summary>Vínculo entre el sector militar, la teledetección y los datos raster</summary>
+<p>
+El impulso de la teledetección y la observación de la tierra está fuertemente ligado al sector militar, ya que a primeros del siglo XX (durante la Primera Guerra Mundial), los militares desarrollaron la fotografía aérea sistemática con objeto de vigilancia y reconocimiento de territorios. Y en la segunda mitad del siglo XX, el desarrollo de satélites artificiales permitió el uso de la teledetección remota a escala global proveyendo información con varios fines (civil, militar y de investigación). 
 
 
+</p>
 
-[¿Qué son los datos ráster?](https://desktop.arcgis.com/es/arcmap/latest/manage-data/raster-and-images/what-is-raster-data.htm)
+<p>
 
+Más info en: [Historia de la teledetección](https://es.wikipedia.org/wiki/Teledetecci%C3%B3n#Historia).
 
-voxel
+</p>
+</details>
 
-[Conceptos básicos del tratamiento de imágenes y la teledetección en la Plataforma ArcGIS](https://geogeeks.maps.arcgis.com/apps/Cascade/index.html?appid=5072b8d56cef4f7bb5d24e5d840461da)
+<details><summary>👀 <strong>Curiosidad</strong>: ¿Sabías que cada día se generan TB de datos abiertos en formato ráster?</summary>
+<p>
 
-Aunque los datos vectoriales son frecuentes en todos los campos y sectores económicos, hay algunos donde trabajar con datos *raster* muy habitual (ej: defensa y seguridad, climatología, medio ambiente y conservación, gestión de recursos naturales, energía, agricultura, ...). -->
+A día de hoy:
 
+* Sólo el programa gubernamental de observación de la Tierra de la [Agencia Espacial Europea (Copernicus) proporciona 20 TB de datos](https://www.copernicus.eu/en/news/news/observer-cool-facts-your-next-copernicus-small-talk) abiertos al día.
+* La NASA ofrece más de [100 petabytes de datos](https://www.earthdata.nasa.gov/esds/esds-highlights/2023-esds-highlights) científicos sobre la Tierra
+* Hay literalmente [miles de satélites observando la Tierra](https://geoxc-apps.bd.esri.com/space/satellite-explorer/) y enviando datos en tiempo casi real (e.j. [aquí puedes encontrar algunas APIs de acceso público](https://livingatlas.arcgis.com/livefeeds-status/)).
+
+Y gran parte de estos datos se presentan en formato ráster.
+
+</p>
+</details>
+
+Estos datos ráster por tanto representan datos espacialmente continuos, y al igual que un [gráfico de mapa de bits](https://en.wikipedia.org/wiki/Raster_graphics), se almacenan como matrices de celdas/píxeles organizadas en filas y columnas, pero en este caso cada celda está asociada a una ubicación real.
+
+[![Raster images representation and georeferenciation](./intro-sig-arcgis/raster-images-representation-and-georeferenciation.jpg)](./intro-sig-arcgis/raster-images-representation-and-georeferenciation.jpg)
+
+Al tamaño de la superficie terrestre que representa cada celda/pixel se le llama **resolución espacial** ([GSD](https://en.wikipedia.org/wiki/Ground_sample_distance)) y depende del sensor usado para la captura, la distancia del mismo a la tierra, etc.
+
+<div style={{textAlign: 'center'}}>
+
+![Resolución espacial - Pixel GSD ráster](./intro-sig-arcgis/resolucion-espacial-pixel-GSD-raster.png)
+
+</div>
+
+Lo que representa el valor numérico de cada celda variará, pudiendo ser el color de una fotografía aérea, una imagen satélite, un mapa escaneado, la elevación, la temperatura (terrestre o marítima), el [tipo de uso de suelo](https://en.wikipedia.org/wiki/Land_use), etc.
+
+[![](./intro-sig-arcgis/diferentes-tipos-de-datos-raster-color-elevacion-temperatura-tipos-de-uso-de-suelo.png)](./intro-sig-arcgis/diferentes-tipos-de-datos-raster-color-elevacion-temperatura-tipos-de-uso-de-suelo.png)
+
+**Estas matrices pueden ser bidimensionales, tridimensionales o n-dimensionales**. 
+
+Por ejemplo, una matriz tridimensional podría almacenar valores que representan volúmenes de datos, como por ejemplo la temperatura del mar o los niveles de oxígeno a diferentes profundidades:
+
+<div style={{textAlign: 'center'}}>
+
+[![ Subconjunto de unidad ecológica marina del Caribe. Temperatura y Concentración molar de oxígeno](./intro-sig-arcgis/3d-voxel.gif)](https://developers.arcgis.com/javascript/latest/sample-code/layers-voxel-variable/)
+
+</div>
+
+O un satélite capturando el [espectro electromagnético](https://es.wikipedia.org/wiki/Espectro_electromagn%C3%A9tico) en una [imagen multiespectral](https://es.wikipedia.org/wiki/Imagen_multiespectral) que almacena en una matriz n-dimensional los valores de radiación de las diferentes bandas electromagnéticas. Estas contienen información que el ojo humano no captura con sus receptores (rojo, verde y azul), y que luego se puede combinar calcular multitud de cosas, como por ejemplo el estado de salud de la vegetación (mediante el [índice NDVI](https://es.wikipedia.org/wiki/%C3%8Dndice_de_vegetaci%C3%B3n_de_diferencia_normalizada)), o poder ver la [actividad de un fuego a través del humo](https://developers.arcgis.com/javascript/latest/sample-code/widgets-swipe/), monitorizar la [actividad térmica y potenciales focos de fuego en tiempo real](https://livingatlas.arcgis.com/en/browse/?q=fire%20thermal%20activity#d=2&q=fire+thermal+activity):
+
+<div style={{textAlign: 'center'}}>
+
+[![Ráster NDVI](./intro-sig-arcgis/raster-ndvi-infrared.gif)](https://developers.arcgis.com/javascript/latest/sample-code/layers-imagerytilelayer-rasterfunction/)
+
+</div>
+
+En definitiva, estos tipos de datos, ya sean procesados o en crudo, son usados por todo tipo de organizaciones (públicas, privadas, con y sin ánimo de lucro), en ámbitos como:
+  
+* **Gestión del territorio**: Estudiar características del terreno, analizar patrones de uso del suelo, identificar construcciones ilegales (casas, piscinas, etc.), expansión urbana y desarrollo de infraestructuras, monitorizar la evolución de minas, ...
+* **Monitorización de cultivos agrícolas**: Monitorizar la salud de los cultivos, controlar plagas y en definitiva optimizar la producción de los cultivos.
+* **Meteorología y climatología**: Analizar patrones climáticos y predecir eventos meteorológicos severos (incendios, inundaciones, huracanes, ...).
+* **Gestión de desastres**: Dar apoyo en situaciones de emergencia. Evaluar daños por desastres naturales como inundaciones, huracanes e incendios forestales usando imágenes antes y después del evento. 
+* **Defensa**: Estudiar y evaluar el terreno en zonas de conflicto, y monitorizar ubicaciones estratégicas.
+* **Conservación del medio ambiente**: Monitorizar áreas protegidas, la salud de los bosques, temperaturas oceánicas, rastrear vida marina, analizar el impacto de actividades humanas en hábitats naturales, los cambios ambientales como la deforestación, desertificación, pérdida de hábitats, además de para estudiar ecosistemas costeros y marinos.
+* Etc
+
+Más adelante veremos cómo manipular, visualizar, analizar y extraer información de la ingente cantidad de datos disponibles a través de estos formatos.
+
+<details><summary>Algunos recursos adicionales</summary>
+<p>
+
+Aquí tienes tres recursos adicionales si quieres profundizar un poco más:
+* [¿Qué son los datos ráster?](https://desktop.arcgis.com/es/arcmap/latest/manage-data/raster-and-images/what-is-raster-data.htm)
+* [Conceptos básicos del tratamiento de imágenes y la teledetección](https://geogeeks.maps.arcgis.com/apps/Cascade/index.html?appid=5072b8d56cef4f7bb5d24e5d840461da).
+* [Petabytes de información accesibles a través de aplicaciones de observación de la tierra](https://www.arcgis.com/apps/MinimalGallery/index.html?appid=cff0dd2940984c209d29d6ed3c41b99a).
+* [Un mini resumen de tipos de datos ráster](https://esri-es.github.io/awesome-arcgis/arcgis/content/data-types/raster/) (hecho hace unos años).
+* [Casos de uso de imágenes raster y teledetección](https://learn.arcgis.com/en/gallery/#?c=imagery)
+
+</p>
+</details>
 
 ## Capas de datos
 
 De manera análoga a como se trabaja con herramientas de diseño gráfico (ej: Photoshop), los datos en un SIG se suelen organizar y almacenar por capas, principalmente porque se adapta mejor a las necesidades específicas de representación, análisis y visualización de datos geolocalizados.
 
-> **Nota**: Del mismo modo, en [portales de datos abiertos](#datos-abiertos), lo normal es encontrar ficheros donde cada uno representa una capa de datos.
+:::note
+Del mismo modo, en [portales de datos abiertos](#datos-abiertos), es habitual encontrar ficheros donde cada uno representa una capa de datos.
+:::
+
+Las capas se utilizan a menudo para gestionar y visualizar grandes colecciones de entidades geográficas. Existen dos tipos de capas o colecciones de entidades geográficas:
+
+* **Estructuradas**, son aquellas en las que cada entidad geográfica tiene el mismo tipo de geometría y los mismos atributos.
+* **No estructuradas**, aquellas en las que  cada entidad tiene un tipo de geometría diferente o atributos diferentes. 
 
 En la siguiente figura representa conceptualmente una aplicación donde se visualizan varias capas de datos simultáneamente:
 
 [![](./intro-sig-arcgis/capas-de-datos-gis.png)](./intro-sig-arcgis/capas-de-datos-gis.png)
 
 En la figura vemos:
-* En la parte superior una capa de gráficos (**capa gráfica**). Normalmente **se usan para mejorar la usabilidad de las aplicaciones**, y sirven para representar elementos mientras se interactúa con la aplicación (por ejemplo mostrar un "pin"/marcador tras hacer la búsqueda de una dirección, mostrar la traza de una geometría mientras se está dibujando, etc). En este caso contiene diferentes tres geometrías de dos tipos distintos dos marcadores y un polígono). Esta **sólo existe en memoria RAM**.
-* En la parte intermedia cada **capa persistida en disco contiene un único tipo de geometría**<sup>1</sup> (puntos, líneas, o polígonos). 
-* Y en la parte inferior **hay dos capas raster**, la de elevación (relieve) y la del mapa satélite de fondo.
+* En la parte superior una capa de gráficos (**capa gráfica**), que es una capa no estructurada. Normalmente **se usan para mejorar la usabilidad de las aplicaciones**, y sirven para representar elementos mientras se interactúa con la aplicación (por ejemplo mostrar un "pin"/marcador tras hacer la búsqueda de una dirección, mostrar la traza de una geometría mientras se está dibujando, etc). En este caso contiene diferentes tres geometrías de dos tipos distintos dos marcadores y un polígono). Esta **sólo existe en memoria RAM**.
+* En la parte intermedia cada **capa persistida en disco contiene es estructurada, y por tanto contiene un único tipo de geometría** (puntos, líneas, o polígonos) y todas las entidades tienen los mismos atributos.  
+* Y en la parte inferior **hay dos capas raster**, la de elevación (relieve) y la del mapa satélite de fondo. Estas capas normalmente se sitúan debajo porque al contener datos contiguos podrían no dejar ver los datos de las capas inferiores.
 
-> **Nota**: Aunque cuando una aplicación es muy sencilla, los propios datos geolocalizados se puede añadir manualmente en una capa gráfica.
+:::note
+Aunque normalmente se trabaja con capas, cuando una aplicación es muy sencilla y se trabaja con pocos datos geolocalizados, estos se puede añadir manualmente en una capa gráfica (ya que trabajar por capas no aporta tanto valor en estos casos). 
+:::
 
 Es habitual que cuando estos datos se alojen en un SGBD relacional, cada capa se almacene en una tabla de la base de datos. 
 
@@ -313,60 +491,135 @@ Es habitual que cuando estos datos se alojen en un SGBD relacional, cada capa se
 
 ## Formatos de datos
 
-Antes de pasar a las bases de datos, vamos a repasar los formatos en los que solemos encontrar datos en internet, ya sea en archivos estáticos o a través de APIs, y que sirven para mejorar la interoperabilidad entre sistemas. Aunque no entraremos en detalle en cómo se representan.
+Antes de pasar a ver las bases de datos, vamos a repasar los **formatos de intercambio y almacenamiento en los que solemos encontrar datos en Internet**, ya sea en archivos estáticos, en texto plano o en binario a través de APIs, y **que sirven para mejorar la interoperabilidad entre sistemas**. Aunque no entraremos en detalle en cómo se representan.
 
-<!--
-The same way W3c, IETF and IEEE (LAN, WAN, PAN), there is an OGC
-https://twitter.com/opengeospatial/status/1758131563638743349
+**Algunos de estos formatos se pueden utilizar para crear aplicaciones que sigan funcionando incluso "en modo avión"**, o sea que sigan cargando mapas, calculen rutas, o sean capaces de buscar direcciones postales en zonas sin cobertura como, túneles, metro/subsuelo, bosques, montañas, alta mar, aviones, países extranjeros, etc.
 
+<details>
+  <summary>El *W3C* de la comunidad geo ➡️ El OGC.</summary>
 
--->
+El [Open Geospatial Consortium (OGC)](https://en.wikipedia.org/wiki/Open_Geospatial_Consortium) es un consorcio internacional formado por todo tipo de organizaciones que establece estándares abiertos e interoperables en busca del crecimiento neutral y la interoperabilidad de la comunidad geoespacial (en el marco de los Sistemas de Información Geográfica) y de [La Web](https://es.wikipedia.org/wiki/World_Wide_Web). 
+>
+> Podríamos decir que es una organización análoga al [W3C](https://es.wikipedia.org/wiki/World_Wide_Web_Consortium) pero en el ámbito "geo". Y veremos cómo **algunos formatos de datos, y posteriormente APIs, están definidos como estándares OGC**.
+
+</details>
+
+Algunos de los formator que veremos han sido publicados como [estándares OGC](https://www.ogc.org/standards/bp/) (🥇), o están en proceso (🥈), y otras especificaciones abiertas que se han convertido en estándares de facto (🥉).
 
 ### Para datos vectoriales
 
-** ⚠️ Pendiente de hacer**
+**Los formatos más sencillos para datos vectoriales no son más que especificaciones**, esquemas, o extensiones **sobre formatos basados en texto plano**. 
 
-<!-- * Extensiones a formatos de texto plano que definen esquemas:
-  * JSON -> [GeoJSON](https://en.wikipedia.org/wiki/GeoJSON), ver [GeoJSON JSON Schema](https://github.com/geojson/schema) y [TopoJSON](https://en.wikipedia.org/wiki/GeoJSON#TopoJSON), JSON-FG
-  * XML -> [KML](https://en.wikipedia.org/wiki/Keyhole_Markup_Language), [GPX](https://en.wikipedia.org/wiki/GPS_Exchange_Format), [GML](https://es.wikipedia.org/wiki/Geography_Markup_Language), ...
-  * CSV -> GeoCSV
-* Comprimidos:
-  * ZIP: 
-    * Shapefile
-    * [GTFS](https://en.wikipedia.org/wiki/GTFS), ...
-    * KMZ
-  * Protobuf -> https://github.com/Esri/arcgis-pbf
-  * Otros
-  * Geoparquet
-  * Protomaps
+Es habitual encontrarlos:
+* En aplicaciones que nos ofrecen la posibilidad de exportar nuestros datos en algunos de estos formatos.
+* Como en extensiones de bases de datos para trabajar con algunos de estos formatos.
+* APIs de empresas que devuelven sus respuestas en estos formatos.
+* Además de librerías y SDKs que son capaces de leer, visualizar y transformarlos. 
 
-Aún es frecuente INTERCAMBIO DE FICHEROS
-y si se exportan como ficheros se usan (, GDBs, , protomaps, ... )
-en diferentes formatos en texto plano y binario  (, ... hay algunos formatos de propósito general y otros más...
+A continuación vamos a ver algunos de los formatos más sencillos:
 
-> (1) Aunque en ocasiones hay capas (como las gráficas, feature collection), que permiten mezclar tipos de geometrías
+* **JSON (JavaScript Object Notation)**:  
+  * 🥇 [GeoJSON](https://en.wikipedia.org/wiki/GeoJSON): formato muy sencillo que representar estructuras geoespaciales a partir de sus vértices. Soporta capas estructuradas de puntos, líneas, polígonos, etc., además de *FeatureCollections* (capas no estructuradas). Sólo soporta un sistema de referencia espacial (WGS 84) y está soportado en casi todas las bases de datos.
+  * 🥈 [JSON-FG](https://www.geonovum.nl/uploads/documents/220405-JSON-FG.pdf): similar a GeoJSON pero más flexible y soportando más sistemas de referencia.
+  * [TopoJSON](https://en.wikipedia.org/wiki/GeoJSON#TopoJSON): permite representar las mismas estructuras que GeoJSON pero de manera más eficiente, reduciendo el tamaño de los archivos y manteniendo las relaciones topológicas.
+  * [Esri JSON](https://developers.arcgis.com/rest/services-reference/enterprise/query-feature-service-layer/#json-response-syntax): soporta multitud de sistemas de referencia, geometrías en 2D y 3D, es eficiente como el TopoJSON, e incluye mecanismo de paginación para grandes datasets.
+* **XML (Extensible Markup Language)**: 
+  * 🥇 [KML](https://en.wikipedia.org/wiki/Keyhole_Markup_Language): permite la visualización sencilla de datos geográficos en tres dimensiones y soporta etiquetas, estilos, descripciones y enlaces. El KMZ es una versión comprimida del KML que puede incluir recursos adicionales como imágenes, modelos 3D, y otros archivos asociados para la representación de los datos. Está soportado nativam en muchas bases de datos.
+  * 🥇 [GML](https://es.wikipedia.org/wiki/Geography_Markup_Language): permite representar una amplia gama de datos geoespaciales, desde simples puntos hasta complejas redes y superficies. Soporta la modelación de geometría, propiedades geográficas y relaciones espaciales detalladas. Es adecuado para aplicaciones que requieren una rica estructura de datos geoespaciales y que pueden manejar su complejidad y flexibilidad.
+  * 🥉 [GPX](https://en.wikipedia.org/wiki/GPS_Exchange_Format): esta diseñado para intercambiar datos entre dispositivos GPS y herramientas software. Contiene información sobre waypoints (puntos de referencia), rutas y tracks (trazados de rutas).
+  * 🥉 [GeoRSS](https://en.wikipedia.org/wiki/GeoRSS): permite añadir la ubicación (puntos, líneas y polígonos) a las entradas de feeds como RSS y Atom.
+* **CSV (Comma-separated values)**:
+  * 🥉 [GTFS](https://en.wikipedia.org/wiki/GTFS): creado para compatir información sobre los horarios de transporte público y la información geográfica asociada. Sólo contiene información estática (o programada) sobre los servicios de transporte público, no en tiempo real. Contiene entre 6 y 13 ficheros CSV comprimidos en ZIP. 
 
-En ciertas disciplinas se trabaja con otros tipos de software y formatos de fichero que pueden ser importados o vinculados para enriquecer la información del SIG. Por ejemplo:
+Otros formatos destacables y más avanzandos de intercambio o almacenamiento de datos vectoriales son:
+  
+  * 🥈 [GeoParquet](https://github.com/opengeospatial/geoparquet/blob/main/format-specs/geoparquet.md): almacena datos geoespaciales en un formato columnar basado en Parquet. Principalmente usado en análisis big data geoespacial con alto rendimiento y comprensión. Está optimizado para procesamiento el paralelo.
+  * 🥈 [IMDF](https://docs.ogc.org/cs/20-094/index.html): almacena datos geoespaciales detallados sobre interiores de edificios (habitaciones, pasillos y puntos de interés) usados para la navegación en interiores y gestión de espacios.
+  * 🥉 [Shapefile](https://en.wikipedia.org/wiki/Shapefile): formato que consta de múltiples archivos (comprimido en ZIP) almacena datos geoespaciales vectoriales (puntos, líneas y polígonos), ampliamente usando en SIG.
+  * [PMTiles](https://github.com/protomaps/PMTiles): almacena teselas vectoriales en un archivo empaquetado (no SQLite) que puede ser accedido usando la [cabecera de petición HTTP *Range*](https://developer.mozilla.org/en-US/docs/Web/HTTP/Range_requests).
+  * etc.
 
-* **Arquitectura y diseño industrial**: diseño asistidar por computador (CAD), para diseñar edificios  es relativamente habitual que que a veces se usa para crear planos de pueblos/ciudades: DWG, DXF, DGN, ...). 
-* **Ingeniería Civil**: Lidar
-* **Movilidad**: GTFS
-* ...
+Además de estos formatos, dependiendo del proyecto y las industrias en las que trabajemos es habitual encontrar otros formatos de fichero que tienen que ser procesados y/o georefenreciados para poder usarlos en nuestras aplicaciones. Dos ejemplos:
 
-Si quieres explorar más, aquí tienes un [listado de formatos de ficheros para datos geoespaciales](https://esri-es.github.io/awesome-arcgis/arcgis/content/data-storage/file-formats/)) que creé hace tiempo. -->
+* **Arquitectura y diseño industrial**: Hay ocasiones donde las personas que crean planos de pueblos/ciudades lo hacen con herramientas de diseño asistido por computador (CAD), que generan ficheros DWG, DXF, DGN, ... y que posteriormente se pueden georeferenciar.
+* **Ingeniería Civil**: o herramientas de escaneado lidar 3D que generan nubes de puntos en formatos: 🥇 [LAS](https://www.ogc.org/standard/LAS/), LAZ, E57, PLY, etc.
+
+Si quieres explorar más, aquí tienes un [listado de formatos de ficheros para datos geoespaciales](https://esri-es.github.io/awesome-arcgis/arcgis/content/data-storage/file-formats/) que creé hace tiempo.
 
 ### Para datos ráster
 
+Hay formatos rásters que también están basados en formatos de imágenes que ya conocemos cono JPEG o TIFF. 
+
+Algunos de los formatos más habituales para almacenar y compartir imágenes georeferenciadas son:
+
+* 🥇 [GeoTIFF](https://en.wikipedia.org/wiki/GeoTIFF): ampliamente usado en SIF, es una imagen que incluye metadatos como la proyección del mapa, sistema de coordenadas, elipsoide y datum.
+* 🥇 [Cloud Optimized GeoTIFF (COG)](https://docs.ogc.org/is/21-026/21-026.html): similar a GeoTIFF pero optimizado para ser leído parcialmente (usando HTTP range requests), lo que permite acceder a grandes imágenes a través de la nube.
+* 🥇 [NetCDF](https://en.wikipedia.org/wiki/NetCDF): formato de datos multidimensional usado para datos científicos (meteorológicos, oceanográficos, de clima, ...).
+* [Tile Package](https://github.com/Esri/tile-package-spec): es una especificación abierta creada por Esri que consiste en un archivo comprimido que contiene múltiples carpetas con la pirámide de imágenes troceadas (teselas) con las que se genera el mosaico que es un mapa base. Puede ser usado en aplicaciones offline.
+* [JPEG 2000](https://en.wikipedia.org/wiki/JPEG_2000#GML_JP2_georeferencing): en el año 2006 el OGC [definió los metadatos](https://www.ogc.org/standard/gmljp2/) para poder georreferenciar imágenes JPEG 2000 con usando GML.
+
+<details>
+  <summary>👀 <strong>Curiosidad</strong>: Cómo comprimir imágenes (ráster) erróneamente puede arriesgar vidas 🛟</summary>
+
+Es importante tener cuidado al usar algoritmos de compresión en imágenes GIS ráster, **especialmente cuando se van a usar posteriormente en procesos de análisis**, ya que de no hacerlo se pueden introducir errores con graves consecuencias.
+
+Por ejemplo, hay departamentos de urbanismo de ciudades puede usan capa ráster de elevación para llevar a cabo una **evaluación del riesgo de inundación**, identificando las zonas vulnerables a las inundaciones. Esta evaluación se basa en gran medida en [Modelos Digitales de Elevación (MDE)](https://es.wikipedia.org/wiki/Modelo_digital_del_terreno) que permite modelizar el flujo de agua y predecir las zonas inundables.
+
+Al comprimir los datos se modificarán los valores de las celdas pudiendo llegar a introducir errores que conlleven **cambios sutiles que suavicen la elevación, y los rasgos críticos como pequeñas zanjas y pequeñas crestas se pierden o se representan de forma imprecisa**, lo que podría conllevar a una modelización inexacta de las inundaciones, de los caudales de agua, extensión de las inundaciones, diseño de rutas y planes de evacuación erróneos, ... lo que conllevaría una preparación inadecuada para las inundaciones reales y en definitiva, un **riesgo para la vida de las personas**.
+
+Usar algoritmos de compresión de imágenes adecuados como **"[LERC (Limited Error Raster Compression)](https://www.osgeo.org/projects/lerc-limited-error-raster-compression/)**" , que **permite preservar de la calidad de los datos, mantiendo márgenes de error controlados**, garantizando que la compresión no degradará significativamente la calidad de los datos es esencial para mantener la precisión del análisis y la interpretación espaciales.
+
+</details>
+
+Puedes encontrar [otros formatos raster en la Wikipedia](https://en.wikipedia.org/wiki/GIS_file_format#Raster_formats).
+
+:::note
+Las fotografías (normales, panorámicas o 360º) con los metadatos [Exif (Exchangeable image file format)](https://en.wikipedia.org/wiki/Exif), conocidos como [GPS tags](https://exiftool.org/TagNames/GPS.html) o [geotags](https://exiftool.org/geotag.html), permiten incluir información como latitud, longitud, altitud, dirección de la brújula, ángulo de inclinación en grados, o el ángulo de balanceo a las imágenes con lo que se pueden geolocalizar (como hace [Google Photos](https://support.google.com/photos/answer/6153599?hl=en&co=GENIE.Platform%3DAndroid) o [ArcGIS Online](https://www.esri.com/about/newsroom/arcwatch/add-geotagged-photos-to-arcgis-online-web-maps/)). Dicho esto, yo no las considero datos ráster al uso (en términos GIS) dado que para ello cada pixel de la imagen/celda debería estar asociada a una posición. Dicho esto, en Esri estamos desarrollando una tecnología llamada [Oriented Imagery](https://pro.arcgis.com/en/pro-app/latest/help/data/imagery/oriented-imagery-overview.htm) que permite procesar y añadir los metadatos necesarios a conjuntos de imágenes para hacerlo ([ver ejemplo](https://www.esri.com/arcgis-blog/products/arcgis/imagery/introducing-oriented-imagery/)). 
+:::
+
+:::note
+En referencia a la nota anterior, también hay tecnologías que permiten trabajar con [Full-motion video](https://en.wikipedia.org/wiki/Full-motion_video) (FMV) que permiten geolocalizar todos los frames de un vídeo, pudiendo por ejemplo, usar una grabación de una cámara embarcada en un dron, elicóptero, ..., casi como si fuese una capa GIS más. Aquí dejo algunas demos: [Esri FMV videos](https://mediaspace.esri.com/esearch/search?keyword=full%20motion%20video).
+:::
+
+### Para ambos
+
+Existen formatos que permiten trabajar tanto con datos vectoriales como datos raster:
+
+* 🥇 [GPKG](https://en.wikipedia.org/wiki/GeoPackage): permite almacenar datos vectoriales (y raster) en una base de datos SQLite.
+* [Mobile Map Package](https://pro.arcgis.com/en/pro-app/latest/tool-reference/data-management/create-mobile-map-package.htm): formato propietario de Esri que permite almacenar Esri Geodatabases (datos ráster / vector), grafos (para representar redes de transporte), geocodificadores y todo lo necesario para trabajar en entornos sin conexión a Internet.
+* [MBTiles](https://wiki.openstreetmap.org/wiki/MBTiles): almacena teselas vectoriales (o ráster) en una base de datos SQLite que puede usar en aplicaciones offline.
+
+## Manipulación de datos
 
 ** ⚠️ Pendiente de hacer**
 
-<!-- GeoTIFF, COG, ... -->
+<!-- 
+Cómo se crean, añaden metadatos o leen metadatos a las imágenes, etc
+GDAL/OGR (otro proyecto de OsGEO)
+linters
+Desktop ArcGIS & QGIS(otro proyecto de OsGEO), gvSIG desarrollando en España, transformación, 
+https://tool.geoimgr.com/
+
+https://exiftool.org/
+https://exif.tools/
+
+/Users/ral97612/Desktop/exif-info-image.png
+
+Mediante el Análisis
+Procesado, feature extraction, mallas/meshes, geoAI, usos de suelo, 
+-->
 
 ## Bases de datos
 
 ** ⚠️ Pendiente de hacer**
 
 <!--
+
+https://en.wikipedia.org/wiki/Spatial_database#List
+PostGIS geometries: https://postgis.net/workshops/postgis-intro/geometries.html
+
+geometries, spatial operations (relationships, joins, ...) spatial indexes, projections, rasters, topologies, clustering, 
+https://postgis.net/workshops/postgis-intro/index.html
 
  Aunque hay ficheros de datos geoespaciales avanzados, como FBG que usar una base de datos Access. "Enterprise database"..
 ventajas de usar bases de datos editar ficheros directamente vs 
@@ -380,7 +633,7 @@ PostGIS extension mantenido por el software geoespacial es OSGEO: https://en.wik
 * ¿Habilitar una base de datos relacional como espacial?:
       * Viejo: [Understanding ArcSDE](https://downloads.esri.com/support/documentation/sde_/706understanding_arcsde.pdf) (Database schema)
       * Crear una "Enterprise Geodatabase" de Esri (\== añadir ArcSDE a un SGBD) en PostgreSQL: https://pro.arcgis.com/en/pro-app/3.1/help/data/geodatabases/manage-postgresql/setup-geodatabase-postgresql-windows.htm (mediante la herramienta de escritorio) también se soportan (MS SQL Server, Oracale, SAP HANA, ... [más](https://pro.arcgis.com/en/pro-app/3.1/help/data/geodatabases/introduction/geodatabase-administration.htm)); existen otros tipos de Geodatabases (file geodatabase, mobile geodatabase, ...)
-      * Igual extensiones para dotar de capacidades para trabajar con datos geolocalizados a la BD: ArcSDE (de Esri) existen PostGIS (para PostgreSQL), SpatiaLite (para SQLite), Oracle Spatial (para Orace) etc. <- cada una con unas capacidades
+      * Igual extensiones para dotar de capacidades para trabajar con datos geolocalizados a la BD: ArcSDE (de Esri) existen PostGIS (para PostgreSQL), SpatiaLite (para SQLite) [geopoly](https://www.sqlite.org/geopoly.html#geojson)?, Oracle Spatial (para Orace) etc. <- cada una con unas capacidades
 duckdb extension
 https://duckdb.org/docs/extensions/spatial.html
 * ¿Cuál es la UI para diseñar/modificar una Esri Enterprise Geodatabases? (del SGDB):
@@ -388,8 +641,6 @@ https://duckdb.org/docs/extensions/spatial.html
       * Los usuarios avanzados pueden abrir la UI por defecto el SGBD y ver (aunque se recomienda encareciadamente no tocar directamente)
       * Una vez publicado un servicio, se ofrece una interfaz&API para poder modificar el servicio e incluso modificar esquema (aunque no existe documentación para casos avanzados). Un ejemplo: https://youtu.be/D9PMC2yGJbA?si=vx6ugoQtSDmj18DA&t=647
       * Esta es la misma inte
-
-https://en.wikipedia.org/wiki/Spatial_database#List
 
 otros amagos de docs:
 * [Introducción a las bases de datos en ArcGIS - GeoDatabases (para informáticos)](https://docs.google.com/document/d/1yVjQg9fi9bTO158IqEnyDrtCKVFvoA_rlE4ziYsUIIc/edit)
@@ -403,6 +654,8 @@ otros amagos de docs:
 ** ⚠️ Pendiente de hacer**
 
 <!-- nginx Apache pero para servir, infraestructura backend para servir los datos, etc.
+
+https://ogcapi.ogc.org/features/ 
 
 The Billion Dollar Code: https://www.netflix.com/es-en/title/81074012
 Intrevista a Brian McClendon (co-founded Keyhole): https://www.mindsbehindmaps.com/episode/brian-mcclendon-the-story-of-google-maps-pokemon-go-amp-keyhole-mbm59
@@ -426,8 +679,8 @@ Showing tiles and vertex https://codepen.io/matt9222/pen/OJqdZBV
 
 * Hoy en día se publican servicios/APIs con especificaciones públicas, ya sean estándares (OGC, función equivalente al W3C pero en el ámbito espacial) o no: https://esri-es.github.io/awesome-arcgis/arcgis/content/data-storage/service-types/
 
+* Protocol Buffers  Protobuf -> https://github.com/Esri/arcgis-pbf
 TMS especificación de OSGEO
-
 
 Geocoders son motores de búsqueda que no sólo hacen fuzzy search (o fuzzy string searching / correspondencia aproximada de cadenas) (e.g. google refine [clustering methods](https://openrefine.org/docs/manual/cellediting#cluster-and-edit)) ya que hay muchos lugares en el mundo con varios nombres alternativos (el nombre oficial y otros nombres por los que se les conoce localmente). historical names. https://pro.arcgis.com/en/pro-app/3.1/help/data/geocoding/alternate-name-table-roles.htm (e.g. Interstate 10 in California = Christopher Columbus Transcontinental Highway https://en.wikipedia.org/wiki/Interstate_10_in_California). [Place ID](https://developers.google.com/maps/documentation/places/web-service/place-id) / [GERS](https://overturemaps.org/enriching-overture-maps-data-with-gers/). [Pelias](https://pelias.io/). Multi language / https://openaddresses.io/
 Open Cage interview https://podcast.scalingdevtools.com/episodes/ed-freyfogle/transcript (7:00min tried yourself) first learn the developers like to tinker and play, so a lot of people need to first learn the hard lesson that it's, uh, it's better for us to do it for them.
@@ -461,7 +714,10 @@ Open api espect of ocg apis? -->
 Con todo lo que hemos visto ya estamos preparados para entender
 
 OpenStreetMap
+https://openaerialmap.org/
 IDEs, etcportales open data, ..
+
+GEOJSON-LD??
 
 
 Google: https://takeout.google.com/ 
@@ -484,8 +740,14 @@ https://docs.google.com/presentation/d/16wNWpNhnzxVxQ1TXPccERxBfi_q2T8sKBMHHbi6r
 learn Renderers using  mapviewer, scene viewer
 VTSE
 
+3D magic - Unveiling the Magic: The Secrets Behind 10 Amazing Web Apps
+https://mediaspace.esri.com/media/t/1_4eg6ks27
+
 [Thematic Mapping: 101 Inspiring Ways to Visualise Empirical Data](https://amzn.eu/d/68PvGRm)
 [Cartography](https://amzn.eu/d/7WcAz4p)
+
+Datos bajo tierra
+https://www.linkedin.com/feed/update/urn:li:activity:7169781058283012096?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7169781058283012096%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
 
 Visualización de datos raster
 
@@ -512,7 +774,9 @@ import PixelFilterAnalysis from './intro-sig-arcgis/pixel-filter-analysis-low.gi
 
 SDKs + arcpy
 
-Para asegurar calidad de datos, comprobar topologías, generar nuevos datos -->
+Para asegurar calidad de datos, comprobar topologías, generar nuevos datos
+why hexagons https://pro.arcgis.com/en/pro-app/3.1/tool-reference/spatial-statistics/h-whyhexagons.htm
+ -->
 
 <div class="sixteen-nine">
   <iframe class="content" width="560" height="315" src="https://www.youtube.com/embed/y3e5LzMgF1w?si=VRafuHLn9P1u3c4Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -534,6 +798,12 @@ Extracción (semi) automática de entidad, Detección de cambios, predicciones, 
 
 https://medium.com/geoai
 
+Gabriel ortiz:
+* https://www.linkedin.com/feed/update/urn:li:activity:7198222026031927296?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7198222026031927296%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+Chris North: AI:
+* https://www.linkedin.com/feed/update/urn:li:activity:7199054131045527552?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7199054131045527552%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
 [Spatial Statistics Illustrated](https://amzn.eu/d/b2Cj8kI) -->
 
 
@@ -541,13 +811,27 @@ https://medium.com/geoai
 
 ** ⚠️ Pendiente de hacer**
 
-<!-- Desktop ArcGIS & QGIS(otro proyecto de OsGEO), gvSIG desarrollando en España, transformación, interoperability, portal  GDAL/OGR (otro proyecto de OsGEO), etc -->
+<!-- interoperability, portal  , geoportal, CMS etc -->
 
-## Captura / generación
+<!-- 
+
+Getting started with ArcGIS
+Para frontend developers: https://docs.google.com/document/d/18Eq6y_VTOmbl0e4qIEyPszXixNB9FytumhchoR3lv10/edit?usp=sharing
+
+
+ Otras innovaciones o especificaciones:
+ Web Maps & Web scenes specificaciones (charla de marta)
+ i3S
+ https://github.com/Esri/cim-spec
+xml schema geodatabase: https://support.esri.com/en-us/technical-paper/xml-schema-of-the-geodatabase-695
+ -->
+
+## Captura
 
 ** ⚠️ Pendiente de hacer**
 
-<!-- A veces se captura directamente en ráster, a veces se transforma el dato vectorial a ráster
+<!-- 
+A veces se captura directamente en ráster, a veces se transforma el dato vectorial a ráster
 ¿Cómo se crean? topografos, manualmnete, satélites. drones, ground truth
 Teledetección
 https://es.wikipedia.org/wiki/Verdad_fundamental
@@ -563,21 +847,12 @@ Go to history para formas históricas
 
 https://aws.amazon.com/es/ground-station/
 
+GNSS de alta precisión
 Gps, drone (ground truth for GPS) . Precisión y exactitud
-
-A continuación repasaremos algunos de los conceptos, técnicas y métodos relacionados . 
-
-* Proyecciones
-* Sistemas de referencia
 
 Posiciones GPS 
 
-https://en.wikipedia.org/wiki/Ground_truth#Geographical_information_systems -->
-
-<!-- 
-
-Getting started with ArcGIS
-Para frontend developers: https://docs.google.com/document/d/18Eq6y_VTOmbl0e4qIEyPszXixNB9FytumhchoR3lv10/edit?usp=sharing
+https://en.wikipedia.org/wiki/Ground_truth#Geographical_information_systems 
  -->
 
 ## Historia del GIS
@@ -588,7 +863,9 @@ A veces, que sin conocer la historia y su evolución, cuesta entender en el pres
 
 ## Conclusión
 
-(diagrama de productos ArcGIS)
+** ⚠️ Pendiente de hacer**
+
+<!-- (diagrama de productos ArcGIS) -->
 
 ## Otros recursos
 
