@@ -7,7 +7,7 @@ enableComments: true
 
 ---
 
-Bienvenidx aa mi nueva web!, ya era hora... 😁
+Bienvenidx a mi nueva web!, ya era hora... 😁
 
 Algunas personas recordaréis [la antigua página](http://web.archive.org/web/20160322140938/http://rauljimenez.info/) que cree en 2013:
 

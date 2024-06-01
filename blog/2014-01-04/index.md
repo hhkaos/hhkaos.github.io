@@ -7,24 +7,24 @@ enableComments: true
 
 # Investing in online training
 
-A muchos aún les cuesta dar el paso de decidirse a pagar una cuota para suscribirse a un buen servicio de formación online; y yo quería romper hoy una lanza por ella porque creo que es más rentable frente a otras alternativas de formación regladas. En mi caso decidí hacer una apuesta en Junio del año pasado por [CodeSchool](https://web.archive.org/web/20160531110822/http://www.codeschool.com/), para mi **la mejor plataforma** que existe para mantenerse actualizado y **mejorar las habilidades en cuanto a programación**.
+Many people still hesitate to take the step of paying a fee to subscribe to a good online training service; and today I wanted to advocate for it because I believe it is more cost-effective compared to other formal training alternatives. In my case, I decided to bet on [CodeSchool](https://web.archive.org/web/20160531110822/http://www.codeschool.com/) in June of last year, for me **the best platform** that exists to stay updated and **improve programming skills**.
 
-A mi personalmente en cuanto a plataformas de educación, me gustan más aquellas que me obligan a entregar ejercicios para obtener la certificación ya que suponen poner en práctica lo aprendido y por tanto creo que aportan cierta validez. Os dejo otro par de plataformas con MOOCs que siguen esta línea donde podréis encontrar cursos gratuitos (con certificaciones de pago): [Coursera](https://web.archive.org/web/20160531110822/http://coursera.org/), [Miriadax](https://web.archive.org/web/20160531110822/http://miriadax.net/), [CodeAcademy](https://web.archive.org/web/20160531110822/http://www.codecademy.com/) y [EDX](https://web.archive.org/web/20160531110822/https://www.edx.org/) (_gracias Pino por esta última!_).
+Personally, when it comes to educational platforms, I prefer those that require me to submit exercises to obtain certification, as they involve putting what I've learned into practice and therefore, I believe, provide some validity. Here are a few other platforms with MOOCs that follow this line where you can find free courses (with paid certifications): [Coursera](https://web.archive.org/web/20160531110822/http://coursera.org/), [Miriadax](https://web.archive.org/web/20160531110822/http://miriadax.net/), [CodeAcademy](https://web.archive.org/web/20160531110822/http://www.codecademy.com/), and [EDX](https://web.archive.org/web/20160531110822/https://www.edx.org/) (_thanks Pino for this last one!_).
 
-Bueno, pues en mi caso pago una cuota de **25 dólares al mes** en Codeschool, lo que en estos meses (con descuentos incluidos) han sido unos 125€ y aunque pueda parecer una cantidad considerable, creo que si analizamos lo que he adquirido a cambio le da otra perspectiva diferente.
+Well, in my case I pay a **$25 per month** subscription on Codeschool, which over these months (including discounts) has amounted to about €125, and although this may seem like a considerable amount, I think if we analyze what I've gained in return it offers a different perspective.
 
-Por ejemplo, yo en este tiempo [he hecho 9](https://web.archive.org/web/20160531110822/https://www.codeschool.com/users/227734) de los 36 cursos que tienen disponibles:
+For example, during this time I have [completed 9](https://web.archive.org/web/20160531110822/https://www.codeschool.com/users/227734) of the 36 courses they have available:
 
-– [Javascript Road Trip Part 1](https://web.archive.org/web/20160531110822/https://www.codeschool.com/courses/javascript-road-trip-part-1) **(Gratuito)**  
-– [Javascript Road Trip Part 2](https://web.archive.org/web/20160531110822/https://www.codeschool.com/courses/javascript-road-trip-part-2)  
-– [Javascript Road Trip Part 3  
-](https://web.archive.org/web/20160531110822/https://www.codeschool.com/courses/javascript-road-trip-part-3)- [Coffeescript](https://web.archive.org/web/20160531110822/https://www.codeschool.com/courses/coffeescript)  
-– [Real-Time-Web with Node.js](https://web.archive.org/web/20160531110822/https://www.codeschool.com/courses/real-time-web-with-nodejs)  
-– [Discover DevTools](https://web.archive.org/web/20160531110822/https://www.codeschool.com/courses/discover-devtools) **(Gratuito)**  
-– [Fundamentals of Design](https://web.archive.org/web/20160531110822/https://www.codeschool.com/courses/fundamentals-of-design)  
-– [Try Git](https://web.archive.org/web/20160531110822/https://www.codeschool.com/courses/try-git) **(Gratuito)**  
-– [Try Ruby](https://web.archive.org/web/20160531110822/https://www.codeschool.com/courses/try-ruby)
+– [Javascript Road Trip Part 1](https://web.archive.org/web/20160531110822/https://www.codeschool.com/courses/javascript-road-trip-part-1) **(Free)**  
+– [Javascript Road Trip Part 2](https://web.archive.org/web/20160531110822/https://www.codeschool.com/courses/javascript-road-trip-part-2)  
+– [Javascript Road Trip Part 3](https://web.archive.org/web/20160531110822/https://www.codeschool.com/courses/javascript-road-trip-part-3)  
+– [Coffeescript](https://web.archive.org/web/20160531110822/https://www.codeschool.com/courses/coffeescript)  
+– [Real-Time-Web with Node.js](https://web.archive.org/web/20160531110822/https://www.codeschool.com/courses/real-time-web-with-nodejs)  
+– [Discover DevTools](https://web.archive.org/web/20160531110822/https://www.codeschool.com/courses/discover-devtools) **(Free)**  
+– [Fundamentals of Design](https://web.archive.org/web/20160531110822/https://www.codeschool.com/courses/fundamentals-of-design)  
+– [Try Git](https://web.archive.org/web/20160531110822/https://www.codeschool.com/courses/try-git) **(Free)**  
+– [Try Ruby](https://web.archive.org/web/20160531110822/https://www.codeschool.com/courses/try-ruby)
 
-Haciendo las cuentas cada curso de pago me ha salido por unos 20€ y les he invertido … diría que entre 4 y 8 horas a cada uno. Si hacemos las cuentas creo que sale a un precio bastante razonable ya que los cursos son de una tremenda calidad e incluyen un montón de ejercicios prácticos que creo **me están haciendo un mejor profesional**.
+Doing the math, each paid course has cost me about €20 and I have invested ... I would say between 4 and 8 hours in each. If we do the math, I think it comes at a very reasonable price since the courses are of tremendous quality and include a lot of practical exercises that I believe **are making me a better professional**.
 
-¿Qué opináis vosotros al respecto?, en **comparación con otras posibilidades de formación**: talleres, workshops de formación, masters, etc. **¿no os parece un buen precio?**.
+What do you think about this, in **comparison to other training options**: workshops, training sessions, master's programs, etc. **Don't you think it's a good price?**

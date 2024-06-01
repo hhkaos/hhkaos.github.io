@@ -1,4 +1,5 @@
 {
   "diffEditor.wordWrap": "on",
-  "editor.wordWrap": "wordWrapColumn"
+  "editor.wordWrap": "wordWrapColumn",
+  "cSpell.language": "en,es-ES"
 }

@@ -7,23 +7,23 @@ enableComments: true
 
 # Having a poor memory it's not so bad
 
-Hoy quería compartir otra reflexión que he tenido, esta vez es que: “**todo tiene un lado positivo, incluso tener mala memoria**“, aunque quizás Leonard Shelby (de [Memento](https://web.archive.org/web/20150419185718/http://en.wikipedia.org/wiki/Memento_(film))) no pensaría lo mismo xD.
+Today I wanted to share another thought I had, this time it is: "**everything has a positive side, even having a bad memory**", although perhaps Leonard Shelby (from [Memento](https://web.archive.org/web/20150419185718/http://en.wikipedia.org/wiki/Memento_(film))) wouldn't think the same xD.
 
 ![](./memento.png)
 
-Los que me conocéis sabéis que soy una persona bastante activa, siempre estoy con nuevas ideas, proyectos, etc. y sabéis que siempre suelo decir que tengo mala memoria (lo cual es cierto). A veces pienso que es porque no ejercito mucho la memoria, aunque a veces pienso que se debe a mi “hiperactividad”.
+Those who know me know that I am a quite active person, always coming up with new ideas, projects, etc., and you know that I always say I have a bad memory (which is true). Sometimes I think it's because I don't exercise my memory much, although sometimes I think it's due to my "hyperactivity."
 
-Vete tú a saber por qué…. la cosa es que a veces “me da rabia” pensar que “soy así”, pero esta vez me he pasado a pensar y he dicho… bueno… tener mala memoria no siempre es malo. ¿Por qué?, en mi opinión porque:
+Who knows why.... the thing is, sometimes it "annoys me" to think that "I am this way," but this time I reflected and thought... well... having a bad memory is not always bad. Why? In my opinion, because:
 
-1.  **Me obliga a ser más estructurado**, por ejemplo:
-    -   Cuando se trata de trabajo intento de documentar todos los procedimientos
-    -   Procedimientos o trabajo que luego comparto; por ejemplo en artículos de este blog como: [Pacto de socios](https://web.archive.org/web/20150419185718/http://www.rauljimenez.info/blog/2014/04/06/pacto-de-socios/), [Plantilla para crear un plan de analítica](https://web.archive.org/web/20150419185718/http://www.rauljimenez.info/blog/2014/01/06/plantilla-para-crear-un-plan-de-analitica/), etc.
-    -   Tiendo a usar bastantes herramientas de gestión de tareas que luego reutilizo en mi trabajo.
-2.  Además **me obligo a escribir más** sobre lo que he hecho para no olvidarlo
-    1.  Sin ir más lejos, mis posts de [resumen de vida](https://web.archive.org/web/20150419185718/http://www.rauljimenez.info/blog/category/sobre-mi/) que además me sirven para mantener a mis amig@s al día de cómo estoy.
-    2.  Y a compartir [artículos como este](https://web.archive.org/web/20150419185718/http://www.rauljimenez.info/blog/2013/12/08/el-trabajo-perfecto/), que son razonamientos que quiero interiorizar (y escribirlo ayuda).
-3.  Y por último también **ayuda a que se te olviden antes los problemas o a quitarles importancia** a muchos de ellos.
+1.  **It forces me to be more structured**, for example:
+    -   When it comes to work, I try to document all procedures.
+    -   Procedures or work that I later share; for example, in articles on this blog like: [Partner Agreement](https://web.archive.org/web/20150419185718/http://www.rauljimenez.info/blog/2014/04/06/pacto-de-socios/), [Template for Creating an Analytics Plan](https://web.archive.org/web/20150419185718/http://www.rauljimenez.info/blog/2014/01/06/plantilla-para-crear-un-plan-de-analitica/), etc.
+    -   I tend to use many task management tools that I later reuse in my work.
+2.  Also, **I make myself write more** about what I have done so I don't forget it
+    1.  For example, my [life summary posts](https://web.archive.org/web/20150419185718/http://www.rauljimenez.info/blog/category/sobre-mi/) which also serve to keep my friends updated on how I am.
+    2.  And to share [articles like this one](https://web.archive.org/web/20150419185718/http://www.rauljimenez.info/blog/2013/12/08/el-trabajo-perfecto/), which are thoughts I want to internalize (and writing helps).
+3.  And finally, it also **helps you forget problems sooner or lessen the importance** of many of them.
 
-En definitiva, si alguien alguna vez os critica por tener mala memoria, a lo mejor ya podéis contra argumentar que … tener mala memoria también tiene sus ventajas, ¿qué me decís?.
+In short, if someone ever criticizes you for having a bad memory, maybe you can counter-argue that... having a bad memory also has its advantages, what do you think?
 
-Por cierto, este razonamiento también se aplica a “**tener atención dispersa**“, ¿alguien se atreve a justificar lo bueno que tiene esto? ^_^
+By the way, this reasoning also applies to "**having scattered attention**," anyone dare to justify the good in this? ^_^

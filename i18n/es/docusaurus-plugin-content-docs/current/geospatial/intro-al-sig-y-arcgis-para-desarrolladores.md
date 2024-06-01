@@ -1,8 +1,6 @@
 ---
 title: Intro a los SIG para developers
 image: /img/docs/intro-to-gis-for-developers/introduction-to-gis-for-developers.jpg
-<!-- > **📄 Note**: The interactive version of this article is available at [Dev.to 🇺🇸🇬🇧](https://dev.to/hhkaos/why-attend-developer-conferences-59b3) & [Medium.com 🇪🇸](https://medium.com/@hhkaos/por-qu%C3%A9-asistir-a-conferencias-para-desarrolladores-4c22cbe132cf). -->
-
 ---
 <iframe src="https://giphy.com/embed/IPbS5R4fSUl5S" width="200" height="115" frameBorder="0" class="float-right" allowFullScreen></iframe>
 
@@ -55,14 +53,13 @@ Geocodificar & Encontrar puntos de interés:
 
 Filtrar espacialmente y calcular distancias a elementos cercanos (economía circular)
 * Booking (calcular distancia a POIs)
-* Holetes (Airbnb)
+* Hoteles (Airbnb)
 * Franquicias (tiendas, cajeros, productos, más cercanos) -> Ikea, Leroy, Wallapop, Bancos (BBVA), Glovo, Pizzerías, Parkings
 * Taxis (Uber, Cabify...)
-* Ocio (Fever = actividades, Eltenedor)
+* Ocio (Fever = actividades, El Tenedor)
 * Turismo (, MiNube, tripadvisor
 * Google Photos
 * Localizador de tiendas, rider, taxi, patinetes, etc
-* Booking (calcular distancia a POIs)
 * GeoGuessr & GeoNight
 * Snap to roads (GPS)
 * Waze alerts
@@ -526,8 +523,8 @@ A continuación vamos a ver algunos de los formatos más sencillos:
 * **XML (Extensible Markup Language)**: 
   * 🥇 [KML](https://en.wikipedia.org/wiki/Keyhole_Markup_Language): permite la visualización sencilla de datos geográficos en tres dimensiones y soporta etiquetas, estilos, descripciones y enlaces. El KMZ es una versión comprimida del KML que puede incluir recursos adicionales como imágenes, modelos 3D, y otros archivos asociados para la representación de los datos. Está soportado nativam en muchas bases de datos.
   * 🥇 [GML](https://es.wikipedia.org/wiki/Geography_Markup_Language): permite representar una amplia gama de datos geoespaciales, desde simples puntos hasta complejas redes y superficies. Soporta la modelación de geometría, propiedades geográficas y relaciones espaciales detalladas. Es adecuado para aplicaciones que requieren una rica estructura de datos geoespaciales y que pueden manejar su complejidad y flexibilidad.
+  * 🥇 [GeoRSS](https://en.wikipedia.org/wiki/GeoRSS): permite añadir la ubicación (puntos, líneas y polígonos) a las entradas de feeds como RSS y Atom.
   * 🥉 [GPX](https://en.wikipedia.org/wiki/GPS_Exchange_Format): esta diseñado para intercambiar datos entre dispositivos GPS y herramientas software. Contiene información sobre waypoints (puntos de referencia), rutas y tracks (trazados de rutas).
-  * 🥉 [GeoRSS](https://en.wikipedia.org/wiki/GeoRSS): permite añadir la ubicación (puntos, líneas y polígonos) a las entradas de feeds como RSS y Atom.
 * **CSV (Comma-separated values)**:
   * 🥉 [GTFS](https://en.wikipedia.org/wiki/GTFS): creado para compatir información sobre los horarios de transporte público y la información geográfica asociada. Sólo contiene información estática (o programada) sobre los servicios de transporte público, no en tiempo real. Contiene entre 6 y 13 ficheros CSV comprimidos en ZIP. 
 
@@ -552,7 +549,7 @@ Hay formatos rásters que también están basados en formatos de imágenes que y
 
 Algunos de los formatos más habituales para almacenar y compartir imágenes georeferenciadas son:
 
-* 🥇 [GeoTIFF](https://en.wikipedia.org/wiki/GeoTIFF): ampliamente usado en SIF, es una imagen que incluye metadatos como la proyección del mapa, sistema de coordenadas, elipsoide y datum.
+* 🥇 [GeoTIFF](https://en.wikipedia.org/wiki/GeoTIFF): ampliamente usado en SIG, es una imagen que incluye metadatos como la proyección del mapa, sistema de coordenadas, elipsoide y datum.
 * 🥇 [Cloud Optimized GeoTIFF (COG)](https://docs.ogc.org/is/21-026/21-026.html): similar a GeoTIFF pero optimizado para ser leído parcialmente (usando HTTP range requests), lo que permite acceder a grandes imágenes a través de la nube.
 * 🥇 [NetCDF](https://en.wikipedia.org/wiki/NetCDF): formato de datos multidimensional usado para datos científicos (meteorológicos, oceanográficos, de clima, ...).
 * [Tile Package](https://github.com/Esri/tile-package-spec): es una especificación abierta creada por Esri que consiste en un archivo comprimido que contiene múltiples carpetas con la pirámide de imágenes troceadas (teselas) con las que se genera el mosaico que es un mapa base. Puede ser usado en aplicaciones offline.
@@ -621,7 +618,7 @@ PostGIS geometries: https://postgis.net/workshops/postgis-intro/geometries.html
 geometries, spatial operations (relationships, joins, ...) spatial indexes, projections, rasters, topologies, clustering, 
 https://postgis.net/workshops/postgis-intro/index.html
 
- Aunque hay ficheros de datos geoespaciales avanzados, como FBG que usar una base de datos Access. "Enterprise database"..
+Aunque hay ficheros de datos geoespaciales avanzados, como FBG que usar una base de datos Access. "Enterprise database"..
 ventajas de usar bases de datos editar ficheros directamente vs 
 
 Al igual que en cualquier otro sistema, cuando neLo acceso multi usuario, etc
