@@ -2,11 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.rauljimenez.info/blog</id>
     <title>RaulJimenez.info Blog</title>
-    <updated>2024-04-09T00:00:00.000Z</updated>
+    <updated>2024-06-01T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.rauljimenez.info/blog"/>
     <subtitle>RaulJimenez.info Blog</subtitle>
     <icon>https://www.rauljimenez.info/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Learn to teach (your kids)]]></title>
+        <id>https://www.rauljimenez.info/blog/learn-to-teach-your-kids</id>
+        <link href="https://www.rauljimenez.info/blog/learn-to-teach-your-kids"/>
+        <updated>2024-06-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hoy voy a hablar de otro tema]]></summary>
+        <content type="html"><![CDATA[<p>Hoy voy a hablar de otro tema</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="comments">Comments<a href="#comments" class="hash-link" aria-label="Direct link to Comments" title="Direct link to Comments">​</a></h2>]]></content>
+        <author>
+            <name>Raul Jimenez Ortega</name>
+            <uri>https://github.com/hhkaos</uri>
+        </author>
+        <category label="guide" term="guide"/>
+        <category label="handbook" term="handbook"/>
+        <category label="community" term="community"/>
+        <category label="user groups" term="user groups"/>
+        <category label="meetups" term="meetups"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Resources for technical communities]]></title>
         <id>https://www.rauljimenez.info/blog/resources-for-community-leaders</id>
