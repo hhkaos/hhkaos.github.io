@@ -10,9 +10,5 @@
   "item.label.📝 Blog": {
     "message": "📝 Blog",
     "description": "Navbar item with label 📝 Blog"
-  },
-  "item.label.GitHub": {
-    "message": "GitHub",
-    "description": "Navbar item with label GitHub"
   }
 }

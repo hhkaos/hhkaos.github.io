@@ -3,14 +3,6 @@
     "message": "Siguiente",
     "description": "The label for version current"
   },
-  "sidebar.tutorialSidebar.category.📄 Resources": {
-    "message": "📄 Recursos",
-    "description": "The label for category 📄 Resources in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.📄 Resources.link.generated-index.description": {
-    "message": "Algunos recursos que he ido creando con el paso de los años.",
-    "description": "The generated-index page description for category 📄 Resources in sidebar tutorialSidebar"
-  },
   "sidebar.tutorialSidebar.category.📄 Developers": {
     "message": "📄 Desarrolladores",
     "description": "The label for category 📄 Developers in sidebar tutorialSidebar"
