@@ -19,6 +19,19 @@ The truth is that I would like to share how I am trying to get involved in my so
 
 If you are interested in these topics, let me know in the [comments](#comments) (to prioritize it) 😉.
 
+BTW, in case you need it, here is a table of course equivalencies between countries:
+
+
+| Spain             | USA      | Canada   | Ireland   | United Kingdom     | France         | Germany    |
+|-------------------|----------|----------|-----------|--------------------|----------------|------------|
+| 1st ESO           | Grade 7  | Grade 7  | 1st Year  | Year 8             | Collège 5e     | 7 Klasse   |
+| 2nd ESO           | Grade 8  | Grade 8  | 2nd Year  | Year 9             | Collège 4e     | 8 Klasse   |
+| 3rd ESO           | Grade 9  | Grade 9  | 3rd Year  | Year 10            | Collège 3e     | 9 Klasse   |
+| 4th ESO           | Grade 10 | Grade 10 | 4th Year  | Year 11 & GCSE     | Seconde        | 10 Klasse  |
+| 1st Bachillerato  | Grade 11 | Grade 11 | 5th Year  | Year 12            | Première       | 11 Klasse  |
+| 2nd Bachillerato  | Grade 12 | Grade 12 | 6th Year  | Year 13 & A Levels | Terminale      | 12 Klasse  |
+
+
 </p>
 </details>
 
