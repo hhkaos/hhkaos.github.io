@@ -36,8 +36,8 @@ Así que hoy quiero hablar sobre **mi experiencia intentando ayudar a mi hijo Jo
 ## El contexto
 
 Por poneros en antecedentes:
-* **Cada dos semanas traen un libro del cole a casa**.
-* Son libros que ellos mismos y sus compañeros han llevado a clase, o sea, normalmente comprados por las madres o padres.
+* **Cada dos semanas el trae un libro del cole a casa**.
+* Son libros que él mismo y sus compañeros han llevado a clase, o sea, normalmente comprados por las madres o padres.
 * Les piden que después de leerlos rellenen una ficha donde tienen que hacer un resumen de aproximadamente medio folio.
 * Estos libros son del tipo de [Anna Kadabra](https://www.amazon.es/anna-kadabra/s?k=anna+kadabra), [Pokémon](https://www.amazon.es/Pok%C3%A9mon-Aventuras-Gigamax-combate-FlipAventura/dp/8418594330), [Marcus Pocus](https://www.amazon.es/Marcus-Pocus-1-Magia-domicilio/dp/8408254154/ref=sr_1_1?dib=eyJ2IjoiMSJ9.nzcrwM6Pe2S_Yq-RGmFVs5UHO5uYgDEnS27SX3-dKkyIID6F589uCXo4WGgeoMA0-C3q4-XOdlq1iTI6fgXsgca0UygLzFEr_3ykPMNsZewxzuF3g3FzSh2dg_Sg_uCylpqvypA1r482QA6el_wuYWZ0KEVCHo4yrroqPAlPuuQ51YtSsLfbp6q0dFObpBz37nDGzJuGnE2KGmy9027r7CcnX3vORc6JTgijZn1A4jBi6LMKoa69mrO5KzOr-vlYBixpTTdQqTQOmOZvAnAX2NhbeDuVnO57ZgHZWk9bH7M.5Snv_xMSWF2rmR9Rof5iyCbwGj_4VuYOheFuguN24J4&dib_tag=se&keywords=marcus+pocus&qid=1717312424&sr=8-1), [Policán](https://www.amazon.es/Polic%C3%A1n-Capit%C3%A1n-Calzoncillos-Dav-Pilkey/dp/8467594454/ref=pd_sbs_d_sccl_3_3/258-4414333-6094921?pd_rd_w=en7hC&content-id=amzn1.sym.5361c8f8-f11e-4bfa-91f1-8c7de1eb4cca&pf_rd_p=5361c8f8-f11e-4bfa-91f1-8c7de1eb4cca&pf_rd_r=K6RMMGQP02TTW1HT42X5&pd_rd_wg=eMOPM&pd_rd_r=0d4fe935-1688-436c-a118-3f9bb482cf97&pd_rd_i=8467594454&psc=1), ... que en su mayoría tienen **+100 páginas**.
 * Por último, tienen el "reto lector" (opcional), donde cada mes les animan a que elijan otro libro que cumpla unas determinadas características. Por ejemplo:
@@ -48,7 +48,7 @@ Por poneros en antecedentes:
   * En mayo uno con autor de tu país
   * En junio una novela gráfica/comic.
 
-Aunque la mayoría están recomendados para niños de su edad, en cierto modo me sorprende:
+Aunque la mayoría de los libros están recomendados para niños de su edad, en cierto modo me sorprende:
   * La longitud de los libros, especialmente por **el ritmo al que tienen que leer**. Aunque supongo que es bueno, porque **les exige leer prácticamente a diario un capítulo**, lo que les ayudará a generar un hábito por la lectura.
   * **El vocabulario que contienen los libros**, en ocasiones por lo avanzado que son, que está bien, supongo.
 

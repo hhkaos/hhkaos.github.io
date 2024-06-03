@@ -48,10 +48,10 @@ So today I want to talk about **my experience trying to help my son José summar
 ## The context
 
 To give you some background:
-* **Every two weeks they bring a book from school home**.
-* These are books that they and their classmates have brought to class, usually bought by the parents.
+* **Every two weeks he brings a book from school home**.
+* These are books that himself and his classmates have brought to class, usually bought by the parents.
 * They are asked to fill out a worksheet after reading where they have to make a summary of about half a page.
-* These books are like [Anna Kadabra](https://www.amazon.es/anna-kadabra/s?k=anna+kadabra), [Pokémon](https://www.amazon.es/Pok%C3%A9mon-Aventuras-Gigamax-combate-FlipAventura/dp/8418594330), [Marcus Pocus](https://www.amazon.es/Marcus-Pocus-1-Magia-domicilio/dp/8408254154/ref=sr_1_1?dib=eyJ2IjoiMSJ9.nzcrwM6Pe2S_Yq-RGmFVs5UHO5uYgDEnS27SX3-dKkyIID6F589uCXo4WGgeoMA0-C3q4-XOdlq1iTI6fgXsgca0UygLzFEr_3ykPMNsZewxzuF3g3FzSh2dg_Sg_uCylpqvypA1r482QA6el_wuYWZ0KEVCHo4yrroqPAlPuuQ51YtSsLfbp6q0dFObpBz37nDGzJuGnE2KGmy9027r7CcnX3vORc6JTgijZn1A4jBi6LMKoa69mrO5KzOr-vlYBixpTTdQqTQOmOZvAnAX2NhbeDuVnO57ZgHZWk9bH7M.5Snv_xMSWF2rmR9Rof5iyCbwGj_4VuYOheFuguN24J4&dib_tag=se&keywords=marcus+pocus&qid=1717312424&sr=8-1), [Dog Man](https://www.amazon.es/Polic%C3%A1n-Capit%C3%A1n-Calzoncillos-Dav-Pilkey/dp/8467594454/ref=pd_sbs_d_sccl_3_3/258-4414333-6094921?pd_rd_w=en7hC&content-id=amzn1.sym.5361c8f8-f11e-4bfa-91f1-8c7de1eb4cca&pf_rd_p=5361c8f8-f11e-4bfa-91f1-8c7de1eb4cca&pf_rd_r=K6RMMGQP02TTW1HT42X5&pd_rd_wg=eMOPM&pd_rd_r=0d4fe935-1688-436c-a118-3f9bb482cf97&pd_rd_i=8467594454&psc=1), ... which mostly have **+100 pages**.
+* These books are like [Anna Kadabra](https://www.amazon.es/anna-kadabra/s?k=anna+kadabra), [Pokémon](https://www.amazon.es/Pok%C3%A9mon-Aventuras-Gigamax-combate-FlipAventura/dp/8418594330), [Marcus Pocus](https://www.amazon.es/Marcus-Pocus-1-Magia-domicilio/dp/8408254154/ref=sr_1_1?dib=eyJ2IjoiMSJ9.nzcrwM6Pe2S_Yq-RGmFVs5UHO5uYgDEnS27SX3-dKkyIID6F589uCXo4WGgeoMA0-C3q4-XOdlq1iTI6fgXsgca0UygLzFEr_3ykPMNsZewxzuF3g3FzSh2dg_Sg_uCylpqvypA1r482QA6el_wuYWZ0KEVCHo4yrroqPAlPuuQ51YtSsLfbp6q0dFObpBz37nDGzJuGnE2KGmy9027r7CcnX3vORc6JTgijZn1A4jBi6LMKoa69mrO5KzOr-vlYBixpTTdQqTQOmOZvAnAX2NhbeDuVnO57ZgHZWk9bH7M.5Snv_xMSWF2rmR9Rof5iyCbwGj_4VuYOheFuguN24J4&dib_tag=se&keywords=marcus+pocus&qid=1717312424&sr=8-1), [Dog Man](https://www.amazon.com/dogman-series-Books/s?k=dogman+series&rh=n%3A283155), ... which mostly have **+100 pages**.
 * Lastly, they have the "reading challenge" (optional), where each month they are encouraged to choose another book that meets certain characteristics. For example:
   * In January, one with a beautiful cover
   * In February, one with illustrations
@@ -60,12 +60,12 @@ To give you some background:
   * In May, one with an author from your country
   * In June, a graphic novel/comic.
 
-Although most are recommended for children his age, in some ways it surprises me:
+Although most books are recommended for children his age, in some ways it surprises me:
   * The length of the books, especially for **the pace at which they have to read**. Although I suppose it is good because **it requires them to read almost daily a chapter**, which will help them develop a reading habit.
   * **The vocabulary contained in the books**, sometimes quite advanced, which is good, I suppose.
 
 :::note
-Here's a talk that my good friend Jorge Barrachina recommended to me recently, Gregorio Luri's talk "[The art of reading and the taste for reading](https://www.youtube.com/watch?v=7UtwJHkhJ0s)".
+Here's a talk (in Spanish) that my good friend Jorge Barrachina recommended to me recently, Gregorio Luri's talk "[El arte de leer y el gusto por la lectura](https://www.youtube.com/watch?v=7UtwJHkhJ0s)".
 :::
 
 But I would like to know if I am the only one or if other families also have similar feelings. I encourage you to tell me in the [comments](#comments) 😜.
@@ -83,13 +83,13 @@ In the end, both his mother and I decided that the best thing would be for **one
 
 Well... something that initially didn't seem complicated, I realized was more difficult than I thought 😅.
 
-One of the things I have noticed while reading the books is that **every one or two pages, there are words that I suspect he doesn't know**, like *exhalation*, *arrogant*, *seep*, *utopian*, *campaign (electoral)*, ..., so every time I read one of his books, I ask him to verify. 
+One of the things I have noticed while reading the books is that **every one or two pages, there are words that I suspect he doesn't know**, like *exhalation*, *arrogant*, *seep*, *utopian*, *electoral campaign*, ..., so every time I read one of his books, I ask him to verify. 
 
 Indeed, many he doesn't know, and I always tell him:
 
 > *José, when you don't understand something...ask what it means! Because if you don't, you're probably not understanding the story well.*
 
-And look, I always do it... even when I'm reading [Mikecrack](https://www.amazon.es/Libros-Mikecrack/s?rh=n%3A599364031%2Cp_27%3AMikecrack) stories to him and his brother in bed before sleeping, but no matter how much I repeat it... there comes a time when he stops asking.
+I always do it... even when I'm reading [Mikecrack](https://www.amazon.es/Libros-Mikecrack/s?rh=n%3A599364031%2Cp_27%3AMikecrack) stories to him and his brother in bed before sleeping, but no matter how much I repeat it... there comes a time when he stops asking.
 
 But well, once the entire book is read and all the vocabulary is reviewed, we move on to the summary. There, my method consists of reminding him that every story has:
 * A **beginning**, where something usually happens that disrupts the order and:
