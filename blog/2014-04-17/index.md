@@ -5,7 +5,7 @@ tags: [work]
 enableComments: true 
 ---
 
-# My new job at Esri
+# 💼 My new job at Esri
 
 As I mentioned in a [previous article](https://web.archive.org/web/20150419172438/http://www.rauljimenez.info/blog/2014/03/28/resumen-de-los-sucedido-desde-agosto/ "Resumen de lo sucedido desde Agosto"), I have joined the Esri Spain team as a **Developer Program Manager**... and what does that entail? Very simple: helping and inspiring developers to create applications that solve problems related to location (whether it's the user's location or anything else).
 

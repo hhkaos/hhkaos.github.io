@@ -1,6 +1,6 @@
 ---
 slug: resources-for-community-leaders
-title: Recursos para comunidades técnicas
+title: 📦 Recursos para comunidades técnicas
 authors: [hhkaos]
 tags: [guia, manual, comunidades, grupos de usuarios, meetups, asociaciones]
 enableComments: true 

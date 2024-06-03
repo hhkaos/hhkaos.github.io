@@ -5,7 +5,7 @@ tags: [google-glass]
 enableComments: true 
 ---
 
-# How Google Glass works
+# 😎 How Google Glass works
 
 For a long time, I wanted to experience how [Google Glass](http://www.google.es/glass/start/) works, and after a long wait, I have finally been able to try it myself (and with calm). So for those of you who had the same questions as I did, I decided to record these videos where I try to explain how they work.
 

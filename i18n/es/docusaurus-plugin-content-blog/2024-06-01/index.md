@@ -1,22 +1,23 @@
 ---
 slug: learn-to-teach-your-kids
-title: Aprender a enseñar (en casa)
+title: 👨‍🏫 Aprender a enseñar (en casa)
 authors: [hhkaos]
 tags: [guide, handbook, community, user groups, meetups]
 image: /img/blogs/aprendiendo-a-aprender/aprender-a-enseniar-en-casa.png
 enableComments: true 
 ---
 
-
-
 <details><summary>Hace mucho que no escribo sobre estos temas...</summary>
 <p>
 
-Concretamente desde que lancé el [amago de blog familiar](https://familiajimenezcano.wordpress.com/) (en 2018), aunque espero poder sacar tiempo otro día para compartir estas experiencias. Me gustaría hablaros de cómo estoy intentando involucrarme en el colegio de mi hijo a través del AMPA, o de charlas que he dado recientemente en el colegio de mi hijo:
-* Una a alumnos y alumnas de 3º y 4º de ESO (14-16 años) en unas jornadas de orientación profesional, donde compartí mi experiencia con ellos (empezando desde que tenía su edad hasta hoy). 
-* Otra para las madres y padres donde junto a [Gabriel Zabal](https://www.linkedin.com/in/gabrielzabal/) donde hicimos un coloquio principalmente centrado en los riesgos asociados a las nuevas tecnologías (con foco en menores de +10 años), usando las redes sociales como hilo conductor pero tocando muchos temas más.
+Concretamente desde que lancé el [amago de blog familiar](https://familiajimenezcano.wordpress.com/) (en 2018), aunque espero poder sacar tiempo otro día para compartir estas experiencias. 
 
-Si os interesan estos temas dejadlos en los [comentarios](#comentarios) (para priorizarlo) 😉.
+La verdad es que me gustaría compartir cómo estoy intentando involucrarme en el colegio de mi hijo. A través del AMPA y de otras formas, y de las iniciativas en las que he participado allí últimanente. Por ejemplo:
+* Una charla a los alumnos y alumnas de 3º y 4º de ESO (de 14 a 16 años) en unas jornadas de orientación profesional, en la que compartí mi experiencia con ellos (empezando desde que tenía su edad hasta hoy). 
+* Un coloquio junto a [Gabriel Zabal](https://www.linkedin.com/in/gabrielzabal/), para las madres y padres con menores de más de 10 años a su cargo, principalmente centrado en los riesgos asociados a las nuevas tecnologías, usando las redes sociales como hilo conductor pero tocando muchos temas más.
+* O mi experiencia participando con ellos en los campeonatos del día del deporte.
+
+Si os interesan estos temas decídmelo en los [comentarios](#comentarios) (para priorizarlo) 😉.
 
 </p>
 </details>

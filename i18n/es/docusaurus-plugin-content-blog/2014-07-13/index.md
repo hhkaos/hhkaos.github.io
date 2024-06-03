@@ -5,7 +5,7 @@ tags: [google-glass]
 enableComments: true 
 ---
 
-# Cómo funcionan las Google Glass
+# 😎 Cómo funcionan las Google Glass
 
 Hace ya bastante tiempo que quería experimentar cómo funcionan las [Google Glass](https://web.archive.org/web/20150419172442/http://www.google.es/glass/start/), y después de una larga espera ya lo he podido vivir en mis propias carnes (y con calma). Así que para aquellos que teníais las mismas preguntas que yo, he decidido grabar estos vídeos en los que trato de explicar cómo funcionan.
 

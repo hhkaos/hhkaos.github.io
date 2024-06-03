@@ -5,7 +5,7 @@ tags: [memory, thoughts]
 enableComments: true 
 ---
 
-# Mi nuevo trabajo en Esri
+# 💼 Mi nuevo trabajo en Esri
 
 Como ya adelanté en mi [ante-penúltimo artículo](https://web.archive.org/web/20150419172438/http://www.rauljimenez.info/blog/2014/03/28/resumen-de-los-sucedido-desde-agosto/ "Resumen de lo sucedido desde Agosto") me he unido al equipo de Esri España como **Developer Program Manager**… ¿y eso en qué consiste? pues muy sencillo: en ayudar e inspirar a los desarrolladores para que creen aplicaciones que resuelvan problemas relacionados con la localización (ya sea del usuario o de cualquier otra cosa).
 

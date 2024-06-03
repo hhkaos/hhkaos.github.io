@@ -5,7 +5,7 @@ tags: [experiences]
 enableComments: true 
 ---
 
-# Lo sucedido desde Abril 2014
+# 📝 Lo sucedido desde Abril 2014
 
 ### Google Glass y Android Wear
 

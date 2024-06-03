@@ -5,7 +5,7 @@ tags: [memory, thoughts]
 enableComments: true 
 ---
 
-# Having a poor memory it's not so bad
+# 🧠 Having a poor memory it's not so bad
 
 Today I wanted to share another thought I had, this time it is: "**everything has a positive side, even having a bad memory**", although perhaps Leonard Shelby (from [Memento](https://web.archive.org/web/20150419185718/http://en.wikipedia.org/wiki/Memento_(film))) wouldn't think the same xD.
 

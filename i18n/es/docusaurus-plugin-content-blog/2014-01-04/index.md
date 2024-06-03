@@ -5,7 +5,7 @@ tags: [formación]
 enableComments: true 
 ---
 
-# Invertir en formación online
+# 💰 Invertir en formación online
 
 A muchos aún les cuesta dar el paso de decidirse a pagar una cuota para suscribirse a un buen servicio de formación online; y yo quería romper hoy una lanza por ella porque creo que es más rentable frente a otras alternativas de formación regladas. En mi caso decidí hacer una apuesta en Junio del año pasado por [CodeSchool](https://web.archive.org/web/20160531110822/http://www.codeschool.com/), para mi **la mejor plataforma** que existe para mantenerse actualizado y **mejorar las habilidades en cuanto a programación**.
 

@@ -1,6 +1,6 @@
 ---
 slug: why-attend-developer-conferences
-title: ¿Por qué asistir a conferencias para desarrolladores?
+title: 👥 ¿Por qué asistir a conferencias para desarrolladores?
 authors: [hhkaos]
 tags: [conferencias, commitconf, comunidad, eventos]
 enableComments: true 

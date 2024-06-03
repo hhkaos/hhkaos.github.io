@@ -5,7 +5,7 @@ tags: [education]
 enableComments: true 
 ---
 
-# Investing in online training
+# 💰 Investing in online training
 
 Many people still hesitate to take the step of paying a fee to subscribe to a good online training service; and today I wanted to advocate for it because I believe it is more cost-effective compared to other formal training alternatives. In my case, I decided to bet on [CodeSchool](https://web.archive.org/web/20160531110822/http://www.codeschool.com/) in June of last year, for me **the best platform** that exists to stay updated and **improve programming skills**.
 

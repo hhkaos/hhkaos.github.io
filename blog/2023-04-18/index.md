@@ -1,6 +1,6 @@
 ---
 slug: new-website
-title: Welcome to the new website
+title: 🆕 Welcome to the new website
 authors: [hhkaos]
 tags: [esri, hello, docusaurus]
 enableComments: true 

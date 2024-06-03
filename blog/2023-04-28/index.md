@@ -1,6 +1,6 @@
 ---
 slug: about-geo-development-skills
-title: Geo development skills
+title: 🌎 Geo skills for developers
 authors: [hhkaos]
 tags: [learning, career-path, geo]
 enableComments: true 

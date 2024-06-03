@@ -5,7 +5,7 @@ tags: [birthday]
 enableComments: true 
 ---
 
-# ¡161 Thanks!, my 31st birthday
+# 🎂 ¡161 Thanks!, my 31st birthday
 
 And... once again, the number of birthday wishes keeps growing!! Compared to 146 in 2014 and 2013, 120 in 2011, 115 in 2010, 89 in 2009, and 48 in 2008.
 
