@@ -42,7 +42,7 @@ I am going to start with my first public talks, outside of classroom presentatio
 * 2022 - GeoDevelopers - [Novedades de ArcGIS para GIS developers](https://www.youtube.com/watch?v=HXUvU1cD7CQ)
 * 2024 - GeoDevelopers - [Introducción a los mapas base y ArcGIS Basemaps Styles (v2)](https://www.youtube.com/watch?v=SBf8d6PeJMQ)
 * 2024 - GeoDevelopers - [GeoNight - Terra Incógnita (the game)](https://www.youtube.com/watch?v=c6pkojiK3Bs)
-* 2024 - MadridJS - [Más allá de la API de Geolocalizaciónen el Browser](https://www.youtube.com/watch?v=pdtNLLBC6_c)
+* 2024 - MadridJS - [Más allá de la API de Geolocalización en el Browser](https://www.youtube.com/watch?v=pdtNLLBC6_c)
 
 > **Note**: Some ratings can be found at the meetup events.
 
@@ -68,8 +68,7 @@ The first big conference I remember attended was the [Google Developer Day in 20
 * 2023 - CommitConf - [🔑 🔓 OAuth, OpenID Connect and JWT para dummies](https://koliseo.com/events/commit-2023/agenda/0)
 * 2023 - APIAddictDays - [Retos de reinventar APIs cuando tienes cientos de miles de clientes](https://www.apiaddicts.org/apiaddictsdays/agenda/)
 * 2024 - CommitConf - [🔑 🔓 DataViz: Técnicas de optimización para visualización en mapas](https://www.youtube.com/watch?v=7oTNGJDg238)
-* 2024 - OpenSouthCode - [State of Geospatial Open Source Technologies](https://www.opensouthcode.org/conferences/opensouthcode2024/program/proposals/774)
-
+* 2024 - OpenSouthCode - [State of Geospatial Open Source Technologies](https://www.youtube.com/watch?v=-2Gvag6hD2M&list=PLXOzhXs9brxd7Jt63GOMamCptFlX2mkhg&index=27)
 
 > **Note**: Some ratings can be found at [Koliseo](https://koliseo.com/rauljimenezortega/comments).
 
