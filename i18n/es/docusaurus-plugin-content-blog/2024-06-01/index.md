@@ -134,7 +134,7 @@ Así que ahora lo que le he pedido es que cuando lea un libro:
 * Que vaya apuntando todas las palabras que no conozca.
 * Y que le pregunte a Alexa ([Echo Show](https://www.amazon.es/echo-show-5-3a-generacion/dp/B09B2S8WKD/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1OUHNQYCKE44R&dib=eyJ2IjoiMSJ9.iltfLFjhhpdfcrA9zwPEASiiau-PIgl9VcVBJ0Oys_mCTQROVOODJpcW3qujKJ4uE1kn8QpTNL8Z-Ack1Tq9WU7C-LTEtxlvDoafnTJ_eg8HjePETtV-67qphoEQL1gvYpwxm_pR913C2qJrOLV7qzvzyiTtsKBCKr8OXVlmn6pXps9cPji2GZmCo1YhZnWudymyrsIxsywOMsAxpDflraEiQqz2Jfe357ryQ0o2Ttc.1wETnQEDVJoyYReccEOyXD41MFzajElaVfEmnAF04Wo&dib_tag=se&keywords=alexa+pantalla&qid=1717344456&s=books&sprefix=alexa+pantalla%2Cstripbooks%2C118&sr=1-1)) lo que significan, y lo apunte. Iba a comprarle un diccionario de toda la vida... pero la verdad, creo que así será más rápido y lo usará más.
 
-Porque a partir cuando me lea le libro voy a ver si ha hecho "los deberes" y a tomado nota, porque **ahora en lugar de ponerle tanto énfasis al resumen, vamos a intentar que coja el hábito de buscar aquello que no entienda, para que aprenda vocabulario y entienda mejor lo que lee**.
+Porque a partir de ahora, cuando me lea un libro voy a ver si ha hecho "los deberes" y ha tomado nota. **Ahora en lugar de ponerle tanto énfasis al resumen, voy a ser machacón hasta que coja el hábito de buscar aquello que no entienda, para que aprenda vocabulario y entienda mejor lo que lee**.
 
 ¿Cómo lo veis?, ¿algún consejo? 🙂.
 
