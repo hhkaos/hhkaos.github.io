@@ -7,7 +7,10 @@ Herramientas que sirvan para gestionar y dinamizar una comunidad, como por ejemp
 
 * Para que las personas de la comunidad se sigan/conozcan: 
   * Meetup
-  * ...
+  * Eventbrite
+  * TechMeetups.com
+  * LinkedIn eventos (ej. [eventos JS](https://www.linkedin.com/search/results/events/?keywords=javascript))
+  ...
 * Para eventos (recibir C4P, etc.):
   * [Sessionize](https://sessionize.com/playbook/user-groups)
   * [Koliseo](https://koliseo.com/)
@@ -21,6 +24,7 @@ Herramientas que sirvan para gestionar y dinamizar una comunidad, como por ejemp
     * Slack
     * Telegram
     * Comunidades de Whatsapp
+* Skool
 * etc.
 
 ¿Te animas a dejar algunas en los comentarios?
