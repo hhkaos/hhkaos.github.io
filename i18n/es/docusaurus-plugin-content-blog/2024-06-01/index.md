@@ -2,7 +2,7 @@
 slug: learn-to-teach-your-kids
 title: 👨‍🏫 Aprender a enseñar (en casa)
 authors: [hhkaos]
-tags: [guide, handbook, community, user groups, meetups]
+tags: [teach, kids]
 image: /img/blogs/aprendiendo-a-aprender/aprender-a-enseniar-en-casa.png
 enableComments: true 
 ---
