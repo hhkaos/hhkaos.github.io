@@ -41,11 +41,11 @@ Here are some illustrative examples in different contexts:
 
 This often leads to debates about what we generally mean by community in the tech world.
 
-Keep in mind that language evolves over time, and the use of words is closely linked to the context in which they are expressed. To dig a bit more into this, I’ve decided to start a series of articles on the [History of technical communities (in Spain)](history-of-technical-communities).
+Keep in mind that language evolves over time, and the use of words is closely linked to the context in which they are expressed. To dig a bit more into this, I’ve decided to start a series of articles on the [History of technical communities (in Spain)](../2024-07-05/index.md).
 
 ## My definition
 
-Here’s what I understand by technical community, in the most traditional/romantic sense, heavily influenced by [my own life experience](../docs/about-me/my-journey), and clearly biased:
+Here’s what I understand by technical community, in the most traditional/romantic sense, heavily influenced by [my own life experience](https://www.rauljimenez.info/docs/about-me/my-journey), and clearly biased:
 
 It is a **group of people** who:
 

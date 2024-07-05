@@ -18,7 +18,7 @@ enableComments: true
 </p>
 </details>
 
-En este primer artículo de la serie "[Historia de las comunidades tecnológicas](history-of-technical-communities)", vamos a hacer un repaso a la historia de las comunidades técnicas en España, antes de Internet, en la época en la que aterriza la informática y empieza la revolución de los [computadores personales](https://en.wikipedia.org/wiki/History_of_personal_computers). 
+En este primer artículo de la serie "[Historia de las comunidades tecnológicas](../2024-07-05/index.md)", vamos a hacer un repaso a la historia de las comunidades técnicas en España, antes de Internet, en la época en la que aterriza la informática y empieza la revolución de los [computadores personales](https://en.wikipedia.org/wiki/History_of_personal_computers). 
 
 ## Contexto previo 
 

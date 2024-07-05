@@ -41,7 +41,7 @@ Aquí algunos ejemplos ilustrativos en diferentes contextos:
 
 Esto hace que a veces se genere debate de a qué nos referimos generalmente con comunidad, en el mundo de la tecnología.
 
-Tened en cuenta que el lenguaje evoluciona con el tiempo, y el uso de las palabras está ampliamente vinculado al contexto en el que se expresan. Para indagar un poco más en esto, me he decidido a empezar una serie de artículos en los que abordar la [Historia de las comunidades tecnológicas (en España)](history-of-technical-communities).
+Tened en cuenta que el lenguaje evoluciona con el tiempo, y el uso de las palabras está ampliamente vinculado al contexto en el que se expresan. Para indagar un poco más en esto, me he decidido a empezar una serie de artículos en los que abordar la [Historia de las comunidades tecnológicas (en España)](../2024-07-05/index.md).
 
 ## Mi definición
 

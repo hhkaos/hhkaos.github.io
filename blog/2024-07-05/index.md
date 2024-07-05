@@ -6,12 +6,12 @@ tags: [history, community, tech community, meetups]
 enableComments: true 
 ---
 
-Following a series of reflections that led me to consider [what a technical community is (for me)](what-is-a-technical-community), I decided to start this series of articles that compile the most relevant facts from the world of technology and communities, with a special focus on Spain.
+Following a series of reflections that led me to consider [what a technical community is (for me)](../2024-07-04/index.md), I decided to start this series of articles that compile the most relevant facts from the world of technology and communities, with a special focus on Spain.
 
 The goal is to document the history and help us reflect on the past, **understand how and why technological communities have evolved the way they have**, and establish a common framework to help dispel some of the current controversies. This way, hopefully, we can focus on what I believe is important... collaborating.
 
 The articles I plan to publish soon are:
-- [1975-1991: First associations and online communities](first-associations-and-online-communities)
+- [1975-1991: First associations and online communities](../2024-07-06/index.md)
 - 1992-2003: The rise of online communities (*coming soon*).
 - 2004-2012: The emergence of modern conferences and tech meetups (*coming soon*).
 - 2013-2020: Professionalization of communities (*coming soon*).

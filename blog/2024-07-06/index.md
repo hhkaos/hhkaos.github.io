@@ -17,7 +17,7 @@ enableComments: true
 </p>
 </details>
 
-In this first article of the series "[History of technical communities](history-of-technical-communities)," we will review the history of technical communities in Spain, before the Internet, during the era when computing arrived and the revolution of [personal computers](https://en.wikipedia.org/wiki/History_of_personal_computers) began.
+In this first article of the series "[History of technical communities](../2024-07-05/index.md)," we will review the history of technical communities in Spain, before the Internet, during the era when computing arrived and the revolution of [personal computers](https://en.wikipedia.org/wiki/History_of_personal_computers) began.
 
 ## Previous context
 
