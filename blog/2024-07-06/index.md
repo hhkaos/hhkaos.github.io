@@ -9,10 +9,12 @@ enableComments: true
 <details><summary>⚠️ <strong>Notices and acknowledgments</strong></summary>
 <p>
 
-- I want to clarify that I was born in 1984, so what I write in this article is mostly the result of my research and contributions.
-- Therefore, I am sure this article has gaps and errors, so I appreciate all contributions.
-- All contributions will be acknowledged and will be under [CC Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/)
-- **Acknowledgments**: to [JJ Merelo](https://www.linkedin.com/in/juan-j-merelo-0815/) for his contributions and to [SCIE](https://www.scie.es/inicios-informatica-en-espana/) because their website has been enormously helpful.
+I would like to start by clarifying that:
+* I was born in 1984, so what I put in this article is mostly the result of my research and contributions received.
+* I am sure that this article has gaps and errors.
+* I am grateful for all contributions, which of course will be appreciated and will be under [CC Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/).
+
+**Acknowledgments**: to [JJ Merelo](https://www.linkedin.com/in/juan-j-merelo-0815/) for his contributions and to [SCIE](https://www.scie.es/inicios-informatica-en-espana/) because their website has been enormously helpful.
     
 </p>
 </details>
@@ -65,6 +67,12 @@ In this year (1975), the mythical [Homebrew Computer Club](https://en.wikipedia.
 
 In 1976, Steve Jobs, Steve Wozniak, and Ronald Wayne founded [Apple](https://en.wikipedia.org/wiki/Apple_Inc.), and launched the [Apple-1](https://en.wikipedia.org/wiki/Apple_I). The same year Bill Gates wrote his famous letter “[An Open Letter to Hobbyists](https://en.wikipedia.org/wiki/An_Open_Letter_to_Hobbyists)”.
 
+:::note
+The first film documenting the Apple-Microsoft rivalry, [Pirates of Silicon Valley](https://es.wikipedia.org/wiki/Pirates_of_Silicon_Valley), was not released until 1999.
+:::
+
+
+
 That year was when the first Computer Sciences Faculties were created in Spain at the Polytechnic Universities of Madrid and Barcelona, and the University of Valladolid ([see more](https://www.cpitia.org/el-colegio/ingenieria-tecnica-informatica/historia/#:~:text=El%20Decreto%20593%2F1976%2C%20de,su%20centro%20de%20San%20Sebasti%C3%A1n.)).
 
 ## First associations
@@ -92,7 +100,7 @@ Also, around this time (early 80s), the first online communities could be said t
 
 Almost in parallel, [Usenet](https://en.wikipedia.org/wiki/Usenet) emerged (~1980), another system for exchanging opinions and experiences. This is the system [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman#GNU_project) used in 1983 to announce his plan for the [GNU](https://en.wikipedia.org/wiki/GNU) operating system. Two years later, in 1985, he founded the [Free Software Foundation](https://en.wikipedia.org/wiki/Free_Software_Foundation), whose philosophy would have a significant impact on the world of software and soon after on hardware, and of course around many technical communities.
 
-Shortly after Usenet, in the year when [Teletext](https://en.wikipedia.org/wiki/Teletext) was being experimented with in Spain (1982), Telefónica began marketing [Minitel](https://en.wikipedia.org/wiki/Minitel), a system that could be used to access the phone book, retail shopping, access company information services, databases, forums, and messaging.
+Shortly after Usenet, in the year when [Teletext](https://en.wikipedia.org/wiki/Teletext) was being experimented with in Spain and we could listen to Michael Jackson's recently released Thriller on the [walkmans](https://en.wikipedia.org/wiki/Walkman) (1982), Telefónica began marketing [Minitel](https://en.wikipedia.org/wiki/Minitel), a system that could be used to access the phone book, retail shopping, access company information services, databases, forums, and messaging.
 
 In that same year (1982), [Sun Microsystems](https://en.wikipedia.org/wiki/Sun_Microsystems) was founded, where in 1991 they would start working on the project that would result in the [Java](https://en.wikipedia.org/wiki/Java_(programming_language)) language.
 

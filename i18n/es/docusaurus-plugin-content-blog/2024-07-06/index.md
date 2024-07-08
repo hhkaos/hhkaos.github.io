@@ -9,12 +9,13 @@ enableComments: true
 
 <details><summary>⚠️ <strong>Avisos y agradecimientos</strong></summary>
 <p>
+Me gustaría empezar por aclarar que:
 
-- Quiero aclarar que yo nací en 1984, por lo que lo que pongo en este artículo es mayormente fruto de mi investigación y de las contribuciones.
-- Por lo que estoy seguro que este artículo tiene gaps y errores, por lo que agradezco todas las contribuciones.
-- Todas las contribuciones serán agradecidas y estarán bajo [CC Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/)
-- **Agradecimientos**: a [JJ Merelo](https://www.linkedin.com/in/juan-j-merelo-0815/) por sus contribuciones y a la [SCIE](https://www.scie.es/inicios-informatica-en-espana/) porque su web me ha servido enormemente.
-    
+- Yo nací en 1984, por lo que lo que pongo en este artículo es mayormente fruto de mi investigación y de las contribuciones recibidas.
+- Estoy seguro que este artículo tiene lagunas y errores.
+- Agradezco todas las contribuciones, que por supuesto serán agradecidas y estarán bajo [CC Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/)
+
+**Agradecimientos**: a [JJ Merelo](https://www.linkedin.com/in/juan-j-merelo-0815/) por sus contribuciones y a la [SCIE](https://www.scie.es/inicios-informatica-en-espana/) porque su web me ha servido enormemente.  
 </p>
 </details>
 
@@ -66,6 +67,10 @@ En este año (1975), también es cuando se funda el mítico [Homebrew Computer C
 
 En 1976 fue también cuando Steve Jobs, Steve Wozniak, y Ronald Wayne, fundaron [Apple](https://en.wikipedia.org/wiki/Apple_Inc.), y lanzaron el [Apple-1](https://en.wikipedia.org/wiki/Apple_I). El mismo año que Bill Gates escribió su famosa carta “[An Open Letter to Hobbyists](https://en.wikipedia.org/wiki/An_Open_Letter_to_Hobbyists)”. 
 
+:::note
+La primera película donde se documentó la rivalidad entre Apple y Microsoft, [Piratas de Silicon Valley](https://es.wikipedia.org/wiki/Pirates_of_Silicon_Valley), no se estrenó hasta 1999.
+:::
+
 Ese año fue cuando se crearon las primeras Facultades de Informática en España en las Universidades Politécnicas de Madrid y Barcelona, y en la Universidad de Valladolid ([ver más](https://www.cpitia.org/el-colegio/ingenieria-tecnica-informatica/historia/#:~:text=El%20Decreto%20593%2F1976%2C%20de,su%20centro%20de%20San%20Sebasti%C3%A1n.)).
 
 ## Primeras asociaciones
@@ -94,7 +99,7 @@ También por esta fecha (principios de los 80), se puede decir que surge las pri
 
 Casi en paralelo surge [Usenet](https://en.wikipedia.org/wiki/Usenet) (~1980), otro sistema para intercambiar opiniones y experiencias. Este es el sistema que [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman#GNU_project) usa en 1983 para anunciar su plan para el sistema operativo [GNU](https://en.wikipedia.org/wiki/GNU). Dos años más tarde, en 1985, fundaría la [Free Software Foundation](https://en.wikipedia.org/wiki/Free_Software_Foundation), cuya filosofía tendría un gran calado en el mundo del software y poco después en el hardware, y por supuesto en torno a muchas de las comunidades técnicas.
 
-Poco después de Usenet, en el año que se empieza a experimentar con el [Teletexto](https://es.wikipedia.org/wiki/Teletexto) en España (1982), Telefónica comenzaría a comercializar el [Minitel](https://es.wikipedia.org/wiki/Minitel), un sistema que se podrá usar para acceder a la guía telefónica, compra/venta al por menor, acceder a servicios de información de compañías, bases de datos, foros, y mensajería. 
+Poco después de Usenet, en el año que se empieza a experimentar con el [Teletexto](https://es.wikipedia.org/wiki/Teletexto) en España y puede escuchar en los [walkmans](https://es.wikipedia.org/wiki/Stereo_personal) el recién estrenado Thriller de  Michael Jackson (1982), Telefónica comenzaría a comercializar el [Minitel](https://es.wikipedia.org/wiki/Minitel), un sistema que se podrá usar para acceder a la guía telefónica, compra/venta al por menor, acceder a servicios de información de compañías, bases de datos, foros, y mensajería. 
 
 En ese mismo año (1982) se funda [Sun Microsystem](https://en.wikipedia.org/wiki/Sun_Microsystems), desde donde en 1991 se empezaría a trabajar en el proyecto que desembocará en el lenguaje [Java](https://en.wikipedia.org/wiki/Java_(programming_language)).
 
@@ -118,7 +123,7 @@ Y en Estados Unidos estas son algunas de las que me han parecido interesante des
 
 A lo largo de esta década (la de los 80) los ordenadores [386](https://en.wikipedia.org/wiki/I386) (1985) y [486](https://en.wikipedia.org/wiki/I486) (1989) llegan a muchos hogares españoles, y las videoconsolas empiezan a inundar las casas: [Commodore 64](https://en.wikipedia.org/wiki/Commodore_64) (1982), [Nintendo NES](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) (1983), [Sega SG-1000](https://en.wikipedia.org/wiki/SG-1000) (1983) [Amstrad CPC](https://en.wikipedia.org/wiki/Amstrad_CPC) (1984), [Amiga](https://en.wikipedia.org/wiki/Amiga) (1985), [Atari 7800](https://en.wikipedia.org/wiki/Atari_7800) (1986),  [Game Boy](https://en.wikipedia.org/wiki/Game_Boy) (1989), ... En este clima, se organiza la celebración de una primera reunión llamada la [Game Developers Conference](https://en.wikipedia.org/wiki/Game_Developers_Conference), en 1988, en California, con unas 20 personas que crecerá a unas 125 el año siguiente, y que a día de hoy reúne a cerca de 28.000 personas.  
 
-## Cierre la etapa
+## Cierre de la etapa
 
 Otros hechos relevantes al final de esta época:
 

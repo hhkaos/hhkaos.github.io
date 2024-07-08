@@ -51,7 +51,7 @@ It is a **group of people** who:
 
 - Emerge from **their own initiative** ([grassroots movement](https://es.wikipedia.org/wiki/Movimiento_de_bases)).
 - **Share an interest in technology** (software or hardware), for example: programming languages, methodologies, cybersecurity, data, or robotics.
-- **Are governed by a set of norms** or rules, whether implicit or explicit (like a code of conduct, decalogue, ...) and **defined by the community itself**.
+- **Are governed by a set of norms** or rules, whether implicit or explicit (like a code of conduct, decalogue, nettiquete, ...) and **defined by the community itself**.
 - Have a **purpose** or goal more focused on **professional or personal development** rather than pure entertainment.
 
 Where all these people, both promoters and other participants, voluntarily decide to invest part of their **free time** (out of intrinsic motivation), and sometimes money, to interact regularly with each other. Sometimes without expecting anything more than the satisfaction of helping others, sharing knowledge, sharing experiences, learning from others, collaborating on projects, and ultimately **enjoying with like-minded people their passion for technology in their free time**.

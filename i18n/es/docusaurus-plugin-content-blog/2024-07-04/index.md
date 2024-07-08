@@ -51,7 +51,7 @@ Es un **grupo de personas** que:
 
 - Surge por **iniciativa propia** ([movimiento de bases](https://es.wikipedia.org/wiki/Movimiento_de_bases)).
 - **Comparten interés por la tecnología** (software o hardware), por ejemplo: lenguajes de programación, metodologías, seguridad informática, datos, o robótica. 
-- **Se rigen por una serie de normas** o reglas, ya sean implícitas o explícitas (decálogo, código de conducta, ...) y **definidas por la propia comunidad**.
+- **Se rigen por una serie de normas** o reglas, ya sean implícitas o explícitas (decálogo, código de conducta, nettiquete ...) y **definidas por la propia comunidad**.
 - Tienen un **propósito** u objetivo más centrado en el desarrollo **profesional o personal** más que en el puro entretenimiento.
 
 Donde todas estas personas, tanto promotoras como el resto de participantes, deciden **voluntariamente** invertir parte de su **tiempo libre** (por una motivación intrínseca), y en ocasiones dinero, para interactuar regularmente entre ellas. A veces hasta sin esperar nada más que la satisfacción de ayudar a otras personas, compartir conocimientos, compartir experiencias, aprender de otras personas, colaborar en proyectos y, en definitiva, **disfrutar con personas afines y en su tiempo libre de su pasión por la tecnología**. 
