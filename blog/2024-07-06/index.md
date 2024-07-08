@@ -124,6 +124,10 @@ And in the United States, here are some that seemed interesting to highlight:
 
 Throughout this decade (the 80s), [386](https://en.wikipedia.org/wiki/I386) (1985) and [486](https://en.wikipedia.org/wiki/I486) (1989) computers arrived in many Spanish homes, and video game consoles began to flood houses: [Commodore 64](https://en.wikipedia.org/wiki/Commodore_64) (1982), [Nintendo NES](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) (1983), [Sega SG-1000](https://en.wikipedia.org/wiki/SG-1000) (1983) [Amstrad CPC](https://en.wikipedia.org/wiki/Amstrad_CPC) (1984), [Amiga](https://en.wikipedia.org/wiki/Amiga) (1985), [Atari 7800](https://en.wikipedia.org/wiki/Atari_7800) (1986), [Game Boy](https://en.wikipedia.org/wiki/Game_Boy) (1989), ... In this climate, the first meeting called the [Game Developers Conference](https://en.wikipedia.org/wiki/Game_Developers_Conference) was organized in 1988, in California, with about 20 people that would grow to about 125 the following year, and today gathers nearly 28,000 people.
 
+:::note
+In 1982 [Compaq Computer Corporation](https://es.wikipedia.org/wiki/Compaq) launched its first product, a personal computer, primarily aimed at professionals. If you want to know more, the documentary "[Silicon Cowboys](https://www.youtube.com/watch?v=9TlIS1J7qCY)" tells the story of Compaq and its impact on the development of notebook computers.
+:::
+
 ## End of the era
 
 Other relevant events at the end of this era:
@@ -149,4 +153,4 @@ Based on this information, I would say that when we talked about community in Sp
 
 And you, what do you think?
 
-If you liked it... I will soon publish the next article in the series: “1992-2003: The Rise of Online Communities.”
+If you liked it, you can continue reading in the following article of the saga: "[1992-2003: The rise of online communities](../2024-07-07/index.md)".

@@ -49,7 +49,7 @@ Puedes encontrar más en [Meetup.com](https://www.meetup.com/es-ES/topics/techno
 
 Este tipo de comunidades **se caracterizan por contar con un espacio físico** (o "laboratorio"). 
 
-Al igual que hay quienes practican deporte en su tiempo libre, incluso alquilan una pista para practicarlo con los amigos, **también hay aficionados a la tecnología que alquilan y crean estos espacios para disfrutar de su hobbie en compañía**. 
+Al igual que hay quienes practican deporte en su tiempo libre, incluso alquilan una pista para practicarlo con los amigos, **también hay aficionados a la tecnología que alquilan y crean estos espacios para disfrutar de su hobby en compañía**. 
 
 Estos espacios sirven como lugar en el que concentrar recursos (hardware y software), desde el que **poder desarrollar proyectos, prototipar, experimentar, investigar, ...** a veces de manera individual, y otras de manera conjunta. 
 
@@ -94,6 +94,10 @@ Por ejemplo, en la web [hackerspaces.org](https://wiki.hackerspaces.org/List_of_
 </figure>
 
 </div>
+
+:::note
+Yo tuve la suerte de visitar el clásico [Noisebridge](https://en.wikipedia.org/wiki/Noisebridge), en San Francisco, con [Ferrán Arricivita](https://www.linkedin.com/in/ferranarricivita/) y [Christian Van Der Henst](https://www.linkedin.com/in/cvander/) ([en 2011](https://photos.app.goo.gl/DqpUWCDLpuLdL63x9)).
+:::
 
 Algunas comunidades en España de este tipo:
 

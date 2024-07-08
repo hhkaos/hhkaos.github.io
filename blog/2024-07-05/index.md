@@ -11,8 +11,8 @@ Following a series of reflections that led me to consider [what a technical comm
 The goal is to document the history and help us reflect on the past, **understand how and why technological communities have evolved the way they have**, and establish a common framework to help dispel some of the current controversies. This way, hopefully, we can focus on what I believe is important... collaborating.
 
 The articles I plan to publish soon are:
-- [1975-1991: First associations and online communities](../2024-07-06/index.md)
-- 1992-2003: The rise of online communities (*coming soon*).
+- [1975-1991: First associations and online communities](../2024-07-06/index.md).
+- [1992-2003: The rise of online communities](../2024-07-07/index.md).
 - 2004-2012: The emergence of modern conferences and tech meetups (*coming soon*).
 - 2013-2020: Professionalization of communities (*coming soon*).
 - 2020-2022: Communities during the Pandemic (COVID-19) (*coming soon*).

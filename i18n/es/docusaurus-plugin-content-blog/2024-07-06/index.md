@@ -123,6 +123,10 @@ Y en Estados Unidos estas son algunas de las que me han parecido interesante des
 
 A lo largo de esta década (la de los 80) los ordenadores [386](https://en.wikipedia.org/wiki/I386) (1985) y [486](https://en.wikipedia.org/wiki/I486) (1989) llegan a muchos hogares españoles, y las videoconsolas empiezan a inundar las casas: [Commodore 64](https://en.wikipedia.org/wiki/Commodore_64) (1982), [Nintendo NES](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) (1983), [Sega SG-1000](https://en.wikipedia.org/wiki/SG-1000) (1983) [Amstrad CPC](https://en.wikipedia.org/wiki/Amstrad_CPC) (1984), [Amiga](https://en.wikipedia.org/wiki/Amiga) (1985), [Atari 7800](https://en.wikipedia.org/wiki/Atari_7800) (1986),  [Game Boy](https://en.wikipedia.org/wiki/Game_Boy) (1989), ... En este clima, se organiza la celebración de una primera reunión llamada la [Game Developers Conference](https://en.wikipedia.org/wiki/Game_Developers_Conference), en 1988, en California, con unas 20 personas que crecerá a unas 125 el año siguiente, y que a día de hoy reúne a cerca de 28.000 personas.  
 
+:::note
+En 1982 [Compaq Computer Corporation](https://es.wikipedia.org/wiki/Compaq) lanzó  su primer producto, una computadora personal, principalmente orientado a profesionales. Si quieres saber más, el documental "[Silicon Cowboys](https://www.youtube.com/watch?v=9TlIS1J7qCY)" cuenta la historia de Compaq y su impacto en el desarrollo de computadoras portátiles.
+:::
+
 ## Cierre de la etapa
 
 Otros hechos relevantes al final de esta época:
@@ -149,6 +153,6 @@ En base a esta información, yo diría que si hablamos de comunidad en España, 
 
 Y tú, ¿qué opinas?
 
-Si te ha gustado... Pronto publicaré el siguiente artículo de la saga: “1992-2003: El auge de las comunidades online”.
+Si te ha gustado, puedes seguir leyendo en el siguiente artículo de la saga: “[1992-2003: El auge de las comunidades online](../2024-07-07/index.md)”.
 
   

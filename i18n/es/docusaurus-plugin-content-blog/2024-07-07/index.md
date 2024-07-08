@@ -34,7 +34,7 @@ En la radio, y en nuestros [discman](https://www.xataka.com/musica/cuando-el-dis
 
 ## Linux y LUGs
 
-Un año antes, en 1991, se creó [Linux](https://en.wikipedia.org/wiki/Linux), sistema operativo que en 1992 adoptó una licencia GPL. Esta tecnología no sólo transformaría Internet y muchas cosas más, sino que sería también el germen de muchas de las comunidades importantes de la época, como [los **grupos de usuarios de Linux**](https://es.wikipedia.org/wiki/Grupo_de_usuarios_de_Linux#Referencias) (**GULs, o *LUGs* en inglés**). Entre otras muchas cosas, hacían “*Linux install parties*” para ayudar a instalar sistemas como SUSE (1992), Debian (1993), Red Hat (1993), Mandrake (1998), ... que no eran nada fáciles de hacer funcionar en aquella época.
+Un año antes, en 1991, se creó el sistema operativo [Linux](https://en.wikipedia.org/wiki/Linux), que en 1992 adoptó una licencia GPL. Esta tecnología no sólo transformaría Internet y muchas cosas más, sino que sería también el germen de muchas de las comunidades importantes de la época, como [los **grupos de usuarios de Linux**](https://es.wikipedia.org/wiki/Grupo_de_usuarios_de_Linux#Referencias) (**GULs, o *LUGs* en inglés**). Entre otras muchas cosas, hacían “*Linux install parties*” para ayudar a instalar sistemas como SUSE (1992), Debian (1993), Red Hat (1993), Mandrake (1998), ... que no eran nada fáciles de hacer funcionar en aquella época.
 
 Años más tarde, en 1997, se formaría es España la **Asociación de Usuarios Españoles de LiNUX** ([Hispalinux](https://es.wikipedia.org/wiki/Hispalinux)), una importante comunidad cuyos fines pueden leerse en [sus estatutos](https://hispalinux.es/Estatutos).
 
@@ -48,7 +48,7 @@ Debido a las limitaciones que se tenían en JavaScript, en 1996 existían tecnol
 
 Nacen los primeros [proveedores de Internet](https://es.wikipedia.org/wiki/Proveedor_de_servicios_de_internet) como [Goya](https://www.eldiario.es/hojaderouter/internet/goya-servicios-telematicos-internet-upm-eunet-rediris_1_3845405.html)  (1992) e [InfoVía](https://es.wikipedia.org/wiki/InfoV%C3%ADa) (1995), que cobraban Internet (por minuto conectado) a precio de una llamada telefónica local. Sí, por que por aquella época había que pagar las llamadas locales. Es cuando los modems de 28.8 kbps, **los routers de aquella época, que eran más de mil veces más lentos que los de hoy**.
 
-Con estas conexiones podíamos chatear y navegar la Web 1.0. En esa época las webs casi no tenían imágenes, y por supuesto, nada de archivos multimedia, porque descargar un fichero de 4 MB podía llevar muchas horas, y si tenías suerte de que no te cortara la conexión alguien al llamar a tu casa. 
+Con estas conexiones podíamos chatear y navegar la Web. En esa época las webs casi no tenían imágenes, y por supuesto, nada de archivos multimedia, porque descargar un fichero de 4 MB podía llevar muchas horas, y si tenías suerte de que no te cortara la conexión alguien al llamar a tu casa. 
 
 :::note
 Poco después se mejorarían mucho los algoritmos de compresión, o [codecs de audio](https://es.wikipedia.org/wiki/C%C3%B3dec_de_audio#Caracter%C3%ADsticas_de_los_principales_c%C3%B3decs_de_audio) y [codecs de vídeo](https://en.wikipedia.org/wiki/Comparison_of_video_codecs#Software_characteristics), facilitando el acceso a estos ficheros de manera online (ej. MP3 1993, AAC 1997, DivX 1998, MP4 2001, ...). 
@@ -80,7 +80,7 @@ Como resultado de algunas de estas colaboraciones, las personas más mayores rec
 
 ## IRC y otros chats
 
-También fue cuando se popularizó el protocolo [IRC](https://en.wikipedia.org/wiki/IRC), y programas como el [mIRC](https://en.wikipedia.org/wiki/MIRC) (1995), para conectarse a [servidores públicos](https://en.wikipedia.org/wiki/IRC#Timeline) como  [IRC-Hispano](https://es.wikipedia.org/wiki/IRC-Hispano), [freenode](https://en.wikipedia.org/wiki/Freenode), [undernet](https://en.wikipedia.org/wiki/Undernet),  etc. y que **por primera vez en la historia**, permitió **chatear en tiempo real** con personas de otra parte del mundo, repito, a coste de una llamada local, algo totalmente disruptivo. 
+También fue cuando se popularizó el protocolo [IRC](https://en.wikipedia.org/wiki/IRC), y programas como el [mIRC](https://en.wikipedia.org/wiki/MIRC) (1995) para conectarse a [servidores públicos](https://en.wikipedia.org/wiki/IRC#Timeline) como  [IRC-Hispano](https://es.wikipedia.org/wiki/IRC-Hispano), [freenode](https://en.wikipedia.org/wiki/Freenode), [undernet](https://en.wikipedia.org/wiki/Undernet),  etc. y que **por primera vez en la historia**, permitió **chatear en tiempo real** con personas de otra parte del mundo, repito, a coste de una llamada local, algo totalmente disruptivo. 
 
 :::note
 Para las nuevas generaciones; IRC se asemeja a Slack, Discord, etc. Pero donde los servidores públicos reunían a decenas o centenas de miles de personas, donde cualquiera podía crear una "Sala", y quien llegaba primero se convertía automáticamente en *IRC operator* con permisos de moderación. Por cierto, [aún hay comunidades que siguen usando IRC](https://x.com/hhkaos/status/1803719231659294820) como herramienta de comunicación 😉.
@@ -125,7 +125,7 @@ También por aquel entonces, **aumentan considerablemente las comunidades que se
 * etc.
 
 :::note
-Por aquella época ya existían [listas de correo](https://en.wikipedia.org/wiki/Mailing_list#See_also) como [LISTSERV](https://en.wikipedia.org/wiki/LISTSERV). En 1992 se creó [Majordomo](https://en.wikipedia.org/wiki/Majordomo_(software)) como freeware, y posteriormente [GNU mailman](https://es.wikipedia.org/wiki/GNU_Mailman) (1999). No fue hasta 2001 cuando se lanzó [Google Groups](https://en.wikipedia.org/wiki/Google_Groups), otro sistema que daría un fuerte impulso a las listas de correo entre las comunidades.
+Por aquella época ya existían [herramientas de listas de correo](https://en.wikipedia.org/wiki/Mailing_list#See_also) como [LISTSERV](https://en.wikipedia.org/wiki/LISTSERV). En 1992 se creó [Majordomo](https://en.wikipedia.org/wiki/Majordomo_(software)) como freeware, y posteriormente [GNU mailman](https://es.wikipedia.org/wiki/GNU_Mailman) (1999). No fue hasta 2001 cuando se lanzó [Google Groups](https://en.wikipedia.org/wiki/Google_Groups), otro sistema que daría un fuerte impulso a las listas de correo entre las comunidades.
 :::
 
 ## LAN parties
@@ -190,6 +190,8 @@ Ahora repasaremos otros hechos que suceden internacionalmente, y que posteriorme
 
 Alrededor de 1992 empiezan a surgir los [hackerspaces](https://en.wikipedia.org/wiki/Hackerspace), espacios físicos donde se conocen, socializan y colaboran personas interesadas en nuevas tecnologías, electrónica, artes digitales, etc.
 
+Escribí un poco más sobre los [HackSpace / HackLab / MakerSpace / Fab Lab en esta página](https://www.rauljimenez.info/es/docs/communities/types-of-technical-communities#hackspace--hacklab--makerspace--fab-lab).
+
 ### Otras comunidades
 
 En 1993 [parece que surge la comunidad de IBM](https://youtu.be/vIW1GUcmN2s?si=RZ51utbBGo_xAbdm&t=776).
@@ -215,7 +217,7 @@ Estos programas que reconocen las contribuciones de los desarrolladores serían 
 
 ### Open culture
 
-Doce años más tarde de la fundación de la Free Software Foundation (en 1997), Bruce Perens, un desarrollador, crea [La Definición de Código Abierto](https://es.wikipedia.org/wiki/Open_Source_Definition) y un año más tarde co-funda la [Open Source Initiative](https://en.wikipedia.org/wiki/Open_Source_Initiative), quién popularizará el término "*open source*", y defiende el software de código abierto desde un punto de vista pragmático y empresarial (más “*business friendly*”). 
+Doce años más tarde de la fundación de la Free Software Foundation (en 1997), Bruce Perens, un desarrollador, crea [La Definición de Código Abierto](https://es.wikipedia.org/wiki/Open_Source_Definition), y un año más tarde co-funda la [Open Source Initiative](https://en.wikipedia.org/wiki/Open_Source_Initiative), quién popularizará el término "*open source*", y defiende el software de código abierto desde un punto de vista pragmático y empresarial (más “*business friendly*”). 
 
 :::note
 Hasta la fecha, el ejemplo de empresa más icónico basada en software libre es [Red Hat](https://en.wikipedia.org/wiki/Red_Hat), aunque años más tarde, alrededor de 2008 se populizarán otros modelos (controvertidos) como el open-core.
@@ -229,6 +231,10 @@ En 1999 se crea la [Apache Software Foundation](https://en.wikipedia.org/wiki/Th
 En 2000 nace el [Open Source Development Labs](https://en.wikipedia.org/wiki/Open_Source_Development_Labs) para promover Linux en la informática empresarial, que años más tarde (en 2007) se convertiría en la [Linux Foundation](https://en.wikipedia.org/wiki/Linux_Foundation).
 
 Es también en esta época (2001), cuando Lawrence Lessig, un jurista y activista político, crea [Creative Commons](https://en.wikipedia.org/wiki/Creative_Commons), una organización dedicada a facilitar el acceso a contenido educativo y aumentar la cantidad de las obras creativas disponibles para que otros se basen en ellas legalmente y las compartan.
+
+:::info
+En 2001 se publicó el documental "[Revolution OS](https://www.youtube.com/watch?v=Eluzi70O-P4)", que cuenta la historia de Linux, el código abierto y el movimiento del software libre.
+:::
 
 ### Redes sociales
 
@@ -253,3 +259,7 @@ Se seguían creando asociaciones profesionales y en torno a diferentes tecnolog�
 **Surgen algunas de las comunidades en torno a temas como** Internet, Linux, hacking, programación de juegos, mujeres en tecnología, periodismo digital, hardware (ej. overclocking, open hardware, ...), etc.
 
 En base a esta información, yo diría que en esta época la una comunidad se entendía como: un grupo de personas que se reunían (de manera online o presencial), voluntariamente y por iniciativa propia, que comparten interés por la tecnología, para colaborar entre sí.
+
+Y tú, ¿qué opinas?
+
+Si le ha gustado, pronto publicaré el siguiente artículo de la serie: "2004-2012: El surgimiento de las conferencias y encuentros tecnológicos modernos"
