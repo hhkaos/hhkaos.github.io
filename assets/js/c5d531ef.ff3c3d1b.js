@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrauljimenez_info=self.webpackChunkrauljimenez_info||[]).push([[9540],{4654:a=>{a.exports=JSON.parse('{"label":"spain","permalink":"/blog/tags/spain","allTagsPath":"/blog/tags","count":2}')}}]);
