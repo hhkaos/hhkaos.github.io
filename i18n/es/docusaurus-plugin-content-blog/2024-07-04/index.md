@@ -22,7 +22,7 @@ Por ejemplo, si hablamos de comunidad podemos estar refiriéndonos a multitud de
 - A un [club](https://dle.rae.es/club?m=form) (e.j. [club de lectura](https://es.wikipedia.org/wiki/Club_de_lectura), de [fans](https://dle.rae.es/fan?m=form), de fútbol),
 - A una [tribu](https://dle.rae.es/tribu?m=form)
 - A una [pandilla](https://dle.rae.es/pandilla?m=form)
-- A una [secta](https://dle.rae.es/secta?m=form), [clan](https://dle.rae.es/clan?m=form), o a la [comunidad del Anillo](https://es.wikipedia.org/wiki/El_Se%C3%B1or_de_los_Anillos:_la_Comunidad_del_Anillo) 😂
+- A una [secta](https://dle.rae.es/secta?m=form), [clan](https://dle.rae.es/clan?m=form), o a la [comunidad del Anillo](https://es.wikipedia.org/wiki/El_Se%C3%B1or_de_los_Anillos:_la_Comunidad_del_Anillo) 💍😂
 - ...
 
 En el mundo de la tecnología se ha usado, e incluso podríamos decir… abusado o usado incorrectamente del término hasta tal punto que se podría llegar a decir que de alguna forma, algunos sentimos que se ha desvirtuado el significado romántico de la palabra. 
@@ -30,9 +30,9 @@ En el mundo de la tecnología se ha usado, e incluso podríamos decir… abusado
 Aquí algunos ejemplos ilustrativos en diferentes contextos:
 
 - **La comunidad de una tecnología** <br/>(ej. [comunidad Python](https://www.python.org/community/), [Java community](https://dev.java/community/), [Android community](https://developer.android.com/community), …)
-- **La comunidad de una plataforma** <br/> (ej. [GitHub community](https://docs.github.com/en/site-policy/github-terms/github-community-guidelines), [Twitch community](https://meetups.twitch.tv/), Stack overflow, Reddit, Meetup…)
+- **La comunidad de una plataforma** <br/> (ej. [GitHub community](https://docs.github.com/en/site-policy/github-terms/github-community-guidelines), [Twitch community](https://meetups.twitch.tv/), [Reddit community](https://investor.redditinc.com/overview/default.aspx), Stack overflow, Meetup…)
 - **La comunidad externa de una marca u organización?** <br/> (e.j [comunidad GDG](https://developers.google.com/community-guidelines), [GDE](https://developers.google.com/community/experts), [Microsoft](https://developer.microsoft.com/en-us/community), [Mozilla](https://www.mozilla.org/en-US/about/governance/policies/participation/), [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Policies_and_guidelines), [OSM](https://www.openstreetmap.org/communities), [CodelyTV](https://codely.com/)…)
-- **La comunidad interna (de empleados) de una marca u organización** <br/> (e.j [SNGULAR](https://x.com/jlvallejo/status/1785255285709312510), …)
+- **La comunidad interna (de empleados) de una marca u organización** <br/> (e.j [SNGULAR](https://x.com/jlvallejo/status/1785255285709312510), [Izertis Community](https://www.youtube.com/@Izertis.Community), [Adevinta](https://x.com/AdevintaEng?t=eg4u-3nKizm-2XK_0-if4Q&s=08), ...)
 - **La comunidad de una persona influyente (influencer)** <br/> (ej. [Midudev](https://discord.com/servers/midudev-aprende-y-mejora-en-programacion-741237973663612969), [mouredev](https://github.com/mouredev/Monthly-App-Challenge-2022), …)
 - **La comunidad de un movimiento, práctica o metodología** <br/> (ej. [Open source community](https://github.com/open-source), [Agile Community](https://www.agilealliance.org/communities/), …)
 - **La comunidad de un evento/conferencia** <br/> (ej. [Codemotion](https://community-es.codemotion.it/comunidad), …)
