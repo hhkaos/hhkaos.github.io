@@ -15,6 +15,7 @@ Iniciativas para poner en contacto a personas que impulsamos comunidades, donde 
 * [Community Leadership Summit (Internacional)](https://2020.allthingsopen.org/events/community-leadership-summit-2020/) (2020)
 * [Open Space: Comunidades locales fuera de grandes ciudades](https://koliseo.com/events/commit-2023/agenda/1) (2023)
 * [Málaga Community Organizers Day](https://geekstorming.wordpress.com/2023/12/20/sobre-malaga-community-organizers-day/) (2023) y el canal de Telegram que tienen.
+* [Vigo Tech Alliance](https://vigotech.org/)
 * [Telegram de Tech events organizers](https://t.me/teoSpain)
 * [Open space: Principales retos que encuentran las comunidades tecnológicas y posibles estrategias para afrontarlos](https://2023.es.pycon.org/programa/) (2023)
 * [Open Space: Cómo sostener comunidades técnicas](https://koliseo.com/commit/2024/agenda/) (2024)
