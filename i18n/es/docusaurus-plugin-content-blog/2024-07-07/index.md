@@ -36,7 +36,7 @@ En la radio, y en nuestros [discman](https://www.xataka.com/musica/cuando-el-dis
 
 Un año antes, en 1991, se creó el sistema operativo [Linux](https://en.wikipedia.org/wiki/Linux), que en 1992 adoptó una licencia GPL. Esta tecnología no sólo transformaría Internet y muchas cosas más, sino que sería también el germen de muchas de las comunidades importantes de la época, como [los **grupos de usuarios de Linux**](https://es.wikipedia.org/wiki/Grupo_de_usuarios_de_Linux#Referencias) (**GULs, o *LUGs* en inglés**). Entre otras muchas cosas, hacían “*Linux install parties*” para ayudar a instalar sistemas como SUSE (1992), Debian (1993), Red Hat (1993), Mandrake (1998), ... que no eran nada fáciles de hacer funcionar en aquella época.
 
-Años más tarde, en 1997, se formaría es España la **Asociación de Usuarios Españoles de LiNUX** ([Hispalinux](https://es.wikipedia.org/wiki/Hispalinux)), una importante comunidad cuyos fines pueden leerse en [sus estatutos](https://hispalinux.es/Estatutos).
+Años más tarde, en ~1997, se formaría es España la **Asociación de Usuarios Españoles de LiNUX** ([Hispalinux](https://es.wikipedia.org/wiki/Hispalinux)), una importante comunidad cuyos fines pueden leerse en [sus estatutos](https://hispalinux.es/Estatutos). En 2024 ya tiene más de 7.000 miembros.
 
 ## Internet
 
@@ -57,6 +57,8 @@ Poco después se mejorarían mucho los algoritmos de compresión, o [codecs de a
 También en el 92 surgieron [las party lines](https://www.xataka.com/historia-tecnologica/una-historia-de-pioneros-ya-ligaban-discutian-y-daban-likes-en-las-party-lines-de-los-90), multiconferencias con desconocidos vía telefónica. Aunque yo, personalmente, esto no lo metería en el saco de las iniciativas de comunidad.
 
 En 1998 nace otra comunidad, la **[Asociación de Internautas](https://es.wikipedia.org/wiki/Asociaci%C3%B3n_de_Internautas)**, cuyos [fines están aquí](https://www.internautas.org/pagweb/3.html).
+
+Ese mismo año, 1998, Netscape creó la organización Mozilla, que llevo a la creación de la [Fundación Mozilla](https://en.wikipedia.org/wiki/Mozilla_Foundation) en 2003.
 
 Y en el 2000 se funda el **[capítulo español de la Internet Society](https://www.internetsociety.org/es/chapters/)**.
 
@@ -113,6 +115,7 @@ En el panorama internacional se arrancan otras populares como:
 * [Linux Kongress](https://en.wikipedia.org/wiki/Linux_Kongress) (1994).
 * [JavaOne](https://en.wikipedia.org/wiki/JavaOne) (1996).
 * [O’Reilly Conferences](https://en.wikipedia.org/wiki/O%27Reilly_Media#Conferences) (1997).
+* [LinuxWorld](https://en.wikipedia.org/wiki/LinuxWorld_Conference_and_Expo) (1998)  (renombrada a OpenSource World en 2009)
 * [FOSDEM](https://en.wikipedia.org/wiki/FOSDEM) (2001).
 * etc.
 

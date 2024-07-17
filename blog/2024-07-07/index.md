@@ -36,7 +36,7 @@ On the radio, and in our [Discman](https://www.xataka.com/musica/cuando-el-discm
 
 A year earlier, in 1991, the [Linux](https://en.wikipedia.org/wiki/Linux) operating system was created, which in 1992 adopted a GPL license. This technology not only transformed the Internet and many other things, but it was also the seed of many important communities of the time, such as the [**Linux user groups**](https://en.wikipedia.org/wiki/Linux_user_group) (**LUGs**). Among other things, they held “*Linux install parties*” to help install systems like SUSE (1992), Debian (1993), Red Hat (1993), Mandrake (1998), ... which were not easy to get working at that time.
 
-Years later, in 1997, the **Association of Spanish Linux Users** ([Hispalinux](https://es.wikipedia.org/wiki/Hispalinux)) was formed in Spain, an important community whose goals can be read in [their statutes](https://hispalinux.es/Estatutos).
+Years later, in ~1997, the **Association of Spanish Linux Users** ([Hispalinux](https://es.wikipedia.org/wiki/Hispalinux)) was formed in Spain, an important community whose goals can be read in [their statutes](https://hispalinux.es/Estatutos). In 2024 it has more than 7,000 members.
 
 ## Internet
 
@@ -57,6 +57,8 @@ Soon after, audio and video compression algorithms, or [audio codecs](https://en
 Also in 1992, [party lines](https://www.xataka.com/historia-tecnologica/una-historia-de-pioneros-ya-ligaban-discutian-y-daban-likes-en-las-party-lines-de-los-90) emerged, multi-conferences with strangers via telephone. Although personally, I wouldn't include this in the community initiatives.
 
 In 1998, another community was born, the **[Association of Internauts](https://es.wikipedia.org/wiki/Asociaci%C3%B3n_de_Internautas)**, whose [can be read here](https://www.internautas.org/pagweb/3.html).
+
+That same year, 1998, Netscape created the Mozilla organization, which led to the creation of the [Mozilla Foundation](https://en.wikipedia.org/wiki/Mozilla_Foundation) in 2003.
 
 And in 2000, the **[Spanish chapter of the Internet Society](https://www.internetsociety.org/es/chapters/)** was founded.
 
@@ -111,6 +113,7 @@ In the international scene, other popular conferences started:
 * [Linux Kongress](https://en.wikipedia.org/wiki/Linux_Kongress) (1994).
 * [JavaOne](https://en.wikipedia.org/wiki/JavaOne) (1996).
 * [O’Reilly Conferences](https://en.wikipedia.org/wiki/O%27Reilly_Media#Conferences) (1997).
+* [LinuxWorld](https://en.wikipedia.org/wiki/LinuxWorld_Conference_and_Expo) (1998) (renamed to OpenSource World in 2009)
 * [FOSDEM](https://en.wikipedia.org/wiki/FOSDEM) (2001).
 * etc.
 
