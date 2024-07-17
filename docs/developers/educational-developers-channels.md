@@ -750,7 +750,8 @@ There are many other forums there, issues on repos, corporate forums (e.g. [comm
 * [Awesome awesome 😎 github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome#readme)
 * *Tech thought leaders*:
   * [X list](https://twitter.com/i/lists/828546487369990144/members): I keep updating this list where you can find recognized voices: content creators, popular engineers (CTOs, etc), ...
-  * https://bestofjs.org/hall-of-fame
+  * [Spanish speakers](https://github.com/merchedev/devs-list)
+  * [JavaScript Hall of Fame](https://bestofjs.org/hall-of-fame)
 * https://scrimba.com/
 * https://frontend.horse/
 * https://frontendmasters.com/
