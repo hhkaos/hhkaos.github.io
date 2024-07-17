@@ -31,6 +31,12 @@ Let's review some facts from the national and international context to set the s
 
 [IBM](https://en.wikipedia.org/wiki/IBM) was already 64 years old, the giant and world leader in manufacturing computers ([mainframes](https://en.wikipedia.org/wiki/Mainframe_computer)) used by companies, government institutions, and academia.
 
+Another company, [Digital Equipment Corporation (DEC)](https://en.wikipedia.org/wiki/Digital_Equipment_Corporation), which in 1998 would be acquired by Compaq, began marketing in 1960 what they called Programmed Data Processors (PDP) around which user groups would be created.
+
+At that time [Xerox](https://en.wikipedia.org/wiki/Xerox) held a dominant position in the photocopier market. It was one of its printers that in 1980 would give rise to the anecdote that would eventually lead Richard Stallman to the creation of the Free Software Foundation.
+
+Until recently, software was not perceived as a product. It was when IBM decided to unbundle it from hardware (in 1969) that the independent software vendor industry ([ISVs](https://en.wikipedia.org/wiki/Independent_software_vendor)) was born, where companies such as Microsoft would soon play a fundamental role.
+
 By this time, some of the first [user groups](https://en.wikipedia.org/wiki/Users%27_group) or communities I could find were already a few years old, such as:
 
 - [TMRC](https://en.wikipedia.org/wiki/Tech_Model_Railroad_Club), MIT students related to hacking culture (1946).
@@ -102,7 +108,7 @@ Almost in parallel, [Usenet](https://en.wikipedia.org/wiki/Usenet) emerged (~198
 
 Shortly after Usenet, in the year when [Teletext](https://en.wikipedia.org/wiki/Teletext) was being experimented with in Spain and we could listen to Michael Jackson's recently released Thriller on the [walkmans](https://en.wikipedia.org/wiki/Walkman) (1982), Telefónica began marketing [Minitel](https://en.wikipedia.org/wiki/Minitel), a system that could be used to access the phone book, retail shopping, access company information services, databases, forums, and messaging.
 
-In that same year (1982), [Sun Microsystems](https://en.wikipedia.org/wiki/Sun_Microsystems) was founded, where in 1991 they would start working on the project that would result in the [Java](https://en.wikipedia.org/wiki/Java_(programming_language)) language.
+In that same year (1982), [Sun Microsystems](https://en.wikipedia.org/wiki/Sun_Microsystems) was founded, a company that would compete with DEC in the sale of servers and workstations, and where in 1991 they would start working on the project that would result in the [Java](https://en.wikipedia.org/wiki/Java_(programming_language)) language.
 
 In 1984, [FidoNet](https://en.wikipedia.org/wiki/FidoNet) emerged, a popular network of BBS nodes that would gain traction in Spain and for the first time allow many strangers to communicate worldwide via computers over telephone lines. For example, the node "2:345/801" was the address of a board called “[Atlantis](https://groups.google.com/g/soc.culture.spain/c/jGLymQIac3I)” whose operator was Alfredo Sanchez, from Granada, and whose phone number was “958132748”. More information in "[Traveling in time: SysOp of a BBS in 1997 and Fidonet in Spain](https://carrero.es/sysop-de-una-bbs-fidonet-1997/)". Here is another list of [nodes from 1987](http://www.textfiles.com/fidonet-on-the-internet/n1987/nodelist.289), and here are [other nodes from Spain](https://www.cyberiada.org/r34.htm).
 
@@ -124,9 +130,10 @@ And in the United States, here are some that seemed interesting to highlight:
 
 Throughout this decade (the 80s), [386](https://en.wikipedia.org/wiki/I386) (1985) and [486](https://en.wikipedia.org/wiki/I486) (1989) computers arrived in many Spanish homes, and video game consoles began to flood houses: [Commodore 64](https://en.wikipedia.org/wiki/Commodore_64) (1982), [Nintendo NES](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) (1983), [Sega SG-1000](https://en.wikipedia.org/wiki/SG-1000) (1983) [Amstrad CPC](https://en.wikipedia.org/wiki/Amstrad_CPC) (1984), [Amiga](https://en.wikipedia.org/wiki/Amiga) (1985), [Atari 7800](https://en.wikipedia.org/wiki/Atari_7800) (1986), [Game Boy](https://en.wikipedia.org/wiki/Game_Boy) (1989), ... In this climate, the first meeting called the [Game Developers Conference](https://en.wikipedia.org/wiki/Game_Developers_Conference) was organized in 1988, in California, with about 20 people that would grow to about 125 the following year, and today gathers nearly 28,000 people.
 
-:::note
-In 1982 [Compaq Computer Corporation](https://es.wikipedia.org/wiki/Compaq) launched its first product, a personal computer, primarily aimed at professionals. If you want to know more, the documentary "[Silicon Cowboys](https://www.youtube.com/watch?v=9TlIS1J7qCY)" tells the story of Compaq and its impact on the development of notebook computers.
-:::
+As can be read in the [History of personal computers in Wikipedia page](https://en.wikipedia.org/wiki/History_of_personal_computers), by this time [Texas Instruments](https://en.wikipedia.org/wiki/Texas_Instruments) was the largest chip manufacturer in the world, and one of the high-tech electronics companies that entered the home computer market in 1979.
+
+The [Compaq Computer Corporation](https://es.wikipedia.org/wiki/Compaq) founders worked there, until ~1978, when they founded Compaq and launched their first product, a portable personal computer (*portable* computer) inspired by [Osborne 1](https://en.wikipedia.org/wiki/Osborne_1) but compatible with IBM software, mainly oriented to professionals. If you want to know more, the documentary "[Silicon Cowboys](https://www.youtube.com/watch?v=9TlIS1J7qCY)" tells the story of Compaq and its impact on the development of portable computers. You can watch [the launch event](https://www.youtube.com/watch?v=7THrlGIL9k0) here.
+
 
 ## End of the era
 

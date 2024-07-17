@@ -31,6 +31,12 @@ Vamos a repasar algunos hechos del contexto nacional e internacional para ponern
 
 [IBM](https://en.wikipedia.org/wiki/IBM) cuenta ya con 64 años de antigüedad, es el gigante y líder mundial en fabricación de ordenadores (*[mainframe](https://en.wikipedia.org/wiki/Mainframe_computer)*) usados por empresas, instituciones gubernamentales y académicas.
 
+Otra empresa, [Digital Equipment Corporation (DEC)](https://en.wikipedia.org/wiki/Digital_Equipment_Corporation), que en 1998 sería adquirida por Compaq, empezó a comercializar en 1960 lo que llamaron los Procesador de datos programados (PDP) en torno a lo que se crearían grupos de usuarios.
+
+En esta fecha [Xerox](https://en.wikipedia.org/wiki/Xerox) ocupaba una posición dominante en el mercado de las fotocopiadoras. Siendo una de sus impresoras, en 1980, la que daría pie a la anécdota que terminaría por llevar a Richard Stallman a la creación de la Free Software Foundation.
+
+Hasta poco antes, el software no se percibía como un producto. Fue cuando IBM decide desagregarlo del hardware (en 1969), cuando se dio pie a lo que sería la industria de los vendedores de software independientes ([VIS](https://es.wikipedia.org/wiki/Vendedor_independiente_de_software)), donde poco después empresas como Microsoft jugarían un papel fundamental.
+
 Por esta época, ya cumplían algunos años los primeros [grupos de usuarios](https://en.wikipedia.org/wiki/Users%27_group) o comunidades que he podido encontrar, como:
 
 - [TMRC](https://en.wikipedia.org/wiki/Tech_Model_Railroad_Club), estudiantes del MIT afines a la cultura del hacking (1946).
@@ -101,7 +107,7 @@ Casi en paralelo surge [Usenet](https://en.wikipedia.org/wiki/Usenet) (~1980), o
 
 Poco después de Usenet, en el año que se empieza a experimentar con el [Teletexto](https://es.wikipedia.org/wiki/Teletexto) en España y puede escuchar en los [walkmans](https://es.wikipedia.org/wiki/Stereo_personal) el recién estrenado Thriller de  Michael Jackson (1982), Telefónica comenzaría a comercializar el [Minitel](https://es.wikipedia.org/wiki/Minitel), un sistema que se podrá usar para acceder a la guía telefónica, compra/venta al por menor, acceder a servicios de información de compañías, bases de datos, foros, y mensajería. 
 
-En ese mismo año (1982) se funda [Sun Microsystem](https://en.wikipedia.org/wiki/Sun_Microsystems), desde donde en 1991 se empezaría a trabajar en el proyecto que desembocará en el lenguaje [Java](https://en.wikipedia.org/wiki/Java_(programming_language)).
+En ese mismo año (1982) se funda [Sun Microsystem](https://en.wikipedia.org/wiki/Sun_Microsystems), una empresa que competiría con DEC en la venta de servidores y estaciones de trabajo, y que empezaría desde donde en 1991 se empezaría a trabajar en el proyecto que desembocará en el lenguaje [Java](https://en.wikipedia.org/wiki/Java_(programming_language)).
 
 En 1984 surge [FidoNet](https://es.wikipedia.org/wiki/FidoNet), una popular red de nodos BBS que llegaría con fuerza a España y que por primera vez permitiría a muchos desconocidos comunicarse a nivel mundial a través de ordenadores por línea telefónica. Por ejemplo, el nodo "2:345/801" era la dirección de un tablero denominado “[Atlantis](https://groups.google.com/g/soc.culture.spain/c/jGLymQIac3I)” cuyo operador era Alfredo Sanchez, de Granada, y cuyo teléfono era “958132748”. Más información en "[Viajando en el tiempo: SysOp de una BBS en 1997 y Fidonet en España](https://carrero.es/sysop-de-una-bbs-fidonet-1997/)". Os dejo también otra lista de [nodos de 1987](http://www.textfiles.com/fidonet-on-the-internet/n1987/nodelist.289), y aquí [otros nodos de España](https://www.cyberiada.org/r34.htm).
 
@@ -123,9 +129,9 @@ Y en Estados Unidos estas son algunas de las que me han parecido interesante des
 
 A lo largo de esta década (la de los 80) los ordenadores [386](https://en.wikipedia.org/wiki/I386) (1985) y [486](https://en.wikipedia.org/wiki/I486) (1989) llegan a muchos hogares españoles, y las videoconsolas empiezan a inundar las casas: [Commodore 64](https://en.wikipedia.org/wiki/Commodore_64) (1982), [Nintendo NES](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System) (1983), [Sega SG-1000](https://en.wikipedia.org/wiki/SG-1000) (1983) [Amstrad CPC](https://en.wikipedia.org/wiki/Amstrad_CPC) (1984), [Amiga](https://en.wikipedia.org/wiki/Amiga) (1985), [Atari 7800](https://en.wikipedia.org/wiki/Atari_7800) (1986),  [Game Boy](https://en.wikipedia.org/wiki/Game_Boy) (1989), ... En este clima, se organiza la celebración de una primera reunión llamada la [Game Developers Conference](https://en.wikipedia.org/wiki/Game_Developers_Conference), en 1988, en California, con unas 20 personas que crecerá a unas 125 el año siguiente, y que a día de hoy reúne a cerca de 28.000 personas.  
 
-:::note
-En 1982 [Compaq Computer Corporation](https://es.wikipedia.org/wiki/Compaq) lanzó  su primer producto, una computadora personal, principalmente orientado a profesionales. Si quieres saber más, el documental "[Silicon Cowboys](https://www.youtube.com/watch?v=9TlIS1J7qCY)" cuenta la historia de Compaq y su impacto en el desarrollo de computadoras portátiles.
-:::
+Como se puede leer en la [página de la Historia de las computadores personales en Wikipedia](https://es.wikipedia.org/wiki/Historia_de_las_computadoras_personales), por estas fechas [Texas Instruments](https://en.wikipedia.org/wiki/Texas_Instruments) era el mayor fabricante de chips del mundo, y una de las empresas de electrónica de alta tecnología que en 1979 entró en el mercado de los ordenadores domésticos.
+
+De allí saldrían los fundadores de [Compaq Computer Corporation](https://es.wikipedia.org/wiki/Compaq), quienes en 1982 lanzaron su primer producto, una computadora personal portátil (*portable* computer) inspirada en [Osborne 1](https://en.wikipedia.org/wiki/Osborne_1) pero compatible con software de IBM, principalmente orientado a profesionales. Si quieres saber más, el documental "[Silicon Cowboys](https://www.youtube.com/watch?v=9TlIS1J7qCY)" cuenta la historia de Compaq y su impacto en el desarrollo de computadoras portátiles. Aquí se puede ver [el evento de presentación](https://www.youtube.com/watch?v=7THrlGIL9k0).
 
 ## Cierre de la etapa
 
