@@ -12,12 +12,11 @@ enableComments: true
 La raíz de todo lo que os voy a contar fue una propuesta que recibí a principio de curso de la orientadora del colegio de mis hijos. Me proponía que desde [el AMPA](https://www.ampanovaschoolalmeria.org/) colaborásemos con el centro para organizar alguna actividad para formar a los alumnos en el uso de la IA. Y como soy fácil de liar... aquí me tienes meses después y muchos "ciclos cerebrales" compartiendo los avances.
 
 En este artículo hablaré de:
-* **IA tradicional vs IA generativa**
-* **IA Generativa: ¿por qué es especial?**
-* **IA en la educación**
-* **Mi aportación**
-* **Protegernos del hype**
-
+* **IA tradicional versus IA generativa**: diferencias principales.
+* **IA Generativa**: qué la hace "especial".
+* **IA en la educación**: situación actual que puedo ver.
+* **Mi aportación**: un nuevo proyecto en el que me he embarcado.
+* **Protegernos del hype**: mi consejos para intentar evitar que "nos la cuelen".
 
 ## IA tradicional vs generativa
 
@@ -166,7 +165,7 @@ Así que para protegerte de las manipulaciones o desinformación, te aconsejo:
 
 Mi último consejo es que desconfíes de las cosas que te vendan hoy en día y que usen la IA como propuesta de valor. 
 
-Hace no mucho me llegó la [Grabadora de voz PLAUD Note](https://www.amazon.es/PLAUD-Note-Grabadora-Voz-Transcribir/dp/B0D35MNVRT/ref=asc_df_B0D35MNVRT?mcid=0b3e86900ae0395ba22f74d96333286e&tag=googshopes-21&linkCode=df0&hvadid=701837325757&hvpos=&hvnetw=g&hvrand=15041638796900022192&hvpone=&hvptwo=&hvqmt=&hvdev=m&hvdvcmdl=&hvlocint=&hvlocphy=1005407&hvtargid=pla-2310872916700&psc=1&gad_source=1), que transcribe conversaciones, las resume y hacerte esquemas para preparar oposiciones (como [puedes ver en este reel de Instagram]((https://www.instagram.com/reel/DEundiWKcpF/?)). Aunque a primera vista parece atractivo, pero que tras analizar el coste (169€ + $79 anuales) se puede ver que con unas competencias básicas se puede hacer lo mismo sin comprar nada, y contratando una suscripción avanzada de ChatGPT, Gemini, o cualquier otra, podrás hacer cosas mucho más avanzadas.
+Hace no mucho me llegó la [Grabadora de voz PLAUD Note](https://www.amazon.es/PLAUD-Note-Grabadora-Voz-Transcribir/dp/B0D35MNVRT/ref=asc_df_B0D35MNVRT?mcid=0b3e86900ae0395ba22f74d96333286e&tag=googshopes-21&linkCode=df0&hvadid=701837325757&hvpos=&hvnetw=g&hvrand=15041638796900022192&hvpone=&hvptwo=&hvqmt=&hvdev=m&hvdvcmdl=&hvlocint=&hvlocphy=1005407&hvtargid=pla-2310872916700&psc=1&gad_source=1), que transcribe conversaciones, las resume y hacerte esquemas para preparar oposiciones (como [puedes ver en este *reel* de Instagram](https://www.instagram.com/reel/DEundiWKcpF/?)). Aunque a primera vista parece atractivo, pero que tras analizar el coste (169€ + $79 anuales) se puede ver que con unas competencias básicas se puede hacer lo mismo sin comprar nada, y contratando una suscripción avanzada de ChatGPT, Gemini, o cualquier otra, podrás hacer cosas mucho más avanzadas.
 
 :::note
 Aunque entiendo que una persona que esté opositando no querrá perder el tiempo en adquirir estas habilidades, lo que no es consciente es en que va a perder el tiempo, y el dinero, en comprar y probar un producto que dudo que le vaya a ahorrar demasiado tiempo.
