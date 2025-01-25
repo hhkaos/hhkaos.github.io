@@ -398,6 +398,8 @@ Al tamaño de la superficie terrestre que representa cada celda/pixel se le llam
 
 Lo que representa el valor numérico de cada celda variará, pudiendo ser el color de una fotografía aérea, una imagen satélite, un mapa escaneado, la elevación, la temperatura (terrestre o marítima), el [tipo de uso de suelo](https://en.wikipedia.org/wiki/Land_use), etc.
 
+<!-- DEM, DSM, DTM: https://www.linkedin.com/posts/mashford-mahute-012487178_gis-geospatialanalysis-digitalelevationmodel-activity-7255529162709368833-L0-d?utm_source=share&utm_medium=member_desktop -->
+
 [![](./intro-sig-arcgis/diferentes-tipos-de-datos-raster-color-elevacion-temperatura-tipos-de-uso-de-suelo.png)](./intro-sig-arcgis/diferentes-tipos-de-datos-raster-color-elevacion-temperatura-tipos-de-uso-de-suelo.png)
 
 **Estas matrices pueden ser bidimensionales, tridimensionales o n-dimensionales**. 
@@ -652,6 +654,8 @@ otros amagos de docs:
 
 <!-- nginx Apache pero para servir, infraestructura backend para servir los datos, etc.
 
+Slippy_map / Tiled web map /cached map service -> Check: "Introduction to GIS for Developers": https://docs.google.com/presentation/d/1X6xfPdGCDkImnSI56CmAZbRfMGHPTnL6S2tyzzVXMWQ/edit#slide=id.g31d1ce484a2_0_0 (by Ahmed) -> feature service vs dynamic map service vs cached map service
+
 https://ogcapi.ogc.org/features/ 
 
 The Billion Dollar Code: https://www.netflix.com/es-en/title/81074012
@@ -736,6 +740,8 @@ https://docs.google.com/presentation/d/16wNWpNhnzxVxQ1TXPccERxBfi_q2T8sKBMHHbi6r
 
 learn Renderers using  mapviewer, scene viewer
 VTSE
+The mechanism that defines how data appears when displayed is known in Esri and ArcGIS as "Renderers" (or layer renderers), but also known as styles (open layers, leaflet, ...), data-driven styling (Mapbox), etc in others tecnologies. It defines how to visually represent each vector feature
+-> same symbol, Unique symbols,  continous values, hearmap, 3D extrusion, animations, ... + examples (continuos data and different type of intervals)
 
 3D magic - Unveiling the Magic: The Secrets Behind 10 Amazing Web Apps
 https://mediaspace.esri.com/media/t/1_4eg6ks27
@@ -769,10 +775,19 @@ import PixelFilterAnalysis from './intro-sig-arcgis/pixel-filter-analysis-low.gi
 
 <!-- Herramientas de escritorio
 
+Spatial analysis: The process of examining locations, attributes, and relationships in spatial data, through overlay and other technicas, to gain useful knowledge
+
+Suitability analysis: a process to determine areas appropiate for a particular use, based on geographic, demographic or other kinds of criteria
+
+geometryEngine -> geometry operators: https://developers.arcgis.com/javascript/latest/release-notes/#geometry-operators-beta : https://developers.arcgis.com/javascript/latest/spatial-analysis/intro-geometry-operators/
+
 SDKs + arcpy
 
 Para asegurar calidad de datos, comprobar topologías, generar nuevos datos
 why hexagons https://pro.arcgis.com/en/pro-app/3.1/tool-reference/spatial-statistics/h-whyhexagons.htm
+
+más: https://docs.google.com/presentation/d/1X6xfPdGCDkImnSI56CmAZbRfMGHPTnL6S2tyzzVXMWQ/edit#slide=id.g2d6a2d75e44_0_53
+(measurements, network analysis, topological analysis, spatial statistical analysis, surface analysis, geoai?)
  -->
 
 <div class="sixteen-nine">

@@ -14,7 +14,7 @@ Me gustaría empezar por aclarar que:
 - Puede contener lagunas y errores.
 - Agradezco todas las contribuciones, que por supuesto serán agradecidas y estarán bajo [CC Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/)
 
-**Agradecimientos**: a [JJ Merelo](https://www.linkedin.com/in/juan-j-merelo-0815/) por sus contribuciones.  
+**Agradecimientos**: a [JJ Merelo](https://www.linkedin.com/in/juan-j-merelo-0815/), y [José Luis Orihuela](https://www.linkedin.com/in/jlori/) por sus contribuciones y recursos.   
 </p>
 </details>
 
@@ -159,7 +159,7 @@ Aproximadamente en 1999 la  [Wi-fi](https://en.wikipedia.org/wiki/Wi-Fi) (o prot
 
 ## Bloggers
 
-A final del milenio, en 1999, se empezaron a popularizar los blogs, antiguamente también llamados [bitácoras](https://es.wikipedia.org/wiki/Blog), quizás provocado por el lanzamiento de [Bloggler.com](https://en.wikipedia.org/wiki/Blogger_(service)) 
+A final del milenio, en 1999, se empezaron a popularizar los blogs, antiguamente también llamados [bitácoras](https://es.wikipedia.org/wiki/Blog), quizás provocado por el lanzamiento de [Bloggler.com](https://en.wikipedia.org/wiki/Blogger_(service)).
 
 En ese mismo año nace [barrapunto](https://es.wikipedia.org/wiki/Barrapunto) (1999), era un sitio web de noticias relacionadas con el software libre, la tecnología y los derechos digitales. En 2001 empezaría a ofrecer un sistema de bitácoras denominado MiBarrapunto.
 
@@ -171,6 +171,10 @@ Aquí lo que me gustaría comentar, es el hecho de que **los comentarios de *alg
 
 :::info
 En 2003, se creó [Wordpress](https://en.wikipedia.org/wiki/WordPress), y Bloggler.com fue adquirida y relanzada por Google. 
+:::
+
+:::info
+Un par de recursos interesantes para profundizar más son "[La revolución de los blogs](https://bsky.app/profile/jlori.bsky.social/post/3lcchwqgurs2y)" de José Luis Orihuela, e [Historia de los blogs](https://www.historiadelosblogs.com/) de Gemma Ferreres.
 :::
 
 ## Cierre de la etapa

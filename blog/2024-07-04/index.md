@@ -45,7 +45,7 @@ Keep in mind that language evolves over time, and the use of words is closely li
 
 ## My definition
 
-Here’s what I understand by technical community, in the most traditional/romantic sense, heavily influenced by [my own life experience](https://www.rauljimenez.info/docs/about-me/my-journey), and clearly biased:
+Here’s what I understand by technical community, in the most traditional/romantic sense, heavily influenced by [my own life experience](https://www.rauljimenez.info/es/docs/about-me/open-culture#communities), and clearly biased:
 
 It is a **group of people** who:
 

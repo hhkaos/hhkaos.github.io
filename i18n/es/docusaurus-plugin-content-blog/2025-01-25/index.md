@@ -7,13 +7,12 @@ unlisted: true
 enableComments: true 
 ---
 
-¿¿Otra vez leyendo sobre Inteligencia Artificial?? ¿Enserio no tenías suficiente con los 912673140213798707 artículos, noticias, vídeos, … que hay ahí fuera? Me encanta… eso es que te va la macha 😜😂🫶🫰
+¿¿Otra vez leyendo sobre Inteligencia Artificial?? ¿Enserio no tenías suficiente con los 912673140213798707 artículos, noticias, vídeos, ... que hay ahí fuera? Me encanta... eso es que te va la macha 😜😂🫶🫰
 
-La raíz de todo lo que os voy a contar fue una propuesta que recibí a principio de curso la orientadora del colegio de mis hijos. Me proponía que desde [el AMPA](https://www.ampanovaschoolalmeria.org/) colaborásemos con el centro para organizar alguna actividad para formar a los alumnos en el uso de la IA. Y como soy fácil de liar… aquí me tienes meses después y muchos “ciclos cerebrales” después compartiendo los avances.
+La raíz de todo lo que os voy a contar fue una propuesta que recibí a principio de curso de la orientadora del colegio de mis hijos. Me proponía que desde [el AMPA](https://www.ampanovaschoolalmeria.org/) colaborásemos con el centro para organizar alguna actividad para formar a los alumnos en el uso de la IA. Y como soy fácil de liar... aquí me tienes meses después y muchos "ciclos cerebrales" compartiendo los avances.
 
-
-En este artículo hablaré:
-* **IA tradicional y la generativa**
+En este artículo hablaré de:
+* **IA tradicional vs IA generativa**
 * **IA Generativa: ¿por qué es especial?**
 * **IA en la educación**
 * **Mi aportación**
@@ -22,15 +21,15 @@ En este artículo hablaré:
 
 ## IA tradicional vs generativa
 
-Como sabemos la IA no es algo nuevo y que se ha estado usando en motores de búsqueda, motores de recomendación (Netflix, redes sociales, …), asistente digitales (Google Home, Siri, Alexa, …), traductores automátices, reconocimiento facial, filtros de spam, etc.
+Como sabemos la IA no es algo nuevo. Se ha estado usando en motores de búsqueda, motores de recomendación (Netflix, redes sociales, ...), asistente virtuales (Google Home, Siri, Alexa, ...), traductores automáticos, reconocimiento facial, filtros de spam, etc.
 
-Pero esto no quita que la IA generativa haya llegado con mucha fuerza y la tengamos hoy “hasta en la sopa”. 
+Pero esto no quita que la IA generativa haya llegado con mucha fuerza, y la tengamos hoy "hasta en la sopa". 
 
 La siguiente tabla resume algunas de las diferencias principales:
 
 |Aspecto|IA Tradicional|IA Generativa|
 |---|---|---|
-|**Propósito**|Analizar, predecir, clasificar|Crear, generar contenido “original”|
+|**Propósito**|Analizar, predecir, y/o clasificar|Crear y generar contenido "original"|
 |**Modelo de trabajo**|Basado en reglas específicas|Basado en comprensión contextual|
 |**Datos de entrenamiento**|Datos estructurados y/o etiquetados (por humanos)|Grandes volúmenes de datos diversos|
 |**Tareas**|Resolución de problemas específicos|Tareas creativas y adaptativas|
@@ -39,11 +38,13 @@ La siguiente tabla resume algunas de las diferencias principales:
 
 ## IA Generativa
 
-¿Pero por qué darle tanta importancia?, ¿qué tiene la IA generativa que no haya tenido cualquier otra tecnología disruptiva?. Como diría Bugs Bunny, [¿qué hay de nuevo viejo?](https://youtu.be/glRNGWtO7VM?si=OO_wCcLHW1AIFkAK&t=20).
+¿Pero por qué darle tanta importancia?, ¿qué tiene la IA generativa que no haya tenido cualquier otra tecnología disruptiva?, o como diría Bugs Bunny, [¿qué hay de nuevo viejo?](https://youtu.be/glRNGWtO7VM?si=OO_wCcLHW1AIFkAK&t=20).
 
-Ya han habido muchos otros avances tecnológicos han impactado a la humanidad y nos han transformado radicalmente: la imprenta, la máquina de vapor, la electricidad, Internet... Pero lo que hemos visto en los últimos años es un aumento en la velocidad a la que se producen los cambios, diría que debido a la globalización y los nuevos medios de comunicación.
+Ya han habido muchos otros avances tecnológicos que han impactado a la humanidad y nos han transformado radicalmente: la imprenta, la máquina de vapor, la electricidad, Internet... 
 
-A continuación una gráfica representando la velocidad de adopción de diferentes tecnologías en estados unidos por el Hardvard Business Review:
+Pero lo que hemos visto en los últimos años, es un aumento en la velocidad a la que se producen los cambios, seguramente debido a la globalización y los nuevos medios de comunicación.
+
+En la siguiente gráfica del *Hardvard Business Review*, puedes ver un ejemplo con datos de Estados Unidos, de como a lo largo de los años se ha ido acortando el tiempo de adoptación de nuevas tecnologías:
 
 <figure>
 
@@ -52,47 +53,53 @@ A continuación una gráfica representando la velocidad de adopción de diferent
  <figcaption>The Pace of Technology Adoption is Speeding Up, Image Harvard Business Review</figcaption>
 </figure>
 
-Y aunque aún no he encontrado datos excesivamente fiables de la adopción de herramientas de IA generativa, hemos escuchado que ChatGPT (lanzado en 2022) ha alcanzado más de [300 millones de usuarios activos semanales](https://www.theverge.com/2024/12/4/24313097/chatgpt-300-million-weekly-users). 
+Y aunque aún no he encontrado datos excesivamente fiables de la adopción de herramientas de IA generativa, hemos escuchado que ChatGPT (lanzado en 2022) ya ha alcanzado la increíble cifra de más de [300 millones de usuarios activos semanales](https://www.theverge.com/2024/12/4/24313097/chatgpt-300-million-weekly-users). 
 
-Para poner esta cifra en contexto, aquí tienes una comparativa que [he encontrado en CNBC TV18](https://www.cnbctv18.com/technology/chatgpt-sets-record-for-fastest-growing-user-base-says-study-15840751.htm) proporcionada por [Similar Web](https://en.wikipedia.org/wiki/Similarweb) que te ayudará a verlo en perspectiva:
+Para poner esta cifra en contexto, aquí tienes una comparativa que muestra otras aplicaciones conocidas, y el tiempo que les costó alcanzar los 100 millones de usuarios activos mensuales:
 
 <div style={{textAlign: 'center'}}>
   
   <img src="https://images.cnbctv18.com/wp-content/uploads/2023/02/ChatGPT_A20Blockbuster_pages-to-jpg-0002-min.jpg?im=Resize,width=360,aspect=fit,type=normal)" />
 
+  <figcaption>Fuente: <a href="https://www.cnbctv18.com/technology/chatgpt-sets-record-for-fastest-growing-user-base-says-study-15840751.htm">CNBC TV18</a> datos proporcionados por <a href="https://en.wikipedia.org/wiki/Similarweb">Similar Web</a></figcaption>
+
 </div>
 
-Pero para mi la importancia no es la velocidad de adopción, si no que se esté adoptando masivamente cuando **aún hay partes de la IA generativa que ni los propios creadores entienden cómo funcionan**, un caso es el de entender cómo influye el prompt (o instrucción de entrada) en la respuesta. 
+Pero para mi, la importancia no está en la velocidad de adopción. Lo que me preocupa es que se esté usando masivamente sin una base de conocimiento mínima, y se estén generando y compartiendo contenidos que a primera vista son de calidad, pero sin serlo. 
 
-Llevándonos a una situación en la que [como dice Ramón Besonías](https://youtu.be/KRIeyKi9bXw?si=Oz4YJDYZtQawecTI&t=137):
-* **Todas las personas somos novatas**, unas con algunos meses más de experiencia que otras.
-* Y por tanto no existe aún la didáctica sobre cómo enseñar IA.
+Y es que uno de los problemas es, que **aún hay partes de la IA generativa que ni los propios creadores entienden cómo funcionan**, como por ejemplo, no se sabe cómo influye el prompt (o instrucción de entrada) en la respuesta. 
 
-Por eso creo que es especialmente importante que las personas adultas las probemos, y hagamos lo posible por estar al día, por entender cómo se puede usar y compartamos nuestras experiencias con el resto.
+En definitiva, esto nos lleva a una situación en la que, [como dice Ramón Besonías](https://youtu.be/KRIeyKi9bXw?si=Oz4YJDYZtQawecTI&t=137):
+* **Todas las personas somos novatas** en el uso de la IA (incluso sus creadores), unas con algunos meses más de experiencia que otras.
+* **No existe aún la didáctica sobre cómo enseñar IA**.
+
+Por eso creo que es especialmente importante que las personas adultas adquiramos una formación básica, las probemos, y hagamos lo posible por estar al día, por entender cómo se puede usar y compartamos nuestras experiencias (las buenas y las malas) con el resto.
 
 ## IA en la educación
 
-Hay muchos debates en torno a este tema, el de la ética, el de la destrucción de empleos, ... pero lo que yo tengo asumido es que esta tecnología ha llegado para quedarse y que **ya está redefiniendo la educación y el aprendizaje**.
+Hay muchos debates en torno a este tema, el de la ética, el de la destrucción de empleos, ... pero lo que yo tengo asumido es que esta tecnología ha llegado para quedarse, y que **ya está redefiniendo la educación y el aprendizaje**.
 
-¿Sabías que según [una encuesta de Statista](https://www.statista.com/chart/29244/number-of-companies-using-open-ai-in-their-business-processes-worldwide/), la industria de la educación podría ser la segunda más impactada por esta tecnología?, aquí te dejo los resultados:
+¿Sabías que según [una encuesta de Statista](https://www.statista.com/chart/29244/number-of-companies-using-open-ai-in-their-business-processes-worldwide/), la industria de la educación podría ser la segunda más impactada por esta tecnología?. A continuación te dejo una infografía con los resultados:
 
 ![](https://cdn.statcdn.com/Infographic/images/normal/29244.jpeg)
 
-Pero no sólo los docentes quienes la están usando, si no también **los estudiantes, en muchos casos para que les haga el trabajo** (¡sorpresa! 😜).
+Pero no son sólo los docentes quienes la están usando, si no también **los estudiantes, en muchos casos para que les haga el trabajo** (¡¡sooorpreesaa!! 😜).
 
-¿Pero sabéis qué? Yo no les culpo, pienso que al igual que los estudiantes, el motivo por el que tantas personas adultas están empezando a usarla es el mismo. Y es que una de las promesas de la IA es que nos puede ayudar a hacer aquellas tareas menos importantes o que "menos nos gustan". 
+¿Pero sabéis qué? Yo no les culpo, una de las promesas de la IA es que nos puede ayudar a hacer aquellas tareas menos importantes o que "menos nos gustan". Y pienso que al igual que los estudiantes, en el fondo y aunque nos cueste reconocerlo, el motivo por el que tantas personas adultas empezamos a usarla es a veces el mismo. 
 
-Pero el principal problema con el que me he encontrado, es que aunque quieras, **no hay buen contenido** (accesible, estructurado, completo, de calidad, y gratuito) para ayudar a saber **cómo se debería usar correctamente para estudiar**. 
+Pero el principal problema con el que me he encontrado, es que aunque quieras, **no hay buen contenido** para ayudar a saber **cómo se debería usar correctamente (para estudiar)**, y me refiero a contenido accesible, completo, estructurado, de calidad, y gratuito. 
 
 :::note
-Al menos yo no lo he encontrado, pero si tú conoces alguno, por favor, déjalo en [los comentarios](#comentarios).
+O al menos yo no lo he encontrado. Pero si tú conoces alguno, por favor, déjalo en [los comentarios](#comentarios) 🙏😊.
 :::
 
-Lo que parece estar claro es que **vamos a necesitar desarrollar nuevas competencias**. Al igual que con la llegada de la informática, Internet y los motores de búsqueda empezamos a desarrollar nuevas habilidades y competencias (por ej: cómo saber buscar en internet),  ahora tenemos que desarrollar otras competencias (ej: lingüisticas, tecnológicas, el pensamiento crítico, ...) para saber cómo interactuar con la IA. 
+Lo que parece estar claro es que **vamos a necesitar desarrollar nuevas competencias**. 
 
-Por ejemplo, tendremos que entender a grosso modo las diferencias entre los diferentes tipos de herramientas y modelos de IA que hay, o saber escribir “prompts” para que nos devuelvan cosas útiles, etc.
+Al igual que con la llegada de la informática, Internet y los motores de búsqueda tuvimos que empezar a desarrollar nuevas habilidades y competencias, como por ejemplo saber buscar en internet, ahora va a ser más importante que nunca que desarrollemos más otras competencias como las lingüísticas, el pensamiento crítico, etc. para poder hacer un buen uso de la IA generativa. 
 
-Y es que las consecuencias de no desarrollar estas competencias la sociedad se enfrenta a un futuro [distópico](https://dle.rae.es/distop%C3%ADa). 
+Por ejemplo, tendremos que entender a grosso modo las diferencias entre los diferentes tipos de herramientas y modelos de IA que hay, o saber escribir "prompts" para que nos devuelvan cosas útiles, etc.
+
+Y aunque confío en que no pasará, de no desarrollar estas competencias, creo la sociedad se enfrentaría a un futuro [distópico](https://dle.rae.es/distop%C3%ADa) en el que terminaríamos con unas nuevas generaciones menos preparadas y rodeada de información basura, que no sería fácil de identificar. 
 
 Por eso **tenemos que usar esta tecnología como una herramienta más** a nuestro alcance, para **ayudarnos** a hacer nuestro trabajo y desarrollar nuestras competencias, y no usarlas mal de forma que terminen mermando nuestro desarrollo e inteligencia.
 
@@ -104,22 +111,26 @@ Repito, está claro que la IA, como cualquier otra cosa, puede hacer muchas cosa
 
 ## Mi aportanción
 
-Bueno, ya está bien de divagar. ¿Y yo que voy a hacer al respecto?
+Te preguntarás, y después de toda esta chapa, ¿tú qué vas a hacer al respecto para evitarlo?.
 
-Pues me he lanzado a empezar un nuevo proyecto de documentación, en "Mi cerebro digital" bajo la categoría "Inteligencia Artificial". 
+Además de hacerlo lo mejor posible para educar a mis hijos en casa, y ayudar en el colegio, me he lanzado a empezar un nuevo proyecto de documentación, en la sección "[Mi cerebro digital > Inteligencia Artificial](/es/docs/digital-brain)". 
 
-Pero como yo no soy ni docente de formación, ni experto en IA, me he lanzado a pedir ayuda a través de entrevistas con profesores y profesoras (de España), y especialistas en inteligencia artificial y áreas relacionadas para intentar recopilar ideas, experiencias, recursos, etc.
+Pero como yo no soy ni docente, ni experto en IA, me he lanzado a pedir ayuda, a través de entrevistas, a [profesores y profesoras de España, especialistas en inteligencia artificial, y otras áreas relacionadas](/es/docs/artificial-intelligence/education-ai#agradecimientos) para intentar recopilar información acerca de este tema: ideas, experiencias, recursos, etc.
 
-El objetivo es crear un material educativo que llene ese vacío que encontré, de contenido con un enfoque holístico que sea accesible, estructurado, completo, de calidad, y gratuito, que espero no solo nos ayude a las actividades que estamos organizando desde el AMPA si no que también beneficie a nuestros estudiantes, sino que también pueda ser útil para otras comunidades educativas.
+:::note
+Si conoces a alguna persona que piensas que sí o sí debería entrevistar, por favor añádela en los comentarios o escríbeme a través de [cualquiera de mis canales](/).
+:::
 
-Puedes encontrar este contenido en: **[Uso de la IA en la educación](/es/docs/artificial-intelligence/education-ai)**.
+El objetivo es crear un material educativo que llene ese vacío que encontré. El de contenido sobre cómo usar la IA (para estudiantes), con un enfoque holístico que sea accesible, estructurado, completo, de calidad, y gratuito, que espero no solo nos ayude a las actividades que estamos organizando desde nuestro AMPA, sino que también pueda ser útil para otras comunidades educativas.
+
+Puedes encontrar este contenido, en contínua evolución, en: **[Uso de la IA en la educación](/es/docs/artificial-intelligence/education-ai)**.
 
 
 ## Protégete del "hype"
 
-No podemos negar que aunque la IA tenga un gran potencial, el "[hype](https://en.wikipedia.org/wiki/Gartner_hype_cycle)" (o el revuelo) que se hay alrededor suya es brutal. 
+No podemos negar que aunque la IA tenga un gran potencial, el "[hype](https://en.wikipedia.org/wiki/Gartner_hype_cycle)" o el revuelo que se ha formado alrededor suya es brutal. 
 
-Y es que toda innovación tecnológica suele conllevar este efecto como Gartner suele reflejar en sus informes "Gartner Hype Cycle for Emerging Technologies":
+Y es que toda innovación tecnológica suele conllevar este efecto, que puedes ver en la siguiente gráfica y que encontrarás en todos los informe de "*Gartner Hype Cycle for Emerging Technologies*". :
 
 <div style={{textAlign: 'center'}}>
 
@@ -132,24 +143,35 @@ Y es que toda innovación tecnológica suele conllevar este efecto como Gartner 
 
 </div>
 
-Pero no olvidemos nunca que se mezcla del optimismo y pasión de algunas personas innovadoras, las ganas de cree de muchas personas, junto con la publicidad mediática, y los intereses "ocultos" (económicos) de las empresas tras dichas innovaciones, empresas que compiten sin descanso por liderar la revolución, suele llevar a inflar demasiado las expectativas y en ocasiones a generar desinformación ante la que nos deberíamos de proteger.
+Pero no olvidemos nunca por qué se produce esto. Y es por una mezcla de:
+* El optimismo y pasión de algunas personas innovadoras.
+* Las ganas de creer de muchas personas.
+* La gran atención y publicidad mediática.
+* Y los intereses "ocultos" (económicos) de las empresas tras dichas innovaciones Empresas que compiten sin descanso por liderar la revolución.
+
+Todo esto suele llevar al pico de inflación de las expectativas, en ocasiones a coste de generar información engañosa ante la que nos deberíamos de proteger.
 
 Así que para protegerte de las manipulaciones o desinformación, te aconsejo:
 
-1. **Desconfía del lenguaje emocional:** Promesas exageradas o titulares alarmistas suelen ser señales de manipulación (esto aplica a todo).
+1. **Desconfía del lenguaje emocional:** Cualquier cosa que suene demasiado bien, promesa "exagerada", o titulares alarmistas. Estas suelen ser señales de manipulación. Por cierto, esto aplica a todo (no sólo a la IA).
 2. **Sé crítico/a:** Evalúa la fuente de la información y verifica si tiene intereses económicos<sup></sup>.
 3. **Investiga:** Busca opiniones de expertos y fuentes confiables.
 4. **Diversifica:** Consulta varias perspectivas para tener una visión más completa.
 
 :::tip ¿Quién tiene intereses económicos?
-**Empresas**: Claramente quienes más intereses tienen son las propias proveedoras de la tecnología e infraestructura sobre la que se sostiene esta innovación: OpenAI, NVIDIA, Microsoft, Amazon (AWS), ... estas empresas públicas (en bolsa) necesitan mantener y hacer crecer el valor de sus acciones, y para ello hacen anuncios con el objetivo de aumentar ese "hype" y hacer crecer el valor las mismas.
+**Empresas**. Claramente quienes más intereses tienen son las propias proveedoras de la tecnología sobre la que se sostiene esta innovación: OpenAI, NVIDIA, Microsoft, Amazon (AWS), ... estas empresas públicas (en bolsa) necesitan mantener y hacer crecer el valor de sus acciones, y para ello muchas hacen anuncios con el objetivo de aumentar ese "hype" y hacer crecer el valor las mismas.
 
-**Generadores de contenido**: que ganan dinero a través de la publicidad, como los medios de comunicación, YouTubers, etc. 
+**Generadores de contenido** que ganan dinero a través de la publicidad o enlaces referidos, como los medios de comunicación, YouTubers, Instagramers, TikTokers, etc. 
 :::
 
-Mi último consejo es que mirés con especticismo muchas de las "innovaciones" que te venden. Uno de los últimos ejemplos que me llegó fue el del producto PLAUD
-Un ejemplo claro son productos como [PLAUD Note](https://play.google.com/store/apps/details?id=ai.plaud.android.plaud&hl=en), una grabadora con IA que transcribe y resume conversaciones. Aunque útil, este tipo de soluciones a menudo implican suscripciones costosas que no siempre se justifican.
+Mi último consejo es que desconfíes de las cosas que te vendan hoy en día y que usen la IA como propuesta de valor. 
 
-Y tú, ¿qué opinas?
+Hace no mucho me llegó la [Grabadora de voz PLAUD Note](https://www.amazon.es/PLAUD-Note-Grabadora-Voz-Transcribir/dp/B0D35MNVRT/ref=asc_df_B0D35MNVRT?mcid=0b3e86900ae0395ba22f74d96333286e&tag=googshopes-21&linkCode=df0&hvadid=701837325757&hvpos=&hvnetw=g&hvrand=15041638796900022192&hvpone=&hvptwo=&hvqmt=&hvdev=m&hvdvcmdl=&hvlocint=&hvlocphy=1005407&hvtargid=pla-2310872916700&psc=1&gad_source=1), que transcribe conversaciones, las resume y hacerte esquemas para preparar oposiciones (como [puedes ver en este reel de Instagram]((https://www.instagram.com/reel/DEundiWKcpF/?)). Aunque a primera vista parece atractivo, pero que tras analizar el coste (169€ + $79 anuales) se puede ver que con unas competencias básicas se puede hacer lo mismo sin comprar nada, y contratando una suscripción avanzada de ChatGPT, Gemini, o cualquier otra, podrás hacer cosas mucho más avanzadas.
+
+:::note
+Aunque entiendo que una persona que esté opositando no querrá perder el tiempo en adquirir estas habilidades, lo que no es consciente es en que va a perder el tiempo, y el dinero, en comprar y probar un producto que dudo que le vaya a ahorrar demasiado tiempo.
+:::
+
+Bueno, y tú, ¿en que no estás de acuerdo?, ¿qué se me escapa?, ¿o te ha parecido interesante?.
 
 ## Comentarios

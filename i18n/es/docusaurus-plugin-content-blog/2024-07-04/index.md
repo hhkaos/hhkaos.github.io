@@ -45,7 +45,7 @@ Tened en cuenta que el lenguaje evoluciona con el tiempo, y el uso de las palabr
 
 ## Mi definición
 
-Aquí va lo que yo entiendo por comunidad técnica, en el sentido más tradicional/romántico, ampliamente influenciado por [mi propia experiencia vital](https://www.rauljimenez.info/es/docs/about-me/my-journey), y claramente cargada de sesgos:
+Aquí va lo que yo entiendo por comunidad técnica, en el sentido más tradicional/romántico, ampliamente influenciado por [mi propia experiencia vital](https://www.rauljimenez.info/es/docs/about-me/open-culture#communities), y claramente cargada de sesgos:
 
 Es un **grupo de personas** que:
 

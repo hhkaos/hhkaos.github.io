@@ -44,6 +44,10 @@
 .mt1{
   margin-top: 1rem;
 }
+.social-logos{
+  width: 80%;
+  margin: 0 auto;
+}
 
 .social-icons img{
   margin-right: 1rem;;
