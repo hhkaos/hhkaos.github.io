@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrauljimenez_info=self.webpackChunkrauljimenez_info||[]).push([[47],{1799:e=>{e.exports=JSON.parse('{"label":"soda machine","permalink":"/es/blog/tags/soda-machine","allTagsPath":"/es/blog/tags","count":1}')}}]);
