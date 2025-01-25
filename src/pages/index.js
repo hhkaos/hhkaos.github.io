@@ -35,14 +35,17 @@ export default function Home() {
       title={`${siteConfig.title}`}
       description="This website contain my digital brain">
       <HomepageHeader />
-      <main className='center mt1'>
+      <main className='center mt1 social-logos'>
         <p><Translate>You can find me in:</Translate></p>
         <p className='social-icons'>
+        <a href="https://www.linkedin.com/in/jimenezortegaraul/" rel="nofollow">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Raúl Jimenez Ortega Linkedin" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
+        </a>
         <a href="https://x.com/hhkaos" rel="nofollow">
           <img src="https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white&label=(former%20Twitter)" alt="Raúl Jiménez Ortega X" data-canonical-src="https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white&label=(former%20Twitter)" />
         </a>
-        <a href="https://www.linkedin.com/in/jimenezortegaraul/" rel="nofollow">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Raúl Jimenez Ortega Linkedin" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
+        <a href="https://bsky.app/profile/rauljimenez.info" rel="nofollow">
+          <img src="https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Raúl Jiménez Ortega Bluesky" data-canonical-src="https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" />
         </a>
         <a href="https://github.com/hhkaos">
           <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=101010" alt="GitHub" data-canonical-src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=101010" />

@@ -14,7 +14,7 @@ I would like to start by clarifying that:
 - It may contain gaps and errors.
 - I appreciate all contributions, which of course will be acknowledged and will be under [CC Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/)
 
-**Acknowledgments**: to [JJ Merelo](https://www.linkedin.com/in/juan-j-merelo-0815/) for his contributions.  
+**Acknowledgments**: to [JJ Merelo](https://www.linkedin.com/in/juan-j-merelo-0815/), and [José Luis Orihuela](https://www.linkedin.com/in/jlori/) for their contributions and resources.  
 </p>
 </details>
 
