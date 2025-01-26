@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrauljimenez_info=self.webpackChunkrauljimenez_info||[]).push([[6867],{1035:e=>{e.exports=JSON.parse('{"permalink":"/es/blog/tags/google-glass","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

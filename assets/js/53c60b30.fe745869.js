@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrauljimenez_info=self.webpackChunkrauljimenez_info||[]).push([[3855],{520:a=>{a.exports=JSON.parse('{"label":"birthday","permalink":"/blog/tags/birthday","allTagsPath":"/blog/tags","count":1}')}}]);

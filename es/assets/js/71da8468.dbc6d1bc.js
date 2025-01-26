@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrauljimenez_info=self.webpackChunkrauljimenez_info||[]).push([[934],{6376:e=>{e.exports=JSON.parse('{"label":"commitconf","permalink":"/es/blog/tags/commitconf","allTagsPath":"/es/blog/tags","count":1}')}}]);

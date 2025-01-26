@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrauljimenez_info=self.webpackChunkrauljimenez_info||[]).push([[2022],{4743:e=>{e.exports=JSON.parse('{"label":"formaci\xf3n","permalink":"/es/blog/tags/formacion","allTagsPath":"/es/blog/tags","count":1}')}}]);
