@@ -1,5 +1,5 @@
 ---
-slug: how-to-use-ai-to-study
+slug: ai-and-education-a-holistic-approach
 title: 🎓 How to use AI to study
 authors: [hhkaos]
 tags: [dyi, soda machine, electronics, home project]
