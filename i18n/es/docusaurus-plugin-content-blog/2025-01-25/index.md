@@ -2,7 +2,7 @@
 slug: ai-and-education-a-holistic-approach
 title: 🎓 IA y educación, un enfoque holístico
 authors: [hhkaos]
-tags: [dyi, soda machine, electronics, home project]
+tags: [educación, formación, aprendizaje, inteligencia artificial, ia, inteligencia artificial generativa, aprendizaje automático, aprendizaje profundo]
 unlisted: true
 enableComments: true 
 ---

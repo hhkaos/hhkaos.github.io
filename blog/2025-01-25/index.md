@@ -1,8 +1,8 @@
 ---
 slug: ai-and-education-a-holistic-approach
-title: 🎓 How to use AI to study
+title: 🎓 AI and education, a holistic approach
 authors: [hhkaos]
-tags: [dyi, soda machine, electronics, home project]
+tags: [education, training, learning, artificial intelligence, artificial intelligence, ia, generative artificial intelligence, machine learning, deep learning]
 unlisted: true
 enableComments: true 
 ---
