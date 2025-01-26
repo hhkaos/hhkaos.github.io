@@ -8,7 +8,7 @@
     <subtitle>RaulJimenez.info Blog</subtitle>
     <icon>https://www.rauljimenez.info/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[🎓 How to use AI to study]]></title>
+        <title type="html"><![CDATA[🎓 AI and education, a holistic approach]]></title>
         <id>https://www.rauljimenez.info/blog/ai-and-education-a-holistic-approach</id>
         <link href="https://www.rauljimenez.info/blog/ai-and-education-a-holistic-approach"/>
         <updated>2025-01-25T00:00:00.000Z</updated>
@@ -18,10 +18,14 @@
             <name>Raul Jimenez Ortega</name>
             <uri>https://github.com/hhkaos</uri>
         </author>
-        <category label="dyi" term="dyi"/>
-        <category label="soda machine" term="soda machine"/>
-        <category label="electronics" term="electronics"/>
-        <category label="home project" term="home project"/>
+        <category label="education" term="education"/>
+        <category label="training" term="training"/>
+        <category label="learning" term="learning"/>
+        <category label="artificial intelligence" term="artificial intelligence"/>
+        <category label="ia" term="ia"/>
+        <category label="generative artificial intelligence" term="generative artificial intelligence"/>
+        <category label="machine learning" term="machine learning"/>
+        <category label="deep learning" term="deep learning"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[2️⃣ [1992-2003] The rise of online communities]]></title>

@@ -18,10 +18,14 @@
             <name>Raul Jimenez Ortega</name>
             <uri>https://github.com/hhkaos</uri>
         </author>
-        <category label="dyi" term="dyi"/>
-        <category label="soda machine" term="soda machine"/>
-        <category label="electronics" term="electronics"/>
-        <category label="home project" term="home project"/>
+        <category label="educación" term="educación"/>
+        <category label="formación" term="formación"/>
+        <category label="aprendizaje" term="aprendizaje"/>
+        <category label="inteligencia artificial" term="inteligencia artificial"/>
+        <category label="ia" term="ia"/>
+        <category label="inteligencia artificial generativa" term="inteligencia artificial generativa"/>
+        <category label="aprendizaje automático" term="aprendizaje automático"/>
+        <category label="aprendizaje profundo" term="aprendizaje profundo"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[2️⃣ [1992-2003] El auge de las comunidades online]]></title>
