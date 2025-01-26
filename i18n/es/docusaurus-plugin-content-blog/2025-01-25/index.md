@@ -1,5 +1,5 @@
 ---
-slug: how-to-use-ai-to-study
+slug: ai-and-education-a-holistic-approach
 title: 🎓 IA y educación, un enfoque holístico
 authors: [hhkaos]
 tags: [dyi, soda machine, electronics, home project]
@@ -7,26 +7,30 @@ unlisted: true
 enableComments: true 
 ---
 
-¿¿Otra vez leyendo sobre Inteligencia Artificial?? ¿Enserio no tenías suficiente con los 912673140213798707 artículos, noticias, vídeos, ... que hay ahí fuera? Me encanta... eso es que te va la macha 😜😂🫶🫰
+¿¿Otra vez leyendo sobre Inteligencia Artificial?? ¿En serio no tenías suficiente con los 912.673.140 artículos, noticias, podcasts, vídeos, o *reels* que hay ahí fuera? Me encanta, eso es que te va la macha 😜😂.
 
 La raíz de todo lo que os voy a contar fue una propuesta que recibí a principio de curso de la orientadora del colegio de mis hijos. Me proponía que desde [el AMPA](https://www.ampanovaschoolalmeria.org/) colaborásemos con el centro para organizar alguna actividad para formar a los alumnos en el uso de la IA. Y como soy fácil de liar... aquí me tienes meses después y muchos "ciclos cerebrales" compartiendo los avances.
 
 En este artículo hablaré de:
 * **IA tradicional versus IA generativa**: diferencias principales.
-* **IA Generativa**: qué la hace "especial".
+* **IA generativa**: qué la hace "especial".
 * **IA en la educación**: situación actual que puedo ver.
 * **Mi aportación**: un nuevo proyecto en el que me he embarcado.
 * **Protegernos del hype**: mi consejos para intentar evitar que "nos la cuelen".
 
 ## IA tradicional vs generativa
 
-Como sabemos la IA no es algo nuevo. Se ha estado usando en motores de búsqueda, motores de recomendación (Netflix, redes sociales, ...), asistente virtuales (Google Home, Siri, Alexa, ...), traductores automáticos, reconocimiento facial, filtros de spam, etc.
+Como sabemos la IA no es algo nuevo<sup>*</sup>. Se ha estado usando en motores de búsqueda, motores de recomendación (Netflix, redes sociales, ...), asistente virtuales (Google Home, Siri, Alexa, ...), traductores automáticos, reconocimiento facial, filtros de spam, predictores de texto, captchats, etc.
+
+:::tip 🧠 Sabías que...
+¿La [Asociación Española para la Inteligencia Artificial (AEPIA)](https://www.aepia.org/historia_aepia/) fue fundada en 1984?
+:::
 
 Pero esto no quita que la IA generativa haya llegado con mucha fuerza, y la tengamos hoy "hasta en la sopa". 
 
 La siguiente tabla resume algunas de las diferencias principales:
 
-|Aspecto|IA Tradicional|IA Generativa|
+|Aspecto|IA tradicional|IA generativa|
 |---|---|---|
 |**Propósito**|Analizar, predecir, y/o clasificar|Crear y generar contenido "original"|
 |**Modelo de trabajo**|Basado en reglas específicas|Basado en comprensión contextual|
@@ -43,7 +47,7 @@ Ya han habido muchos otros avances tecnológicos que han impactado a la humanida
 
 Pero lo que hemos visto en los últimos años, es un aumento en la velocidad a la que se producen los cambios, seguramente debido a la globalización y los nuevos medios de comunicación.
 
-En la siguiente gráfica del *Hardvard Business Review*, puedes ver un ejemplo con datos de Estados Unidos, de como a lo largo de los años se ha ido acortando el tiempo de adoptación de nuevas tecnologías:
+En la siguiente gráfica del *Hardvard Business Review* se muestra un ejemplo, basado en datos de Estados Unidos, de cómo el tiempo necesario para adoptar nuevas tecnologías ha ido disminuyendo a lo largo de los años:
 
 <figure>
 
@@ -74,22 +78,26 @@ En definitiva, esto nos lleva a una situación en la que, [como dice Ramón Beso
 
 Por eso creo que es especialmente importante que las personas adultas adquiramos una formación básica, las probemos, y hagamos lo posible por estar al día, por entender cómo se puede usar y compartamos nuestras experiencias (las buenas y las malas) con el resto.
 
+:::note Vivimos tiempos exponenciales
+Creo que la primera vez que escuché la frase "vivimos en tiempos exponenciales" fue cuando vi el vídeo ["Did you Know" (2008)](https://www.youtube.com/watch?v=cL9Wu2kWwSY&ab_channel=AmybethQuinn). En él aparece una frase que se me quedó grabada a fuego: "**estamos preparando a menores para trabajos que aún no existen**", y que además serán altamente demandados en pocos años.
+:::
+
 ## IA en la educación
 
-Hay muchos debates en torno a este tema, el de la ética, el de la destrucción de empleos, ... pero lo que yo tengo asumido es que esta tecnología ha llegado para quedarse, y que **ya está redefiniendo la educación y el aprendizaje**.
+Y es que hay muchos debates en torno a este tema, el de la propiedad intelectual, el de la ética, el de la regulación, el de la destrucción de empleos, ... pero lo que yo tengo asumido es que esta tecnología ha llegado para quedarse, que **ya está redefiniendo la educación y el aprendizaje**, y que quienes sean capaces de usarla correctamente estarán en ventaja y sobresaldrán de la media.
 
 ¿Sabías que según [una encuesta de Statista](https://www.statista.com/chart/29244/number-of-companies-using-open-ai-in-their-business-processes-worldwide/), la industria de la educación podría ser la segunda más impactada por esta tecnología?. A continuación te dejo una infografía con los resultados:
 
 ![](https://cdn.statcdn.com/Infographic/images/normal/29244.jpeg)
 
-Pero no son sólo los docentes quienes la están usando, si no también **los estudiantes, en muchos casos para que les haga el trabajo** (¡¡sooorpreesaa!! 😜).
+Pero no son sólo los docentes quienes la están usando, sino también **los estudiantes, en muchos casos para que les haga el trabajo** (¡¡sooorpreesaa!! 😜).
 
 ¿Pero sabéis qué? Yo no les culpo, una de las promesas de la IA es que nos puede ayudar a hacer aquellas tareas menos importantes o que "menos nos gustan". Y pienso que al igual que los estudiantes, en el fondo y aunque nos cueste reconocerlo, el motivo por el que tantas personas adultas empezamos a usarla es a veces el mismo. 
 
-Pero el principal problema con el que me he encontrado, es que aunque quieras, **no hay buen contenido** para ayudar a saber **cómo se debería usar correctamente (para estudiar)**, y me refiero a contenido accesible, completo, estructurado, de calidad, y gratuito. 
+Pero el principal problema con el que me he encontrado, es que aunque quieras, **no hay buen contenido**<sup>*</sup> para ayudar a saber **cómo se debería usar correctamente (para estudiar)**, y me refiero a contenido accesible, completo, estructurado, de calidad, y gratuito. 
 
 :::note
-O al menos yo no lo he encontrado. Pero si tú conoces alguno, por favor, déjalo en [los comentarios](#comentarios) 🙏😊.
+O al menos yo no lo he encontrado. Busco contenido que explique cómo usarla correctamente para estudiar, para desarrollar nuevas habilidades, mejorar el desarrollo cognitivo, fortalecer el pensamiento crítico, la creatividad, ser más productivos. Pero si tú conoces alguno, por favor, déjalo en [los comentarios](#comentarios) 🙏😊.
 :::
 
 Lo que parece estar claro es que **vamos a necesitar desarrollar nuevas competencias**. 
@@ -152,7 +160,7 @@ Todo esto suele llevar al pico de inflación de las expectativas, en ocasiones a
 
 Así que para protegerte de las manipulaciones o desinformación, te aconsejo:
 
-1. **Desconfía del lenguaje emocional:** Cualquier cosa que suene demasiado bien, promesa "exagerada", o titulares alarmistas. Estas suelen ser señales de manipulación. Por cierto, esto aplica a todo (no sólo a la IA).
+1. **Desconfía del lenguaje emocional:** Cualquier cosa que suene demasiado bien, promesa "exagerada", o titulares alarmistas. Estas suelen ser señales de manipulación. Por cierto, esto se aplica a todo (no sólo a la IA).
 2. **Sé crítico/a:** Evalúa la fuente de la información y verifica si tiene intereses económicos<sup></sup>.
 3. **Investiga:** Busca opiniones de expertos y fuentes confiables.
 4. **Diversifica:** Consulta varias perspectivas para tener una visión más completa.

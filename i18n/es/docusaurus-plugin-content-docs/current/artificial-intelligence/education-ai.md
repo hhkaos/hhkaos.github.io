@@ -370,7 +370,11 @@ Hasta ahora los buscadores como Google Search llevan siendo uno de nuestros mejo
 Los buscadores tradicionales, aunque . Buscando aunque se puede peder más tiempo, también se aprende y de desarrolla la competencia de buscar
 :::
 
-<!-- * ¿Qué tiempo hará en XXXX?
+<!-- 
+Buscar con IA: un recurso educativo
+https://iaenlasaulas.blogspot.com/2024/12/buscar-con-ia-un-recurso-educativo.html
+
+* ¿Qué tiempo hará en XXXX?
 
 ¿Y necesitaré paraguas para ir a las vegas?
 Mapas
@@ -400,7 +404,11 @@ háblame de X en modo página
 
 *Por hacer*
 
-<!-- Ejemplos: 
+<!-- 
+La IA ya puede ver: ¿te atreves a experimentar?
+Ejemplo de análisis sintáctico (ramón): https://youtu.be/e_w8clU6_gM?si=mdanX5Jc92l19Ic3&t=983
+https://iaenlasaulas.blogspot.com/2024/12/la-ia-ya-puede-ver-te-atreves.html
+Ejemplos: 
 * 
 -->
 
@@ -635,8 +643,16 @@ Siguiendo el temario de libro del libro de la editorial Santillana y acorde a lo
 
 ### Elección de Modelos
 
-*Por hacer: qué pros/cons te puedes encontrar, fechas de datos de entramiento, etc*
+*Por hacer: qué pros/cons te puedes encontrar, fechas de datos de entrenamiento, etc*
 <!-- * Fecha de los Datos de entretamiento, fortalezas, etc -->
+
+### Proporcionar contexto
+
+*Por hacer: ventajas de formatos, introducir markdown, límites, partir documentos*
+<!--
+
+https://iaenlasaulas.blogspot.com/2024/12/edicion-de-texto-en-chat-gpt-formatos.html 
+-->
 
 ## Conclusiones
 

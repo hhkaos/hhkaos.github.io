@@ -139,7 +139,7 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
-    }),
+    })
 };
 
 module.exports = config;
