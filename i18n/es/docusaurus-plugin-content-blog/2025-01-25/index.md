@@ -184,4 +184,6 @@ Aunque entiendo que una persona que esté opositando no querrá perder el tiempo
 
 Bueno, y tú, ¿en que no estás de acuerdo?, ¿qué se me escapa?, ¿o te ha parecido interesante?.
 
+<!-- Incorporar feedback de Luis Gómez: https://docs.google.com/document/d/1vqZWAplXmBx9W_6y8WFZnZlE_J2G3axNuk_J8L3LPAs/edit?tab=t.0 -->
+
 ## Comentarios

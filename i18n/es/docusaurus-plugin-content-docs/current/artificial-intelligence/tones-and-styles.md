@@ -66,6 +66,62 @@ Aún así, dejo un listado de tonos, sus descripciones y ejemplos:
 
 El estilo se centra en la forma y estructura del texto, es decir, cómo está escrito. Incluye aspectos como el nivel de detalle, y la elección de palabras, y el formato. En definitiva, el estilo define la manera en que se presenta el contenido.
 
+<!-- 
+https://chatgpt.com/share/679786b4-ccd8-8013-bff9-11014c34b459
+
+1. **Académico**: Formal y estructurado, enfocado en la transmisión de conocimientos y análisis. Se apoya en argumentos sólidos y citas para respaldar ideas.
+Estilo expositivo: Presenta conceptos o teorías de manera estructurada (ensayos, artículos).
+Estilo argumentativo: Sustenta ideas con evidencia y lógica (tesis, monografías).
+Estilo crítico: Analiza y evalúa teorías o trabajos previos (reseñas, críticas académicas).
+2. Literario: Cuando se busca usar lenguaje expresivo, evocador y subjetivo.
+Estilo narrativo: Relata historias con descripciones detalladas (novelas, cuentos).
+Estilo lírico: Expresa emociones y sentimientos de forma poética (poemas, canciones).
+Estilo dramático: Enfocado en el diálogo y acción (obras de teatro, guiones).
+Estilo descriptivo: Detalla ambientes, personajes o situaciones (fragmentos de novelas, paisajes).
+3. Periodístico: Cuando se quiere transmitir información actual o relevante de manera clara, atractiva y accesible
+Estilo informativo: Presenta hechos de forma objetiva y clara (noticias, reportajes).
+Estilo de opinión: Integra análisis, comentarios o valoraciones personales (editoriales, columnas).
+Estilo interpretativo: Combina hechos con contexto y análisis profundo (crónicas, reportajes de investigación).
+Estilo narrativo: Relata los hechos como una historia (crónicas, entrevistas en profundidad).
+4. Coloquial o Conversacional: Lenguaje informal, sencillo y cercano, diseñado para conectar con el lector en un tono amigable y accesible.
+Estilo informal: Uso de expresiones cotidianas, cercanas y relajadas (mensajes de texto, blogs).
+Estilo semiformal: Mezcla cercanía y profesionalismo (artículos en redes sociales, correos informales).
+5. Técnico o Científico: Cuando se busca objetividad, precisión y claridad, explicando conceptos, procesos o resultados.
+Estilo descriptivo: Describe procesos, sistemas o fenómenos (manuales, guías).
+Estilo expositivo: Explica conceptos de forma objetiva (artículos científicos, divulgación).
+Estilo argumentativo: Usado en hipótesis o discusión de resultados (tesis, investigaciones).
+Estilo prescriptivo: Define procedimientos o normativas (normas ISO, estándares técnicos).
+6. Publicitario: Cuando se busca persuadir al receptor, apelando a emociones, valores o necesidades. Suele ser breve, creativo y directo.
+Estilo persuasivo: Enfocado en captar la atención y convencer (anuncios, eslóganes).
+Estilo emocional: Conecta a través de sentimientos (campañas sociales o humanitarias).
+Estilo informativo: Presenta datos del producto o servicio (folletos, catálogos).
+7. Administrativo: Formal y estructurado, enfocado en la comunicación eficiente dentro de organizaciones o instituciones.
+Estilo protocolario: Usado en comunicados oficiales o actos institucionales.
+Estilo operativo: Instrucciones para procedimientos internos (manuales, directrices).
+Estilo informativo: Reportes, memorandos o documentos de gestión.
+8.Jurídico: cuando el objetivo es garantizar claridad, seguridad jurídica y evitar ambigüedades en textos legales.
+Estilo normativo: Usado en leyes, decretos, reglamentos. Preciso y obligatorio.
+Estilo argumentativo: Usado en alegatos, defensas o demandas. Persuasivo y lógico.
+Estilo expositivo: Usado en dictámenes o sentencias. Explicativo, con lenguaje técnico.
+
+
+### **Guía para discernir entre estilos:**
+
+1. **¿Quién es tu público objetivo?**
+    - General: **Coloquial, publicitario, periodístico.**
+    - Especializado: **Técnico, académico, jurídico.**
+2. **¿Cuál es el propósito del texto?**
+    - Informar: **Periodístico (informativo), técnico, académico.**
+    - Convencer: **Publicitario, jurídico, periodístico (de opinión).**
+    - Expresar emociones: **Literario, publicitario.**
+    - Relatar hechos o historias: **Literario, periodístico (narrativo).**
+3. **¿Qué nivel de formalidad necesitas?**
+    - Muy formal: **Jurídico, académico, técnico, administrativo.**
+    - Semiformal: **Periodístico, publicitario.**
+    - Informal: **Coloquial, literario.**
+
+ -->
+
 Mi recomendación (para contextos de aprendizaje) es usar uno, o una combinación de los siguientes estilos:  
 
 * **Estilo académico**: Formal y enfocado en la objetividad, común en trabajos escolares.

@@ -32,6 +32,10 @@ Diseñado para organizar y comprender notas.
 *Por hacer*
 <!-- > chatgpt vs notebooklm -->
 
+## DeepSeek
+
+*Por hacer*
+
 ## Perplexity
 
 Un asistente enfocado a la búsqueda de información

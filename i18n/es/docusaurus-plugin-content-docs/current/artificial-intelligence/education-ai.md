@@ -632,7 +632,301 @@ Siguiendo el temario de libro del libro de la editorial Santillana y acorde a lo
 * digital art: anima, dreamy, 3d, 3d model, concept art, gradient, midcentury, playful, psychedelic, retrowave
 * fine art: watercolour, colour pencil, ink print, oil painting, papercut, stained glass
 
-* Dall-E
+* Dall-E: Baroque Mirrored glass Low angle Pointillism Cubism, film noir abstract, acrylic
+ aspect ratio: square, widescreen, vertical,
+Cómo representarías una imagen para ilustrar una noticia en la que explicaremos que desde la asociación de madres y padres estamos colaborando en el centro escolar y más profesionales de la docencia y especialistas en inteligencia artificial para dar formación al alumnado sobre cómo usar la inteligencia artificial para aprender y desarrollar competencias entre el alumnado?
+
+<ul>
+  <li>
+    <img alt="3D Wireframe" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/3d-wireframe-b7plv1fd.webp"> 3D Wireframe
+  </li>
+  <li>
+    <img alt="35mm film" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/35mm-film-mt6bjczz.webp"> 35mm film
+  </li>
+  <li>
+    <img alt="Abstract" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/abstract-ivmwso8q.webp"> Abstract
+  </li>
+  <li>
+    <img alt="Acrylic" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/acrylic-l0cmoeqz.webp"> Acrylic
+  </li>
+  <li>
+    <img alt="Aerial" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/aerial-c6f3fklx.webp"> Aerial
+  </li>
+  <li>
+    <img alt="Analog film" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/analog-film-okkgdsdn.webp"> Analog film
+  </li>
+  <li>
+    <img alt="Art deco" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/art-deco-kk5f3owo.webp"> Art deco
+  </li>
+  <li>
+    <img alt="Art nouveau" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/art-nouveau-b5l7ji4g.webp"> Art nouveau
+  </li>
+  <li>
+    <img alt="Artificial lighting" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/artificial-lighting-lmlxvc0g.webp"> Artificial lighting
+  </li>
+  <li>
+    <img alt="Anime" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/anime-jspa4tk8.webp"> Anime
+  </li>
+  <li>
+    <img alt="Baroque" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/baroque-ig5yhrqf.webp"> Baroque
+  </li>
+  <li>
+    <img alt="Black and white" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/black-and-white-cbb8ftp9.webp"> Black and white
+  </li>
+  <li>
+    <img alt="Candy" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/candy-ktgf6dbq.webp"> Candy
+  </li>
+  <li>
+    <img alt="Cartoon" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/cartoon-oy08tx38.webp"> Cartoon
+  </li>
+  <li>
+    <img alt="Caricature" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/caricature-lf1ddbth.webp"> Caricature
+  </li>
+  <li>
+    <img alt="Cave art" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/cave-art-mnw1gxr6.webp"> Cave art
+  </li>
+  <li>
+    <img alt="Chalk art" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/chalk-art-idnoemov.webp"> Chalk art
+  </li>
+  <li>
+    <img alt="Charcoal" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/charcoal-fsha4717.webp"> Charcoal
+  </li>
+  <li>
+    <img alt="Claymation" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/claymation-ew3p88dt.webp"> Claymation
+  </li>
+  <li>
+    <img alt="Close-up" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/close-up-f3mun4e5.webp"> Close-up
+  </li>
+  <li>
+    <img alt="Comic book" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/comic-book-fa4o5ggx.webp"> Comic book
+  </li>
+  <li>
+    <img alt="Comic strip" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/comic-strip-blts5zyk.webp"> Comic strip
+  </li>
+  <li>
+    <img alt="Concept art" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/concept-art-fs9zyn06.webp"> Concept art
+  </li>
+  <li>
+    <img alt="Cubism" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/cubism-jatole5p.webp"> Cubism
+  </li>
+  <li>
+    <img alt="Crayon" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/crayon-jm09v921.webp"> Crayon
+  </li>
+  <li>
+    <img alt="Crystal" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/crystal-od4xpulw.webp"> Crystal
+  </li>
+  <li>
+    <img alt="Cyberpunk" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/cyberpunk-l1ufpmox.webp"> Cyberpunk
+  </li>
+  <li>
+    <img alt="Dawn" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/dawn-n7sbl2w1.webp"> Dawn
+  </li>
+  <li>
+    <img alt="Digital art" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/digital-art-n8w8xbxy.webp"> Digital art
+  </li>
+  <li>
+    <img alt="Dusk" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/dusk-lighting-ig167p2t.webp"> Dusk
+  </li>
+  <li>
+    <img alt="Dutch angle" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/dutch-angle-patn6fx4.webp"> Dutch angle
+  </li>
+  <li>
+    <img alt="Dystopian" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/dystopian-dggxcfjg.webp"> Dystopian
+  </li>
+  <li>
+    <img alt="Electronics" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/electronics-m6m8etmn.webp"> Electronics
+  </li>
+  <li>
+    <img alt="Expressionism" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/expressionism-c07w8h7s.webp"> Expressionism
+  </li>
+  <li>
+    <img alt="Extreme close-up" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/extreme-close-up-fc0gtzul.webp"> Extreme close-up
+  </li>
+  <li>
+    <img alt="Fairy tale" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/fairy-tale-blw25x6j.webp"> Fairy tale
+  </li>
+  <li>
+    <img alt="Fantasy" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/fantasy-eo3emec1.webp"> Fantasy
+  </li>
+  <li>
+    <img alt="Fauvism" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/fauvism-bm6mcqx7.webp"> Fauvism
+  </li>
+  <li>
+    <img alt="Feathers" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/feathers-i5aayi2h.webp"> Feathers
+  </li>
+  <li>
+    <img alt="Flowers" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/flowers-jurhmr8v.webp"> Flowers
+  </li>
+  <li>
+    <img alt="Felt" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/felt-l77tc7g2.webp"> Felt
+  </li>
+  <li>
+    <img alt="Film noir" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/film-noir-f91hsvhf.webp"> Film noir
+  </li>
+  <li>
+    <img alt="Fish-eye" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/fish-eye-j4ro38ch.webp"> Fish-eye
+  </li>
+  <li>
+    <img alt="Folk art" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/folk-art-hg6xx30n.webp"> Folk art
+  </li>
+  <li>
+    <img alt="Futurism" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/futurism-cxkk69sh.webp"> Futurism
+  </li>
+  <li>
+    <img alt="Gold" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/gold-mpv2xmzq.webp"> Gold
+  </li>
+  <li>
+    <img alt="Golden hour" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/golden-hour-k9pffatz.webp"> Golden hour
+  </li>
+  <li>
+    <img alt="Gothic" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/gothic-g2krqi3f.webp"> Gothic
+  </li>
+  <li>
+    <img alt="Graffiti" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/graffiti-mitatgc5.webp"> Graffiti
+  </li>
+  <li>
+    <img alt="Hand-drawn" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/hand-drawn-fi9a3wwo.webp"> Hand-drawn
+  </li>
+  <li>
+    <img alt="High angle" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/high-angle-m5gqvrau.webp"> High angle
+  </li>
+  <li>
+    <img alt="High contrast" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/high-contrast-jnqc7phz.webp"> High contrast
+  </li>
+  <li>
+    <img alt="Ice" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/ice-kmydbul3.webp"> Ice
+  </li>
+  <li>
+    <img alt="Impressionism" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/impressionism-gyklwu5o.webp"> Impressionism
+  </li>
+  <li>
+    <img alt="Ink wash" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/ink-wash-j0qrk948.webp"> Ink wash
+  </li>
+  <li>
+    <img alt="Kawaii" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/kawaii-ex5kekpt.webp"> Kawaii
+  </li>
+  <li>
+    <img alt="Lava" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/flowing-lava-jdbf99vs.webp"> Lava
+  </li>
+  <li>
+    <img alt="Line art" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/line-art-ux8fq4dt.webp"> Line art
+  </li>
+  <li>
+    <img alt="Linocut" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/linocut-n9os6mld.webp"> Linocut
+  </li>
+  <li>
+    <img alt="Lithograph" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/lithograph-o9d0x617.webp"> Lithograph
+  </li>
+  <li>
+    <img alt="Low angle" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/low-angle-fnfupolf.webp"> Low angle
+  </li>
+  <li>
+    <img alt="Low polygon" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/low-polygon-drremfcy.webp"> Low polygon
+  </li>
+  <li>
+    <img alt="Minimalist" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/minimalist-clwflzm8.webp"> Minimalist
+  </li>
+  <li>
+    <img alt="Mirrored glass" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/mirrored-glass-b2il0ium.webp"> Mirrored glass
+  </li>
+  <li>
+    <img alt="Moss" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/moss-o50i3l9n.webp"> Moss
+  </li>
+  <li>
+    <img alt="Mosaic" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/mosaic-b1btqmx3.webp"> Mosaic
+  </li>
+  <li>
+    <img alt="Motion blur" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/motion-blur-gv05rnzm.webp"> Motion blur
+  </li>
+  <li>
+    <img alt="Muted" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/muted-du7hdk1i.webp"> Muted
+  </li>
+  <li>
+    <img alt="Neon lights" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/neon-lights-d8nergwb.webp"> Neon lights
+  </li>
+  <li>
+    <img alt="Night" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/night-hbuymv0p.webp"> Night
+  </li>
+  <li>
+    <img alt="Oil painting" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/oil-painting-co423r63.webp"> Oil painting
+  </li>
+  <li>
+    <img alt="Origami" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/origami-gi0wg513.webp"> Origami
+  </li>
+  <li>
+    <img alt="Pastel" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/pastel-cr2x76ro.webp"> Pastel
+  </li>
+  <li>
+    <img alt="Pencil sketch" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/pencil-sketch-jej5tpl5.webp"> Pencil sketch
+  </li>
+  <li>
+    <img alt="Pinhole camera" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/pinhole-camera-h3tiesrw.webp"> Pinhole camera
+  </li>
+  <li>
+    <img alt="Pixel art" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/pixel-art-mx0dhpvv.webp"> Pixel art
+  </li>
+  <li>
+    <img alt="Pointillism" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/pointillism-ex22jtrp.webp"> Pointillism
+  </li>
+  <li>
+    <img alt="Stone" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/polished-stone-l3925av0.webp"> Stone
+  </li>
+  <li>
+    <img alt="Pop art" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/pop-art-oh53blo7.webp"> Pop art
+  </li>
+  <li>
+    <img alt="Retro" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/retro-fxftnb6j.webp"> Retro
+  </li>
+  <li>
+    <img alt="Rococo" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/rococo-oo0q2efk.webp"> Rococo
+  </li>
+  <li>
+    <img alt="Sci-fi" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/scifi-eqbjbevy.webp"> Sci-fi
+  </li>
+  <li>
+    <img alt="Sculpture" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/sculpture-qxoc5gce.webp"> Sculpture
+  </li>
+  <li>
+    <img alt="Sepia" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/sepia-hsx5avuf.webp"> Sepia
+  </li>
+  <li>
+    <img alt="Silk screen" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/silk-screen-brndy40c.webp"> Silk screen
+  </li>
+  <li>
+    <img alt="Solarpunk" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/solarpunk-evmffd42.webp"> Solarpunk
+  </li>
+  <li>
+    <img alt="Stars" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/stars-n99hz9sa.webp"> Stars
+  </li>
+  <li>
+    <img alt="Steampunk" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/steampunk-dr9xshc0.webp"> Steampunk
+  </li>
+  <li>
+    <img alt="Surrealism" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/surrealism-iwryxhax.webp"> Surrealism
+  </li>
+  <li>
+    <img alt="Synthwave" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/synthwave-crpfl369.webp"> Synthwave
+  </li>
+  <li>
+    <img alt="Tapestry" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/tapestry-kvzmlmes.webp"> Tapestry
+  </li>
+  <li>
+    <img alt="Ukiyo-e" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/ukiyo-e-dip9inlj.webp"> Ukiyo-e
+  </li>
+  <li>
+    <img alt="Victorian" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/victorian-i3zsicnu.webp"> Victorian
+  </li>
+  <li>
+    <img alt="Watercolor" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/watercolor-l6wpgx1p.webp"> Watercolor
+  </li>
+  <li>
+    <img alt="Wide-angle" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/wide-angle-jjkqemyx.webp"> Wide-angle
+  </li>
+  <li>
+    <img alt="Woodcut" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/woodcut-lmhut0ek.webp"> Woodcut
+  </li>
+</ul>
+* freepik
 * Midjourney -->
 
 ### Generar audio
@@ -644,7 +938,12 @@ Siguiendo el temario de libro del libro de la editorial Santillana y acorde a lo
 ### Elección de Modelos
 
 *Por hacer: qué pros/cons te puedes encontrar, fechas de datos de entrenamiento, etc*
-<!-- * Fecha de los Datos de entretamiento, fortalezas, etc -->
+<!-- 
+* Fecha de los Datos de entretamiento, fortalezas, etc 
+Modelos de razonamiento: o1 (dec24), o1-preview/mini (sep 2024), o3-mini (enero 25?), DeepSeek
+Deepseek R1 el nuevo modelo LLM de razonamiento que causa un terremoto en la bolsa (la hora maker)
+https://www.youtube.com/watch?v=WsSOjyfMGUM&t=608s&ab_channel=LaHoraMaker (o1 4 veces más caro que o-pro y otras comparativas de costes)
+-->
 
 ### Proporcionar contexto
 
@@ -683,19 +982,12 @@ Prepararte para clase
 
 ## Agradecimientos
 
-* ✅ [David Garrido Leal](https://www.linkedin.com/in/david-mentor-ia/), Ingeniero biomédico y consultor IA
-* ✅ [Jesús Vera Alba](https://www.linkedin.com/in/jesusveraalba/), Profesor de ciclo de Informática, CPIFP Los Enlaces, Zaragoza
-* ✅ [Carmen Tello Vivas](https://www.linkedin.com/in/carmen-tello-vivas-0a06b3260/), Novaschool Almería
-* ✅ [Noemí Reina Ruz](https://www.linkedin.com/in/noem%C3%AD-reina-ruz-aa8b5767/), profesora de lengua de secundaria, Novaschool Almería
-* ✅ [José Juán Sánchez](https://www.linkedin.com/in/jos%C3%A9-juan-s%C3%A1nchez-hern%C3%A1ndez-8308586a/), Profesor de Enseñanza Secundaria en Junta de Andalucía, profe de cliclo informática, IES Celia Viñas,  Almería
-* ✅ [José Antonio Serrano García](https://www.linkedin.com/in/joseantonioserranogarcia/), profesor informática en el IES Zaidín Vergeles, Granada
-* ✅ [Ramón Besonías](https://www.linkedin.com/in/ram%C3%B3n-beson%C3%ADas-rom%C3%A1n-30261520) profesor de Filosofía e ITED en el instituto San José de Badajoz (@ramon_besonias).
-* ✅ [Jorge Barrachina Gutierrez](https://www.linkedin.com/in/jorgebarrachina/), desarrollador trabajando con IA, Madrid
-* ✅ [Joaquín Rueda](https://x.com/kenybuey), ciclo de Emergencias y Protección Civil, IES Galileo Galilei, Córdoba
-* ✅ [Miguel Ángel Ronda](https://www.linkedin.com/in/miguelangelronda/)
+[![](/img/docs/educaction-ai/agradecimientos.png)](https://docs.google.com/drawings/d/1Xn77iNbR2W_IoQdD_R7KMFNa29goYw3fZ6yfwX6XZsk/edit?usp=sharing)
+
+Y a las personas que habéis aceptado la invitación, pero que aún no hemos hablado:
+* 📅 [José Carlos Cámara Molina](https://www.linkedin.com/in/jccamara/)
 * 📅 [Guillermo Antón Pardo](https://www.linkedin.com/in/guillermoantonpardo), profesor de Biología y geología (https://profesorproductivo.com/)
-* 📅 Francisco Javier (Jave) Fernández López, IES San Isidro, Nijar
-* 📅 [Silvia Muñoz Pérez](https://www.linkedin.com/in/silviamu%C3%B1ozperez/)
+* 📅 Francisco Javier (Jave) Fernández López, IES San Isidro, Nijar 
 * 📅 [Luis Gómez (Podcast IA y educación)](https://linktr.ee/podcastiayeducacion), Maestro de primaria, colegio Julio Coloma, Sevilla
 * ⏳ Jaime Jaenada Solera, IES San Isidro, Nijar
   * ⏳ Compi de Química, IES San Isidro, Nijar
@@ -707,18 +999,18 @@ Prepararte para clase
 
 <!-- Candidat@s:
 * ❓ [Inma Fita](https://www.linkedin.com/in/inmafita/?originalSubdomain=es)
+* ❓ [César Poyatos Dorado](https://twitter.com/cpoyatos), Universidad Autoónoma de Madrid
 * ❓ [Silvia Muñoz Pérez](https://www.linkedin.com/in/silviamuñozperez/)
+* ❓ [Sandra Garrido Romero](https://www.linkedin.com/in/sandra-garrido-romero-4a0179104/)
+* ❓ [Antonio Julio](https://www.linkedin.com/in/antonio-julio-l%C3%B3pez-galisteo-5464a540/) @profeonfire
+
 * ❓ [José Luis de la Torre Díaz](https://www.linkedin.com/in/jos%C3%A9-luis-de-la-torre-diaz-60462164/?originalSubdomain=es)
 * ❓ [José Luis, Markus Wolf delatorre.ai](https://x.com/delatorre_AI)
 * ❓ [Rocio Romero Zaliz](https://web.archive.org/web/20240415230147/https://twitter.com/RCRZ_UGR), Universidad de Granada
-* ❓ [César Poyatos Dorado](https://twitter.com/cpoyatos), Universidad Autoónoma de Madrid
 * ❓ [Pablo Bongiovanni](https://twitter.com/pbongiovanni), Universidad Católica de Santa Fe
 * ❓ [Maria del Mar Sánchez Vera](https://twitter.com/mallemar), Universidad de Murcia
 * ❓ [Maite López-Sánches](https://twitter.com/maitels), Universidad de Barcelona
 * ❓ Javier Ortíz Tajuelo
-* ❓ [Sandra Garrido Romero](https://www.linkedin.com/in/sandra-garrido-romero-4a0179104/)
-* ❓ [Elisa Beltrán García](https://www.linkedin.com/in/elisa-beltr%C3%A1n-garcia-943842b0/)
-* ❓ [Antonio Julio](https://www.linkedin.com/in/antonio-julio-l%C3%B3pez-galisteo-5464a540/) @profeonfire
 * ❓ Carlos Guallart
 * ❓ Lucas cervera
 * ❓ Antonio Ortiz
@@ -726,13 +1018,13 @@ Prepararte para clase
 * ❓ Alfonso E. Romero
 * ❓ [Francis Yanez](https://www.linkedin.com/in/francisy/)
 * ❓ Christian Carballo / Sara San luis
-* ❓ Jorge Barrachina -->
 
-<!-- * 
-[David Álvarez Jiménez](https://www.linkedin.com/in/balhisay/) <- rechazado>
-Laura Bertran Arrufat? -->
+Rechazado:
+[David Álvarez Jiménez](https://www.linkedin.com/in/balhisay/) <- rechazado
+[Elisa Beltrán García](https://www.linkedin.com/in/elisa-beltr%C3%A1n-garcia-943842b0/)
+Laura Bertran Arrufat? 
 
-<!-- 
+
 * [OpenAI Prompt engineering guide](https://platform.openai.com/docs/guides/prompt-engineering)
 * [8 expert tips for getting started with NotebookLM](https://blog.google/technology/ai/notebooklm-beginner-tips/)
 * [Learn Anything FASTER With ChatGPT (13 ChatGPT Prompts For Studying)](https://www.youtube.com/watch?v=TEq5chOb4is)
