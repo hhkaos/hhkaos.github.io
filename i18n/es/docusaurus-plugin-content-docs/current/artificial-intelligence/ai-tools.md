@@ -71,3 +71,6 @@ IA conversacional similar a ChatGPT.
 Recopilaciones:
 * [Encicloped.IA](https://start.me/p/xjMEMn/la-encicloped-ia)
 * [awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools)
+
+
+<!-- Vídeo: https://profesorproductivo.com/blog/podcast-las-mejores-herramientas-de-ia-para-creacion-de-videos/ -->

@@ -254,259 +254,56 @@ El objetivo de este apartado es dar ideas de las diferentes formas en las que po
 Si buscas recursos por asignatura puedes saltar directamente al **[Banco de recursos](#banco-de-recursos)**.
 :::
 
-* **Preparar**:
-  * [Familiarizarse con una materia](#0-familiarizarse-con-una-materia)
-  * [Identifica fuentes confiables](#1-identifica-fuentes-confiables)
-  * [Crear glosarios para adquirir vocabulario](#2-crear-glosarios)
-  * [Adaptar el contenido](#3-adaptar-el-contenido)
-  * [Crear listas de tareas](#) (pendiente)
-  * [Crear esquemas](#) (pendiente)
-  * [Traducir textos](#5-traducir-textos)
-* **Comprender**
-  * [Adaptar textos](#1-adaptar-el-contenido): al lenguaje y nivel de compresión del receptor
-  * Ejemplos y Casos prácticos  (pendiente)
-  * Identificar conceptos principales y secundarios. (pendiente)
-  * Explicar problemas  (pendiente)
-  * Comparar conceptos  (pendiente)
-  * Relacionar con conceptos conocidos  (pendiente)
-  * Cronología  (pendiente)
-  * Crear explicaciones alternativas  (pendiente)
-* **Memorizar**: recordar hechos, datos, etc
-  * [Crear canciones](#2-crear-canciones)
-  * [Crear reglas mnemotécnicas](#)  (pendiente)
-  * [Crear historias](#) (pendiente)
-  * [Crear rimas/poemas](#) (pendiente)
-  * Crear diagramas (pendiente)
-* **Investigar**
-  * Buscar temas de interés (pendiente)
-  * Buscar ideas para proyectos  (pendiente)
-* **Evaluar**
-  * Crear cuestionarios (estáticos o interactivos) (pendiente)
-  * Detectar errores (pendiente)
-  * Analizar, dar feedback y sugerir mejoras ( Evaluación detallada y crítica de un tema) (pendiente)
-  * Crear rúbricas de auto-evaluación (pendiente)
-* **Formetar la reflexión**: Fortalezer el pensamiento crítico
-  * [Llevar la contraria](#) (pendiente)
-  
+<!-- To-Do: 
+* TABLA: Tareas y ejemplos de uso de la IA en la educación: 
+https://docs.google.com/spreadsheets/d/1-VLGcIOkYwAT_z06BbE1tKooj7ozco69U6TKoawmGAY/edit?usp=sharing
+
+* Notas en sucio: IA y educación:
+ https://docs.google.com/document/d/1rZAq9LcgFZH8pVjYPWMHgUOcFn5J5VR6Zv_LBCVXh1c/edit?usp=sharing 
+
+-->
+
+### Iniciar
+
+Usar la IA para: **familiarizarse** con una materia, facilitando una primera toma de contacto inicial, conocer sus partes fundamentales y orientarse en sus principales áreas de interés. 
+
+el usuario obtenga un primer vistazo al contenido (un panorama global antes de decidir si le interesa profundizar o no), encaja muy bien en Iniciar.
+
+### Organizar
+
+**Estructurar** y clasificar la información de forma lógica, estableciendo prioridades y secuencias para facilitar el estudio.
+
+### Comprender
+ 
+Usar la IA para entender el significado y reconocer los conceptos, hechos o elementos clave. Para integrar la información nueva con los conocimientos previos y darle un sentido o explicación personal a un concepto. Y para ayudar a internalizar las ideas, conocimientos o valores.
+
+### Memorizar
+
+Usar la IA para para ayudar a retener y afianzar contenidos de manera más atractiva y efectiva.
+
+### Reflexionar
+
+Usar la IA para desarrollar el pensamiento crítico. Hacer pensar, cuestionar y poner en duda la validez de sus ideas o argumentos, debatir e intercambiar diferentes puntos de vista, identificar sesgos, etc.
+
+### Evaluar
+
+Usar la IA para comprobar si se han adquirido las competencias:
+* Aplicar o explicar lo que ha aprendido en situaciones concretas o problemas reales
+* Si es capaz de establecer conexiones entre ideas, conceptos o experiencias. 
+* De generar nuevas ideas, planteamientos o proyectos a partir de los estudiado
+* O tranformar las que conoce ideas, planteamientos, o proyectos que ya conoce.
+
+
+### Explorar
+
+Usar la IA para **investigar** datos y fuentes para ampliar conocimiento sobre un tema, hacerse preguntas, comparar elementos en busca de similitudes y diferencias y **profundizar**, buscando matices avanzados, más allá de la información superficial.
+
+
+---
 
 :::tip Buscar más ejemplos
 Independientemente del [método pedagógico](https://es.wikipedia.org/wiki/Categor%C3%ADa:M%C3%A9todos_pedag%C3%B3gicos), [tipo de aprendizaje](https://es.wikipedia.org/wiki/Categor%C3%ADa:Tipos_de_aprendizaje), otro enfoque educativo que nos interese, podemos apoyarnos en la IA generativa para buscar más ideas ([Aprendizaje Basado en Proyectos (ABP)](https://es.wikipedia.org/wiki/Aprendizaje_basado_en_proyectos), [basado en problemas](https://es.wikipedia.org/wiki/Aprendizaje_basado_en_problemas), [Educación en valores](https://es.wikipedia.org/wiki/Educaci%C3%B3n_en_valores), [Taxonomía de Bloom](https://es.wikipedia.org/wiki/Taxonom%C3%ADa_de_objetivos_de_la_educaci%C3%B3n), [Educación Socioemocional](https://es.wikipedia.org/wiki/Educaci%C3%B3n_Socioemocional), [Aprendizaje y Servicio (ApS)](https://es.wikipedia.org/wiki/Aprendizaje-servicio), ...) .
 :::
-
-<!-- 
-
-Pendiente de ver dónde encajar:
-* Análisis educativo de contenidos visuales: Apuntes manuscritos, mapas conceptuales, esquemas, gráficas...
- -->
-
----
-
-### Generar contenido
-
-Este es normalmente el primer tipo de uso que nos viene a la cabeza cuando pensamos en los LLM, pudiendo usarlo para:
-
-#### 0. Familiarizarse con una materia
-
-Actúa como un experto en la materia de [nombre de la materia]. Necesito una visión general completa con sus temas principales, subtemas y bloques de contenido esenciales. Por favor, organízalos de manera clara y jerárquica para entender la estructura y el alcance de esta asignatura, incluyendo una breve descripción de cada sección.
-
-#### 1. Identifica fuentes confiables
-
-Actúa como un experto en [NOMBRE DE LA MATERIA O TEMA]. Necesito una lista de al menos [NÚMERO DE FUENTES] fuentes confiables que me ayuden a profundizar en este tema. Incluye diferentes tipos de fuentes (personas de referencia en la materia, libros, sitios web oficiales de instituciones académicas, bibliotecas digitales, conferencias, seminarios, organismos gubernamentales o profesionales, cursos universitarios, blogs de expertos, artículos científicos, bases de datos, etc.). Para cada fuente, indícame por qué es confiable y cómo puede contribuir a un mejor entendimiento de la materia. Por favor, presenta los resultados de manera clara y organizada
-
-#### 2. Crear glosarios
-
-A continuación un [ejemplo de glosario de 30 términos relevantes de Geografía Humana e Historia, ordenados alfabéticamente y con definiciones breves](https://chatgpt.com/share/6793b2cb-5ffc-8013-a714-ea57e5916ab3) para un alumno de bachillerato. 
-
-Creado usando [Cómo hablarle a una IA](https://chatgpt.com/g/g-67837ae831b88191b4a93a4c134cb619-como-hablarle-a-una-ia).
-
-
-#### 3. Adaptar el contenido
-
-Adapta cualquier contenido educativo al lenguaje y nivel de comprensión que necesites, ya sea para estudiantes de primaria, secundaria, bachillerato o universidad.
-
-Ejemplo: [Adaptador de textos](https://chatgpt.com/g/g-q3adx3yto-adaptador-de-textos/)
-
-#### 4. Resumir textos
-
-[Análisis de contenidos educativo](https://chatgpt.com/g/g-6rt7i0DwE-analisis-de-contenidos-educativos): analizar, estructurar y mejorar contenidos de materias como matemáticas, ciencias, historia, literatura, idiomas, arte, tecnología, y más. Puedo resumir textos, crear esquemas, identificar conceptos clave, proponer preguntas de práctica, realizar análisis de coherencia y detectar errores.
-
-#### 5. Traducir textos
-
-Para traducir textos recomendamos usar:
-* [DeepL](https://www.deepl.com/en/translator): la opción líder a día de hoy en el mercado
-* [Google Translate](https://translate.google.com/): si necesitas algún idioma no cubierto por DeepL
-
----
-
-### Cambiar formato
-
-Como dijimos en [Sobre el aprendizaje](#sobre-el-aprendizaje), cada persona tiene formas de aprender que le resultan más naturales y eficaces.
-
-Pero además de para adaptar el contenido a la persona, disponer el mismo contenido en diferentes formatos, por ejemplo: texto y audio puede ser de gran ayuda. 
-
-Al menos en mi experiencia, alternar entre diferentes formatos de contenido, por ejemplo pasar de leer a escuchar un audio/podcast, me ha ayudado a:
-
-* **Romper la monotonía y reducir la fatiga mental**, facilitándome poder seguir concentrado y productivo durante periodos más largos de tiempo periodos.
-* **Seguir aprendiendo** en contextos donde antes no podía, por ejemplo **mientras me desplazo, haciendo ejercicio, etc**.
-
-:::note
-Se sabe que cambiar entre tareas demasiado rápido puede generar una pérdida de productividad. Cuando lo que hay es un cambio de formato (ej: texto a audio) sin cambio de tema, esto no ocurre e incluso puede aumentar la productividad.
-:::
-
----
-
-### Resolver dudas
-
-Hasta ahora los buscadores como Google Search llevan siendo uno de nuestros mejores aliados a la hora de resolver dudas. Pero con la llegada de los motores de búsquedas conversacionales (basados en AI)
-
-¿Qué diferencias o ventajas hay entre usar un buscador tradicional y uno basado en inteligencia artificial?:
-
-* **Eficiencia en la búsqueda**: Aunque buscadores como Google **a veces** ofrecen respuestas directas y concisas a través de [componentes](https://en.wikipedia.org/wiki/Search_engine_results_page#Components) (ej: paneles de conocimiento, otras preguntas de usuarios, etc), los buscadores de IA **siempre** buscan y sintetizan la información de sitios web, siendo la opción de navegar por la fuentes como algo secundario y opcional.
-* **Interacción conversacional**: Ofrecen a los usuarios realizar preguntas de seguimiento y profundizar en temas específicos, ofreciendo una experiencia más interactiva y natural (preguntas relacionada como: solicitar más detalles, aclarar ambigüedades, explorar subtemas, pedir ejemplos, solicitar comparaciones, etc)
-* **Información verificable**: Dado que pueden malinterpretar las preguntas, e inventar cosas, ofrecen las fuentes entender para que podamos juzgar la autoridad de la fuente usada y podamos verificar la información arrojada.
-* **Inmunes (por ahora) a la publicidad y SEO**: a día de hoy estos buscadores no incluyen contenido basado en publicidad ni muestras resultados "contaminados" por páginas optimizadas por las personas especializadas en mejorar el posicionamiento de páginas web.
-
-:::caution No todo son ventajas
-Los buscadores tradicionales, aunque . Buscando aunque se puede peder más tiempo, también se aprende y de desarrolla la competencia de buscar
-:::
-
-<!-- 
-Buscar con IA: un recurso educativo
-https://iaenlasaulas.blogspot.com/2024/12/buscar-con-ia-un-recurso-educativo.html
-
-* ¿Qué tiempo hará en XXXX?
-
-¿Y necesitaré paraguas para ir a las vegas?
-Mapas
--> ChatGPT search extension
-
-Errores en temas de actualidad: 
-- Cuál es el último vídeo de DotCSV -> error
-- Cuál es la noticia más actual .. -> error
-
-¿En qué afecta a la hora de usar un modelo de lenguaje la fecha en la que fueron entrenados? 
-¿Cuándo fueron entrenados los modelos? -> afecta a las respuestas para saber "si tienes que usar search"
-
- Perplexity, Search GPT, Bing search, Google?
-
-
-
-háblame de X en modo página
-
-* Te dan fuentes
-* : Respuestas a preguntas viene con fuentes
-* 
-*  -->
-
----
-
-### Resolver problemas
-
-*Por hacer*
-
-<!-- 
-La IA ya puede ver: ¿te atreves a experimentar?
-Ejemplo de análisis sintáctico (ramón): https://youtu.be/e_w8clU6_gM?si=mdanX5Jc92l19Ic3&t=983
-https://iaenlasaulas.blogspot.com/2024/12/la-ia-ya-puede-ver-te-atreves.html
-Ejemplos: 
-* 
--->
-
----
-
-### Investigar
-
-Aunque se puede usar la IA generativa para [hacer búsquedas y resolver dudas](#resolver-dudas), cuando ya tenemos una serie de fuentes y contenidos de confianza sobre los que queremos trabajar es mejor usar un **asistente de investigación** como NotebookLM.
-
-*Por hacer*
-
-<!-- 
-![](https://cdn.prod.website-files.com/657639ebfb91510f45654149/66d3c50415b1241ae6128226_AD_4nXd4vZtKz1ILTVPpdERU48v9saqm8-iIwGc46654WoTn9GDObV5agen0N8ePKpElFIO2t52KZgsxF4bJm6KP8ng0vndRJG6f4N7K5NwEK5c0DJZre_XIKXDN9sKgEttjrrslzHNxFH_uAuvn1lACdXNmxTTB.png) -->
-
-<!-- arxiv.org -->
-
----
-
-### Crear diagramas
-
-<!-- Cuáles son las fortalezas de los diagramas? -->
-
-*Por hacer*
-
----
-
-#### Mapas mentales
-
-Jerárquicos, como un índice pero más visual
-
-*Por hacer*
-
-<!-- ![](https://miro.medium.com/v2/resize:fit:1400/1*JtRDhbO6ObGI6u-SXzufvQ.png) -->
-
----
-
-#### Grafos de conocinimiento o de relaciones
-
-*Por hacer*
-<!-- ![](https://miro.medium.com/v2/resize:fit:1400/0*M7fO7icOVuAjUhQ2.png) -->
-
----
-
-#### Diagrama de flujo
-
-*Por hacer*
-
----
-
-### Crear audios
-
-#### 1. Podcasts
-
-Crear podcasts puede ser muy útil para las personas que quieren aprovechar el tiempo mientras se desplazan, hacen deporte, ..., o las que quieren tener el contenido en varios formatos (como comentábamos en [Cambiar formato](#cambiar-formato)), porque les resulte más fácil o atractivo, o para quienes quieren extender su periodo de concentración
-
-NotebookLM a día de hoy no sólo genera podcasts, sino que además son interactivos, permitiendo que interrumpas a los presentadores mientras hablan para hacer tus comentarios.
-
-*Por hacer*
-
-
-#### 2. Crear canciones
-
-Crear canciones educativas no es nada nuevo, como "[La tabla del tres](https://www.youtube.com/watch?v=9ZjWWCp8XO4&ab_channel=arqmauh)" (de Enrique y Ana), Twist del colegio, o [Canción para aprender y descubrir las partes del cuerpo humano](https://www.youtube.com/watch?v=FPPRg4OSGRQ&ab_channel=MilikiFamilyEspa%C3%B1ol-Cancionesinfantiles)
- (de Miliki) o más reciente las canciones de [Super Simple Songs](https://www.youtube.com/@SuperSimpleEspanol/featured).
-
-Pero ahora con la IA generativa es más fácil y rápido que nunca hacer una canción sobre una temática que nos interese, versionando si queremos algún tema que nos guste, o en un estilo concreto de música.
-
-Algunas herramientas: 
-* [DJ educativo](https://chatgpt.com/g/g-675041681e188191bb275ca6e814f93a-dj-educativo): GPT personalizado para crea prompts educativos de canciones, estilos musicales, efectos sonoros... para subir a Suno.
-* [Suno AI V4 - Song Lyrics Generator ✍🏻](https://chatgpt.com/g/g-30wcnTyhL-suno-ai-v4-song-lyrics-generator): Craft perfect lyrics and professional song structures with ease. 
-* [Suno](https://chatgpt.com/g/g-675041681e188191bb275ca6e814f93a-dj-educativo): programa de creación musical de inteligencia artificial generativa diseñado para generar canciones realistas.
-* [Udio](https://www.udio.com/): crear canciones a partir de descripciones en texto, combinando voces e instrumentos.
-
-*Por terminar*
-
----
-
-### Dar feedback
-
-*Por hacer*
-
----
-
-### Crear ejercicios
-
-
-#### 1. Crear un Kahoot rápidamente
-
-En [este video](https://www.youtube.com/watch?v=WYpvWYvDJtA&) vemos cómo usar la IA para crear un Kahoot rápidamente usando ChatGPT y [QuestionWell](http://app.questionwell.org/quiz-game).
-
----
-
-### Otros
-
-*Por hacer*
-
-<!-- * Crear vídeos
-... -->
 
 ---
 
@@ -982,12 +779,11 @@ Prepararte para clase
 
 ## Agradecimientos
 
-[![](/img/docs/educaction-ai/agradecimientos.png)](https://docs.google.com/drawings/d/1Xn77iNbR2W_IoQdD_R7KMFNa29goYw3fZ6yfwX6XZsk/edit?usp=sharing)
+[![](/img/docs/educaction-ai/agradecimientos.png)](https://docs.google.com/drawings/d/e/2PACX-1vQSmw-ehk0yazU1UjxGJnJqBnAOBpmNS4CymaUbmyuz_0hxdC1Aen4gDsqhwzKLMKuhg6E1pns_ZNQ-/pub?w=1331&h=795)
 
 Y a las personas que habéis aceptado la invitación, pero que aún no hemos hablado:
 * 📅 [José Carlos Cámara Molina](https://www.linkedin.com/in/jccamara/)
 * 📅 [Guillermo Antón Pardo](https://www.linkedin.com/in/guillermoantonpardo), profesor de Biología y geología (https://profesorproductivo.com/)
-* 📅 Francisco Javier (Jave) Fernández López, IES San Isidro, Nijar 
 * 📅 [Luis Gómez (Podcast IA y educación)](https://linktr.ee/podcastiayeducacion), Maestro de primaria, colegio Julio Coloma, Sevilla
 * ⏳ Jaime Jaenada Solera, IES San Isidro, Nijar
   * ⏳ Compi de Química, IES San Isidro, Nijar
@@ -998,12 +794,12 @@ Y a las personas que habéis aceptado la invitación, pero que aún no hemos hab
 
 
 <!-- Candidat@s:
-* ❓ [Inma Fita](https://www.linkedin.com/in/inmafita/?originalSubdomain=es)
+* 🐙 Albert Gil López 
+* ❓ [Sandra Garrido Romero](https://www.linkedin.com/in/sandra-garrido-romero-4a0179104/)
+
 * ❓ [César Poyatos Dorado](https://twitter.com/cpoyatos), Universidad Autoónoma de Madrid
 * ❓ [Silvia Muñoz Pérez](https://www.linkedin.com/in/silviamuñozperez/)
-* ❓ [Sandra Garrido Romero](https://www.linkedin.com/in/sandra-garrido-romero-4a0179104/)
 * ❓ [Antonio Julio](https://www.linkedin.com/in/antonio-julio-l%C3%B3pez-galisteo-5464a540/) @profeonfire
-
 * ❓ [José Luis de la Torre Díaz](https://www.linkedin.com/in/jos%C3%A9-luis-de-la-torre-diaz-60462164/?originalSubdomain=es)
 * ❓ [José Luis, Markus Wolf delatorre.ai](https://x.com/delatorre_AI)
 * ❓ [Rocio Romero Zaliz](https://web.archive.org/web/20240415230147/https://twitter.com/RCRZ_UGR), Universidad de Granada

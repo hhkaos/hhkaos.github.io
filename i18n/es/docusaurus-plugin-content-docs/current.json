@@ -35,8 +35,20 @@
     "message": "Recursos que recopilan experiencias sobre la gestión de comunidades técnicas, entendidas como comunidades tecnológicas.",
     "description": "The generated-index page description for category 🌈 Tech Communities in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.artificial-intelligence": {
-    "message": "🤖 Inteligencia Artificial",
-    "description": "The label for category artificial-intelligence in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.🤖 Artificial Intelligence .link.generated-index.description": {
+    "message": "A list of resources I have compiled to learn how to properly use AI.",
+    "description": "The generated-index page description for category 🤖 Artificial Intelligence  in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.🤖 Artificial Intelligence ": {
+    "message": "🤖 Artificial Intelligence ",
+    "description": "The label for category 🤖 Artificial Intelligence  in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.🧑‍🧑‍🧒‍🧒 Parenting": {
+    "message": "🧑‍🧑‍🧒‍🧒 Parenting",
+    "description": "The label for category 🧑‍🧑‍🧒‍🧒 Parenting in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.🧑‍🧑‍🧒‍🧒 Parenting.link.generated-index.description": {
+    "message": "Resources and tools collected and used while raising my children. ",
+    "description": "The generated-index page description for category 🧑‍🧑‍🧒‍🧒 Parenting in sidebar tutorialSidebar"
   }
 }

@@ -62,6 +62,10 @@ Aún así, dejo un listado de tonos, sus descripciones y ejemplos:
 * **Tono subjetivo**: Personal y basado en opiniones, comparte puntos de vista individuales. Ejemplo: "En mi experiencia, los proyectos grupales funcionan mejor cuando todos se comunican abiertamente."
 * **Tono tentativo**: Vacilante e inseguro, a menudo cauteloso. Ejemplo: "Creo que esta solución podría funcionar, pero deberíamos verificar para estar seguros."
 
+<!-- 
+Tono canalla
+ -->
+
 ### Estilos
 
 El estilo se centra en la forma y estructura del texto, es decir, cómo está escrito. Incluye aspectos como el nivel de detalle, y la elección de palabras, y el formato. En definitiva, el estilo define la manera en que se presenta el contenido.
