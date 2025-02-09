@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrauljimenez_info=self.webpackChunkrauljimenez_info||[]).push([[5996],{548:e=>{e.exports=JSON.parse('{"label":"electricity","permalink":"/es/blog/tags/electricity","allTagsPath":"/es/blog/tags","count":1}')}}]);
