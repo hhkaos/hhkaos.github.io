@@ -1,8 +1,11 @@
 hhkaos:
   name: Raul Jimenez Ortega
   title: Developer Relations Lead Engineer @ Esri
-  url: https://github.com/hhkaos
+  url: https://www.linkedin.com/in/jimenezortegaraul/?locale=es_ES
   image_url: https://github.com/hhkaos.png
+  socials:
+    x: hhkaos
+    github: hhkaos
 
 hhjose:
   name: José Jimenez Cano

@@ -1,8 +1,11 @@
 hhkaos:
   name: Raul Jimenez Ortega
   title: Principal Product Engineer, DevRel @ Esri
-  url: https://github.com/hhkaos
+  url: https://www.linkedin.com/in/jimenezortegaraul/
   image_url: https://github.com/hhkaos.png
+  socials:
+    x: hhkaos
+    github: hhkaos
 
 hhjose:
   name: José Jimenez Cano

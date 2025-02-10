@@ -1,6 +1,8 @@
 ---
 slug: we-created-a-soda-machine
-title: 🥤 We Created a Soda Machine
+title: 🥤 We created a soda machine
+description: In this tutorial, José and I show you how to create your own soda machine. A fun way to learn as a family.
+image: https://raw.githubusercontent.com/hhkaos/hhkaos.github.io/refs/heads/master/static/img/blogs/creamos-una-maquina-de-refrescos/we-created-a-soda-machine-thumb-en.webp
 authors: [hhkaos, hhjose]
 tags: [dyi, soda machine, electronics, home project, electricity]
 unlisted: true
@@ -108,7 +110,7 @@ Here is an image showing the required materials:
 
 ![Materials for building a soda machine](/img/blogs/creamos-una-maquina-de-refrescos/materiales-para-fabricar-una-maquina-de-refrescos.png)
 
-A continuación os dejamos un listado con un enlace donde poder comprarlos, al menos a día de hoy, y el precio aproximado:
+Here is a list of the materials with an approximate price:
 
 * 3 x air pumps (6V): ~12€.
 * PVC hoses.

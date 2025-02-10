@@ -1,13 +1,15 @@
 ---
 slug: ai-and-education-a-holistic-approach
 title: 🎓 IA y educación, un enfoque holístico
+description: Un nuevo proyecto en el que me están ayudando a crear recursos para la comunidad educativa.
+image: https://raw.githubusercontent.com/hhkaos/hhkaos.github.io/refs/heads/master/static/img/blogs/como-usar-la-ia-para-estudiar/como-usar-la-ia-para-estudiar.webp
 authors: [hhkaos]
 tags: [educación, formación, aprendizaje, inteligencia artificial, ia, inteligencia artificial generativa, aprendizaje automático, aprendizaje profundo]
 unlisted: true
 enableComments: true 
 ---
 
-¿¿Otra vez leyendo sobre Inteligencia Artificial?? ¿En serio no tenías suficiente con los 912.673.140 artículos, noticias, podcasts, vídeos, o *reels* que hay ahí fuera? Me encanta, eso es que te va la marcha 😜😂.
+¿¿Otra vez leyendo sobre Inteligencia Artificial?? ¿En serio no tenías suficiente con los 912.673.140 artículos, noticias, podcasts, vídeos, o *reels*, y tiktoks que hay ahí fuera? Me encanta, eso es que te va la marcha 😜😂.
 
 La raíz de todo lo que os voy a contar fue una propuesta que recibí a principio de curso de la orientadora del colegio de mis hijos. Me proponía que desde [el AMPA](https://www.ampanovaschoolalmeria.org/) colaborásemos con el centro para organizar alguna actividad para formar a los alumnos en el uso de la IA. Y como soy fácil de liar... aquí me tienes meses después y muchos "ciclos cerebrales" compartiendo los avances.
 
@@ -68,7 +70,11 @@ Para poner esta cifra en contexto, aquí tienes una comparativa que muestra otra
 
 </div>
 
-Pero para mi, la importancia no está en la velocidad de adopción. Lo que me preocupa es que se esté usando masivamente sin una base de conocimiento mínima, y se estén generando y compartiendo contenidos que a primera vista son de calidad, pero sin serlo. 
+Pero para mi, la importancia no está en la velocidad de adopción. Lo que me preocupa es que se esté usando masivamente sin una base de conocimiento mínima, y se estén generando y compartiendo contenidos que a primera vista son de calidad, pero que con frecuencia no lo son. 
+
+Y es que a diferencia de otras herramientas ampliamente extendidas como Word o Excel, que requiere de cierta formación e incluyen un manual de instrucciones, es que la mayoría **estas herramientas de IA no vienen con instrucciones**. 
+
+Encima son tan fáciles de usar, que cualquiera puede introducir cualquier petición y conseguir una respuesta. Pero de lo que una persona que empieza a usarla no es consciente, es de que si la petición no está bien formulada, si no es consciente del tipo de instrucciones se pueden realizar, de las limitaciones y sesgos que tiene la IA, y otras características, la probabilidad de que la respuesta sea mala o incluso errónea es alta.
 
 Y es que uno de los problemas es, que **aún hay partes de la IA generativa que ni los propios creadores entienden cómo funcionan**, como por ejemplo, no se sabe cómo influye el prompt (o instrucción de entrada) en la respuesta. 
 
@@ -79,7 +85,9 @@ En definitiva, esto nos lleva a una situación en la que, [como dice Ramón Beso
 Por eso creo que es especialmente importante que las personas adultas adquiramos una formación básica, las probemos, y hagamos lo posible por estar al día, por entender cómo se puede usar y compartamos nuestras experiencias (las buenas y las malas) con el resto.
 
 :::note Vivimos tiempos exponenciales
-Creo que la primera vez que escuché la frase "vivimos en tiempos exponenciales" fue cuando vi el vídeo ["Did you Know" (2008)](https://www.youtube.com/watch?v=cL9Wu2kWwSY&ab_channel=AmybethQuinn). En él aparece una frase que se me quedó grabada a fuego: "**estamos preparando a menores para trabajos que aún no existen**", y que además serán altamente demandados en pocos años.
+Creo que la primera vez que escuché la frase "vivimos en tiempos exponenciales" fue cuando vi el vídeo ["Did you Know" (2008)](https://www.youtube.com/watch?v=cL9Wu2kWwSY&ab_channel=AmybethQuinn). En él aparece una frase que se me quedó grabada a fuego: "**estamos preparando a menores para trabajos que aún no existen**", y que además serán altamente demandados en pocos años. 
+
+Algo con lo que no puedo estar más de acuerdo. Si eso esto me pareció exacto en su momento, hace 17 años, creo que podemos confirmar que mantengo ese crecimiento exponencial no ha cesado, y no se si soy el único, pero a veces empieza a dar vértigo.
 :::
 
 ## IA en la educación
@@ -113,7 +121,7 @@ Por eso **tenemos que usar esta tecnología como una herramienta más** a nuestr
 Repito, está claro que la IA, como cualquier otra cosa, puede hacer muchas cosas buenas si se usa bien, pero también puede traer muchos problemas de no hacerlo.
 
 :::tip Evalúa si usas la Inteligencia Artificial correctamente
-¿Y tú, cómo la usas? Te dejo [un artículo](https://iaenlasaulas.blogspot.com/2024/05/como-utilizas-la-ia-una-guia-para.html) y una [ficha para autoevaluarte](https://docs.google.com/document/d/15bUveG0iOe8wXwAaHFi-wDI3RCmXExCON58Nyyn4ph4/edit?tab=t.0) 😉. Coincido con Ramón Besonías en que lo ideal es estar por encima del 70%.
+¿Y tú, cómo la usas? Te dejo [un artículo](https://iaenlasaulas.blogspot.com/2024/05/como-utilizas-la-ia-una-guia-para.html) y una [ficha para autoevaluarte](https://docs.google.com/document/d/15bUveG0iOe8wXwAaHFi-wDI3RCmXExCON58Nyyn4ph4/edit?tab=t.0) 😉. Coincido con Ramón Besonías, en que lo ideal, sería estar entre el 70% y el 90% la mayoría de las veces.
 :::
 
 ## Mi aportación
@@ -125,13 +133,14 @@ Además de hacerlo lo mejor posible para educar a mis hijos en casa, y ayudar en
 Pero como yo no soy ni docente, ni experto en IA, me he lanzado a pedir ayuda, a través de entrevistas, a [profesores y profesoras de España, especialistas en inteligencia artificial, y otras áreas relacionadas](/es/docs/artificial-intelligence/education-ai#agradecimientos) para intentar recopilar información acerca de este tema: ideas, experiencias, recursos, reflexiones, etc.
 
 :::note
-Si conoces a alguna persona que piensas que sí o sí debería entrevistar, por favor añádela en los comentarios o escríbeme a través de [cualquiera de mis canales](/).
+Si conoces a alguna persona que piensas que crees que pueda aportar, por favor envíale [este formulario](https://forms.gle/iM3tRhkcdoHuBasH7) para que me pueda organizar y ponerme en contacto con ella.
 :::
 
 El objetivo es crear un material educativo que llene ese vacío que encontré. El de contenido sobre cómo usar la IA (para estudiantes), con un enfoque holístico que sea accesible, estructurado, completo, de calidad, y gratuito, que espero no solo nos ayude a las actividades que estamos organizando desde nuestro AMPA, sino que también pueda ser útil para otras comunidades educativas.
 
-Puedes encontrar este contenido, en continua evolución, en: **[Uso de la IA en la educación](/es/docs/artificial-intelligence/education-ai)**.
+Te animo encarecidamente a que visites el contenido que estamos creando y que está en continua evolución en el siguiente enlace:
 
+<Button label="📚 Uso de la IA en la educación" link="/es/docs/artificial-intelligence/education-ai" block />
 
 ## Protégete del "hype"
 
@@ -158,9 +167,9 @@ Pero no olvidemos nunca por qué se produce esto. Y es por una mezcla de:
 
 Todo esto suele llevar al pico de inflación de las expectativas, en ocasiones a coste de generar información engañosa ante la que nos deberíamos de proteger.
 
-Así que para protegerte de las manipulaciones o la desinformación, te aconsejo:
+Así que para protegerte de las manipulaciones o la desinformación, no sólo en cuanto a la IA, te aconsejo:
 
-1. **Desconfía del lenguaje emocional:** Cualquier cosa que suene demasiado bien, promesa "exagerada", o titulares alarmistas. Estas suelen ser señales de manipulación. Por cierto, esto se aplica a todo (no sólo a la IA).
+1. **Desconfía del lenguaje emocional:** Cualquier cosa que suene demasiado bien, promesa "exagerada", o titulares alarmistas. Estas suelen ser señales de manipulación. Por cierto, esto se aplica a todo .
 :::note La atención domina el mundo
 Como comenta Kiko Llaneras en [este mensaje de LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7289236655645872128?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7289236655645872128%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29): "*Hoy la información y el contenido existen en exceso, multiplicados por internet y el fin de los monopolios de distribución. Lo escaso son nuestras mentes. Piensa en tu vida: ¿Añoras tener más información o más tiempo?*"
 :::
@@ -169,7 +178,7 @@ Como comenta Kiko Llaneras en [este mensaje de LinkedIn](https://www.linkedin.co
 4. **Diversifica:** Consulta varias perspectivas para tener una visión más completa.
 
 :::tip ¿Quién tiene intereses económicos?
-**Empresas**. Claramente quienes más intereses tienen son las propias proveedoras de la tecnología sobre la que se sostiene esta innovación, en este caso: OpenAI, NVIDIA, Microsoft, Amazon (AWS), ... estas empresas públicas (en bolsa) necesitan mantener y hacer crecer el valor de sus acciones, y para ello muchas recurren a hacer anuncios que tienen como objetivo aumentar ese "hype" y hacer crecer el valor las mismas.
+**Empresas**. Claramente quienes más intereses tienen son las propias proveedoras de la tecnología sobre la que se sostiene esta innovación, en este caso: OpenAI, NVIDIA, Microsoft, Amazon (AWS), Meta, ... estas empresas públicas (en bolsa) necesitan mantener y hacer crecer el valor de sus acciones, y para ello muchas recurren a hacer anuncios que tienen como objetivo aumentar ese "hype" y hacer crecer el valor las mismas.
 
 **Generadores de contenido** que ganan dinero a través de la publicidad o enlaces referidos, como los medios de comunicación, YouTubers, Instagramers, TikTokers, etc. 
 :::

@@ -1,6 +1,8 @@
 ---
 slug: we-created-a-soda-machine
 title: 🥤 Creamos una máquina de refrescos
+description: En este tutorial, José y yo os enseñamos cómo crear vuestra propia máquina de refrescos. Una forma divertida de aprender en familia.
+image: https://raw.githubusercontent.com/hhkaos/hhkaos.github.io/refs/heads/master/static/img/blogs/creamos-una-maquina-de-refrescos/creamos-una-maquina-de-refrescos-thumb.webp
 authors: [hhkaos, hhjose]
 tags: [dyi, soda machine, electronics, home project, electricity]
 unlisted: true

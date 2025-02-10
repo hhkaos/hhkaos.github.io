@@ -8,15 +8,15 @@
 
 ## ¿Quién escribe?
 
-Antes de empezar... ¿y por qué deberías fiarte de nada  mi? 😂, es una genial pregunta. De hecho es la pregunta que yo me he hecho cada vez que he encontrado contenido internet sobre este tema.
+Antes de empezar... ¿y por qué deberías fiarte de nada  mí? 😂, es una genial pregunta. De hecho es la pregunta que yo me he hecho cada vez que he encontrado contenido internet sobre este tema.
 
-Lo primero es que te sugiero que no te fíes al 100% de mi (ni de casi nadie 😜), y que siempre intentes verificar con más fuentes. 
+Lo primero es que te sugiero que no te fíes al 100% de mí (ni de casi nadie 😜), y que siempre intentes verificar con más fuentes. 
 
 Dicho esto, quería explicarte quiénes hemos participado (de manera directa o indirecta) en el contenido que estás leyendo: 
 
-* **Sobre mi**: En última instancia, yo soy la persona que ha redactado y estructurado el página que estás leyendo, un padre (y [geek](/es/docs/about-me/my-journey)) con formación en ingeniería en informática, y administración de empresas, pero no en IA ni pedagogía.
+* **Sobre mí**: En última instancia, yo soy la persona que ha redactado y estructurado el página que estás leyendo, un padre (y [geek](/es/docs/about-me/my-journey)) con formación en ingeniería en informática, y administración de empresas, pero no en IA ni pedagogía.
 
-* **Colaboraciones**: Pero [han colaborado muchas otras personas, profesionales de la docencia, especialistas en IA, ...](#agradecimientos) de diferentes formas: compartiendo ideas, herramientas, revisando el contenido y las herramientas, y aportando con diferentes perspectivas con el objetivo de ayudarme a crear un contenido de mayor calidad y utilida. ¡Mil gracias a todas ellas 🙏!
+* **Colaboraciones**: Pero [han colaborado muchas otras personas, profesionales de la docencia, especialistas en IA, ...](#agradecimientos) de diferentes formas: compartiendo ideas, herramientas, revisando el contenido y las herramientas, y aportando con diferentes perspectivas con el objetivo de ayudarme a crear un contenido de mayor calidad y utilidad. ¡Mil gracias a todas ellas 🙏!
 
 ## Sobre el contenido
 
@@ -39,7 +39,7 @@ Aunque podría ser tentador, en esta página **no nos centraremos en**:
 - ❌ Historia de la IA.
 - ❌ Explicar cómo funciona la IA (por dentro).
 - ❌ Debatir si la IA va a quitarnos el trabajo (o a destruir empleos).
-- ❌ Herramientas o usos para profesores (si no más bien para el alumnado).
+- ❌ Herramientas o usos para profesores (sino más bien para el alumnado).
 
 En qué sí nos centraremos:
 - ✅ Establecer unos fundamentos básicos
@@ -58,7 +58,7 @@ La transformación digital en la educación en Europa está definida en el [DIGC
 
 ## Sobre el aprendizaje
 
-No hay una única o mejor forma de aprender. Cada persona y tiene formas de aprender que le resultan más naturales y eficaces. Algunas personas prefieren leer y reflexionar, otras necesitan ver y escuchar, y otras más aprenden haciendo y experimentando. 
+No hay una única o mejor forma de aprender. Cada persona tiene formas de aprender que le resultan más naturales y eficaces. Algunas personas prefieren leer y reflexionar, otras necesitan ver y escuchar, y otras más aprenden haciendo y experimentando. 
 
 Pero lo que está claro es que cuando nos enseñan o estudiamos de una forma que nos resulta más cómoda y atractiva, disfrutamos más, nos cuesta menos y en definitiva aprendemos más y logramos mejores resultados
 
@@ -79,7 +79,7 @@ La clave está en conocer a la persona sus fortalezas y preferencias, y aprovech
 
 ### Vocabulario IA
 
-Para poder seguir correctamente esta página vamos empezar familiarizándonos con el vocabulario usado en esta página y representados a continuación por sus siglas en inglés:
+Para poder seguir correctamente esta página vamos a empezar familiarizándonos con el vocabulario usado en esta página y representado a continuación por sus siglas en inglés:
 
 
 import Tabs from '@theme/Tabs';
@@ -141,17 +141,19 @@ Ahora vamos a ver algunos aspectos de herramientas de la IA generativa (*GenAI*)
 El término *Inteligencia* Artificial en este caso puede llevar a malinterpretaciones dado que **a día de hoy** la IA no es inteligente como un humano. 
 
 :::info  Definición de inteligencia
-La inteligencia humana se define como la potencialidad de desarrollo cognoscitivo para resolver nuevos problemas, basada principalmente en los procesos de análisis, síntesis y generalización. En contraste, la IA se enfoca en crear sistemas que realizan tareas que normalmente requieren inteligencia humana, como aprendizaje, razonamiento y percepción.
+“*La Inteligencia humana se define como la potencialidad de desarrollo [cognoscitivo](https://dle.rae.es/cognoscitivo) del sujeto en función de la solución de nuevos problemas, que consiste esencialmente en el grado de desarrollo de los procesos de análisis, síntesis y generalización*” (Dr. Diego Jorge González  Serra del Instituto Superior Pedagógico E. J. Varona).
+
+En contraste, la IA se enfoca en crear sistemas que realizan tareas que normalmente requieren inteligencia humana, como aprendizaje, razonamiento y percepción.
 :::
 
 :::note
-El [test de Turing](https://es.wikipedia.org/wiki/Prueba_de_Turing), que define inteligencia como la capacidad de que una máquina exhibir un comportamiento inteligente similar al de un ser humano o indistinguible de este, ya se ha superado, [puedes comprobarlo aquí](https://chatgpt.com/g/g-67557084f704819196cc87b7b87b5523-test-de-turing).
+El [test de Turing](https://es.wikipedia.org/wiki/Prueba_de_Turing), que define inteligencia como la capacidad de que una máquina para exhibir un comportamiento inteligente similar al de un ser humano o indistinguible de este, ya se ha superado, [puedes comprobarlo aquí](https://chatgpt.com/g/g-67557084f704819196cc87b7b87b5523-test-de-turing).
 
 Pero aún se siguen creando tests que aún no han sido capaces de ser superados por las IAs actuales (como [ARC PRIZE](https://arcprize.org/)).
 :::
 
 :::caution ¿Puede una inteligencia artificial razonar? (el debate)
-OpenAI con sus nuevo modelo [O1](https://www.youtube.com/watch?v=PRuBLRBcr0Q&ab_channel=DotCSVLab) ya hablan de razonamiento, pero la cuestión de si los modelos de IA pueden razonar de verdad a día de hoy es aún objeto de debate.
+OpenAI con sus modelos [O1, O3, ...](https://platform.openai.com/docs/guides/reasoning) ya hablan de razonamiento, pero la cuestión de si los modelos de IA pueden razonar de verdad, a día de hoy es aún objeto de debate.
 :::
 
 Por eso una herramienta como ChatGPT que entenderla como un programa que ha leído millones de libros, páginas, escuchado millones conversaciones, etc y que es capaz de imitar a la perfección cómo nos comunicamos los humanos, siendo capaz de predecir qué palabra sigue a la última palabra en respuesta a una tarea, **pero sin entender lo que está diciendo**, por lo que podríamos decir que es capaz de **emular** nuestro pensamiento intuitivo pero no nuestro pensamiento racional. 
@@ -168,7 +170,7 @@ Dicho esto, o1-mini ya sí resuelve (2) y (3) en 2 minutos y 6 segundos respecti
 :::
 
 :::tip ¿quieres saber más?
-Te recomiendo "[ChatGPT y los modelos de lenguage: ¿nuevo fundamento para la Inteligencia Artificial General o cuñados estocásticos?](https://www.youtube.com/watch?v=ZgxnVvV_OKo&ab_channel=COSCEorg)" (charla de 17 minutos)
+Te recomiendo "[ChatGPT y los modelos de lenguaje: ¿nuevo fundamento para la Inteligencia Artificial General o cuñados estocásticos?](https://www.youtube.com/watch?v=ZgxnVvV_OKo&ab_channel=COSCEorg)" (charla de 17 minutos)
 :::
 
   </TabItem>
@@ -242,16 +244,68 @@ https://www.incibe.es/ciudadania/blog/inteligencia-artificial-ia-que-es-ventajas
 
 ---
 
-## Ejemplos de uso
+## ¿Cuándo usarla?
+
+Antes de pasar a ver la tabla de ejemplos incluída en [¿Para qué y cómo usarla?](#para-qué-y-cómo), vamos a introducir los diferentes momentos en los que se ha estructurado la tabla.
+
+### Iniciar
+
+En este apartado recopilamos ejemplos sobre cómo utilizar la IA para **familiarizarse** o iniciarse en una materia, ofreciendo una primera aproximación que permita comprender sus fundamentos, explorar sus áreas clave y orientarse en sus principales conceptos.
+
+El objetivo es facilitar una introducción clara y estructurada que ayude a obtener una visión general antes de profundizar en el tema.
+
+[Ver ejemplos](#para-qué-y-cómo)
+
+### Organizar
+
+**Estructurar** y clasificar la información de forma lógica, estableciendo prioridades y secuencias para facilitar el estudio.
+
+[Ver ejemplos](#para-qué-y-cómo)
+
+### Comprender
+ 
+Usar la IA para entender el significado y reconocer los conceptos, hechos o elementos clave. Para integrar la información nueva con los conocimientos previos y darle un sentido o explicación personal a un concepto. Y para ayudar a internalizar las ideas, conocimientos o valores.
+
+[Ver ejemplos](#para-qué-y-cómo)
+
+### Memorizar
+
+Usar la IA para para ayudar a retener y afianzar contenidos de manera más atractiva y efectiva.
+
+[Ver ejemplos](#para-qué-y-cómo)
+
+### Reflexionar
+
+Usar la IA para desarrollar el pensamiento crítico. Hacer pensar, cuestionar y poner en duda la validez de sus ideas o argumentos, debatir e intercambiar diferentes puntos de vista, identificar sesgos, etc.
+
+[Ver ejemplos](#para-qué-y-cómo)
+
+### Evaluar
+
+Usar la IA para comprobar si se han adquirido las competencias:
+* Aplicar o explicar lo que ha aprendido en situaciones concretas o problemas reales
+* Si es capaz de establecer conexiones entre ideas, conceptos o experiencias. 
+* De generar nuevas ideas, planteamientos o proyectos a partir de los estudiado
+* O tranformar las que conoce ideas, planteamientos, o proyectos que ya conoce.
+
+[Ver ejemplos](#para-qué-y-cómo)
+
+### Explorar
+
+Usar la IA para **investigar** datos y fuentes para ampliar conocimiento sobre un tema, hacerse preguntas, comparar elementos en busca de similitudes y diferencias y **profundizar**, buscando matices avanzados, más allá de la información superficial.
+
+[Ver ejemplos](#para-qué-y-cómo)
+
+## ¿Para qué y cómo?
 
 :::tip ¿Sabes lo que es el prompting?
-Para aquellas personas nuevas en este mundo de la IA generativa, recomendamos encarecidamente leae el contenido de [Instrucciones (GenAI)](#instrucciones-genai) antes empezar a usar los recursos incluídos en esta sección.
+Para aquellas personas nuevas en este mundo de la IA generativa, recomendamos encarecidamente leer el contenido de [Instrucciones (GenAI)](#instrucciones-genai) antes empezar a probar los recursos incluidos en este apartado.
 :::
 
-El objetivo de este apartado es dar ideas de las diferentes formas en las que podemos usar la tecnología para mejorar el desarrollo personal y cognitivo.
+El objetivo de la siguiente tabla es dar ideas de las diferentes formas en las que se puede usar esta tecnología para mejorar el desarrollo personal y cognitivo.
 
-:::note
-Si buscas recursos por asignatura puedes saltar directamente al **[Banco de recursos](#banco-de-recursos)**.
+:::caution AVISO
+Aún no he introducido los enlaces en la tabla a los recursos que detallan cómo realizar estas tareas.
 :::
 
 <!-- To-Do: 
@@ -263,46 +317,14 @@ https://docs.google.com/spreadsheets/d/1-VLGcIOkYwAT_z06BbE1tKooj7ozco69U6TKoawm
 
 -->
 
-### Iniciar
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQLp04WR4rcR8UeyTmTR7grIU-OVCvrlXBoDs1Qo0A1Q1q2owzprqdbQhm-EpDCiXUwGKhIqE1pIY20/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" style={{width:"100%",height:"800px"}}></iframe>
 
-Usar la IA para: **familiarizarse** con una materia, facilitando una primera toma de contacto inicial, conocer sus partes fundamentales y orientarse en sus principales áreas de interés. 
+:::note
+Si lo que buscas recursos organizado por asignatura, revisa el **[Banco de recursos](#banco-de-recursos)**.
+:::
 
-el usuario obtenga un primer vistazo al contenido (un panorama global antes de decidir si le interesa profundizar o no), encaja muy bien en Iniciar.
-
-### Organizar
-
-**Estructurar** y clasificar la información de forma lógica, estableciendo prioridades y secuencias para facilitar el estudio.
-
-### Comprender
- 
-Usar la IA para entender el significado y reconocer los conceptos, hechos o elementos clave. Para integrar la información nueva con los conocimientos previos y darle un sentido o explicación personal a un concepto. Y para ayudar a internalizar las ideas, conocimientos o valores.
-
-### Memorizar
-
-Usar la IA para para ayudar a retener y afianzar contenidos de manera más atractiva y efectiva.
-
-### Reflexionar
-
-Usar la IA para desarrollar el pensamiento crítico. Hacer pensar, cuestionar y poner en duda la validez de sus ideas o argumentos, debatir e intercambiar diferentes puntos de vista, identificar sesgos, etc.
-
-### Evaluar
-
-Usar la IA para comprobar si se han adquirido las competencias:
-* Aplicar o explicar lo que ha aprendido en situaciones concretas o problemas reales
-* Si es capaz de establecer conexiones entre ideas, conceptos o experiencias. 
-* De generar nuevas ideas, planteamientos o proyectos a partir de los estudiado
-* O tranformar las que conoce ideas, planteamientos, o proyectos que ya conoce.
-
-
-### Explorar
-
-Usar la IA para **investigar** datos y fuentes para ampliar conocimiento sobre un tema, hacerse preguntas, comparar elementos en busca de similitudes y diferencias y **profundizar**, buscando matices avanzados, más allá de la información superficial.
-
-
----
-
-:::tip Buscar más ejemplos
-Independientemente del [método pedagógico](https://es.wikipedia.org/wiki/Categor%C3%ADa:M%C3%A9todos_pedag%C3%B3gicos), [tipo de aprendizaje](https://es.wikipedia.org/wiki/Categor%C3%ADa:Tipos_de_aprendizaje), otro enfoque educativo que nos interese, podemos apoyarnos en la IA generativa para buscar más ideas ([Aprendizaje Basado en Proyectos (ABP)](https://es.wikipedia.org/wiki/Aprendizaje_basado_en_proyectos), [basado en problemas](https://es.wikipedia.org/wiki/Aprendizaje_basado_en_problemas), [Educación en valores](https://es.wikipedia.org/wiki/Educaci%C3%B3n_en_valores), [Taxonomía de Bloom](https://es.wikipedia.org/wiki/Taxonom%C3%ADa_de_objetivos_de_la_educaci%C3%B3n), [Educación Socioemocional](https://es.wikipedia.org/wiki/Educaci%C3%B3n_Socioemocional), [Aprendizaje y Servicio (ApS)](https://es.wikipedia.org/wiki/Aprendizaje-servicio), ...) .
+:::tip Inspiración
+Independientemente del [método pedagógico](https://es.wikipedia.org/wiki/Categor%C3%ADa:M%C3%A9todos_pedag%C3%B3gicos), [tipo de aprendizaje](https://es.wikipedia.org/wiki/Categor%C3%ADa:Tipos_de_aprendizaje), otro enfoque educativo que te interese, puedes apoyarte en la IA generativa para buscar más ideas de ejemplos de uso para: [Aprendizaje Basado en Proyectos (ABP)](https://es.wikipedia.org/wiki/Aprendizaje_basado_en_proyectos), [basado en problemas](https://es.wikipedia.org/wiki/Aprendizaje_basado_en_problemas), [Educación en valores](https://es.wikipedia.org/wiki/Educaci%C3%B3n_en_valores), [Taxonomía de Bloom](https://es.wikipedia.org/wiki/Taxonom%C3%ADa_de_objetivos_de_la_educaci%C3%B3n), [Educación Socioemocional](https://es.wikipedia.org/wiki/Educaci%C3%B3n_Socioemocional), [Aprendizaje y Servicio (ApS)](https://es.wikipedia.org/wiki/Aprendizaje-servicio), ...
 :::
 
 ---
@@ -326,7 +348,7 @@ No hemos tenido tiempo de evaluar la calidad de estos recursos, dejamos así que
 
 En este apartado vamos a ver uno de los asuntos más importantes y enigmáticos de la inteligencia artificial generativa (GenAI), la creación de instrucciones o (prompting). 
 
-Y es que **la calidad de una respuesta de una IA depende enormemente de la calidad de la instrucción introducida**, por eso lo primero es aprender a crear instrucciones (prompts) claras y específicas que nos devuelvan lo que necesitamos y como lo necesitamos, a minimizando las "alucinaciones". Y esto no es trivial,  es una habilidad a desarrollar, y requiere de una competencia lingüística alta.
+Y es que **la calidad de una respuesta de una IA depende enormemente de la calidad de la instrucción introducida**, por eso lo primero es aprender a crear instrucciones (prompts) claras y específicas que nos devuelvan lo que necesitamos y como lo necesitamos, a minimizado las "alucinaciones". Y esto no es trivial,  es una habilidad a desarrollar, y requiere de una competencia lingüística alta.
 
 ### Técnicas de prompting
 
@@ -377,17 +399,17 @@ Algunos me comentan que a v veces añadir más hace que funcione peor.
 
 <!-- técnica vaiana: https://www.instagram.com/profestv/reel/Cq4vC1HtEaA/ -->
 
-Como ya existen [guías](https://platform.openai.com/docs/guides/prompt-engineering), [ejemplos](https://platform.openai.com/docs/examples), y muchos otros recursos explicando cómo hacer esto generar, voy a dar destacar algunos de los datos más relevantes.
+Como ya existen [guías](https://platform.openai.com/docs/guides/prompt-engineering), [ejemplos](https://platform.openai.com/docs/examples), y muchos otros recursos explicando cómo hacer esto, voy a destacar algunos de los datos más relevantes.
 
 Según lo que necesitemos, podríamos especificar:
 
-* **Rol**: ¿Cómo quién tiene que comportarse? (ej: como un profesor/a de XXX, experto/a en XXXX)
-* **Audiencia**: ¿A quien va dirigido el contenido? (ej: estudiantes de [CURSO] en [UBICACIÓN; Comunidad autónoma, País])
+* **Rol**: ¿Como quién tiene que comportarse? (ej: como un profesor/a de XXX, experto/a en XXXX)
+* **Audiencia**: ¿A quién va dirigido el contenido? (ej: estudiantes de [CURSO] en [UBICACIÓN; Comunidad autónoma, País])
 * **Objetivo:** ¿Qué quieres que haga? (ej: explicar, resumir, crear un esquema, ...)
 * **Contexto:** ¿Cuál es el ámbito? (sigue acotando el alcance, y si puedes proporciona el contenido/temario a usar)
 * **Tono:** ¿Qué actitud o emoción quieres que transmita el contenido? ([ver apéndice](tones-and-styles#tonos))
 * **Estilo:** ¿Qué forma o estructura quieres que tenga el contenido?  ([ver apéndice](tones-and-styles#estilos))
-* **Formato:** ¿Cómo debe ser la respuesta?, y ser posible, proporcionar un ejemplo (ver apéndice)
+* **Formato:** ¿Cómo debe ser la respuesta?, y a ser posible, proporcionar un ejemplo (ver apéndice)
 * **Restricciones:** ¿Quieres que tenga en cuenta alguna regla o limitación específica? (ej: longitud, límite de palabras, límite de días, ...)
 
 Ejemplo:
@@ -752,8 +774,8 @@ https://iaenlasaulas.blogspot.com/2024/12/edicion-de-texto-en-chat-gpt-formatos.
 
 ## Conclusiones
 
-Aumnetar la productividad del alumno, reducir tareas no en enriquecedoras <-
-No estudies más, estudia de forma más inteligente, usa la IA para ser más productivo y reducir el tiempo a tareas que no aportan valor
+Aumentar la productividad del alumno, reducir tareas no en enriquecedoras, ...
+No estudies más, estudia de forma más inteligente, usa la IA para ser más productivo y reducir el tiempo en tareas que no aportan valor.
 
 Yo parto de la premisa de que como casi todo en la vida, en su justa medida, la tecnología y la IA traen tanto beneficios como riesgos. Están aquí para quedarse, y es nuestra responsabilidad aprender a usarlas de manera efectiva y responsable. 
 
@@ -779,7 +801,15 @@ Prepararte para clase
 
 ## Agradecimientos
 
-[![](/img/docs/educaction-ai/agradecimientos.png)](https://docs.google.com/drawings/d/e/2PACX-1vQSmw-ehk0yazU1UjxGJnJqBnAOBpmNS4CymaUbmyuz_0hxdC1Aen4gDsqhwzKLMKuhg6E1pns_ZNQ-/pub?w=1331&h=795)
+Todas las personas que aparecen en este apartado me han o me están ayudando de alguna forma, al menos sacando tiempo para hacer una llamada conmigo y compartir su experiencia, darme feedback sobre partes concretas de los contenidos, compartir herramientas, etc.
+
+[![](/img/docs/educaction-ai/agradecimientos.png)](https://docs.google.com/drawings/d/1Xn77iNbR2W_IoQdD_R7KMFNa29goYw3fZ6yfwX6XZsk/edit?usp=sharing)
+
+:::caution
+Dicho esto, aclarar que los posibles errores en la documentación son en cualquier instancia responsabilidad mía, ya que este documento está en constante cambio y nada es inmutable o está repasado palabra por palabra
+:::
+
+<!-- 
 
 Y a las personas que habéis aceptado la invitación, pero que aún no hemos hablado:
 * 📅 [José Carlos Cámara Molina](https://www.linkedin.com/in/jccamara/)
@@ -790,7 +820,8 @@ Y a las personas que habéis aceptado la invitación, pero que aún no hemos hab
 * ⏳ [Juan Manuel Górriz Sáez](https://www.linkedin.com/in/juan-manuel-g%C3%B3rriz-s%C3%A1ez-64137497/), Catedrático del Instituto de Ciencia de Datos e Inteligencia Computacional (DASCI) de la Universidad de Granada, y profesor visitante de la Universidad de Cambridge (Reino Unido)
 * ⏳ [Francisco Barrionuevo](https://www.linkedin.com/in/pacobarrionuevo/), profesor de Economía, Novaschool Añoreta, Málaga
 * ⏳ Cristina, profe Educación física en Murcia 
-* ⏳ [Antonio Codina](https://www.linkedin.com/in/antonio-codina-s%C3%A1nchez-0a3782347/), profesor matemáticas, Universidad de Almería
+* ⏳ [Antonio Codina](https://www.linkedin.com/in/antonio-codina-s%C3%A1nchez-0a3782347/), profesor matemáticas, Universidad de Almería -->
+
 
 
 <!-- Candidat@s:
