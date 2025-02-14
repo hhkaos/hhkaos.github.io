@@ -416,7 +416,9 @@ Ejemplo:
 
 > Quiero que actúes como un profesor de ciencia naturales de Andalucía, España. Y quiero que me ayudes a crear un plan de estudios para un alumno de primero de la Educación Secundaria Obligatoria (ESO). Usa un tono objetivo... por terminar
 
+
 <!--
+Plantilllas (spreadsheets: https://profesorproductivo.com/material-descargable/plantillas-chatgpt/
 
 Herramientas: 
 - ChatGPT prompt generator: https://writingmate.ai/free-tools/chatgpt-prompt-generator
@@ -812,15 +814,15 @@ Dicho esto, aclarar que los posibles errores en la documentación son en cualqui
 <!-- 
 
 Y a las personas que habéis aceptado la invitación, pero que aún no hemos hablado:
-* 📅 [José Carlos Cámara Molina](https://www.linkedin.com/in/jccamara/)
+Mariana Ferrarelli
+
 * 📅 [Guillermo Antón Pardo](https://www.linkedin.com/in/guillermoantonpardo), profesor de Biología y geología (https://profesorproductivo.com/)
-* 📅 [Luis Gómez (Podcast IA y educación)](https://linktr.ee/podcastiayeducacion), Maestro de primaria, colegio Julio Coloma, Sevilla
 * ⏳ Jaime Jaenada Solera, IES San Isidro, Nijar
   * ⏳ Compi de Química, IES San Isidro, Nijar
-* ⏳ [Juan Manuel Górriz Sáez](https://www.linkedin.com/in/juan-manuel-g%C3%B3rriz-s%C3%A1ez-64137497/), Catedrático del Instituto de Ciencia de Datos e Inteligencia Computacional (DASCI) de la Universidad de Granada, y profesor visitante de la Universidad de Cambridge (Reino Unido)
+* ⏳ [Antonio Codina](https://www.linkedin.com/in/antonio-codina-s%C3%A1nchez-0a3782347/), profesor matemáticas, Universidad de Almería 
 * ⏳ [Francisco Barrionuevo](https://www.linkedin.com/in/pacobarrionuevo/), profesor de Economía, Novaschool Añoreta, Málaga
-* ⏳ Cristina, profe Educación física en Murcia 
-* ⏳ [Antonio Codina](https://www.linkedin.com/in/antonio-codina-s%C3%A1nchez-0a3782347/), profesor matemáticas, Universidad de Almería -->
+
+-->
 
 
 

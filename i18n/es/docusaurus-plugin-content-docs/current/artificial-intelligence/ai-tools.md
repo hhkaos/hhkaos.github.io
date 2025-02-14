@@ -74,3 +74,8 @@ Recopilaciones:
 
 
 <!-- Vídeo: https://profesorproductivo.com/blog/podcast-las-mejores-herramientas-de-ia-para-creacion-de-videos/ -->
+
+<!-- 
+https://aithor.com/es-es
+https://www.schoolgoat.com/ -> https://www.instagram.com/reel/DFnEQjIoBmu/?igsh=ZHZ2aXl5YWdncGJ1
+ -->

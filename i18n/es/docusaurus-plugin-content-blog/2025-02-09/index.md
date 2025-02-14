@@ -150,7 +150,7 @@ Si sois como nosotros, os gustará hacer las cosas primero. Por eso hemos inclu�
 
 Empezaréis fabricando la estructura de cartón, que se compone de tres piezas.
 
-:::info PARA HACER EL ESTRUCTURA NECESITARÉIS
+:::info PARA HACER LA ESTRUCTURA NECESITARÉIS
 
 **Tiempo aproximado**: 1', horas.
 
