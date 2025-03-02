@@ -447,11 +447,11 @@ https://www.youtube.com/watch?v=vEqmbPE-TF0
 
 #### WHAT IS ELECTRICITY?
 
-This 13-minute video from "Smile and Learn" explains [what electricity is](https://www.youtube.com/watch?v=31TbYa4vH3Y&list=PLBal9AttAE0t-bjGuZjsNyHi88H3MblUk&index=2&ab_channel=SmileandLearn-Espa%C3%B1ol), its uses, ways to generate it, how it is stored and transported, types of electricity (static and dynamic), what atoms are, positive charges (protons) and negative charges (electrons), etc.
+This 13-minute video from "Smile and Learn" explains [what electricity is](https://www.youtube.com/watch?v=PZMEzrylBxI&ab_channel=SmileandLearn-English), its uses, ways to generate it, how it is stored and transported, types of electricity (static and dynamic), what atoms are, positive charges (protons) and negative charges (electrons), etc.
 
 <div style={{textAlign: 'center'}}>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/31TbYa4vH3Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PZMEzrylBxI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </div>
 
@@ -525,11 +525,11 @@ For electronic devices like the one we are going to build, we will use direct cu
 
 There are two types of electrical current: direct current (DC) and alternating current (AC). Understanding the difference is important because each type is used in different devices and situations. Direct current is ideal for electronic devices like mobile phones, computers, and battery-powered toys, while alternating current is what powers our homes, supplying electricity for lights, appliances, and outlets.
 
-Here’s a short but comprehensive video from "AcademiaDII" explaining it further:
+Here’s a short but comprehensive video from "The Engineering Mindset" explaining it further:
 
 <div style={{textAlign: 'center'}}>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7oGDiU8mNi8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2jqJZxxX6gQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </div>
 
@@ -542,15 +542,13 @@ Additionally, using the wrong type of current can damage devices or make them ma
 
 #### HOW IS AN ELECTRICAL CIRCUIT GRAPHICALLY REPRESENTED?
 
-This short 3-minute video by Miguel Fernández Collado, although not featuring the same components as our circuit, will help explain [the basic concepts of electrical circuit representation](https://youtu.be/PFP9LsBdnLA?si=pbQj83FGPyu3Q7hb&t=22):
+This short 3-minute video by Learn Science with B, although not featuring the same components as our circuit, will help explain [the basic concepts of electrical circuit representation](https://youtu.be/xN2EGBM7HvY):
 
 <div style={{textAlign: 'center'}}>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PFP9LsBdnLA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xN2EGBM7HvY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </div>
-
-(...)
 
 #### HOW TO CALCULATE THE POWER SOURCE'S LIFESPAN?
 

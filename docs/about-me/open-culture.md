@@ -25,7 +25,8 @@ Below I will name some of those that I consider to have had the greatest impact 
 * 2015 - 2016 - [Iniciador Madrid & Iniciador Foundation](http://www.iniciador.com/es/que-es-iniciador/historia) (community leader & governing board)
 * 2018 - 2022 - [Asociación Tomelloso Tech](https://web.archive.org/web/20201130180149/https://www.tomellosotech.org/) (co-founder & president)
 * 2020 - 2022 - [Asociación Española de GeoVoluntariado](https://web.archive.org/web/20230227140653/https://geovoluntarios.org/) (co-founder & president)
-* 2014 - today - [GeoDevelopers.org](https://www.meetup.com/es-ES/geodevelopers/) (founder & community leader) & [Esri Community](https://community.esri.com/t5/user/viewprofilepage/user-id/124187)
+* 2014 - today - [GeoDevelopers.org](https://linktr.ee/geodevelopers) (founder & community leader) & [Esri Community](https://community.esri.com/t5/user/viewprofilepage/user-id/124187)
+* 2024 - today - [Community Builders](https://linktr.ee/ComBuilders_ES)
 
 Over time I have discovered that there are many types of communities, with different motivations behind them, what is clear to me now, is that for me, **the best are still those that maintain the original spirit that I experienced**, where members help each other selflessly, there is a good atmosphere and the issues and limits are set by the members themselves.
 

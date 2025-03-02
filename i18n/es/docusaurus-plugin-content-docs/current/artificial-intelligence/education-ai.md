@@ -424,6 +424,8 @@ Herramientas:
 - ChatGPT prompt generator: https://writingmate.ai/free-tools/chatgpt-prompt-generator
 - https://copilotworks.com/prompt-generator-chatgpt/
 
+https://github.com/MIATECHPARTNERS/PromptChains
+
 https://ideogram.ai/login
 
 actua como un prompt enhancer: https://github.com/f/awesome-chatgpt-prompts#act-as-a-prompt-enhancer
