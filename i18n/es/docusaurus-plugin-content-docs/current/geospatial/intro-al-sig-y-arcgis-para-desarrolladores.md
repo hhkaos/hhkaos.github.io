@@ -2,7 +2,31 @@
 title: Intro a los SIG para developers
 image: /img/docs/intro-to-gis-for-developers/introduction-to-gis-for-developers.jpg
 ---
+
 <iframe src="https://giphy.com/embed/IPbS5R4fSUl5S" width="200" height="115" frameBorder="0" class="float-right" allowFullScreen></iframe>
+
+<!-- 
+Introducción al SIG para desarrolladores: Guía para entenderlos de manera sencilla
++ ideas: https://chatgpt.com/share/67c9a193-118c-8013-a121-48700828f080
+
+Prólogo
+
+Si eres desarrollador y alguna vez has tenido que lidiar con mapas, coordenadas o cualquier tipo de dato con coordenadas, probablemente te hayas terminado encontrado con documentación compleja, llena de términos técnicos y jerga que parecen escritos para expertos en geografía o especialistas, y no para programadores. Es posible que hayas sentido que ese mundo está diseñado para ellos y que aprenderlo requiere años de estudio.
+
+Déjame confesarte algo: yo también, y este libro nace precisamente para resolver ese problema. 
+
+Pero no te voy a engañar, es un campo muy extenso, con muchas ramificaciones y posibilidades, y tan extenso como el propio planeta. Aquí no te encontrarás con explicaciones que asumen que ya tienes este tipo de conocimientos previos. En cambio, empezaré desde cero, y usaré analogías con conceptos que ya dominas como desarrollador: bases de datos, estructuras de datos, APIs, SDKs, formatos de datos, etc. Aprenderás qué son los datos espaciales y cómo puedes usarlos en tus propios proyectos sin perderte por el camino.
+
+Vamos a introducirnos en el mundo de los datos espaciales y los sistemas de información geográfica, que no son más que herramientas optimizadas para gestionar información geolocalizada. Al igual que con cualquier otra tecnología, lo importante es primero aprender los fundamentos para luego entender cómo sacarle el máximo provecho a las herramientas específicas. 
+
+Mi objetivo es desmitificar todo sobre los datos espaciales y que terminar, no solo entiendas los fundamentos de los SIG, sino que sepas cómo aplicar lo aprendido en tus propios proyectos, profesionales o personales, te ganes seguridad a la hora de tomar decisiones, y que descubras como los datos espaciales pueden ayudarte a innovar, resolver problemas con una nueva persperctiva y en definitiva agregar valor real.
+
+Te doy la bienvenida al mundo de los datos espaciales para desarrolladores. ¡Vamos a lío! 🚀
+
+-->
+
+
+
 
 **¿Es difícil aprender qué son y cómo funcionan los sistemas de información geográfica (SIG, or *GIS* por sus siglas en inglés)?**
 
@@ -36,6 +60,9 @@ En esta página explicaré los conceptos básicos, usando el vocabulario más se
 <!-- 
 
 Visualización 2D y 3D (comunicación, medios) 
+
+
+
 * Outdoor (3D): wikilok, 
 * Ver ruta y compartirlas
 * Mapas estáticos, recibos, 
@@ -530,6 +557,7 @@ A continuación vamos a ver algunos de los formatos más sencillos:
 * **CSV (Comma-separated values)**:
   * 🥉 [GTFS](https://en.wikipedia.org/wiki/GTFS): creado para compatir información sobre los horarios de transporte público y la información geográfica asociada. Sólo contiene información estática (o programada) sobre los servicios de transporte público, no en tiempo real. Contiene entre 6 y 13 ficheros CSV comprimidos en ZIP. 
 
+<!-- Cloud native formats -->
 Otros formatos destacables y más avanzandos de intercambio o almacenamiento de datos vectoriales son:
   
   * 🥈 [GeoParquet](https://github.com/opengeospatial/geoparquet/blob/main/format-specs/geoparquet.md): almacena datos geoespaciales en un formato columnar basado en Parquet. Principalmente usado en análisis big data geoespacial con alto rendimiento y comprensión. Está optimizado para procesamiento el paralelo.
@@ -599,6 +627,8 @@ linters
 Desktop ArcGIS & QGIS(otro proyecto de OsGEO), gvSIG desarrollando en España, transformación, 
 https://tool.geoimgr.com/
 
+https://doc.arcgis.com/en/3d/workflows/content/3d-data-management-workflows.htm
+
 https://exiftool.org/
 https://exif.tools/
 
@@ -653,13 +683,24 @@ otros amagos de docs:
 ** ⚠️ Pendiente de hacer**
 
 <!-- nginx Apache pero para servir, infraestructura backend para servir los datos, etc.
+### basemaps
 
 Slippy_map / Tiled web map /cached map service -> Check: "Introduction to GIS for Developers": https://docs.google.com/presentation/d/1X6xfPdGCDkImnSI56CmAZbRfMGHPTnL6S2tyzzVXMWQ/edit#slide=id.g31d1ce484a2_0_0 (by Ahmed) -> feature service vs dynamic map service vs cached map service
 
 https://ogcapi.ogc.org/features/ 
 
+Type of services (tiled, dynamic, etc)https://youtu.be/ULhrWCIH0SQ?si=2mnSKKLLJC-_DVy8&t=1203
+https://developers.google.com/maps/documentation/javascript/dds-boundaries/style-polygon
+
 The Billion Dollar Code: https://www.netflix.com/es-en/title/81074012
 Intrevista a Brian McClendon (co-founded Keyhole): https://www.mindsbehindmaps.com/episode/brian-mcclendon-the-story-of-google-maps-pokemon-go-amp-keyhole-mbm59
+
+TMS especificación de OSGEO
+
+### data layers/datasets
+
+Feature tile: operational layers for data-drive visualization and analysis
+(comparison table: Building Apps with hosted data service PS 2025 PPT)
 
 tabla rosetta de capas 
 o share, process and edit geospatial data. Designed for interoperability, it publishes data from any major spatial data source using open standards.
@@ -670,18 +711,23 @@ Cuando los datos son más complejos, la APIs suelen utilizan múltiples endpoint
 
 https://www.postman.com/esridevs/workspace/arcgis-location-services/request/23458780-6701bf15-a46d-4de8-9843-2fe897a3b9b1
 
-Geoprocesos
-
 Un mapa base con 23 niveles de zoom puede pesar ~20.480 GB (en raster con teselas de 256x256px) 13GBs en vector
 [Desktop Mapping: Creating Vector Tiles](https://youtu.be/dqKsEos1iSw?si=JTsb9KtbGRyETyDP&t=732)
 [Cómo se crean y almacenan los mapas base](https://www.youtube.com/live/b182O1Yscnc?si=LmaA1Wa5318GpZbT&t=239)
 
 Showing tiles and vertex https://codepen.io/matt9222/pen/OJqdZBV
 
-* Hoy en día se publican servicios/APIs con especificaciones públicas, ya sean estándares (OGC, función equivalente al W3C pero en el ámbito espacial) o no: https://esri-es.github.io/awesome-arcgis/arcgis/content/data-storage/service-types/
-
 * Protocol Buffers  Protobuf -> https://github.com/Esri/arcgis-pbf
-TMS especificación de OSGEO
+
+### Geoprocesos
+
+
+
+* Hoy en día se publican servicios/APIs con especificaciones públicas, ya sean estándares (OGC, función equivalente al W3C pero en el ámbito espacial) o vendor specific: https://esri-es.github.io/awesome-arcgis/arcgis/content/data-storage/service-types/
+
+
+### geocoders
+
 
 Geocoders son motores de búsqueda que no sólo hacen fuzzy search (o fuzzy string searching / correspondencia aproximada de cadenas) (e.g. google refine [clustering methods](https://openrefine.org/docs/manual/cellediting#cluster-and-edit)) ya que hay muchos lugares en el mundo con varios nombres alternativos (el nombre oficial y otros nombres por los que se les conoce localmente). historical names. https://pro.arcgis.com/en/pro-app/3.1/help/data/geocoding/alternate-name-table-roles.htm (e.g. Interstate 10 in California = Christopher Columbus Transcontinental Highway https://en.wikipedia.org/wiki/Interstate_10_in_California). [Place ID](https://developers.google.com/maps/documentation/places/web-service/place-id) / [GERS](https://overturemaps.org/enriching-overture-maps-data-with-gers/). [Pelias](https://pelias.io/). Multi language / https://openaddresses.io/
 Open Cage interview https://podcast.scalingdevtools.com/episodes/ed-freyfogle/transcript (7:00min tried yourself) first learn the developers like to tinker and play, so a lot of people need to first learn the hard lesson that it's, uh, it's better for us to do it for them.
@@ -693,7 +739,9 @@ Problema con Place ID: https://www.youtube.com/live/QAgKhprUftM?si=Q0iXMgWo9L3yZ
 Difficult, not exicting or glamourous.
 Comparando 10 geocoders https://slides.com/hhkaos/geocodificadores
 
- Alternate names, alternate spelling's, localised versions of place name. https://www.geonames.org/
+Alternate names, alternate spelling's, localised versions of place name. https://www.geonames.org/
+
+limit to loction type: rooftops, (multiple: pickups, ..) street address (entrance) <- depending on the use case
 
 For example, the below two addresses if matched using an exact match algorithm will fail but actually, these are the same places :
 
@@ -889,7 +937,12 @@ A veces, que sin conocer la historia y su evolución, cuesta entender en el pres
 #### \[5\] [Topology basics](https://pro.arcgis.com/es/pro-app/latest/help/data/topologies/topology-basics.htm)
 #### \[6\] Tipos de geometría en diferentes technologías: [GeoJSON](https://en.wikipedia.org/wiki/GeoJSON), [geometrías en ArcGIS](https://developers.arcgis.com/documentation/common-data-types/geometry-objects.htm), [tipos de datos en PostGIS](https://postgis.net/workshops/postgis-intro/geometries.html), [formas en la API JS de Google Maps](https://developers.google.com/maps/documentation/javascript/shapes).
 
+<!-- 
+Sistemas de Información Geográfica Un libro libre de Víctor Olaya: https://volaya.github.io/libro-sig/ -->
 
+<!-- 
+
+ -->
 
 ## Comentarios
 
