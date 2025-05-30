@@ -1,8 +1,9 @@
 ---
-slug: dad-learn-to speak-up-without-fear
+slug: dad-learn-to-speak-up-without-fear
 title: 🗣️ Dad learns to speak up without fear
 description: A personal reflection on the value of speaking sincerely, connecting beyond differences, and leading by example in a polarized world.
 authors: [hhkaos]
+image: /img/blogs/dad-learn-to-speak-up-without-fear.webp
 tags: [parenting, self-reflection]
 unlisted: true
 enableComments: true 

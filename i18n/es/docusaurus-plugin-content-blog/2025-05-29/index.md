@@ -3,6 +3,7 @@ slug: dad-learn-to speak-up-without-fear
 title: 🗣️ Papá aprende a opinar sin miedo
 description: Una reflexión personal sobre el valor de hablar con sinceridad, conectar más allá de las diferencias y enseñar con el ejemplo en un mundo polarizado.
 authors: [hhkaos]
+image: /img/blogs/dad-learn-to-speak-up-without-fear.webp
 tags: [parenting, self-reflection]
 unlisted: true
 enableComments: true 
