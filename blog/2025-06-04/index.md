@@ -3,7 +3,7 @@ slug: commit-conf-2025-recap
 title: 🤩 My Experience at Commit Conf 2025
 description: Recap of Commit Conf 2025, highlights from our map APIs talk, community reunions, and key AI takeaways from Spain’s top developer conference.
 authors: [hhkaos]
-image: /img/blogs/commit-conf-2025-recap/commit-conf-2025-recap.webp
+image: /img/blogs/commit-conf-2025-recap/commit-conf-2025-recap-es.webp
 tags: [Commit Conf, Conference, Map APIs, Geospatial Technology, Community Building, AI, Networking]
 unlisted: true
 enableComments: true 
