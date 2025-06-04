@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrauljimenez_info=self.webpackChunkrauljimenez_info||[]).push([[2659],{2323:e=>{e.exports=JSON.parse('{"label":"Geospatial Technology","permalink":"/blog/tags/geospatial-technology","allTagsPath":"/blog/tags","count":1}')}}]);
