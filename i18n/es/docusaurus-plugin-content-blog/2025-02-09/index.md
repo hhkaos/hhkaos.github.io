@@ -5,7 +5,6 @@ description: En este tutorial, José y yo os enseñamos cómo crear vuestra prop
 image: https://raw.githubusercontent.com/hhkaos/hhkaos.github.io/refs/heads/master/static/img/blogs/creamos-una-maquina-de-refrescos/creamos-una-maquina-de-refrescos-thumb.webp
 authors: [hhkaos, hhjose]
 tags: [dyi, soda machine, electronics, home project, electricity]
-unlisted: true
 enableComments: true 
 ---
 

@@ -5,7 +5,6 @@ description: Recap of Commit Conf 2025, highlights from our map APIs talk, commu
 authors: [hhkaos]
 image: /img/blogs/commit-conf-2025-recap/commit-conf-2025-recap-es.webp
 tags: [Commit Conf, Conference, Map APIs, Geospatial Technology, Community Building, AI, Networking]
-unlisted: true
 enableComments: true 
 ---
 

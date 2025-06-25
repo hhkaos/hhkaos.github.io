@@ -5,7 +5,6 @@ description: A new project where I am receiving help to create resources for the
 image: https://raw.githubusercontent.com/hhkaos/hhkaos.github.io/refs/heads/master/static/img/blogs/como-usar-la-ia-para-estudiar/como-usar-la-ia-para-estudiar-en.webp
 authors: [hhkaos]
 tags: [education, training, learning, artificial intelligence, artificial intelligence, ia, generative artificial intelligence, machine learning, deep learning]
-unlisted: true
 enableComments: true 
 ---
 

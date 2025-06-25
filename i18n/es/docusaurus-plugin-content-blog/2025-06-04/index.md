@@ -5,7 +5,6 @@ description: Resumen de Commit Conf 2025, lo más destacado de nuestra charla so
 authors: [hhkaos]
 image: /img/blogs/commit-conf-2025-recap/commit-conf-2025-recap.webp
 tags: [Commit Conf, Conferencia, Map APIs, Tecnología geoespacial, Communities, IA, Networking]
-unlisted: true
 enableComments: true 
 ---
 

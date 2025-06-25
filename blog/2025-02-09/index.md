@@ -5,7 +5,6 @@ description: In this tutorial, José and I show you how to create your own soda 
 image: https://raw.githubusercontent.com/hhkaos/hhkaos.github.io/refs/heads/master/static/img/blogs/creamos-una-maquina-de-refrescos/we-created-a-soda-machine-thumb-en.webp
 authors: [hhkaos, hhjose]
 tags: [dyi, soda machine, electronics, home project, electricity]
-unlisted: true
 enableComments: true 
 ---
 

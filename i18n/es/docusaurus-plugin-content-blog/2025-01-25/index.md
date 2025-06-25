@@ -5,7 +5,6 @@ description: Un nuevo proyecto en el que me están ayudando a crear recursos par
 image: https://raw.githubusercontent.com/hhkaos/hhkaos.github.io/refs/heads/master/static/img/blogs/como-usar-la-ia-para-estudiar/como-usar-la-ia-para-estudiar.webp
 authors: [hhkaos]
 tags: [educación, formación, aprendizaje, inteligencia artificial, ia, inteligencia artificial generativa, aprendizaje automático, aprendizaje profundo]
-unlisted: true
 enableComments: true 
 ---
 
