@@ -18,10 +18,7 @@ enableComments: true
   Espero que el uso del lenguaje no suponga una barrera para nadie.
 </details>
 
-
-> **⚠️ Aviso**: este artículo contiene un vídeo perturbador y un pequeño spoiler de la miniserie [Adolescencia](https://www.netflix.com/es/title/81756069).
-
-Aviso de antemano que es un artículo largo, pero es un tema con "mucha chicha" 😅 y un ejercicio que quería abordar en profundidad.
+Este es un tema con "mucha chicha" 😅 y un ejercicio que quería abordar en profundidad, por eso el contenido total son 21 minutos, pero si quitas los anexos y las partes que he ocultado... será menos 😜.
 
 ![Nobody taught us how to be parents social image](/img/blogs/nobody-taught-us-how-to-be-parents/nobody-taught-us-how-to-be-parents-es.webp)
 
@@ -29,70 +26,30 @@ Hoy voy a explicar **cómo uso ChatGPT como apoyo** para intentar ser mejor padr
 
 Y digo “como apoyo” y no como herramienta principal, porque también lo hago en libros, en mi mujer, nuestras familias y otras personas de nuestro círculo cercano, profesoras y profesores, etc.
 
-> **Ejemplo**: esto se puede ver en el artículo [Aprender a enseñar (en casa)](https://www.rauljimenez.info/es/blog/learn-to-teach-your-kids) que escribí el año pasado.
+> **Ejemplo**: el artículo [Aprender a enseñar (en casa)](https://www.rauljimenez.info/es/blog/learn-to-teach-your-kids) que escribí el año pasado.
 
-Comparto esto contigo tras hacer un ejercicio de retrospectiva y repasar **todas mis conversaciones** con ChatGPT sobre este tema, con la esperanza de que mi experiencia pueda servirte de ayuda.
+Comparto esto contigo tras hacer un ejercicio de retrospectiva y repasar **todas mis conversaciones** con ChatGPT sobre este tema, con la esperanza de que mi experiencia<sup>1</sup> pueda servirte de ayuda.
 
-Como apunte, decir que me creé la cuenta de ChatGPT en febrero de 2023, y desde ese mes ya tengo preguntas relacionadas con la crianza.
+> **(1)** Empecé a usar ChatGPT para lidiar con asuntos relacionados con la crianza en febrero de 2023 (cuando me creé la cuenta).
 
-## Reflexión inicial
+## Una oportunidad
 
-### Cuando todo cambia
+Como dice Tania García, autora de [un libro que nos regaló nuestra cuñada hace algunas navidades](https://www.amazon.es/Gu%C3%ADa-para-madres-padres-Nexos/dp/8416918228): "***educar es una bella oportunidad para crecer como personas***".
 
-Creo que prácticamente todo el mundo coincidirá en que, cuando se tienen hijos, cambian las prioridades y ellos pasan a ser lo más importante de nuestras vidas (spoiler... *al final añadiré otra reflexión sobre esto*).
+Y es que tener hijos lo cambia todo. Nuestras prioridades se reordenan, y ellos pasan a ocupar el centro de nuestras vidas. Esto, lejos de ser solo una responsabilidad, también puede convertirse en una poderosa motivación para mejorar, para sacar lo mejor de nosotros mismos.
 
-Doy por hecho que todos queremos ser buenos padres y que lo hacemos siempre lo mejor que podemos (y sabemos), pero también hay que reconocer que **cometemos errores**, como cualquier persona. No obstante, no hay que fustigarse, que *también hacemos cosas bien*, por ejemplo, leer este artículo para informarnos 😜.
+Doy por hecho que todos queremos ser buenos padres y que lo hacemos lo mejor que sabemos y podemos. Pero eso no nos libra de cometer errores, como cualquier ser humano. Y no pasa nada. Equivocarse forma parte del camino.
 
-### Somos imperfectos
+Lo importante es que también hacemos cosas bien. Por ejemplo, leer este artículo para aprender de otros y reflexionar 😜.
 
-Me gusta lo que dice la autora del libro "[Guía para madres y padres imperfectos que entienden que sus hijos también lo son](https://www.amazon.es/Gu%C3%ADa-para-madres-padres-Nexos/dp/8416918228)" (libro que nos regaló nuestra cuñada hace algunas navidades): "***educar es una bella oportunidad para crecer como personas, teniendo siempre en cuenta que nosotros NO somos perfectos ni los hijos deben serlo***".
+## Educar es difícil
 
-### Sentimiento de culpa
+A lo largo de los días, nos asaltan muchas dudas como madres y padres. Algunas están relacionadas con cómo actuamos, otras sobre límites y autonomía, otras entender comportamiento, motivaciones, cómo experimentan las cosas, etc.
 
-Por si fuera poco, la semana pasada terminé de ver la miniserie *Adolescencia*, basada en hechos reales. Trata sobre **un niño que comete un crimen y el sentimiento de culpa que sienten los padres**, poniendo de relieve algunos de los retos de ser padre en los tiempos modernos, con especial hincapié en las nuevas tecnologías.
+<details>
+  <summary>Aquí recojo algunas de las preguntas que me suelen rondar la cabeza</summary>
 
-> **Nota**: se habla del *bullying* moderno, donde las redes sociales juegan un papel muy importante. Me atrevería a decir que la mayoría de los padres de hoy no estamos preparados para esto, porque en nuestra época no existían. De ahí que el año pasado [Gabriel Zabal](https://www.linkedin.com/in/gabrielzabal/) y yo decidiésemos [organizar un coloquio para hablar con otras familias sobre este tema](https://www.ampanovaschoolalmeria.org/noticias/curso-202324/coloquio-nuevas-tecnolog%C3%ADas-redes-sociales-inteligencia-artificial-y-men). Un coloquio que volveremos a repetir, porque hay que actualizarse.
-
-<div style={{textAlign: 'center'}}>
-
-<figure>
-
-![Adolescence, dad crying on pillow](/img/blogs/nobody-taught-us-how-to-be-parents/adolescence-dad-crying.webp)
-
-<figcaption>Eddie Miller, interpretado por Stephen Graham (padre del niño en la serie), llorando destrozado.</figcaption>
-</figure>
-
-</div>
-
-Confieso que no pude evitar que se me saltaran las lágrimas cuando el padre dice: "**Perdóname, hijo. Debí haberlo hecho mejor**". Me resulta imposible no empatizar con ese padre destrozado, como lo estaríamos cualquiera de nosotros en su situación.
-
-### Carnet de padres
-
-Como les digo y repito a mis hijos desde pequeños, no solo ellos: **nosotros también nos equivocamos**, aunque también les digo que cada uno tenemos que asumir nuestra parte de "la culpa".
-
-Y es que ser padres es complejo, ¿verdad? 
-
-Hace pocas semanas le comentaba a mi hijo mayor que a los papás no se nos enseña a ser padres, que **no hay “un curso que haya que aprobar para serlo"**. 
-
-Aunque, pensándolo bien... si para conducir un coche hay que sacarse un carnet, quizá deberíamos plantearnos si para tener hijos también debería exigirse algo parecido, porque no cabe duda de que la responsabilidad es aún mayor 😅.
-
-## Desdramaticemos
-
-Si no lo habéis visto y queréis echar una risas, os dejo el trailer de Idiocracia, una sátira que exagera (¿o no tanto?) un futuro donde la inteligencia ha sido reemplazada por la estupidez colectiva 😂😂😂.
-
-<div style={{textAlign: 'center'}}>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wgpgvZlKZ04" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-</div>
-
-
-
-## Dudas de padres
-
-Bueno, volvamos a ponernos serios 😐.
-
-A lo largo de los días, nos asaltan muchas dudas como madres y padres. Algunas están relacionadas con cómo actuamos, otras con lo que viven nuestros hijos, etc. Aquí recojo algunas de las preguntas que me rondan la cabeza de vez en cuando. Seguramente te suenen:
+Seguramente te suenen:
 
 - **Sobre cómo actuamos:**
   - ¿Lo estaré haciendo bien? ¿Cómo lo puedo hacer mejor?
@@ -129,19 +86,23 @@ A lo largo de los días, nos asaltan muchas dudas como madres y padres. Algunas 
 - **Sobre motivaciones:**
   - ¿Debería insistirle a explorar esto? ¿O en realidad estoy proyectando mis propios deseos?
   - ¿Es mejor observar atentamente y simplemente facilitar el camino si muestra interés?
-- etc.
 
-A veces seguimos consejos que nos dan (los pidamos o no), **otras veces nos guiamos por cómo nos educaron a nosotros**, y en ocasiones, decidimos hacerlo distinto, porque los tiempos han cambiado o porque creemos que es lo mejor.
+</details>
 
-Pero, hagamos lo que hagamos, **es difícil evitar ese sentimiento de culpa cuando sentimos que no lo hemos hecho bien**.
 
-Justo por eso, más adelante explicaré cómo me he apoyado en ChatGPT para intentar afrontar mejor este tipo de situaciones en la crianza.
+A la hora de tomar decisiones, a veces seguimos consejos que nos dan (los pidamos o no), **otras veces nos guiamos por cómo nos educaron a nosotros**, y en ocasiones, decidimos hacerlo distinto, porque los tiempos han cambiado o porque creemos que es lo mejor.
 
-Pero antes de seguir, vamos a hacer una pausa y hablar de un tema que no quiero pasar por alto cuando usamos herramientas como ChatGPT en la crianza: la privacidad de nuestros hijos.
+Pero, hagamos lo que hagamos, **es difícil evitar ese sentimiento de culpa cuando sentimos que nos hemos equivocado**.
+
+Yo les digo y repito a mis hijos desde pequeños, no solo ellos: **nosotros también nos equivocamos**, aunque también les digo que cada uno tenemos que asumir nuestra parte de "la culpa".
+
+Y es que ser padres es complejo, ¿verdad? 
+
+Pero antes de hablar de cómo me he apoyado en ChatGPT para estos temas, vamos a hacer una pausa y hablar de un tema que no quiero pasar por alto cuando usamos herramientas como ChatGPT en la crianza: la privacidad de nuestros hijos.
 
 ## Privacidad y menores
 
-Aunque usemos herramientas como ChatGPT de forma privada y personal, eso no elimina los riesgos. De hecho, al hablar allí sobre nuestros hijos, podríamos estar incurriendo en una forma de "*[sharenting](https://en.wikipedia.org/wiki/Sharenting)* digital privado", con implicaciones que no siempre tenemos presentes.
+Aunque usemos herramientas como ChatGPT de forma privada y personal, eso no elimina los riesgos. De hecho, al hablar allí sobre nuestros hijos, podríamos estar incurriendo en una forma de "*[sharenting](#sharenting)* digital privado", con implicaciones que no siempre tenemos presentes.
 
 Piensa que: 
 
@@ -153,11 +114,13 @@ Y dudo que quieras que este tipo de información llegara a malas manos o quedase
 
 Así que, mi consejo es evitar compartir temas sensibles o que puedan asociarse directamente con tus hijos.
 
-Dicho esto, yo ya he hablado con mi mujer y mi hijo mayor sobre este tema, y no solo les he pedido consentimiento para publicar este artículo, sino que lo seguiré haciendo cuando quiera tratar temas con ChatGPT (o cualquier otra herramienta), **siempre que considere que el beneficio es mayor que el riesgo**.
+Dicho esto, yo ya he hablado con mi mujer y mi hijo mayor sobre este tema, y hemos acordado que les pediré consentimiento cuando quiera tratar estos temas con ChatGPT (o cualquier otra herramienta), y sólo lo plantearé  cuando **considere que el potencial beneficio es mayor que el riesgo**.
 
-Si te interesa este tema, he recopilado en [un anexo](#anexo-privacidad) algunas cosas más.
+> **Nota**: también les he pedido consentimiento para publicar este artículo.
 
-## ¿Por qué uso ChatGPT?
+Si te interesa este tema, he añadido a [los anexos](#anexo-privacidad) algunas cosas más.
+
+## Por qué ChatGPT
 
 En mi caso, lo utilizo para distintos temas, siempre que considero que **el beneficio compensa el riesgo**.
 
@@ -173,13 +136,25 @@ Y es que, para mí, ChatGPT también se ha convertido en una herramienta muy út
 - Porque no todo el mundo tiene tiempo o ganas de hablar de ciertos temas.
 - Etcétera.
 
-## ¿Cómo la he usado yo?
+## Para qué la he usado
 
 Lo primero, decir que usé la cuenta gratuita durante el primer año, y desde mayo de 2024 empecé a pagar la suscripción [ChatGPT Plus](https://openai.com/chatgpt/pricing/) (23 €/mes), porque, entre otras muchas cosas, permite crear *[custom GPTs](https://openai.com/index/introducing-gpts/)*.
 
 Esta funcionalidad me vino muy bien para personalizar la IA con la información sobre [los valores y actitudes que queremos inculcar en nuestros hijos](https://familiajimenezcano.wordpress.com/2018/02/04/la-conversacion-acordar-como-criar-al-nino/). También añadí otras referencias sobre la metodología de educación y crianza que queremos seguir en casa.
 
 Y a partir de ahí, ¿para qué lo he usado?.
+
+- Para explorar temas y recursos educativos
+- Para reflexionar sobre mi forma de educar
+- Para entender mejor ciertas conductas o situaciones
+- Para adaptar contenidos a su edad
+- Para buscar ideas, estrategias y herramientas
+- Para fomentar actitudes y competencias
+- Para explorar la ciencia en familia de forma accesible y divertida
+
+
+<details>
+  <summary>Aquí te dejo ejemplos concretos por si quieres verlos</summary>
 
 - **Para explorar temas y recursos educativos**:
   - Metodologías educativas (Taxonomía de Bloom, ABP, ApS...).
@@ -228,11 +203,13 @@ Y a partir de ahí, ¿para qué lo he usado?.
   - Ideas de proyectos de robótica, impresión 3D y electrónica.
   - Experimentos caseros (jabón de burbujas casero, etc.).
 
-Y sí, sé que muchas de estas cosas también puedo buscarlas en Google 😜, y también lo hago.
+</details>
+
+Y sí, muchas de estas cosas también las busco en Google 😜.
 
 Dicho esto, también me he apoyado puntualmente en [Perplexity](https://www.perplexity.ai/), una herramienta muy útil para hacerse una idea rápida de temas desconocidos (por ejemplo, una vez la usé para recopilar información sobre el juego *[Fortnite](https://es.wikipedia.org/wiki/Fortnite)* antes de tomar una decisión).
 
-## ¿Qué me aporta?
+## Qué me aporta
 
 Los beneficios que me aporta los podría resumir principalmente en:
 
@@ -331,7 +308,7 @@ Y con esto quiero decir que:
 
 Ellos también deben entender que, al igual que ellos, **necesitamos querernos y cuidarnos para poder estar bien con quienes nos rodean**.
 
-### El futuro es incierto
+### Céntrate en el ahora
 
 Y a pesar de todo, nos seguiremos equivocando. Como me dijo una persona cercana hace pocos meses: "*Raúl, no importa lo que hagas, que cuando sean mayores habrá algo que te echen en cara*".
 
@@ -341,7 +318,7 @@ Dicho esto, no voy a preocuparme demasiado por el futuro. Me centraré en **disf
 
 ## Próximos pasos
 
-Yo, de momento, seguiré, entre otras cosas, indagando sobre cómo usar la IA para ayudar a mis hijos (y a otros niños) en su desarrollo. Y seguiré compartiendo avances con otras familias a través del [Podcast IA y Educación](https://linktr.ee/podcastiayeducacion), y en formaciones en el centro de mis hijos.
+Yo, de momento, seguiré, entre otras cosas, indagando sobre [cómo usar la IA para la educación](https://www.rauljimenez.info/es/docs/artificial-intelligence/education-ai) y para ayudar a mis hijos (y a otros niños) en su desarrollo. Y seguiré compartiendo avances con otras familias a través del [Podcast IA y Educación](https://linktr.ee/podcastiayeducacion), y en formaciones en el centro de mis hijos.
 
 Y también quiero:
 
@@ -353,13 +330,44 @@ Y también quiero:
 
 Si te ha resonado algo de lo que cuento aquí, me encantaría leerte. ¿Te has planteado usar la IA para temas de crianza? ¿Qué dudas o aprendizajes te han surgido? Puedes escribirme o compartir tu experiencia en los comentarios. 
 
-## Anexo: Privacidad
+## Anexos
+
+### Adolescencia
+
+> **⚠️ Aviso**: este apartado un pequeño spoiler de la miniserie [Adolescencia](https://www.netflix.com/es/title/81756069).
+
+La semana pasada terminé de ver la miniserie basada en hechos reales. Cuenta la historia de **un niño que comete un crimen y el sentimiento de culpa que sienten los padres**. 
+
+La serie pone sobre la mesa algunos de los grandes retos de ser madre o padre hoy en día, con especial atención al papel que juegan las nuevas tecnologías.
+
+<div style={{textAlign: 'center'}}>
+
+<figure>
+
+![Adolescence, dad crying on pillow](/img/blogs/nobody-taught-us-how-to-be-parents/adolescence-dad-crying.webp)
+
+<figcaption>Eddie Miller, interpretado por Stephen Graham (padre del niño en la serie), llorando destrozado.</figcaption>
+</figure>
+
+</div>
+
+Confieso que no pude evitar que se me saltaran las lágrimas cuando el padre dice: "**Perdóname, hijo. Debí haberlo hecho mejor**". Me resulta imposible no empatizar con el **sentimiento de culpa** de ese padre, destrozado, como supongo que estaríamos cualquiera de nosotros en su situación.
+
+Aunque he de aclarar que la serie no trata sobre inteligencia artificial, sino sobre el *bullying* en los tiempos modernos, donde las redes sociales tienen un peso enorme.
+
+Me atrevería a decir que la mayoría de los padres de hoy no estamos preparados para afrontar esto. Aunque el *bullying* ya existía en nuestra época, hoy es muy distinto. Ahora, desde edades muy tempranas, los niños tienen acceso a cámaras con las que pueden grabar, compartir y difundir lo que ocurre, haciendo que las humillaciones no solo se vivan una vez, sino que se revivan una y otra vez. Además, las agresiones no terminan al llegar a casa: las redes sociales permiten que continúen incluso cuando uno creería estar a salvo.
+
+Si te interesa estar al día sobre este tema, te recomiendo seguir a [Pablo Duchement](https://pduchement.org/), un experto en la materia.
+
+> **Nota**: Justamente por eso, el año pasado [Gabriel Zabal](https://www.linkedin.com/in/gabrielzabal/) y yo decidimos [organizar un coloquio para hablar con otras familias sobre este tema](https://www.ampanovaschoolalmeria.org/noticias/curso-202324/coloquio-nuevas-tecnolog%C3%ADas-redes-sociales-inteligencia-artificial-y-men),  dentro de la iniciativa de [Escuela de familias](https://www.ampanovaschoolalmeria.org/iniciativas/escuela-de-familias) que propuse desde el AMPA. Una charla que repetiremos, porque está claro que necesitamos seguir actualizándonos.
 
 ### Sharenting 
 
-Dejadme que empiece hablando del *[sharenting](https://en.wikipedia.org/wiki/Sharenting)*, algo que se ha vuelto bastante habitual en buena parte de la sociedad. Aunque normalmente se hace con buena intención, es fácil que muchos padres no nos demos cuenta de lo que esto implica (y que... **tampoco podemos culparnos si NO nos han formado sobre ello**).
+El *[sharenting](https://en.wikipedia.org/wiki/Sharenting)* es algo que se ha vuelto bastante habitual en buena parte de la sociedad. Aunque normalmente se hace con buena intención, es fácil que muchos padres no seamos conscientes de lo que esto implica y al ritmo al que la tecnología avanza, es imposible predecir todos los riegos. Pero **la culpa no es solo nuestra, tampoco nos han formado sobre ello**.
 
 Una imagen vale más que mil palabras, así que **os voy a dejar un vídeo sobre este tema**, que aviso, **pone los pelos de punta**:
+
+> **⚠️ Aviso**: aviso, no recomendable si eres muy sensible
 
 <div style={{textAlign: 'center'}}>
 
@@ -392,6 +400,20 @@ Dependiendo de la edad, esto se traduce en:
   * Respetar su espacio e intimidad.
 
 En cualquier caso, está prohibido publicar contenidos que expongan, ridiculicen, avergüencen o pongan en riesgo al menor, por el riesgo que esto supone de poder sufrir acoso, ansiedad, u otros efectos negativos en el futuro.
+
+### Carnet de padres
+
+Hace pocas semanas le comentaba a mi hijo mayor que a los papás no se nos enseña a ser padres, que **no hay “un curso que haya que aprobar para serlo"**. 
+
+Aunque, pensándolo bien... si para conducir un coche hay que sacarse un carnet, quizá deberíamos plantearnos si para tener hijos también debería exigirse algo parecido, porque no cabe duda de que la responsabilidad es aún mayor 😅.
+
+Si no lo habéis visto y queréis echar una risas, os dejo el trailer de Idiocracia, una sátira que exagera (¿o no tanto?) un futuro donde la inteligencia ha sido reemplazada por la estupidez colectiva 😂😂😂.
+
+<div style={{textAlign: 'center'}}>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wgpgvZlKZ04" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
 
 
 ## Comentarios
