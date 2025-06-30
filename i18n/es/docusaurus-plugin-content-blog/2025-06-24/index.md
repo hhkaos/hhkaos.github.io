@@ -18,33 +18,30 @@ enableComments: true
   Espero que el uso del lenguaje no suponga una barrera para nadie.
 </details>
 
-Este es un tema con "mucha chicha" 😅 y un ejercicio que quería abordar en profundidad, por eso el contenido total son 21 minutos, pero si quitas los anexos y las partes que he ocultado... será menos 😜.
+Hoy voy a hablar de los retos a los que nos enfrentamos como padres, y a explicar **cómo uso la IA (mayormente ChatGPT)** para intentar ser mejor padre. 
+
+Este es un tema con "mucha chicha" , y un ejercicio que quería abordar en profundidad, por eso el contenido total son 21 minutos, pero si quitas los anexos y las partes que he ocultado... será menos 😜. 
 
 ![Nobody taught us how to be parents social image](/img/blogs/nobody-taught-us-how-to-be-parents/nobody-taught-us-how-to-be-parents-es.webp)
 
-Hoy voy a explicar **cómo uso ChatGPT como apoyo** para intentar ser mejor padre. 
+A día de hoy no sólo me apoyo en ChatGPT, si no también lo hago en libros, en mi mujer, nuestras familias y otras personas de nuestro círculo cercano, profesoras y profesores, etc.
 
-Y digo “como apoyo” y no como herramienta principal, porque también lo hago en libros, en mi mujer, nuestras familias y otras personas de nuestro círculo cercano, profesoras y profesores, etc.
-
-> **Ejemplo**: el artículo [Aprender a enseñar (en casa)](https://www.rauljimenez.info/es/blog/learn-to-teach-your-kids) que escribí el año pasado.
+> **Nota**: como se puede ver en el artículo [Aprender a enseñar (en casa)](https://www.rauljimenez.info/es/blog/learn-to-teach-your-kids) que escribí el año pasado.
 
 Comparto esto contigo tras hacer un ejercicio de retrospectiva y repasar **todas mis conversaciones** con ChatGPT sobre este tema, con la esperanza de que mi experiencia<sup>1</sup> pueda servirte de ayuda.
 
-> **(1)** Empecé a usar ChatGPT para lidiar con asuntos relacionados con la crianza en febrero de 2023 (cuando me creé la cuenta).
-
-## Una oportunidad
-
-Como dice Tania García, autora de [un libro que nos regaló nuestra cuñada hace algunas navidades](https://www.amazon.es/Gu%C3%ADa-para-madres-padres-Nexos/dp/8416918228): "***educar es una bella oportunidad para crecer como personas***".
-
-Y es que tener hijos lo cambia todo. Nuestras prioridades se reordenan, y ellos pasan a ocupar el centro de nuestras vidas. Esto, lejos de ser solo una responsabilidad, también puede convertirse en una poderosa motivación para mejorar, para sacar lo mejor de nosotros mismos.
-
-Doy por hecho que todos queremos ser buenos padres y que lo hacemos lo mejor que sabemos y podemos. Pero eso no nos libra de cometer errores, como cualquier ser humano. Y no pasa nada. Equivocarse forma parte del camino.
-
-Lo importante es que también hacemos cosas bien. Por ejemplo, leer este artículo para aprender de otros y reflexionar 😜.
+> **(1)** Empecé a usar ChatGPT para lidiar con asuntos relacionados con la crianza el mismo mes que me creé la cuenta (en febrero de 2023).
 
 ## Educar es difícil
 
-A lo largo de los días, nos asaltan muchas dudas como madres y padres. Algunas están relacionadas con cómo actuamos, otras sobre límites y autonomía, otras entender comportamiento, motivaciones, cómo experimentan las cosas, etc.
+Prácticamente todos los días nos surgen dudas como padres, por ejemplo:
+* Sobre nuestro propio comportamiento.
+* Sobre límites que establecemos.
+* Sobre cuánta autonomía o responsabilidad darles.
+* Sobre comportamientos que nos cuesta entender.
+* Sobre sus motivaciones.
+* Sobre cómo estarán experimentando/viviendo ellos las cosas.
+* etc.
 
 <details>
   <summary>Aquí recojo algunas de las preguntas que me suelen rondar la cabeza</summary>
@@ -94,25 +91,46 @@ A la hora de tomar decisiones, a veces seguimos consejos que nos dan (los pidamo
 
 Pero, hagamos lo que hagamos, **es difícil evitar ese sentimiento de culpa cuando sentimos que nos hemos equivocado**.
 
-Yo les digo y repito a mis hijos desde pequeños, no solo ellos: **nosotros también nos equivocamos**, aunque también les digo que cada uno tenemos que asumir nuestra parte de "la culpa".
+Yo les digo y repito a mis hijos desde pequeños, que no solo ellos, **nosotros también nos equivocamos**, y que es importante que cada uno asumamos nuestra parte de "la culpa".
 
 Y es que ser padres es complejo, ¿verdad? 
 
-Pero antes de hablar de cómo me he apoyado en ChatGPT para estos temas, vamos a hacer una pausa y hablar de un tema que no quiero pasar por alto cuando usamos herramientas como ChatGPT en la crianza: la privacidad de nuestros hijos.
+## Oportunidad para crecer
+
+Tener hijos lo cambia todo. Nuestras prioridades cambian, y ellos se convierten en el centro de nuestras vidas. 
+
+Todos queremos ser buenos padres y lo hacemos lo mejor que sabemos y podemos. 
+
+Pero además, pensemos que, "***educar es una bella oportunidad para crecer como personas***", como dice Tania García, autora de [un libro que nos regaló nuestra cuñada hace algunas navidades](https://www.amazon.es/Gu%C3%ADa-para-madres-padres-Nexos/dp/8416918228).
+
+Esto, además de ser una responsabilidad, puede ser la mejor motivación posible para obligarnos a sacar lo mejor de nosotros mismos.
+
+Y aunque seguiremos cometiendo errores, como cualquier ser humano, no pasa nada, porque equivocarse forma parte del camino. Lo importante es que también hacemos cosas bien (por ejemplo, leer este artículo para aprender de otros y hacernos reflexionar 😜).
+
+Antes de hablar de cómo me he apoyado en ChatGPT para estos temas, voy a hacer un inciso para hablar de un tema que considero es muy importante tener en mente cuando usamos herramientas como ChatGPT en la crianza: la privacidad de nuestros hijos.
 
 ## Privacidad y menores
 
-Aunque usemos herramientas como ChatGPT de forma privada y personal, eso no elimina los riesgos. De hecho, al hablar allí sobre nuestros hijos, podríamos estar incurriendo en una forma de "*[sharenting](#sharenting)* digital privado", con implicaciones que no siempre tenemos presentes.
+Aunque usemos herramientas como ChatGPT de forma privada y personal, también hay riesgos que es fácil pasar por alto. Por ejemplo, podríamos estar realizando una forma de "*[sharenting](#sharenting)* digital privado".
 
 Piensa que: 
 
-- **Todo lo que compartimos con ChatGPT queda guardado en sus servidores** (en EE. UU., bajo las leyes de su gobierno).
-- Pueden ocurrir situaciones como la demanda del [New York Times a OpenAI](https://harvardlawreview.org/blog/2024/04/nyt-v-openai-the-timess-about-face/), que **impiden que se puedan borrar conversaciones de sus servidores** (más info: [How we’re responding to The New York Times’ data demands in order to protect user privacy](https://openai.com/index/response-to-nyt-data-demands/)).
+- **Todo lo que compartimos con ChatGPT queda guardado en sus servidores**.
+- Pueden ocurrir situaciones que **impidan que puedas borrar conversaciones**<sup>1</sup>.
 - **Cualquier día pueden robarte la cuenta**, o puede haber una fuga (hackeo) de sus servidores.
+
+<details>
+  <summary><strong>ℹ️ Info (1):</strong> Sobre la demanda del New York Times a OpenAI</summary>
+
+Recientemente el [New York Times demandó a OpenAI](https://harvardlawreview.org/blog/2024/04/nyt-v-openai-the-timess-about-face/), y un juez ha prohibido por tiempo ilimitado que OpenAI borre ninguna conversación, algo que va en contra de las leyes europeas.
+
+Más información en "[How we’re responding to The New York Times’ data demands in order to protect user privacy](https://openai.com/index/response-to-nyt-data-demands/)".
+
+</details>
 
 Y dudo que quieras que este tipo de información llegara a malas manos o quedase expuesta en internet.
 
-Así que, mi consejo es evitar compartir temas sensibles o que puedan asociarse directamente con tus hijos.
+Así que, mi conclusión es: que está bien usarlo. Pero hay que hacerlo con cuidado, evitando compartir temas sensibles o que puedan asociarse directamente con los hijos; y siempre que **el beneficio supere al riesgo**.
 
 Dicho esto, yo ya he hablado con mi mujer y mi hijo mayor sobre este tema, y hemos acordado que les pediré consentimiento cuando quiera tratar estos temas con ChatGPT (o cualquier otra herramienta), y sólo lo plantearé  cuando **considere que el potencial beneficio es mayor que el riesgo**.
 
@@ -122,36 +140,27 @@ Si te interesa este tema, he añadido a [los anexos](#anexo-privacidad) algunas 
 
 ## Por qué ChatGPT
 
-En mi caso, lo utilizo para distintos temas, siempre que considero que **el beneficio compensa el riesgo**.
+Porque:
+- A veces las dudas surgen en momentos inoportunos o a deshoras.
+- A veces no se me ocurre nadie que sepa del tema del que quiero hablar.
+- Hay temas de poca importancia y no me apetece molestar a alguien de mi entorno cercano.
+- A veces quiero una "segunda opinión", u otra perspectiva "neutral".
+- Me resulta muy útil para hacer lluvias de ideas.
+- No todo el mundo tiene tiempo o ganas de hablar de ciertos temas.
 
-Y es que, para mí, ChatGPT también se ha convertido en una herramienta muy útil y **complementaria** en esto de la crianza.
-
-¿Por qué?:
-
-- Porque a veces las dudas surgen en momentos inoportunos o a deshoras.
-- Porque a veces no se me ocurre nadie que sepa del tema del que quiero hablar.
-- Porque es un tema de poca importancia y no me apetece molestar a alguien de mi entorno cercano.
-- Porque a veces quiero una “segunda opinión”, u otra perspectiva “neutral”.
-- Porque en otras ocasiones busco más ideas.
-- Porque no todo el mundo tiene tiempo o ganas de hablar de ciertos temas.
-- Etcétera.
+Por todas estas razones, para mí, ChatGPT se ha convertido en una herramienta muy útil y **complementaria** en esto de la crianza.
 
 ## Para qué la he usado
 
-Lo primero, decir que usé la cuenta gratuita durante el primer año, y desde mayo de 2024 empecé a pagar la suscripción [ChatGPT Plus](https://openai.com/chatgpt/pricing/) (23 €/mes), porque, entre otras muchas cosas, permite crear *[custom GPTs](https://openai.com/index/introducing-gpts/)*.
+Para lidiar con muchos temas de los que mencionaba en "[Educar es difícil](#educar-es-difícil)":
 
-Esta funcionalidad me vino muy bien para personalizar la IA con la información sobre [los valores y actitudes que queremos inculcar en nuestros hijos](https://familiajimenezcano.wordpress.com/2018/02/04/la-conversacion-acordar-como-criar-al-nino/). También añadí otras referencias sobre la metodología de educación y crianza que queremos seguir en casa.
-
-Y a partir de ahí, ¿para qué lo he usado?.
-
-- Para explorar temas y recursos educativos
-- Para reflexionar sobre mi forma de educar
-- Para entender mejor ciertas conductas o situaciones
-- Para adaptar contenidos a su edad
-- Para buscar ideas, estrategias y herramientas
-- Para fomentar actitudes y competencias
-- Para explorar la ciencia en familia de forma accesible y divertida
-
+- Para explorar temas y recursos educativos.
+- Para reflexionar sobre mi forma de educar.
+- Para entender mejor ciertas conductas o situaciones.
+- Para adaptar contenidos a su edad.
+- Para buscar ideas, estrategias y herramientas.
+- Para fomentar actitudes y competencias.
+- Para explorar temas en familia de forma accesible y divertida.
 
 <details>
   <summary>Aquí te dejo ejemplos concretos por si quieres verlos</summary>
@@ -207,22 +216,27 @@ Y a partir de ahí, ¿para qué lo he usado?.
 
 Y sí, muchas de estas cosas también las busco en Google 😜.
 
-Dicho esto, también me he apoyado puntualmente en [Perplexity](https://www.perplexity.ai/), una herramienta muy útil para hacerse una idea rápida de temas desconocidos (por ejemplo, una vez la usé para recopilar información sobre el juego *[Fortnite](https://es.wikipedia.org/wiki/Fortnite)* antes de tomar una decisión).
-
 ## Qué me aporta
 
 Los beneficios que me aporta los podría resumir principalmente en:
 
 - Me ayuda a resolver dudas de los niños en términos que a veces no me salen espontáneamente<sup>1</sup>.
-- **Me hace reflexionar**, como si hablara (en confianza) con un desconocido sobre el tema.
+- **Me ayuda a reflexionar**. Es como si hablara (en confianza) con un desconocido sobre el tema.
+- Me resulta muy útil cuando quiero hacer una "lluvia de ideas".
 - Me ofrece información que puedo contrastar con algún(a) profesional (profe, psicólogo(a)...).
-- Me ayuda a iniciar una "lluvia de ideas".
 - Me aporta vocabulario nuevo que luego me sirve para investigar por mi cuenta.
 - Me da contexto sobre algunos temas.
 
-> **(1)** A mis hijos siempre les digo que: (1) de ChatGPT no hay que fiarse mucho, (2) que **hay que preguntarle sobre temas de los que uno sepa**, y (3) que aún no es una herramienta para que ellos usen solos. Pero yo sí la uso delante de ellos, leo las respuestas en voz alta y, si es necesario, las matizo, para que se vayan familiarizando también con los sesgos y riesgos que implica usarla hoy en día.
+> **(1)** A mis hijos siempre les digo que: (1) de las respuestas de ChatGPT hay que desconfiar, (2) que **hay que preguntarle sobre temas de los que uno sepa**, y (3) que aún no es una herramienta para que ellos usen solos. Pero yo sí la uso delante de ellos, leo las respuestas en voz alta y, cuando es necesario, las matizo, para que se vayan familiarizando también con los sesgos y riesgos que implica usarla hoy en día.
 
-Pero en casa, **las decisiones importantes sobre la crianza de nuestros hijos no las toma ChatGPT, las tomamos en familia**.
+## Cómo uso la IA
+
+Aunque los detalles los iré publicando en futuros recursos, quería comentar que yo empecé usando la cuenta gratuita durante el primer año, y desde mayo de 2024 empecé a pagar la suscripción [ChatGPT Plus](https://openai.com/chatgpt/pricing/) (~22 €/mes), entre otras muchas cosas, porque me permitía crear *[custom GPTs](https://openai.com/index/introducing-gpts/)*.
+
+Esta funcionalidad me vino muy bien para personalizar las respuestas de ChatGPT ofreciéndole como contexto previo a mis consultas información sobre [los valores y actitudes que queremos inculcar en nuestros hijos](https://familiajimenezcano.wordpress.com/2018/02/04/la-conversacion-acordar-como-criar-al-nino/). También añadí otras referencias sobre la metodología de educación y crianza que queremos seguir en casa. Lo que hace que las respuestas estén más alineadas con lo que buscamos.
+
+También quería decir que, aunque ChatGPT es la principal herramienta que uso, también me apoyo en [Perplexity](https://www.perplexity.ai/), una herramienta muy útil para explorar temas (por ejemplo, una vez la usé para recopilar información sobre el juego *[Fortnite](https://es.wikipedia.org/wiki/Fortnite)* antes de tomar una decisión).
+
 
 ## Mentor parental
 
@@ -239,7 +253,7 @@ Concretamente, **está pensado para guiar a madres y padres en la resolución de
 Está configurado para intentar seguir el siguiente flujo de pensamiento (lógico y estructurado):
 
 1. Debería preguntar hasta comprender el problema claramente.
-2. Preguntar por la edad (para adaptar la respuesta en consecuencia).
+2. Preguntar por la edad del menor (para adaptar la respuesta en consecuencia).
 3. Intentar analizar la causa raíz del problema (contexto).
 4. Preguntar por la metodología de educación y crianza con la que os sintáis más identificados.
 5. Explorar y ofrecer posibles soluciones.
@@ -282,61 +296,67 @@ Si vas a usar ChatGPT recuerda:
 - [Desactiva la opción para que no entrenen con tus datos](https://help.openai.com/en/articles/7730893-data-controls-faq#h_3fb7cda882).
 - Y ojo si tienes activa "[la memoria](https://help.openai.com/en/articles/8983136-what-is-memory)", a mí ya me ha sorprendido con algunas de las cosas que almacena (ver [cómo funciona la memoria](https://openai.com/index/memory-and-new-controls-for-chatgpt/)).
 
-### Somos afortunados
+### Sobre recursos
 
-Dicho todo lo anterior, creo que, como madres y padres, actualmente contamos **con más recursos e información que nunca antes** para educar mejor (libros, vídeos, juegos, estudios, herramientas de IA como ChatGPT y muchas más).
+Los tiempos no son los que eran, para bien o para mal. **Vivimos una época en la que las cosas cambian a velocidad de vértigo**, y aunque existen riesgos, también hay muchas oportunidades.
 
-Pero, al mismo tiempo, **vivimos una época en la que las cosas cambian a velocidad de vértigo**, y aunque hay muchas oportunidades, también **existen riesgos**.
+**Actualmente contamos con más recursos e información para educar mejor que nunca antes**: libros, vídeos, juegos, estudios, herramientas de IA como ChatGPT y muchas más.
 
-Así que aprovechemos los recursos a nuestro alcance para mantenernos actualizados, ser mejores padres y reducir los riesgos.
+Así que, aprovechemos lo que tenemos a nuestro alcance. Evitemos quedarnos obsoletos, y seamos la mejor versión de nosotros mismos. 
 
-Los tiempos no son los que eran. Es fácil quedarse obsoleto y no enterarse de lo que les puede estar pasando a nuestros hijos.
+Y aunque nos apoyemos en estos recursos, **tomemos las decisiones sobre la crianza en familia**.
 
-
-### Prioridades
+### Sobre las prioridades
 
 Como decía, es cierto que desde que nacen, nuestros hijos se convierten en lo más importante de nuestras vidas. 
 
-Pero recuerda: al igual que cuando viajas en avión te indican que primero te pongas tú la mascarilla y luego ayudes a tus hijos, en la vida también necesitamos cuidarnos primero para poder cuidarles a ellos.
+Pero recuerda: al igual que cuando te explican las normas de seguridad en un avión te dicen que primero te pongas tú la mascarilla de oxígeno y luego ayudes a tus hijos; en la vida también **necesitamos cuidarnos primero a nosotros mismos, para después poder ayudarles a ellos**.
 
-Nosotros necesitamos estar bien, física y psicológicamente, porque si no, difícilmente podremos ser buenos padres.
+Si no estamos bien, física y psicológicamente, difícilmente podremos ser buenos padres.
 
 Y con esto quiero decir que:
 
 - No debemos confundir que los hijos sean lo más importante con que siempre tengan que ser la prioridad para todo.
-- Si te has equivocado, si has tropezado, levántate y sigue adelante. No te castigues con el sentimiento de culpa: **todos nos equivocamos**.
+- Si te has equivocado, si has tropezado, levántate y sigue adelante. **No te castigues con el sentimiento de culpa: todos nos equivocamos**.
 
-Ellos también deben entender que, al igual que ellos, **necesitamos querernos y cuidarnos para poder estar bien con quienes nos rodean**.
+Y explícaselo, que ellos también deben entender que todos **necesitamos querernos y cuidarnos**, y que de no hacerlo, afectará negativamente a quienes nos rodean.
 
-### Céntrate en el ahora
+### Sobre la actitud
 
-Y a pesar de todo, nos seguiremos equivocando. Como me dijo una persona cercana hace pocos meses: "*Raúl, no importa lo que hagas, que cuando sean mayores habrá algo que te echen en cara*".
+A pesar de todo, nos seguiremos equivocando. Como me dijo una persona cercana hace pocos meses: "*Raúl, no importa lo que hagas, que cuando sean mayores habrá algo que te echen en cara*".
 
 Y la verdad es que no lo dudo, porque reconozco que yo también lo hice con mis padres 😓.
 
-Dicho esto, no voy a preocuparme demasiado por el futuro. Me centraré en **disfrutar el presente, que es lo único que existe**, y en hacerlo lo mejor que pueda (con mis errores y limitaciones). Intentaré, dentro de mis posibilidades, mejorar poco a poco.
+Dicho esto:
+* No voy a preocuparme demasiado por el futuro. 
+* Me centraré en **disfrutar el presente, que es lo único que existe** 🧘.
+* Lo haré lo mejor que pueda (con mis errores y limitaciones). 
+* Intentaré, dentro de mis posibilidades, mejorar poco a poco.
 
 ## Próximos pasos
 
-Yo, de momento, seguiré, entre otras cosas, indagando sobre [cómo usar la IA para la educación](https://www.rauljimenez.info/es/docs/artificial-intelligence/education-ai) y para ayudar a mis hijos (y a otros niños) en su desarrollo. Y seguiré compartiendo avances con otras familias a través del [Podcast IA y Educación](https://linktr.ee/podcastiayeducacion), y en formaciones en el centro de mis hijos.
+Para seguir creciendo como padre mi intención es seguir:
 
-Y también quiero:
+  - Indagando sobre [cómo usar la IA para la educación](https://www.rauljimenez.info/es/docs/artificial-intelligence/education-ai) y para ayudar a mis hijos (y a otros niños) en su desarrollo. 
+  - Compartiendo mis avances con otras personas adultas a través:
+    - Del [Podcast IA y Educación](https://linktr.ee/podcastiayeducacion).
+    - AMPA del centro de mis hijos, proponiendo acciones e iniciativas  como la  [Escuela de familias](https://www.ampanovaschoolalmeria.org/iniciativas/escuela-de-familias), o encuentros como el que realizamos el año pasado [Gabriel Zabal](https://www.linkedin.com/in/gabrielzabal/) y yo ([Coloquio: "Nuevas tecnologías, redes sociales, IA y menores"](https://www.ampanovaschoolalmeria.org/noticias/curso-202324/coloquio-nuevas-tecnolog%C3%ADas-redes-sociales-inteligencia-artificial-y-men)) para hablar con otras familias sobre este tema.
+    - [Mis canales personales](http://links.rauljimenez.info/), publicando artículos, vídeos, y otros recursos sobre la crianza (porque me ayudan a indagar, aprender cosas nuevas, reflexionar, y sobre todo, a tomar mejores decisiones).
 
-- Publicar un artículo en el que he estado trabajando, con ayuda de la profesora de mi hijo y de la IA, sobre cómo lidiar con las "mentirijillas" en la primera infancia.
-- Terminar este año un “plan” que estoy creando con apoyo de la IA, que nos sirva en casa para:
+Y además, me gustaría terminar este año un "plan" que estoy creando con apoyo de la IA, que espero que nos pueda servir en casa para:
   * Entender y recordarnos en qué cosas (habilidades y conocimientos) enfocarnos en cada etapa de la crianza, según su nivel de madurez.
-  * Saber qué podemos hacer para llevarlo a la práctica.
+  * Definir acciones concretas que podamos hacer para ponerlo en la práctica.
   * Reflexionar sobre cómo infundir valores y actitudes durante todo el proceso.
 
-Si te ha resonado algo de lo que cuento aquí, me encantaría leerte. ¿Te has planteado usar la IA para temas de crianza? ¿Qué dudas o aprendizajes te han surgido? Puedes escribirme o compartir tu experiencia en los comentarios. 
+Si te ha resonado algo de lo que cuento aquí, me encantaría leerte. ¿Te has planteado usar la IA para temas de crianza, o la estás usando ya? ¿Qué dudas te han surgido o lecciones has aprendido? Puedes escribirme tu experiencia en los comentarios (o en las redes sociales). 
 
 ## Anexos
 
-### Adolescencia
+### *Bullying* moderno
 
-> **⚠️ Aviso**: este apartado un pequeño spoiler de la miniserie [Adolescencia](https://www.netflix.com/es/title/81756069).
+> **⚠️ Aviso**: este anexo contiene un pequeño spoiler de la miniserie [Adolescencia](https://www.netflix.com/es/title/81756069).
 
-La semana pasada terminé de ver la miniserie basada en hechos reales. Cuenta la historia de **un niño que comete un crimen y el sentimiento de culpa que sienten los padres**. 
+La semana pasada terminé de ver esta miniserie basada en hechos reales. Cuenta la historia de **un niño que comete un crimen y el sentimiento de culpa que sienten los padres**. 
 
 La serie pone sobre la mesa algunos de los grandes retos de ser madre o padre hoy en día, con especial atención al papel que juegan las nuevas tecnologías.
 
@@ -351,15 +371,15 @@ La serie pone sobre la mesa algunos de los grandes retos de ser madre o padre ho
 
 </div>
 
-Confieso que no pude evitar que se me saltaran las lágrimas cuando el padre dice: "**Perdóname, hijo. Debí haberlo hecho mejor**". Me resulta imposible no empatizar con el **sentimiento de culpa** de ese padre, destrozado, como supongo que estaríamos cualquiera de nosotros en su situación.
+Confieso que no pude evitar que se me saltaran las lágrimas cuando el padre dice: "**Perdóname, hijo. Debí haberlo hecho mejor**". Me resulta imposible no empatizar con el **sentimiento de culpa** de ese padre, destrozado, como lo estaríamos cualquiera de nosotros en su situación.
 
 Aunque he de aclarar que la serie no trata sobre inteligencia artificial, sino sobre el *bullying* en los tiempos modernos, donde las redes sociales tienen un peso enorme.
 
-Me atrevería a decir que la mayoría de los padres de hoy no estamos preparados para afrontar esto. Aunque el *bullying* ya existía en nuestra época, hoy es muy distinto. Ahora, desde edades muy tempranas, los niños tienen acceso a cámaras con las que pueden grabar, compartir y difundir lo que ocurre, haciendo que las humillaciones no solo se vivan una vez, sino que se revivan una y otra vez. Además, las agresiones no terminan al llegar a casa: las redes sociales permiten que continúen incluso cuando uno creería estar a salvo.
+Me atrevería a decir que la mayoría de los padres de hoy no estamos preparados para afrontar esto. Aunque el *bullying* ya existía en nuestra época, hoy es muy distinto. Ahora, desde edades muy tempranas, los niños tienen acceso a cámaras con las que pueden grabar, compartir y difundir lo que ocurre, haciendo que las humillaciones no solo se vivan una vez, sino que se revivan una y otra vez. 
+
+Y por si fuera poco, las agresiones no terminan al llegar a casa: las redes sociales permiten que continúen incluso cuando uno creería estar a salvo.
 
 Si te interesa estar al día sobre este tema, te recomiendo seguir a [Pablo Duchement](https://pduchement.org/), un experto en la materia.
-
-> **Nota**: Justamente por eso, el año pasado [Gabriel Zabal](https://www.linkedin.com/in/gabrielzabal/) y yo decidimos [organizar un coloquio para hablar con otras familias sobre este tema](https://www.ampanovaschoolalmeria.org/noticias/curso-202324/coloquio-nuevas-tecnolog%C3%ADas-redes-sociales-inteligencia-artificial-y-men),  dentro de la iniciativa de [Escuela de familias](https://www.ampanovaschoolalmeria.org/iniciativas/escuela-de-familias) que propuse desde el AMPA. Una charla que repetiremos, porque está claro que necesitamos seguir actualizándonos.
 
 ### Sharenting 
 
@@ -379,9 +399,10 @@ Y es que es importante recordarnos que los padres tenemos **la obligación de ve
 
 En este sentido, María y yo siempre hemos intentado ser muy cuidadosos con respecto a la información personal que se comparte (y compartimos) sobre nuestros hijos en internet (redes sociales, etc.), y **hemos decidido rechazar por norma el consentimiento a terceros para compartir su imagen en redes**.
 
-### Ley española
+Y aunque no soy abogado, voy a intentar resumir lo que creo que dicen el [artículo 18 de la Constitución Española](https://app.congreso.es/consti/constitucion/indice/titulos/articulos.jsp?ini=18&tipo=2), la [Agencia Española de Protección de Datos](https://www.aepd.es/preguntas-frecuentes/10-menores-y-educacion), y la "[Ley de Protección de Datos Personales y garantía de los derechos digitales](https://www.boe.es/buscar/pdf/2018/BOE-A-2018-16673-consolidado.pdf)".
 
-Aunque no soy abogado, voy a intentar resumir lo que dicen el [artículo 18 de la Constitución Española](https://app.congreso.es/consti/constitucion/indice/titulos/articulos.jsp?ini=18&tipo=2), la [Agencia Española de Protección de Datos](https://www.aepd.es/preguntas-frecuentes/10-menores-y-educacion), y la "[Ley de Protección de Datos Personales y garantía de los derechos digitales](https://www.boe.es/buscar/pdf/2018/BOE-A-2018-16673-consolidado.pdf)".
+
+#### Privacidad de menores en España
 
 Es nuestra responsabilidad proteger el derecho a la propia imagen y la intimidad del menor.
 
@@ -403,11 +424,13 @@ En cualquier caso, está prohibido publicar contenidos que expongan, ridiculicen
 
 ### Carnet de padres
 
-Hace pocas semanas le comentaba a mi hijo mayor que a los papás no se nos enseña a ser padres, que **no hay “un curso que haya que aprobar para serlo"**. 
+Termino con esta reflexión en tono de humor 😜.
+
+Hace pocas semanas le comentaba a mi hijo mayor que a los papás no se nos enseña a ser padres, que **no hay "un curso que haya que aprobar para serlo"**. 
 
 Aunque, pensándolo bien... si para conducir un coche hay que sacarse un carnet, quizá deberíamos plantearnos si para tener hijos también debería exigirse algo parecido, porque no cabe duda de que la responsabilidad es aún mayor 😅.
 
-Si no lo habéis visto y queréis echar una risas, os dejo el trailer de Idiocracia, una sátira que exagera (¿o no tanto?) un futuro donde la inteligencia ha sido reemplazada por la estupidez colectiva 😂😂😂.
+Si no lo habéis visto y queréis echar una risas, os dejo el trailer de [Idiocracia](https://es.wikipedia.org/wiki/Idiocracy), una sátira que exagera (¿o no tanto?) un futuro donde la inteligencia ha sido reemplazada por la estupidez colectiva 😂😂😂.
 
 <div style={{textAlign: 'center'}}>
 
