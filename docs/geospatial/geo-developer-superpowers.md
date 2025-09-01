@@ -15,7 +15,7 @@ As developers, **we love to build software we can be proud of**, the kind that m
 * Automates a lot of work.
 * Etc. 
 
-And **what does location have to do with it?** The truth is that most information is, or can be, geolocated. Every object, action, or event happens in a specific place and time. Of course, there are cases where location adds little or no value—for example, resolving a bug, designing an interface, analyzing an X-ray, assigning a diet plan, or running an online game. But in countless other cases, location is key.
+And **what does location have to do with it?** The truth is that most information is, or can be, geolocated. Every object, action, or event happens in a specific place and time. Of course, there are cases where location adds little or no value, for example, resolving a bug, designing an interface, analyzing an X-ray, assigning a diet plan, or running an online game. But in countless other cases, location is key.
 
 Just as understanding [operating systems](https://en.wikipedia.org/wiki/Operating_system), [networks](https://en.wikipedia.org/wiki/Computer_network), [databases](https://en.wikipedia.org/wiki/Database), [software architecture](https://en.wikipedia.org/wiki/Software_architecture), [architectural patterns](https://en.wikipedia.org/wiki/Architectural_pattern), ... helps us build robust and scalable applications, **knowing what can be done with the geographic component of data (coordinates) prepares us to solve an even wider range of challenges (or to approach familiar problems in entirely new ways)**.
 
