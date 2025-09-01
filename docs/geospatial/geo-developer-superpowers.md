@@ -4,176 +4,182 @@ title: Geo Developer superpowers
 ---
 # Geo Developer superpowers 🦸
 
-**This document aims to inspire, motivate, and developers** about the exciting world of geospatial development.  
+**This document aims to inspire and motivate developers** to explore the exciting world of geospatial development.
 
-As developers, **we love to write software we feel proud of**, so we can say: "I’m part of the team that built it!". We can feel proud for many reasons, for example, because the app:
+As developers, **we love to build software we can be proud of**, the kind that makes us say: “I was part of the team that created this!”. That pride can come from many things, for example, because the app:
 * Has a great UX/UI.
-* Perform well and is scalable.
+* Perform well and scales.
 * Solves a challenging technical problem.
 * Is innovative.
 * Will save a lot of time for the end users.
-* Automatizes a lot of work.
+* Automates a lot of work.
 * Etc. 
 
-And **what does localization have to do with it?** Well, much of the information is geolocated or can be geolocated, since all real-world objects, actions, events, etc. occur in a certain place and at a certain time, although it is true that there are actions to which geolocation adds little or no value, such as resolving an issue, designing an interface or industrial piece, analyzing an X-ray image, assign diet plan, where a chat, training take or online game match place, and many more. 
+And **what does location have to do with it?** The truth is that most information is, or can be, geolocated. Every object, action, or event happens in a specific place and time. Of course, there are cases where location adds little or no value—for example, resolving a bug, designing an interface, analyzing an X-ray, assigning a diet plan, or running an online game. But in countless other cases, location is key.
 
-Therefore, just as knowing about [operating systems](https://en.wikipedia.org/wiki/Operating_system), [networks](https://en.wikipedia.org/wiki/Computer_network), [databases](https://en.wikipedia.org/wiki/Database), [software architecture](https://en.wikipedia.org/wiki/Software_architecture), [architectural patterns](https://en.wikipedia.org/wiki/Architectural_pattern), ... it is useful to know how to create robust and scalable applications that solve different problems, **we will be prepared to better solve such challenges if we know what can be done with the geographic component** (coordinates) **of the data**.
+Just as understanding [operating systems](https://en.wikipedia.org/wiki/Operating_system), [networks](https://en.wikipedia.org/wiki/Computer_network), [databases](https://en.wikipedia.org/wiki/Database), [software architecture](https://en.wikipedia.org/wiki/Software_architecture), [architectural patterns](https://en.wikipedia.org/wiki/Architectural_pattern), ... helps us build robust and scalable applications, **knowing what can be done with the geographic component of data (coordinates) prepares us to solve an even wider range of challenges (or to approach familiar problems in entirely new ways)**.
 
-For this reason, in this document, you will **learn what problems a developer with geospatial knowledge can help solve**. To illustrate some of these, it includes some examples of popular applications implementing such features.
+In this document, you’ll **discover the types of problems developers with geospatial skills can tackle**. To bring it to life, we’ll also highlight examples of popular applications that implement these capabilities.
 
 > Note: in a different document we will list the main use cases per industry each problem applies to.
 
 ## Geospatial algorithms
 
-Being familiar with geospatial algorithms and libraries implementing those will help you build software able to solve many types of problems like the following.
+Understanding geospatial algorithms (and the libraries that implement them) will help you build software capable of solving a wide variety of problems, such as the ones below.
 
 Problems:
 
 ### How to do spatial queries/operations 
 
-Like Spatial Lookup, Boundary Lookup, ...:
+Examples include spatial and boundary lookups:
 
-- Geometry intersection (Geofences, check to which administrative boundary corresponds to a coordinate,...)
-- How do I convert a point coordinate (user location, city, ...) to a boundary? (country, state, ...)
-- Crosses
-- Contains
-- How to check spatial relationships between shapes (uses: find problems or ensure data quality)
+- How to check if two geometries intersect (e.g. geofences, finding which administrative boundary a coordinate belongs to).
+- How to convert a point coordinate (user location, city, ...) into a boundary (country, state, ...).
+- How to check if one shape crosses or contains another.
+- How to validate or ensure data quality by checking spatial relationships between shapes.
 
 ### How to do spatial calculations
 
-- 2D: sort by distance/nearby places, measure distances, areas, perimeters, cardinal directions (N,S,W, E, ...), influence area/radius...)
-- How to do elevation-related calculations (Viewsheds, watersheds, line of sight, slopes, ...) - (use cases calculate accessibility, difficulty, locations to make awesome pictures ...)
-- How to do 3D calculations (3D volumes, distances, ...)
-- How to interpolate spatial data when you have missing data (people at a protest, traffic?) 
+- How to perform 2D calculations: sort results by distance, find nearby places, measure distances, areas, perimeters, or determine cardinal directions (N, S, E, W), or calculate influence area/radius.
+- How to perform elevation-based calculations: compute viewsheds, watersheds, line-of-sight, or slopes (e.g. for accessibility analysis, difficulty estimation, or best photo spots).
+- How to perform 3D calculations: measure 3D volumes, distances, and more.
+- How to interpolate spatial data when you have missing values (e.g. estimating crowd size at a protest, or traffic conditions).
 
 ### How to do network and topological analysis
 
-- How to calculate directions (turn-by-turn navigation) to go from X to Xn passing by X1, X2, ... on a single transport network (by: car, electric vehicle (EV), pedestrian, truck, bike, public transit, electric scooter, ...)
-- How to calculate multimodal/intermodal transport navigation (using public transit timetables)
-- How to calculate routes optimizing: time, distance, consumption, CO2 emissions, ...
-- How to plan routes with roads limitations (cut-off, max height, turn restrictions)
-- How to optimize trips to cover a full network area (e.g. street view/Mapillary planification)
-- How to maximize stops per hour
-- How to optimize routes with real-time traffic data (traffic, accidents, ...)
-- How to find the nearest drivers and minimize handoff times with live ETAs
-- How to find the closest facility (pick up locations, driver, hospital, ...)
-- How to calculate drive time areas
-- How to navigate through custom indoor/outdoor/mixed (university campus, ports, logistics, ....)/aerial/maritime... transport networks (multiple-floors, vehicles,  ...)
-- How to match/find candidates to share a ride
-- How to determine an optimal location for one or more facilities that will service demand from a given set of points
-- How to optimize fleet navigation
-- How to calculate a distance/OD matrix
-- How to calculate the estimated time of arrival (ETA)
-- How to estimate ride fuel consumption
-- How to estimate vehicle deterioration based on routes and environmental conditions
+- How to calculate turn-by-turn directions across a transport network (car, EV, pedestrian, truck, bike, public transit, scooter, ...) to go from X to Xn passing by X1, X2.
+- How to support multimodal or intermodal transport (combine vehicles with public transit timetables).
+- How to optimize routes for time, distance, fuel consumption, or CO₂ emissions.
+- How to create schematic maps for simplified navigation.
+- How to plan routes with restrictions (road closures, height limits, turn bans).
+- How to plan coverage routes that ensure an entire area is systematically captured (e.g. for street view or Mapillary data collection).
+- How to maximize stops per hour in delivery or service operations.
+- How to optimize routes using real-time traffic data (accidents, congestion, ...).
+- How to find the nearest driver and minimize handoff times with live ETAs.
+- How to find the closest facility (pickup point, driver, hospital, ...).
+- How to calculate drive-time areas.
+- How to navigate through custom transport networks, whether:  
+  - Indoor (multi-floor buildings, shopping malls, airports, university campuses).
+  - Outdoor (ports, logistics hubs, industrial sites).
+  - Mixed environments that combine indoor and outdoor spaces.
+  - Aerial routes (drones, aircraft corridors).
+  - Maritime routes (shipping lanes, ports).
+- How to match ride-share candidates.
+- How to determine the optimal location for one or more facilities to serve demand.
+- How to optimize fleet navigation.
+- How to calculate a distance or origin-destination (OD) matrix.
+- How to calculate the estimated time of arrival (ETA).
+- How to estimate ride fuel consumption.
+- How to estimate vehicle deterioration based on routes and environmental conditions.
 
 ### Geostatistical analysis
 
-- How to find spatial patterns using geostatistics (temporal patterns, predictions, spatial regression analysis)
-- How to measure centrality and dispersion
-- How to do spatiotemporal big data analysis
+- How to find spatial and historical temporal patterns using geostatistics (including predictions and spatial regression analysis).
+- How to measure spatial centrality and dispersion to better understand the distribution of data points.
+How to analyze large spatiotemporal datasets using big data methods and tools.
 
 ### Data transformation
 
 Like cartographic transformations, format transformations, ...
 
-- How to transform data to optimize for storage (change format, generalize data by reducing the size of polygons, ...)
-- How to transform my data to optimize for certain analysis
-- How do I combine two spatial datasets? (spatial joins, etc.)
-- How do I combine/join shapes (e.g. multiple polygons) by a common attribute?
-- How to correct GPS data (e.g. snap to roads, nearest roads, fix data anomalies, -> e.g. [accurate store visits](https://www.safegraph.com/blog/revealing-safegraphs-secret-method-for-getting-accurate-store-visits-from-gps-data)  by Safegraph, Madrid cleaning data...)
-- Convert raster/images to vector
-- How do I need to transform / project coordinates
+- How to transform spatial data to optimize storage (change formats, simplify polygons, reduce file sizes).
+- How to transform spatial data to optimize analysis and prepare it for specific methods.
+- How to combine two spatial datasets using spatial joins and integration techniques.
+- How to merge or dissolve shapes by a common attribute (e.g. combining multiple polygons).
+- How to correct and clean GPS data (snap to roads, find the nearest road, improve positional accuracy,fix anomalies like [accurate store visits](https://www.safegraph.com/blog/revealing-safegraphs-secret-method-for-getting-accurate-store-visits-from-gps-data) or cleaning open datasets).
+- How to reproject or transform coordinates between different reference systems.
 
-### Georeferenced Image analysis (aerial, ground, satellite, ...)
+### Georeferenced image analysis (aerial, ground, satellite, ...)
 
-- How to get ground coordinates from a given pixel in a panorama (e.g [oriented imagery](https://github.com/Esri/oriented-imagery))
-- How to get the area covered by an aerial picture (e.g. done image)
-- How to detect/identify elements like water, snow, ice, vegetation, soil, roads, buildings ... areas from raster/image (satellite)  using spectral signature (combine bands, etc)
-- How to convert those elements to vector data? (using deep learning) (extract and geolocate buildings, roads, pools, etc -> eg. RapID)
-- How to do camera image segmentation and geolocate? camera-based AI semantic segmentation, object detection, and classification (geolocate and geolocate from a ground picture/”3D”) (e.g. Advanced driver-assistance systems (ADAS))
-- How to determine the amount of electricity that could be generated from solar energy in the neighborhood of a city?
+- How to extract ground coordinates from a pixel in a panorama or oriented imagery (e.g, [oriented imagery](https://github.com/Esri/oriented-imagery)).
+- How to calculate the area covered by an aerial image (e.g. drone photo).
+- How to detect and classify land cover elements such as water, vegetation, soil, roads, and buildings from satellite imagery using spectral signatures and band combinations.
+- How to convert raster features into vector data with deep learning (e.g. extracting and geolocating buildings, roads, pools; like with [RapID editor](https://rapideditor.org/)).
+- How to apply image segmentation and geolocation to camera images using AI for semantic segmentation, object detection, and classification (e.g. [Advanced driver-assistance systems](https://en.wikipedia.org/wiki/Advanced_driver-assistance_system)).
+- How to estimate solar energy potential and calculate the electricity that could be generated in a city neighborhood.
 
-  
-
-Related knowledge: **libraries** (GDAL, GEOS, PROJ, Turf, ArcGIS REST APIs, Google Maps APIs, pgRouting, OSRM, GraphHopper, rasterio,, geotools, PyWPS, GeoPHP, ...)
+Related knowledge (**libraries**): GDAL, GEOS, PROJ, Turf, ArcGIS REST APIs, Google Maps APIs, pgRouting, OSRM, GraphHopper, rasterio, geotools, PyWPS, GeoPHP.
 
 ## Client-side development 
 
-Choose the best library to do an implementation (do I need fast? advance rendering? advance editing? offline visualization? 3D? ..work with a cartographer, ... 
+Choose the best client-side library depending on project needs (performance, rendering, editing, offline support, 3D visualization, collaboration with cartographers), etc..
 
 Problems:
 
 ### Display 2D and 3D georeferenced data
 
-- Heatmaps, clusters, ...
-- How to draw 2D shapes and advanced symbology (animated data, Multivariable representation, vector/CIM symbols, interactive geolocated charts, advanced labels, symbol textures,  ..)
-- How to improve usability/accessibility of polygon maps through a non-contiguous cartogram ([example](https://www.datanalytics.com/2021/06/23/mi-mapa-provincial-favorito/) & [tuto](https://www.gislounge.com/creating-non-contiguous-cartograms/))
-- Apply Photoshop like effects to data (glow, blending, ...)
-- Visualize geotagged videos, pictures (2D, 360º, ...), 
-- Underground data visualizations
-- Draw 3D shapes and objects (city in 3D, buildings, 3D animations, weather conditions, aerial paths, 3D scans, 3D objects, temporal data like space time cubes)
+- How to create heatmaps and clusters for spatial pattern visualization
+- How to draw 2D shapes with advanced symbology including animated data, multivariable representation, interactive and geolocated charts, textured symbols, advanced labels and complex vector symbols.
+- How to improve usability and accessibility of polygon maps through a non-contiguous cartogram ([example](https://www.datanalytics.com/2021/06/23/mi-mapa-provincial-favorito/) & [tutorial](https://www.gislounge.com/creating-non-contiguous-cartograms/)).
+- How to apply visual effects to maps similar to Photoshop (glow, blending, filters).
+- How to visualize geotagged media such as photos, videos, and 360° imagery.
+- How to display underground geospatial data.
+- How to create 3D visualizations including cities, buildings, weather simulations, aerial paths, 3D scans, objects, and temporal data like space-time cubes.
 
 ### Create faster maps
 
-- How to visualize large datasets with billions of points, large polygons, ... (how to store and serve, scale, renderers, aggregations, clusters, heatmaps, vector tiles, ...)
-- Simple and performant (SVGs, ...)
+- How to visualize massive geospatial datasets with billions of points or large polygons, using scalable storage, efficient rendering, aggregations, clusters, heatmaps, and vector tiles.
+- How to create simple and performant visualizations with lightweight techniques such as SVGs.
 
 ### Customize / advance maps
 
-- Display a geolocated image / image overlay (drones, scanned plane, ..)
-- How to create maps (campus, attractions, facilities, indoor, style map types, old maps with labels...) hiding/highlighting elements with custom colors, icons, fonts, multi language reference layers/labels, brand marks, ... for each zoom level
-- Tile a [gigapixel] picture/image
-- How to make a 3D tilted map view? A k.a. [bird-eye](https://bingmapsv8samples.azurewebsites.net/#Basic%20Birdseye) view(e.g. [gmaps](https://www.youtube.com/watch?v=Dq3YC70W7UY&t=100s))
+- How to display geolocated images and overlays from drones, scanned plans, etc.
+- How to create customized maps (campus, attractions, facilities, indoor, overlay labels on top of old aerial images) by hiding or highlighting elements, applying custom colors, icons, fonts, multilingual labels, brand marks, and style variations per zoom level.
+- How to tile and display gigapixel images as map.
+- How to create a 3D tilted map view ([bird-eye](https://bingmapsv8samples.azurewebsites.net/#Basic%20Birdseye)) with tools like Bing Maps or [Google Maps](https://www.youtube.com/watch?v=Dq3YC70W7UY&t=100s).
 
 ### Interact with geospatial data
 
-- How to do spatial queries and calculations client-side? -> [geospatial algorithms](https://docs.google.com/document/d/1sIbvbR35fpltvXcHBXQ_51lZ7lbmfHkJEC95nc8nqpY/edit#heading=h.dhy123shja1k)
-- Data creation toolbars (snapping, Drag and drop ,...)
-- Swipe maps
-- Combine lidar data + panorama pictures to be able to precisely georeference objects
+- How to run spatial queries and calculations on the client side using [geospatial algorithms](#geospatial-algorithms).
+- How to create toolbars to edit spatial data interactively including features like: snapping, drag-and-drop, etc.
+- How to implement swipe maps to compare multiple layers or time periods.
+- How to combine LiDAR data with panorama images to precisely georeference and locate objects.
 
 ### Work with offline geospatial data
 
-- How to visualize offline maps
-- How to implement an offline routing app?
-- How to do offline geospatial analysis (native and web/PWA)
+- How to visualize offline maps on mobile, desktop applications or web applications.
+- How to implement offline routing functionality in navigation apps.
+- How to perform offline geospatial analysis in native apps or Progressive Web Apps (PWAs).
 
 ### Other
 
-- Optimal way to track position real time
-- Integrate with hardware (periferics, sensors, ...)
-- How to improve accuracy of indoor geolocation
+- How to test & debug geospatial apps: mock data, edge cases (antimeridian, poles, projection distortions).
+- How to track position in real time with optimal performance.
+- How to implement performance strategies for mobile (battery, bandwidth, offline-first).
+- How to integrate geospatial applications with hardware such as peripherals and sensors.
+- How to improve the accuracy of indoor geolocation using advanced techniques and devices.
 
-
-Related knowledge: **representation models** (MDE, MSE, TIN), and client-side libraries (web: leaflet, google maps, maplibre, arcgisJS api, Cesium, openlayers,three.js, d3.js, deck.gl, kepler,gl ...; SDKs:..)
+Related knowledge in **representation models** (MDE, MSE, TIN) and **client-side libraries**, including web frameworks such as Leaflet, Google Maps JavaScript API, MapLibre, ArcGIS Maps SDKs, Cesium, OpenLayers, Three.js, D3.js, Deck.gl, Kepler.gl, and others.
 
 ## Server-side development
 
-Data management ...
+Server-side geospatial data management goes beyond storage: it involves organizing, optimizing, and securing datasets so they can be efficiently accessed, queried, and integrated.
 
 Problems:
 
-### Design system architecture (how to storage and access/integrate):
+### Design system architecture (how to store and access/integrate):
 
-- How do I store and serve data? (software architectures) a simple DBMS? a DBMS/Geospatial files + a geospatial server? ...
-- What data do I need to store and serve? (transport networks, real time, raster, ...)
-- How do I integrate my geospatial data with third party systems (ERP, BI, GIS software, ...)
-- Pick the best DBMS and design the schema for spatial data (how to structure E/R, layers vs views, spatial indexes, ...)
-- Choose a technology to serve geospatial data (map server/custom API)
-- What’s the best way (API) to serve my spatial algorithms?
+- How to store and serve geospatial data (DBMS, geospatial files, or geospatial server)
+- How to decide what geospatial data to store and serve (transport networks, real-time data, raster, etc.)
+- How to integrate geospatial data with third-party systems (ERP, BI, GIS software, and more)
+- How to choose the best DBMS and design a schema for spatial data (E/R models, layers vs views, spatial indexes)
+- How to select the right technology to serve geospatial data (map server, custom API, etc.)
+- How to serve spatial algorithms effectively through APIs
+- How to implement /CD workflows for geospatial (data pipelines, reproducibility, version control, testing strategies, etc,).
+- How to implement real-time data streams: ingestion, event-driven processing, MQTT/Kafka integration.
 
 ### Data capture/creation
 
-- How to create a static map image (with layers, etc.)
-- How to build animated GIS temporal animations
-- Check data gathering for more
+- How to create a static map image with multiple layers
+- How to build animated GIS temporal visualizations
+- How to capture and gather geospatial data efficiently
 
 ### How to render 3D web animation as a video gpx track (relive.cc)
 
-Related knowledge: **data types** (raster & vector), **data formats** (GeoJSON, TopoJSON, GPX, shapefile, GTFS, GeoTIFF, JPEG2000, MrSID, GML, GeoPackage, KML, GeoCSV, mobile map package, meshes, BIM, more [vector formats](https://gdal.org/drivers/vector/index.html) and [raster formats](https://gdal.org/drivers/raster/index.html)...), **data transformations** (coordinate changes, projections, vector <-> raster, ...), **geospatial libraries** (GDAL, geopandas, GeoDjango, terraformer-js, KoopJS...) and utilities/tools, **database spatial extensions/capabilities** (PostGIS, SpatiaLite, Mysql spatial extension, ArcSDE, MongoDB geospatial queries, ...), **geospatial database versioning** (offline database sync), **map servers** (geospatial servers: GeoServer, MapServer, ArcGIS Online, ...), **OGC standards** (WFS, WMS, WMTS, SLD, WPS, CityGML, i3s, ...), **metadata** (GeoJSON-LD, ISO, FGDC, EXIF, ...) + **[data quality](https://docs.google.com/document/d/1sIbvbR35fpltvXcHBXQ_51lZ7lbmfHkJEC95nc8nqpY/edit#heading=h.ajs1ocjfjzsw)**.
+Related knowledge: **data types** (raster & vector), **data formats** (GeoJSON, TopoJSON, GPX, shapefile, GTFS, GeoTIFF, JPEG2000, MrSID, GML, GeoPackage, KML, GeoCSV, mobile map package, meshes, BIM, Geoparquet, more [vector formats](https://gdal.org/drivers/vector/index.html) and [raster formats](https://gdal.org/drivers/raster/index.html) like COG (Cloud Optimized GeoTIFF) etc.), **data transformations** (coordinate changes, projections, vector <-> raster, ...), **geospatial libraries** (GDAL, geopandas, GeoDjango, terraformer-js, KoopJS...) and utilities/tools, **database spatial extensions/capabilities** (PostGIS, SpatiaLite, Mysql spatial extension, ArcSDE, MongoDB geospatial queries, ...), **geospatial database versioning** (offline database sync), **map servers** (geospatial servers: GeoServer, MapServer, ArcGIS Online, ...), **OGC standards** (OGC API, WFS, WMS, WMTS, SLD, WPS, CityGML, i3s, ...), **metadata** (GeoJSON-LD, ISO, FGDC, EXIF, ...) + **[data quality](https://docs.google.com/document/d/1sIbvbR35fpltvXcHBXQ_51lZ7lbmfHkJEC95nc8nqpY/edit#heading=h.ajs1ocjfjzsw)**.
+Related knowledge: **data types** (raster & vector), **data formats** (GeoJSON, TopoJSON, GPX, shapefile, GTFS, GeoTIFF, JPEG2000, MrSID, GML, GeoPackage, KML, GeoCSV, mobile map package, meshes, BIM, Geoparquet, COG (Cloud Optimized GeoTIFF), Parquet/Arrow for vector,more [vector formats](https://gdal.org/drivers/vector/index.html) and [raster formats](https://gdal.org/drivers/raster/index.html)...), **data transformations** (coordinate changes, projections, vector <-> raster, ...), **geospatial libraries** (GDAL, geopandas, GeoDjango, terraformer-js, KoopJS...) and utilities/tools, **database spatial extensions/capabilities** (PostGIS, SpatiaLite, Mysql spatial extension, ArcSDE, MongoDB geospatial queries, ...), **geospatial database versioning** (offline database sync), **map servers** (geospatial servers: GeoServer, MapServer, ArcGIS Online, ...), **OGC standards** (OGC API, WFS, WMS, WMTS, SLD, WPS, CityGML, i3s, ...), **metadata** (GeoJSON-LD, ISO, FGDC, EXIF, ...) + **[data quality](https://docs.google.com/document/d/1sIbvbR35fpltvXcHBXQ_51lZ7lbmfHkJEC95nc8nqpY/edit#heading=h.ajs1ocjfjzsw)**.
 
-> Note: when/why do I need to use a map server? You should consider it in different escenarios. It is useful for large projects where several applications need to be build to consume geospatial information, using the implemented standards (data formats, style/symbology, ...) avoids to reinvent the wheel and can save a lot of implementation time (by using geospatial client libraries), but it also saves time with third party integrations, helps with performance to serve the large data (transform vector to raster server side, tiling, cache ...) support to manage geospatial files without a DBMS, etc.
+> Note: when/why do I need to use a map server? You should consider it in different scenarios. It is useful for large projects where several applications need to be built to consume geospatial information, using the implemented standards (data formats, style/symbology, ...) avoids to reinvent the wheel and can save a lot of implementation time (by using geospatial client libraries), but it also saves time with third party integrations, helps with performance to serve the large data (transform vector to raster server side, tiling, cache ...) support to manage geospatial files without a DBMS, etc.
 
 ## Data gathering and geolocation
 
@@ -185,40 +191,42 @@ What resolution do I need to build my app/analysis?
 
 ### Data gathering
 
-- Aerial images (satellite, plane, drones) <- historical, multispectral, ...
-- Boundaries (administrative, ambiental, geometric, ..)
-- Demographic data (population, incomes and spending, risk..., urban population movement pattern - OD matrices, historical electoral data)
-- Elevation data (apis and datasets, slopes/relief, bathymetry, DEM, DSM, DTM, TIN/contour lines ...)
-- Environmental (Earth observation, geology, land cover, farmland, forests, ...)
-- Ground images (cameras: traffic, cities, ...)
-- Reference/labels
-- Structures (buildings, pois, ...)
-- Transport (navigation, roads/trail/... networks, speed limits, radars, real-time/historical traffic, accidents, charge points, gas stations, dealerships and parking spots, airports, mile marker)
-- Weather and climate (temperature, wind, atmospheric pressure, hazards alerts, clouds,  ...)
-- ...
+For example:
+
+- **Aerial imagery**: satellite, airplane, drones (historical, multispectral, etc.)
+- **Boundaries**: administrative, environmental, geometric, etc.
+- **Demographics**: population, income and spending, risk indicators, urban mobility patterns (OD matrices), historical electoral data
+- **Elevation data**: APIs and datasets, slopes/relief, bathymetry, DEM, DSM, DTM, TIN, contour lines
+- **Environmental**: Earth observation, geology, land cover, farmland, forests, etc.
+- **Ground imagery**: traffic cameras, urban surveillance, etc.
+- **Reference/labels**: place names, gazetteers, standardized identifiers
+- **Structures**: buildings, points of interest (POIs), facilities
+- **Transport**: navigation systems, road/trail networks, speed limits, radars, real-time and historical traffic, accidents, charging points, gas stations, dealerships, parking lots, airports, mile markers
+- **Weather and climate**: temperature, wind, atmospheric pressure, hazard alerts, clouds, etc.
+
 
 ### Data geolocation (georeferencing)
 
-- How to georeference vector (IPs, addresses, spreadsheet field, ... ) and raster (planes, pictures, CAD files, ...    ) data 
-- How do I improve my geocoding results (limit to a certain extent, fallback, ..)
-- Manage (add, read, ..) geospatial data from images, videos, ...
-- Georeference a tilted map
-  - How to transform coordinates to Global Discrete Geodetic Grids (GDGGs)? (e.g. geogrid)
-  - Time/Timezone of a coordinate
-  - Get the approximate location of a device using cell towers and wifi points
-  - Find nearest POIs (businesses, ...)
-  - Geolocated images, 2D/spherical panoramas, aerial, webcams, ...
-  - Augmented/mixed/VR reality
+- How to georeference vector data (IPs, addresses, spreadsheet fields, etc.) and raster data (aerial photos, CAD files, scanned maps, etc.)  
+- How to improve geocoding results (set spatial limits, use fallback strategies, etc.)  
+- How to manage geospatial data from images, videos, and other media (add, read, extract)  
+- How to georeference a tilted or distorted map  
+- How to transform coordinates into Global Discrete Geodetic Grids (GDGGs) such as GeoGrid  
+- How to determine the time and timezone of a coordinate  
+- How to approximate the location of a device using cell towers and Wi-Fi access points  
+- How to find the nearest points of interest (POIs) such as businesses or facilities  
+- How to work with geolocated images, 2D and spherical panoramas, aerial photos, or webcam streams  
+- How to apply geospatial data in augmented, mixed, and virtual reality environments  
 
 ## Map creation (not programmatically) 
 
-Work with a cartographer, GIS analyst:
+Work with a cartographer or GIS analyst:
 
-- Create a fantasy map
-- Create tiled maps (tile an existing, create from scratch, ...)
-- Create a tilted map
-- Build transport network
-- Transform georeferenced lidar data to 3D meshes
+- How to create a fantasy map  
+- How to create tiled maps (from scratch or by tiling existing maps)  
+- How to design and use a tilted map  
+- How to build and visualize a transport network  
+- How to transform georeferenced LiDAR data into 3D meshes 
   
 
 Related knowledge: **data providers** (public and private), **source types** (Spatial Data Infrastructures / SDIs, APIs, Open Data portals, VGI/OSM, ...), **sources** (OSM, ArcGIS Living Atlas, Google Earth Engine, GeoNetwork, ...), **remote sensing techniques** (Radar, Lidar, Aerial Photography, multi-spectral/hyperspectral imaging, ... ),  **types are available** ( photogrammetry,...) + [how to manage that data](https://docs.google.com/document/d/1sIbvbR35fpltvXcHBXQ_51lZ7lbmfHkJEC95nc8nqpY/edit#heading=h.tscg2piw2oe7).
