@@ -26,7 +26,7 @@ Below I will name some of those that I consider to have had the greatest impact 
 * 2018 - 2022 - [Asociación Tomelloso Tech](https://web.archive.org/web/20201130180149/https://www.tomellosotech.org/) (co-founder & president)
 * 2020 - 2022 - [Asociación Española de GeoVoluntariado](https://web.archive.org/web/20230227140653/https://geovoluntarios.org/) (co-founder & president)
 * 2014 - today - [GeoDevelopers.org](https://linktr.ee/geodevelopers) (founder & community leader) & [Esri Community](https://community.esri.com/t5/user/viewprofilepage/user-id/124187)
-* 2024 - today - [Community Builders](https://linktr.ee/ComBuilders_ES) (co-founder & community leader)
+* 2024 - today - [Community Builders](http://combuilderses.github.io/) (co-founder & community leader)
 
 Over time I have discovered that there are many types of communities, with different motivations behind them, what is clear to me now, is that for me, **the best are still those that maintain the original spirit that I experienced**, where members help each other selflessly, there is a good atmosphere and the issues and limits are set by the members themselves.
 
@@ -74,6 +74,7 @@ Later on, especially after joining the Free Software Office of the University of
 * 2022 - [I started writing in Esri's developer's blog](https://www.esri.com/arcgis-blog/author/rjimenez/)
 * 2022 - [I published my first articles at Dev.to](https://dev.to/hhkaos) and [Medium.com](https://medium.com/@hhkaos)
 * 2023 - I started replacing my site with the goal in mind of turning it into a place where I can more easily share the content I have created over the years<sup>*</sup>.
+* 2025 - [IA and Education Podcast](https://www.youtube.com/playlist?list=PLPAGhVhnLUfD-ATyqa3UgLYc-7qyvPVUO)
 
 > **Note**: I have always disliked creating content and resources and leaving them in a drawer, so in the [digital brain section](/docs/digital-brain) I'll be sharing the resources I have been creating. But this will be very time consuming, and will probably take years, so I decided to create **[this issue to compile many of these resources](https://github.com/hhkaos/hhkaos.github.io/issues/1#issue-1701390134)** 📦. My intention is to be able to publish & translate some of them as blog articles 
 
