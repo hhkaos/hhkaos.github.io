@@ -89,7 +89,7 @@ All of these talks at Esri [DevSummit](https://www.esri.com/en-us/about/events/d
 * 🇺🇸 2025 - European Developer and Technology DevSummit - ArcGIS Location Platform: Best Practices When Hosting Your Data
 * 🇺🇸 2025 - European Developer and Technology DevSummit - ArcGIS Location Platform: An Introduction for Developers
 * 🇺🇸 2025 - European Developer and Technology DevSummit - Building Web Apps with Open Source Mapping APIs
-* 🇺🇸 2025 - Developer and Technology DevSummit - [Building Apps with Hosted Data Services](mediaspace.esri.com/media/t/1_vv79l0p3)
+* 🇺🇸 2025 - Developer and Technology DevSummit - [Building Apps with Hosted Data Services](https://mediaspace.esri.com/media/t/1_vv79l0p3)
 * 🇺🇸 2025 - Esri Partner Conference - Authentication Strategies Within Partner Offerings
 * 🇺🇸 2025 - Esri Partner Conference - ArcGIS Location Platform and Developer: An Introduction
 * 🇺🇸 2024 - European DevSummit - ArcGIS Location Platform: An Introduction for Developers
