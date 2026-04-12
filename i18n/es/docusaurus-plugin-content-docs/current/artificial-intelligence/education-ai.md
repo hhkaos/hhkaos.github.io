@@ -186,7 +186,7 @@ Así que es importante contrastar la información con múltiples fuentes para te
 
 Ejemplos de sesgos: 
 * Presentes en datos de entrenamiento: 
-  * Los 10 diez hechos más destacables de la historia de España. Respuestas: [en Español](https://www.perplexity.ai/search/dime-los-10-hechos-mas-destaca-iyS8mtdcS7efCd37xro6kg) & [en inglés] ([tabla comparativa](https://docs.google.com/spreadsheets/d/1AyywgnPvW4zc65kt-47oaG_T-JtmdngsIhqal8BDe_s/edit?usp=sharing)) (diferencias culturales, opiniones, percepciones, ...)
+  * Los 10 diez hechos más destacables de la historia de España. Respuestas: [en Español](https://www.perplexity.ai/search/dime-los-10-hechos-mas-destaca-iyS8mtdcS7efCd37xro6kg) & [en inglés](https://docs.google.com/spreadsheets/d/1AyywgnPvW4zc65kt-47oaG_T-JtmdngsIhqal8BDe_s/edit?usp=sharing) (diferencias culturales, opiniones, percepciones, ...)
   * [Relojes que siempre marcan las 10:14](https://chatgpt.com/share/678e8c7c-61bc-8013-804e-efc27ab2c658)
 * Introducidos manualmente: [Escándalo de la IA de Google por sobrerrepresentar a minorías](https://elpais.com/tecnologia/2024-02-24/nazis-chinas-y-vikingos-negros-google-suspende-su-ia-de-imagenes-por-sobrerrepresentar-a-minorias.html)
 * Etc.
@@ -250,9 +250,7 @@ Antes de pasar a ver la tabla de ejemplos incluída en [¿Para qué y cómo usar
 
 ### Iniciar
 
-En este apartado recopilamos ejemplos sobre cómo utilizar la IA para **familiarizarse** o iniciarse en una materia, ofreciendo una primera aproximación que permita comprender sus fundamentos, explorar sus áreas clave y orientarse en sus principales conceptos.
-
-El objetivo es facilitar una introducción clara y estructurada que ayude a obtener una visión general antes de profundizar en el tema.
+En este apartado recopilamos ejemplos sobre cómo utilizar la IA para iniciarnos en una materia, crear un temario personalizado y adaptado a nuestras necesidades, conocimientos y experiencias previas, facilitar una introducción clara y estructurada que ayude a obtener una visión general antes de profundizar en el tema.
 
 [Ver ejemplos](#para-qué-y-cómo)
 
@@ -298,26 +296,9 @@ Usar la IA para **investigar** datos y fuentes para ampliar conocimiento sobre u
 
 ## ¿Para qué y cómo?
 
-:::tip ¿Sabes lo que es el prompting?
-Para aquellas personas nuevas en este mundo de la IA generativa, recomendamos encarecidamente leer el contenido de [Instrucciones (GenAI)](#instrucciones-genai) antes empezar a probar los recursos incluidos en este apartado.
-:::
+He creado la aplicación "[Prompts para estudiar](https://www.rauljimenez.info/biblioteca-de-prompts-para-estudiar-con-ia/app/index.html)" para ofrecer ideas y prompts diseñados para ayudar a estudiantes y familias a aprovechar la inteligencia artificial como herramienta de aprendizaje, pensamiento y estudio autónomo.
 
-El objetivo de la siguiente tabla es dar ideas de las diferentes formas en las que se puede usar esta tecnología para mejorar el desarrollo personal y cognitivo.
-
-:::caution AVISO
-Aún no he introducido los enlaces en la tabla a los recursos que detallan cómo realizar estas tareas.
-:::
-
-<!-- To-Do: 
-* TABLA: Tareas y ejemplos de uso de la IA en la educación: 
-https://docs.google.com/spreadsheets/d/1-VLGcIOkYwAT_z06BbE1tKooj7ozco69U6TKoawmGAY/edit?usp=sharing
-
-* Notas en sucio: IA y educación:
- https://docs.google.com/document/d/1rZAq9LcgFZH8pVjYPWMHgUOcFn5J5VR6Zv_LBCVXh1c/edit?usp=sharing 
-
--->
-
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQLp04WR4rcR8UeyTmTR7grIU-OVCvrlXBoDs1Qo0A1Q1q2owzprqdbQhm-EpDCiXUwGKhIqE1pIY20/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" style={{width:"100%",height:"800px"}}></iframe>
+[![Banner promocional de "Prompts para estudiar" mostrando que funciona en escritorio y móvil](https://www.rauljimenez.info/biblioteca-de-prompts-para-estudiar-con-ia/app/assets/social/og-image.jpg)](https://www.rauljimenez.info/biblioteca-de-prompts-para-estudiar-con-ia/app/index.html)
 
 :::note
 Si lo que buscas recursos organizado por asignatura, revisa el **[Banco de recursos](#banco-de-recursos)**.
@@ -332,7 +313,7 @@ Independientemente del [método pedagógico](https://es.wikipedia.org/wiki/Categ
 ## Banco de recursos
 
 :::tip ¿Sabes lo que es el prompting?
-Para aquellas personas nuevas en este mundo de la IA generativa, recomendamos encarecidamente leae el contenido de [Instrucciones (GenAI)](#instrucciones-genai) antes empezar a usar los recursos incluídos en esta sección.
+Para aquellas personas nuevas en este mundo de la IA generativa, recomendamos encarecidamente leer el contenido de [Instrucciones (GenAI)](#instrucciones-genai) antes empezar a usar los recursos incluídos en esta sección.
 :::
 
 El documento "[Banco de recursos de IA para educación (para estudiantes)](https://docs.google.com/document/d/1f27ak657rVVTB-4aB1Cli388B1817IsboVkNl05GkR8/edit?usp=sharing)" contiene una recopilación de herramientas que hemos encontrado y que pensamos que podrían ser de utilidad para el alumnado de los centros educativos (principalmente de primaria y secundaria en España).
@@ -352,38 +333,21 @@ Y es que **la calidad de una respuesta de una IA depende enormemente de la calid
 
 ### Técnicas de prompting
 
-*Por hacer*
+No existe una única técnica perfecta, pero sí algunas formas de redactar instrucciones que suelen ayudar a obtener mejores resultados. La idea general es sencilla: cuanto más claro seas al plantear la tarea, más fácil será que la IA te devuelva algo útil.
 
-<!-- 
-* Cadena de pensamientos: Piensa paso a paso (romper el problema en diferentes pasos) -> cadena de pensamiento.
-* Few-shot prompting:
-* ReAct ((Reason + Act)): 
-* ...
+Algunas técnicas bastante conocidas son estas:
 
-A continuación voy a intentar listar algunos de las falsas creencias y/o falsos mitos más extendidos:
-* Pide educadamente, ej; "por favor"
-* ..
+* **Descomponer el problema paso a paso**: en lugar de pedir una respuesta compleja de golpe, puedes dividir la tarea en partes más pequeñas. Por ejemplo, primero pedir que identifique las ideas principales, luego que las ordene y por último que las explique con ejemplos. Esto suele ser especialmente útil en problemas largos, razonamientos o tareas de estudio.
 
+* **Few-shot prompting**: consiste en darle uno o varios ejemplos del tipo de respuesta que esperas antes de hacer la petición real. Es decir, en vez de decir solo “hazme un resumen”, puedes mostrarle un pequeño ejemplo de cómo quieres que sea ese resumen. Esto ayuda mucho cuando buscas un formato, estilo o nivel de detalle concreto.
+
+* **ReAct (Reason + Act)**: es una forma de trabajo en la que el modelo combina razonamiento y acción, por ejemplo pensando qué necesita hacer, consultando información o resolviendo partes de la tarea antes de responder. Como usuario no siempre verás este proceso por dentro, pero sí puedes favorecerlo pidiendo que analice primero la tarea, detecte lo que falta y luego construya la respuesta final.
+
+También conviene desmontar algunas ideas equivocadas bastante extendidas. Por ejemplo, no por decir “por favor” o escribir un prompt larguísimo vas a obtener automáticamente una mejor respuesta. A veces añadir demasiadas instrucciones hace justo lo contrario: confunde el objetivo principal y empeora el resultado. En muchos casos funciona mejor una instrucción clara, específica y bien estructurada que una muy larga pero ambigua.
 
 :::tip 🧠 Sabías que...
-¿Los LLMs no son deterministas? O lo que es lo mismo, que ante la misma pregunta, se reciben respuestas diferentes ([1](https://chatgpt.com/share/678ed02f-8da4-8013-b993-13a9dc9bb886)) ([2](https://chatgpt.com/share/678ed03c-c714-8013-8e0e-41049973ac3a)).
+Los modelos de lenguaje no son deterministas. Esto significa que, incluso haciendo la misma pregunta varias veces, pueden darte respuestas distintas. Por eso merece la pena probar diferentes formulaciones, comparar resultados y quedarse con la que mejor se ajuste a lo que necesitas.
 :::
-
-
-Prompting techniques
-
-
-Few-shot prompting: https://www.promptingguide.ai/techniques/fewshot
-ReAct ((Reason + Act)): https://www.promptingguide.ai/techniques/react (prompting method)
-Chain-of-Thought Prompting
-
-Video: https://www.youtube.com/watch?v=gu1Fof5-xnY&ab_channel=AIPlanet
-
-:::caution
-Algunos me comentan que a v veces añadir más hace que funcione peor.
-:::
--->
-
 
 ### Generar textos
 
@@ -414,7 +378,7 @@ Según lo que necesitemos, podríamos especificar:
 
 Ejemplo:
 
-> Quiero que actúes como un profesor de ciencia naturales de Andalucía, España. Y quiero que me ayudes a crear un plan de estudios para un alumno de primero de la Educación Secundaria Obligatoria (ESO). Usa un tono objetivo... por terminar
+> Quiero que actúes como un profesor de Ciencias Naturales de Andalucía, España. Quiero que me ayudes a crear un plan de estudio para un alumno de 1º de ESO sobre la célula. El contenido debe estar adaptado a su nivel, usar un lenguaje claro y sencillo, e incluir ejemplos cotidianos que le ayuden a entender mejor los conceptos. Organiza la respuesta en una tabla de 5 días, indicando para cada día: objetivo, explicación breve, actividad práctica y una pregunta de repaso. Usa un tono claro, motivador y evita tecnicismos innecesarios.
 
 
 <!--
@@ -448,17 +412,38 @@ Siguiendo el temario de libro del libro de la editorial Santillana y acorde a lo
 
 ### Generar imágenes
 
-*Por hacer: consejos, vocabulario y recursos para crear un buen prompt*
+Cuando pedimos a una IA que genere una imagen, ocurre algo parecido a lo que veíamos con el texto: cuanto más clara y concreta sea la instrucción, más probable es que el resultado se parezca a lo que tenemos en mente.
 
-<!-- Styles:
-* Photography: Filmic photo high flash long exposure minimalist moody neon soft focus vibrand
-* digital art: anima, dreamy, 3d, 3d model, concept art, gradient, midcentury, playful, psychedelic, retrowave
-* fine art: watercolour, colour pencil, ink print, oil painting, papercut, stained glass
+Un buen prompt para imágenes suele describir, al menos, estas piezas:
 
-* Dall-E: Baroque Mirrored glass Low angle Pointillism Cubism, film noir abstract, acrylic
- aspect ratio: square, widescreen, vertical,
-Cómo representarías una imagen para ilustrar una noticia en la que explicaremos que desde la asociación de madres y padres estamos colaborando en el centro escolar y más profesionales de la docencia y especialistas en inteligencia artificial para dar formación al alumnado sobre cómo usar la inteligencia artificial para aprender y desarrollar competencias entre el alumnado?
+* **Qué quieres representar**: la escena principal, los personajes u objetos y la acción.
+* **Con qué estilo visual**: fotografía, dibujo, acuarela, ilustración infantil, cómic, boceto, arte digital, etc.
+* **Qué encuadre o composición quieres**: primer plano, plano general, vista cenital, ángulo bajo, etc.
+* **Qué ambiente debe transmitir**: realista, alegre, sobrio, futurista, cálido, minimalista...
+* **Qué formato necesitas**: cuadrado, vertical, horizontal, cartel, miniatura, portada, etc.
 
+Por ejemplo, no es lo mismo pedir "hazme una imagen sobre un colegio" que pedir algo como:
+
+> Crea una ilustración horizontal, estilo dibujo digital amable y colorido, de un grupo de estudiantes en un centro escolar aprendiendo sobre inteligencia artificial junto a profesorado y familias. La escena debe transmitir colaboración, curiosidad y uso responsable de la tecnología. Evita pantallas excesivas y da protagonismo a la interacción entre personas.
+
+Además, cuando generas imágenes puede ayudarte conocer algo de vocabulario visual. Algunas palabras útiles suelen pertenecer a estas categorías:
+
+* **Estilo**: fotografía, acuarela, óleo, boceto, collage, pixel art, cómic, ilustración infantil, arte digital.
+* **Composición**: primer plano, plano general, vista aérea, vista cenital, ángulo bajo, simetría, fondo desenfocado.
+* **Luz y atmósfera**: luz cálida, luz natural, contraluz, colores pastel, tonos vibrantes, ambiente sereno, estética minimalista.
+* **Formato**: cuadrado, panorámico, vertical, portada, póster, miniatura.
+
+Igual que con los textos, conviene experimentar. A veces basta con cambiar dos o tres palabras para pasar de una imagen genérica a una mucho más útil.
+
+:::caution Propiedad intelectual
+Conviene ser prudentes también al generar imágenes. Evitaría pedir imágenes que copien de forma demasiado directa estilos de artistas vivos, personajes protegidos, marcas, logotipos o contenidos claramente sujetos a derechos de autor si no tienes permiso para hacerlo. La IA puede facilitar mucho la creación, pero eso no elimina las responsabilidades legales y éticas.
+:::
+
+:::tip Recurso en preparación
+Estoy trabajando en una app para explorar vocabulario visual y estilos útiles al crear prompts de imágenes: [prompt-style-vocabulary](https://github.com/hhkaos/prompt-style-vocabulary).
+:::
+
+<!--
 <ul>
   <li>
     <img alt="3D Wireframe" width="100" height="100" class="invisible fixed -left-96 -top-96" src="https://cdn.oaistatic.com/assets/3d-wireframe-b7plv1fd.webp"> 3D Wireframe
@@ -770,7 +755,27 @@ https://www.youtube.com/watch?v=WsSOjyfMGUM&t=608s&ab_channel=LaHoraMaker (o1 4 
 
 ### Proporcionar contexto
 
-*Por hacer: ventajas de formatos, introducir markdown, límites, partir documentos*
+Una de las formas más eficaces de mejorar una respuesta de la IA no es "preguntar mejor", sino **darle mejor contexto**. Si en vez de pedir algo de forma genérica le proporcionas el tema, el fragmento del libro, tus apuntes, una rúbrica o incluso un ejemplo de cómo quieres la respuesta, las probabilidades de obtener algo útil aumentan bastante.
+
+Por ejemplo, no es lo mismo pedir "explícame la fotosíntesis" que pedir "explícame la fotosíntesis basándote en estos apuntes de 2º de ESO y resúmelo en 5 ideas clave". En el segundo caso, la IA tiene más información para ajustarse al nivel, al enfoque y al contenido que realmente estás estudiando.
+
+Algunas recomendaciones útiles:
+
+* **Pega el material de partida** cuando sea posible: apuntes, fragmentos de texto, enunciados, criterios de evaluación, rúbricas o ejemplos.
+* **Indica de dónde debe sacar la respuesta**: por ejemplo, "responde solo a partir del texto que te paso a continuación".
+* **Usa formatos claros**: listas, tablas, apartados o incluso Markdown pueden ayudar a estructurar mejor tanto el contexto como la respuesta.
+* **Parte documentos largos en bloques** si ves que la herramienta pierde detalles, resume demasiado o ignora partes importantes.
+* **Aclara qué quieres que haga con ese contexto**: resumir, comparar, explicar, transformar en preguntas, adaptar al nivel del estudiante, etc.
+
+:::caution Importante
+No des por hecho que puedes subir cualquier documento a una herramienta de IA. Si el material es de una editorial, de un profesor, de una academia o de cualquier tercero, puede estar protegido por derechos de autor o por condiciones de uso concretas. Además, también debes evitar compartir información personal o sensible.
+
+En caso de duda, lo más prudente es no subir el documento completo. En su lugar, puedes trabajar con materiales propios, recursos abiertos, fragmentos breves cuando su uso esté permitido, o explicar con tus propias palabras el contenido que necesitas estudiar.
+:::
+
+Eso sí, aportar más contexto no siempre significa copiar y pegar mucho texto sin más. Si el contenido es excesivo, está desordenado o mezcla demasiadas cosas, también puede empeorar el resultado. Como casi siempre, lo importante no es solo la cantidad de información, sino que sea relevante, clara y esté bien organizada.
+
+En resumen: si quieres una respuesta más útil, no te limites a pedir; **acompaña tu petición con el contexto adecuado**.
 <!--
 
 https://iaenlasaulas.blogspot.com/2024/12/edicion-de-texto-en-chat-gpt-formatos.html 
@@ -917,4 +922,3 @@ He creado esta página como primer ejercicio para preparar un taller que voy a i
 
 En el apartado de herramientas veremos algunas herramientas que nos ayudarán a generar audios, imágenes, etc.
  -->
-
