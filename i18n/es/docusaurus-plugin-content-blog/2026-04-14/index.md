@@ -8,62 +8,82 @@ tags: []
 enableComments: true 
 ---
 
-Si tienes hijos pre-adolescentes seguro que ya te has preguntado (o te han hecho preguntas incómodas) sobre temas algún tema "delicado". Según cada familia esto pueden ser cosas como los reyes, magos, papá noel, cómo se hacen los hijos, el ratoncito Perez, etc. 
+Si tienes hijos preadolescentes, seguro que ya te has preguntado cuándo hablar con ellos de ciertos temas delicados. En cada casa esos temas pueden ser distintos: los Reyes Magos, Papá Noel, el Ratoncito Pérez, cómo se hacen los hijos...
 
-Y es que, ¿cuándo es el momento adecuado para tratarlos?, ¿hasta cuándo mantener una mentirilla piadosa por "mantener la inocencia/ilusión", o hasta cuánto nivel de detalle entrar.
 
-A veces hasta en casa nos cuesta ponernos de acuerdo entre los adultos, y no hay una respuesta única, es una decisión que cada familia está en su derecho de tomar.
+¿Cuándo es el momento adecuado para hablar de estos temas? ¿Hasta cuándo tiene sentido mantener una mentirijilla piadosa para conservar la ilusión? ¿Y con cuánto detalle conviene entrar?
 
-Así que quería escribir este artículo, para compartir una reflexión y opinión.
+Y es que la respuesta no es trivial. En casa, de hecho, muchas veces también nos cuesta ponernos de acuerdo a mi mujer y a mí 😅
 
-> Nota: Por supuesto, ha sido revisado por mi editora favorita, mi mujer 😜.
+Así que quería escribir este artículo, no para dar consejos a nadie, sino para compartir nuestra experiencia y una reflexión: **no hablar de ciertas cosas a tiempo también supone un riesgo**.
+
+> Nota: Por supuesto, también ha sido revisado por mi editora favorita, mi mujer 😜.
 
 ## Las cosas llegan cuando llegan
 
-Creo que muchas veces nos cuesta hablar de ciertos temas porque en cierto modo, significa reconocer que nuestros hijos se hacen mayores... ¡y es que, ¡leche!, qué rápido crecen! 😅
+Creo que muchas veces nos cuesta hablar de ciertos temas porque en cierto modo, significa reconocer que nuestros hijos se hacen mayores... ¡y es que, leche, qué rápido crecen! 😅
 
 Pero una cosa es lo que a nosotros nos gustaría, y otra cosa es la realidad.
 
-Por más que queramos, nuestros hijos no viven en una burbuja, al final los niños pasan mucho tiempo con sus amigos, con otros niños más mayores (en el cole, hermanos, primos, etc.), acceden a Internet (o alguno de los otros niños), etc. Y es inevitable que escuchen/vean cosas, a veces les llega sin más, otras veces preguntan o buscan a otros.
+Por más que queramos **nuestros hijos no viven en una burbuja**, al final:
+- pasan mucho tiempo con sus amigos
+- con otros niños mayores (en el cole, hermanos, primos, etc.)
+- acceden a Internet (o alguno de los otros niños lo hace) 
+- etc
 
-Una verdad como un temple que me decía el tutor de mi hijo en una tutoría es que, cuando un niño lo sabe, ya es cuestión de (poco) tiempo que el resto lo sepa, porque cuando surja la menor ocasión de que estén hablando sobre ese tema, quien más sepa se verá tentando de "sacará pecho" y "darle una lección" al resto, demostrando que es quien más sabe, que "es el más adulto".
+Por eso es inevitable que antes o después escuchen o vean cosas. A veces les llegan sin buscarlas. Otras veces preguntan o buscan respuestas en otro sitio.
+
+Hay una verdad como un templo que me dijo el tutor de mi hijo en una tutoría: cuando un niño sabe algo, es cuestión de poco tiempo que el resto también lo sepa.
+
+En cuanto surge la ocasión de hablar de ese tema, quien más sabe suele sentir la tentación de sacar pecho y darle una lección al resto, como forma de demostrar que es quien más sabe o que 'ya es más mayor'.
 
 Y nos guste o no, repito, esto es inevitable, ¿o es que no lo hemos vivido todos?
 
 ## Riesgos de no hablar a tiempo
 
-Nuestra preocupación, como supongo la de muchos más, es que al "aplazar"/evadir conversaciones, o decir medias porque consideramos que aún son muy pequeños, conllevan varios riesgos de los que a veces no somos plenamente consciences. Por ejemplo, que pierdan la confianza en nosotros, y/o que busquen respuestas y reciban información errónea.
+Nuestra preocupación, como imagino que les pasa a muchos padres, es que aplazar estas conversaciones o dar medias respuestas porque creemos que aún son pequeños también tiene riesgos. Por ejemplo:
+- que pierdan la confianza en nosotros y que busquen respuestas en otro sitio
+- que reciban información errónea y se hagan ideas equivocadas
 
 ## El otro elefante en la habitación
 
-Y es que no es fácil saber cuándo hablar de estos temas con nuestros hijos, es que también es difícil hablar de ellos con los padres del resto de niños con los que se relacionan nuestros hijos.
+Pero hay otro tema que cuesta todavía más: hablar y coordinarnos con otras familias.
 
-No sé si os pasará al resto, pero a nosotros nos pasa que nos cuesta sacar el tema con otros padres. A veces por miedo a incomodar, al miedo de generar un posible conflicto, o incluso a que por el simple hecho de sacar el tema se puedan pensar que ha pasado algo.
+No sé si os pasará también, pero a nosotros nos cuesta sacar este tema con otros padres. A veces por miedo a incomodar, a generar un conflicto o incluso a que, por el simple hecho de mencionarlo, alguien piense que ha pasado algo
 
-Lo que nosotros nos preguntamos es... ¿hay más padres en la misma situación y nadie nos atravemos a dar el primer paso?.
+Y muchas veces nos preguntamos: ¿habrá más padres en esta misma situación y nadie se atreve a dar el primer paso?
 
 ## Cómo lo afrontamos nosotros
 
-En nuestro caso desde pequeños intentamos explicar el concepto de "mentirijilla piadosa", como aquellas mentiras inofensivas o bienintencionadas que se dicen normalmente pensando en algo que hacemos por el bien de los demás (hacerles sentir bien, no hacerles daño, etc).
+No digo que sea la forma correcta, pero sí la mejor manera que se nos ha ocurrido en casa.
 
-Conforme nuestro hijo mayor iba creciendo y haciéndose mayor, e iba siendo consciente de su crecimiento le hacemos ver cómo como nuestros gustos e interesen cambian con el tiempo. Muchas veces aprovechamos comentarios que hace sobre su hermano pequeño para recordarle cómo a él antes le gustaba jugar a algunos juegos que ahora le parecen "juegos de niños chicos", o cómo antes algo que le parecía complicado, ahora le parece que está chupado. 
+En casa, desde pequeños, hemos explicado el concepto de 'mentirijilla piadosa', como esas mentiras inofensivas o bienintencionadas que a veces se dicen pensando en el bien del otro, por ejemplo para hacerles sentir bien o no herir los sentimientos.
 
-Creemos que eso le ayuda a cobrar consciencia de cómo crece y evoluciona su nivel de madurez, pero también de cómo su hermano pequeño aún no está listo para entender bien algunas cosas. Y esa misma reflexión es la que usamos con él, cuando hablamos de ciertos temas. Por ejemplo, cuando viendo una película le incomodaba ver a dos adultos versarse en la boca, y le explicábamos que a cierta edad era completamente normal, pero que seguramente en el futuro cambiaría.
+Muchas veces aprovechamos comentarios que hace sobre su hermano pequeño para recordarle que a él mismo antes le gustaban juegos que ahora le parecen 'de niños chicos', o que antes había cosas que le parecían difíciles y ahora le parece que están chupadas.
 
-Por otro lado nosotros les hemos explicado que a nosotros nadie nos ha enseñado a ser padres, de hecho, José revisó y dió el visto bueno a mi artículo. También que cometemos errores (como cualqueira), pero que ellos son lo más importante de nuestras vidas, y que todo lo que hacemos es siempre (o casi siempre) pensando en lo que les hará de mayores mejores personas y más felices.
+Creemos que eso le ayuda a tomar conciencia de cómo cambia su nivel de madurez, pero también de cómo ahora él es consciente de que su hermano tampoco puede entender algunas cosas por la edad que tiene (aunque se las expliquemos). Y del mismo modo, aunque aún él no lo entienda, en el futuro entenderá por qué aún es pronto para él para entender algunas cosas.
 
-Por eso les leemos libros como "De mayor quiero ser feliz" o "El emocionario", otras veces son libros como "Tu cuerpo es tuyo", "mi primer libro de Educación financiera", "Mi primer libro de intelignecia artificial", etc Y les solemos recordar que lo hacemos porque creemos que les darán herramientas y conocimientos para que les vaya mejor en la vida.
+Por ejemplo, una época, en la que le incomodaba ver en la TV a dos adultos besándose en la boca. Aprovechamos ese momento para explicarle que hay cosas que a ciertas edades nos incomodan o no entendemos del todo, y que eso también cambia con el tiempo.
 
-De mismo modo cuando leemos algún libro sobre crianza, El cerebro del niño, Disciplina sin lágrimas, etc, les explicamos que nosotros también necesitamos aprender a ser padres, y que si en algún momento creen que nos equivocamos, nos lo digan, que es probable que tengan razón.
+Por otro lado, también les hemos explicado que a nosotros nadie nos ha enseñado a ser padres. Que cometemos errores, como cualquiera, pero que ellos son lo más importante de nuestras vidas y que casi todo lo que hacemos lo hacemos pensando en ayudarles a crecer como buenas personas y a ser más felices.
 
-Cuando se trata de temas que se deben introducir progresivamente, intentamos explicar que igual que hay películas que no están recomendadas para ciertas edades porque el cerebro en ciertos momentos no está preparado entender los comportamientos que se muestran, el lenguaje que se usa, o por las emociones que pueden provocar, y que hay cosas que no se deben hacer hasta ciertas edades (usar las redes sociales, beber alcohol, conducir, etc), hay cierta información que no son adecuados a ciertas edades.
+Por eso les leemos libros que les puedan dar herramientas para entenderse mejor y entender mejor el mundo. A veces son libros más emocionales, como 'De mayor quiero ser feliz' o 'El emocionario'; otras veces, libros sobre el cuerpo como "Tu cuerpo es tuyo", de educación financiera o incluso inteligencia artificial. E intentamos que entiendan que detrás de esos libros hay importantes lecciones de vida.
 
-Yo por ejemplo he tenido que explicarle que aunque yo le hubiese contado ciertas cosas antes, para nosotros no es tan sencillo. Por ejemplo, tengo que ponerme de acuerdo con su madre, y aún así, hay veces que esto puede no parecerle bien a otras personas (e.j. abuelos).
+Del mismo modo, cuando nosotros leemos libros sobre crianza, como 'El cerebro del niño' o 'Disciplina sin lágrimas', también se lo contamos. Queremos que vean que nosotros seguimos aprendiendo a ser padres y que, si alguna vez creen que nos equivocamos, nos lo digan, porque es muy posible que tengan razón.
 
-Y por último, lo que siempre les decimos que nos encantaría que se sintiesen en confianza para hablar de nosotros de cualquier tema, incluso si ven que vemos que lo evitamos, que insistan y pregunten por qué lo evitamos. Intentamos que se sientan en un entorno "seguro", y evitamos reconocer y valorar cuando se sinceran, etc.
+Cuando se trata de temas que creemos que deben introducirse poco a poco, intentamos explicarlo con analogías o ejemplos que ya conocen. Por ejemplo, igual que ver películas no recomendadas para sus edades pueden tener un impacto negativo en sus comportamientos, lenguaje o emociones, y por eso es mejor no verlas.
+
+Con la información pasa algo parecido: no porque sea mala, sino porque hay momentos en los que todavía no están preparados para entenderla bien.
+
+Yo, por ejemplo, he tenido que explicarle alguna vez que, aunque quizá a mí me hubiera salido contarle ciertas cosas antes, no siempre es tan sencillo. También tengo que ponerme de acuerdo con su madre y, aun haciéndolo, puede haber otras personas de la familia, como los abuelos, que no lo vean igual.
+
+Y, por encima de todo, lo que siempre intentamos transmitirles es que queremos que se sientan con la confianza de hablar con nosotros de cualquier tema. Incluso si notan que lo estamos evitando, preferimos que insistan y nos pregunten por qué.
+
+Intentamos que sientan que en casa hay un espacio seguro para hablar, sincerarse y hacer preguntas, y que cuando lo hacen se lo reconocemos y lo valoramos.
+
 
 ## ¿Hablamos?
 
-Y aunque esperamos que todo lo anterior ayude a que mantengan la confianza, aún así, sigue faltándonos una parte importante del puzle: hablar con el resto de padres.
+Y aunque esperamos que todo esto ayude a mantener la confianza con nuestros hijos, seguimos sintiendo que nos falta una pieza importante del puzle: poder hablar de estas cosas con otros padres.
 
 ¿Hablamos?
