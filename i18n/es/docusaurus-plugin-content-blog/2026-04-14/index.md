@@ -21,7 +21,7 @@ Así que quería escribir este artículo, no para dar consejos a nadie, sino par
 
 ## Nuestros hijos no viven en una burbuja
 
-Creo que muchas veces nos cuesta hablar de ciertos temas porque en cierto modo, significa reconocer que nuestros hijos se hacen mayores... ¡y es que, leche, qué rápido crecen! 😅
+Creo que muchas veces nos cuesta hablar de ciertos temas porque, en cierto modo, significa reconocer que nuestros hijos se hacen mayores... ¡y es que, leche, qué rápido crecen! 😅
 
 Pero una cosa es lo que a nosotros nos gustaría, y otra cosa es la realidad.
 
@@ -35,7 +35,7 @@ Por eso es inevitable que antes o después escuchen o vean cosas. A veces les ll
 
 Y hay una verdad como un templo que me dijo el tutor de mi hijo en una tutoría: **cuando un niño sabe algo, es cuestión de poco tiempo que el resto también lo sepa**.
 
-En cuanto vuelva a surgir ese tema, cuando vea a otro niño que sabe menos, sentirá la tentación de sacar pecho y dar una lección, como forma de demostrar no sólo que sabe más, si no de que 'es más mayor'.
+En cuanto vuelva a surgir ese tema, cuando vea a otro niño que sabe menos, sentirá la tentación de sacar pecho y dar una lección, como forma de demostrar no solo que sabe más, sino que 'es más mayor'.
 
 Y nos guste o no, repito, esto es inevitable, ¿o es que no lo hemos vivido todos?
 
@@ -62,9 +62,9 @@ No digo que sea la forma correcta, pero sí la mejor manera que se nos ha ocurri
 
 ### Todos estamos aprendiendo
 
-Como ya sabéis, les hemos explicado que a nosotros nadie nos ha enseñado a ser padres. Y aunque lo hacemos lo mejora que sabemos y podemos, también cometemos errores, pero que ellos son lo más importante de nuestras vidas y que casi todo lo que hacemos lo hacemos pensando en ayudarles a crecer como buenas personas y a ser más felices.
+Como ya sabéis, les hemos explicado que a nosotros nadie nos ha enseñado a ser padres. Y aunque lo hacemos lo mejor que sabemos y podemos, también cometemos errores. Pero ellos son lo más importante de nuestras vidas, y casi todo lo que hacemos lo hacemos pensando en ayudarles a crecer como buenas personas y a ser más felices.
 
-Por eso les leemos libros que les puedan dar herramientas para entenderse mejor y entender mejor el mundo. A veces son libros más emocionales, como 'De mayor quiero ser feliz' o 'El emocionario'; otras veces, libros sobre el cuerpo como "Tu cuerpo es tuyo", de educación financiera o incluso inteligencia artificial. E intentamos que entiendan que detrás de esos libros hay importantes lecciones de vida.
+Por eso les leemos libros que puedan darles herramientas para entenderse mejor y entender mejor el mundo. A veces son libros más emocionales, como 'De mayor quiero ser feliz' o 'El emocionario'; otras veces, libros sobre el cuerpo, como "Tu cuerpo es tuyo", de educación financiera o incluso de inteligencia artificial. E intentamos que entiendan que detrás de esos libros hay lecciones de vida importantes.
 
 Del mismo modo, cuando nosotros leemos libros sobre crianza, como 'El cerebro del niño' o 'Disciplina sin lágrimas', también se lo contamos. Queremos que vean que nosotros seguimos aprendiendo a ser padres y que, si alguna vez creen que nos equivocamos, nos lo digan, porque es muy posible que tengan razón.
 
@@ -82,23 +82,23 @@ Y al mayor ya le hemos explicado alguna.
 
 ### Temas más complicados
 
-Para temas más complicados y que deben introducirse poco a poco, como: "cómo se hacen los niños", hacemos dos cosas.
+Para temas más complicados, que deben introducirse poco a poco, como "cómo se hacen los niños", hacemos dos cosas.
 
 **Intentar que tome conciencia de cómo cambian sus gustos**
 
-Por ejemplo, muchas veces aprovechamos comentarios que hace sobre su hermano pequeño para recordarle que a él mismo antes le gustaban juegos que ahora le parecen 'de niños chicos', y ahora hay juegos que le gustan que antes no le gustaban.
+Por ejemplo, muchas veces aprovechamos comentarios que hace sobre su hermano pequeño para recordarle que a él mismo antes le gustaban juegos que ahora le parecen 'de niños chicos', y que ahora le gustan juegos que antes no le interesaban.
 
 Del mismo modo hubo una época en la que le incomodaba ver en la TV a dos adultos besándose en la boca. Aprovechamos ese momento para explicarle que hay cosas que a ciertas edades nos incomodan y que luego eso puede cambiar.
 
 **Intentar que tome conciencia de cómo cambia su nivel de madurez**
 
-Para ello intentamos buscar ejemplos de cosas que ya hayan vivido. Por ejemplo, igual que antes había cosas que le resultaban muy complicadas y ahora están chupadas.
+Para ello intentamos buscar ejemplos de cosas que ya haya vivido. Por ejemplo, igual que antes había cosas que le resultaban muy complicadas y ahora le parecen chupadas.
 
-También intentamos hacerle consciente del impacto de tiene que su hermano pequeño vea  contenidos/juegos no adecuados para su edad (e.j. más "violentos") y cómo pueden influir en sus comportamientos, lenguaje y emociones. Y que por eso es mejor que no los conozcan aún.
+También intentamos hacerle consciente del impacto que tiene que su hermano pequeño vea contenidos o juegos no adecuados para su edad, por ejemplo, más "violentos", y de cómo pueden influir en su comportamiento, su lenguaje y sus emociones. Y de que, por eso, es mejor que aún no los conozca.
 
-Y esa misma regla aplica con otra información/contenidos que no son adecuados para su edad: no porque sean malos, sino porque creemos que podrían influirle negativamente a su edad.
+Y esa misma regla aplica a otros contenidos o a cierta información que no son adecuados para su edad: no porque sean malos, sino porque creemos que podrían influirle negativamente a esa edad.
 
-Le explicamos que igual que su hermano pequeño aún no entiende que una semana tiene siete días y a él le parece muy obvio, también hubo un momento donde él no lo entendía. 
+Le explicamos que, igual que su hermano pequeño aún no entiende que una semana tiene siete días y a él eso le parece muy obvio, también hubo un momento en el que él no lo entendía.
 
 Y por tanto le pedimos que aunque no entienda por qué le decimos que creemos que algo aún no es adecuado para su edad, que confíe en que de verdad lo decimos de corazón.
 
