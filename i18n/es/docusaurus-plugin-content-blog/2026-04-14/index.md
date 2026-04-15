@@ -13,7 +13,7 @@ Si tienes hijos preadolescentes, seguro que ya te has preguntado cuándo hablar 
 
 **¿Cuándo es el momento adecuado para hablar de estos temas?** ¿Hasta cuándo tiene sentido mantener una mentirijilla piadosa para conservar la ilusión? ¿Y con cuánto detalle conviene entrar?
 
-Y es que la respuesta no es trivial. En casa, de hecho, muchas veces también nos cuesta ponernos de acuerdo a mi mujer y a mí 😅
+Y es que la respuesta no es trivial. En casa, de hecho, muchas veces también nos cuesta ponernos de acuerdo entre mi mujer y yo 😅
 
 Así que quería escribir este artículo, no para dar consejos a nadie, sino para compartir nuestra experiencia y una reflexión: no hablar de ciertas cosas **a tiempo** también supone un riesgo.
 
@@ -31,9 +31,11 @@ Por más que queramos, **nuestros hijos no viven en una burbuja**, al final:
 - acceden a Internet (o alguno de los otros niños lo hace) 
 - etc
 
-Por eso es inevitable que antes o después escuchen o vean cosas. A veces les llegan sin buscarlas. Otras veces preguntan o buscan respuestas en otro sitio.
+Por eso es inevitable que antes o después escuchen o vean cosas. A veces les llegan sin buscarlas. Otras veces preguntan o buscan respuestas en otro sitio. Y al final terminan repitiendo cosas por imiticación, sin entender realmente lo que significan.
 
-Y hay una verdad como un templo que me dijo el tutor de mi hijo en una tutoría: **cuando un niño sabe algo, es cuestión de poco tiempo que el resto también lo sepa**.
+En definitiva, muchas veces **no sabemos exactamente qué saben o qué han entendido**, lo que nos lleva a veces a mailterpretar cosas.
+
+En cualquier caso, hay una verdad como un templo y que me dijo el tutor de mi hijo en una tutoría: **cuando un niño "sabe algo", es cuestión de poco tiempo que el resto también "lo sepa"**.
 
 En cuanto vuelva a surgir ese tema, cuando vea a otro niño que sabe menos, sentirá la tentación de sacar pecho y dar una lección, como forma de demostrar no solo que sabe más, sino que 'es más mayor'.
 
@@ -42,8 +44,13 @@ Y nos guste o no, repito, esto es inevitable, ¿o es que no lo hemos vivido todo
 ## Riesgos de no hablar a tiempo
 
 Nuestra preocupación, como imagino que les pasa a muchos padres, es que aplazar estas conversaciones o decir verdades a medias porque creemos que aún son pequeños también tiene riesgos. Por ejemplo:
-- **que pierdan la confianza en nosotros** y que busquen respuestas en otro sitio
-- **que reciban información errónea** y se hagan ideas equivocadas
+- que sientan que no pueden hablar de ciertos temas con nosotros y **pierdan la confianza en nosotros** (buscando respuestas en otros sitios)
+- **que reciban o interpreten información de manera errónea** y se hagan ideas equivocadas
+
+Y no se trata de que todas las familias tengamos que pensar igual ni contar las cosas exactamente de la misma manera. Pero sí creemos que ayuda romper ciertos "tabús" entre padres para estar un poco en sintonía. Saber qué temas hemos hablado con nuestros hijos y cómo los hemos abordado puede prepararnos mejor si la conversación aparece en casa, no para imponer nada, sino para no pillarnos por sorpresa.
+
+Por un lado, evita que nuestros hijos escuchen algo de otros niños y sientan que nosotros les hemos ocultado la verdad, o que les tratamos de forma más infantil que a sus amigos. Y, por otro, ayuda a que otras familias no se enteren de ciertas cosas a través de una conversación entre niños, donde es fácil que aparezca el efecto teléfono roto: uno cuenta algo a medias, otro lo interpreta como puede, llega a casa con "ideas raras", y los padres acabamos preocupándonos o malinterpretando lo que ha pasado.
+
 
 ## Hablar con otras familias
 
@@ -64,13 +71,13 @@ No digo que sea la forma correcta, pero sí la mejor manera que se nos ha ocurri
 
 Como ya sabéis, les hemos explicado que a nosotros nadie nos ha enseñado a ser padres. Y aunque lo hacemos lo mejor que sabemos y podemos, también cometemos errores. Pero ellos son lo más importante de nuestras vidas, y casi todo lo que hacemos lo hacemos pensando en ayudarles a crecer como buenas personas y a ser más felices.
 
-Por eso les leemos libros que puedan darles herramientas para entenderse mejor y entender mejor el mundo. A veces son libros más emocionales, como 'De mayor quiero ser feliz' o 'El emocionario'; otras veces, libros sobre el cuerpo, como "Tu cuerpo es tuyo", de educación financiera o incluso de inteligencia artificial. E intentamos que entiendan que detrás de esos libros hay lecciones de vida importantes.
+Por eso les leemos libros que puedan darles herramientas para entenderse mejor y entender mejor el mundo. A veces son libros más emocionales, como 'De mayor quiero ser feliz' o 'El emocionario'; otras veces, libros sobre el cuerpo, como "Tu cuerpo es tuyo", de educación financiera o incluso de inteligencia artificial. Y procuramos que entiendan que detrás de esos libros hay lecciones de vida importantes.
 
 Del mismo modo, cuando nosotros leemos libros sobre crianza, como 'El cerebro del niño' o 'Disciplina sin lágrimas', también se lo contamos. Queremos que vean que nosotros seguimos aprendiendo a ser padres y que, si alguna vez creen que nos equivocamos, nos lo digan, porque es muy posible que tengan razón.
 
 ### No depende de uno solo
 
-Yo, por ejemplo, he tenido que explicarle alguna vez que, aunque quizá a mí me hubiera salido contarle ciertas cosas antes, no siempre es tan sencillo. 
+Yo, por ejemplo, he tenido que explicarle alguna vez que, aunque quizá a mí me hubiera salido contarle ciertas cosas antes, no siempre es tan sencillo.
 
 También tengo que ponerme de acuerdo con su madre y, aun haciéndolo, puede haber otras personas de la familia, como los abuelos, que no lo vean igual.
 
@@ -92,17 +99,17 @@ Del mismo modo hubo una época en la que le incomodaba ver en la TV a dos adulto
 
 **Intentar que tome conciencia de cómo cambia su nivel de madurez**
 
-Le hacemos ver que hay cosas que sólo se entienden cuando se es más mayor, y para ello intentamos buscar ejemplos de cosas que ya haya vivido. 
+Le hacemos ver que hay cosas que solo se entienden cuando se es más mayor y, para ello, intentamos buscar ejemplos de cosas que ya haya vivido.
 
-Por ejemplo cuando le hicimos consciente del impacto en el comportamiento, vocabulario, etc. que tenía que su hermano pequeño viese contenidos o jugase a juegos que le gustaban a él, pero que eran adecuados para la edad de su hermano. 
+Por ejemplo, le hicimos consciente del impacto que tenía en el comportamiento, el vocabulario, etc. que su hermano pequeño viese contenidos o jugase a juegos que le gustaban a él, pero que no eran adecuados para su edad.
 
-También le hicimos ver que aunque esto se lo expliquemos a su hermano pequeño, no era capaz de entender bien por qué no debía ver o jugar a eso.
+También le hicimos ver que, aunque se lo expliquemos a su hermano pequeño, no es capaz de entender bien por qué no debe ver o jugar a eso.
 
-Y esa misma regla aplica diferentes contenidos o información que no son adecuados para ciertas edades: no porque sean malos de por sí, sino porque aún no han alcanzado el nivel de madurez (buscamos ejemplos que le ayuden a entenderlo).
+Y esa misma regla aplica a diferentes contenidos o a cierta información que no son adecuados para ciertas edades: no porque sean malos de por sí, sino porque aún no han alcanzado el nivel de madurez necesario para entenderlos bien.
 
 ### Lo más importante para nosotros
 
-Por encima de todo, lo que siempre intentamos transmitirles es que confíen que hacemos lo que creemos que es mejor para ellos, y queremos que **se sientan con la confianza de hablar con nosotros de cualquier tema**. Incluso si notan que lo estamos evitando, preferimos que insistan y nos pregunten por qué.
+Por encima de todo, lo que siempre intentamos transmitirles es que confíen en que hacemos lo que creemos que es mejor para ellos, y que **se sientan con la confianza de hablar con nosotros de cualquier tema**. Incluso si notan que lo estamos evitando, preferimos que insistan y nos pregunten por qué.
 
 Intentamos que sientan que **en casa hay un espacio seguro para hablar**, sincerarse y hacer preguntas, y que cuando lo hacen se lo reconocemos y lo valoramos.
 
