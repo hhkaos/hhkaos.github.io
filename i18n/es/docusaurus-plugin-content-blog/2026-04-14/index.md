@@ -92,19 +92,17 @@ Del mismo modo hubo una época en la que le incomodaba ver en la TV a dos adulto
 
 **Intentar que tome conciencia de cómo cambia su nivel de madurez**
 
-Para ello intentamos buscar ejemplos de cosas que ya haya vivido. Por ejemplo, igual que antes había cosas que le resultaban muy complicadas y ahora le parecen chupadas.
+Le hacemos ver que hay cosas que sólo se entienden cuando se es más mayor, y para ello intentamos buscar ejemplos de cosas que ya haya vivido. 
 
-También intentamos hacerle consciente del impacto que tiene que su hermano pequeño vea contenidos o juegos no adecuados para su edad, por ejemplo, más "violentos", y de cómo pueden influir en su comportamiento, su lenguaje y sus emociones. Y de que, por eso, es mejor que aún no los conozca.
+Por ejemplo cuando le hicimos consciente del impacto en el comportamiento, vocabulario, etc. que tenía que su hermano pequeño viese contenidos o jugase a juegos que le gustaban a él, pero que eran adecuados para la edad de su hermano. 
 
-Y esa misma regla aplica a otros contenidos o a cierta información que no son adecuados para su edad: no porque sean malos, sino porque creemos que podrían influirle negativamente a esa edad.
+También le hicimos ver que aunque esto se lo expliquemos a su hermano pequeño, no era capaz de entender bien por qué no debía ver o jugar a eso.
 
-Le explicamos que, igual que su hermano pequeño aún no entiende que una semana tiene siete días y a él eso le parece muy obvio, también hubo un momento en el que él no lo entendía.
-
-Y por tanto le pedimos que aunque no entienda por qué le decimos que creemos que algo aún no es adecuado para su edad, que confíe en que de verdad lo decimos de corazón.
+Y esa misma regla aplica diferentes contenidos o información que no son adecuados para ciertas edades: no porque sean malos de por sí, sino porque aún no han alcanzado el nivel de madurez (buscamos ejemplos que le ayuden a entenderlo).
 
 ### Lo más importante para nosotros
 
-Y, por encima de todo, lo que siempre intentamos transmitirles es que queremos que **se sientan con la confianza de hablar con nosotros de cualquier tema**. Incluso si notan que lo estamos evitando, preferimos que insistan y nos pregunten por qué.
+Por encima de todo, lo que siempre intentamos transmitirles es que confíen que hacemos lo que creemos que es mejor para ellos, y queremos que **se sientan con la confianza de hablar con nosotros de cualquier tema**. Incluso si notan que lo estamos evitando, preferimos que insistan y nos pregunten por qué.
 
 Intentamos que sientan que **en casa hay un espacio seguro para hablar**, sincerarse y hacer preguntas, y que cuando lo hacen se lo reconocemos y lo valoramos.
 
