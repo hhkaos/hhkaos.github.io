@@ -62,7 +62,7 @@ Por ejemplo:
 
 Pero hay algo que creo que cuesta todavía más: **hablar con otros padres y madres de estos temas**, porque a veces parecen "tabú".
 
-No sé si os pasará también, pero a nosotros nos cuesta sacar este tema con el resto por. A veces por:
+No sé si os pasará también, pero a nosotros nos cuesta sacar este tema con el resto. A veces por:
 - miedo a incomodar
 - miedo a generar un conflicto
 - miedo a que, por el simple hecho de mencionarlo, alguien piense que ha pasado algo
