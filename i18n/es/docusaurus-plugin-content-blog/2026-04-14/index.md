@@ -57,11 +57,11 @@ No sé si os pasará también, pero a nosotros nos cuesta sacar este tema con el
 - miedo a generar un conflicto
 - miedo a que, por el simple hecho de mencionarlo, alguien piense que ha pasado algo
 
-Y no se trata de que todas las familias tengamos que pensar igual ni contar las cosas de la misma manera. Cada casa tiene sus tiempos, sus valores y su forma de explicarlo. Pero sí creemos que ayuda hablar de estos temas con más naturalidad entre padres y madres, aunque solo sea para tener un poco más de contexto.
+Y no se trata de que todas las familias tengamos que pensar igual ni contar las cosas de la misma manera. Cada casa tiene sus tiempos, sus valores y su forma de explicarlo. Pero sí creemos que ayuda poder hablar de estos temas con más naturalidad entre padres y madres, compartiendo qué conversaciones van apareciendo en nuestras casas y cómo las vamos abordando.
 
-Saber qué temas han aparecido en otras casas, y cómo los han abordado, puede ayudarnos a evitar sorpresas y a prepararnos mejor si la conversación llega a la nuestra. Así, si nuestros hijos escuchan algo de otros niños podemos explicarles por qué nosotros hemos tratado el tema de manera diferente y que no sientan que les tratamos de forma más infantil que a sus amigos.
+No para ponernos todos de acuerdo ni para imponer un criterio, sino para tener un poco más de contexto. Si nuestros hijos escuchan algo de otros niños, podemos explicarles por qué en nuestra familia hemos tratado el tema de otra manera, sin que sientan que les hemos ocultado la verdad o que les tratamos de forma más infantil que a sus amigos.
 
-Y, por otro lado, también ayuda a las demás familias. Si nosotros hablamos de algo en casa, quizá otros padres prefieran saberlo por nosotros antes que por una versión incompleta contada entre niños. Porque ahí es fácil que aparezca el efecto teléfono roto: uno cuenta algo a medias, otro lo interpreta como puede, llega a casa una versión confusa, y los padres acabamos preocupándonos o malinterpretando lo que ha pasado.
+Y si somos nosotros quienes hablamos de algo en casa, quizá también ayude a otras familias saber que esa conversación puede aparecer. Mejor que les llegue por nosotros, con calma y contexto, que por una versión incompleta contada entre niños. Porque ahí es fácil que aparezca el efecto teléfono roto: un niño cuenta algo a medias, otro lo interpreta como puede, llega a casa una versión confusa, y los padres acabamos preocupándonos o malinterpretando lo que ha pasado.
 
 Hablarlo entre adultos no debería ser para imponer nada, sino para allanar el terreno y estar un poco más preparados si la conversación aparece.
 
@@ -75,7 +75,7 @@ No digo que sea la forma correcta, pero sí la mejor manera que se nos ha ocurri
 
 Como ya sabéis, les hemos explicado que a nosotros nadie nos ha enseñado a ser padres. Y aunque lo hacemos lo mejor que sabemos y podemos, también cometemos errores. Pero ellos son lo más importante de nuestras vidas, y casi todo lo que hacemos lo hacemos pensando en ayudarles a crecer como buenas personas y a ser más felices.
 
-Por eso les leemos libros que puedan darles herramientas para entenderse mejor y entender mejor el mundo. A veces son libros más emocionales, como 'De mayor quiero ser feliz' o 'El emocionario'; otras veces, libros sobre el cuerpo, como "Tu cuerpo es tuyo", de educación financiera o incluso de inteligencia artificial. Y procuramos que entiendan que detrás de esos libros hay lecciones de vida importantes.
+Por eso les leemos libros que puedan darles herramientas para entenderse mejor y entender mejor el mundo. A veces son libros más emocionales, como 'De mayor quiero ser feliz' o 'El emocionario'; otras veces, libros sobre el cuerpo, como "Tu cuerpo es tuyo", de educación financiera o incluso de inteligencia artificial. Y procuramos que entiendan que detrás de esos libros hay "lecciones de vida" importantes.
 
 Del mismo modo, cuando nosotros leemos libros sobre crianza, como 'El cerebro del niño' o 'Disciplina sin lágrimas', también se lo contamos. Queremos que vean que nosotros seguimos aprendiendo a ser padres y que, si alguna vez creen que nos equivocamos, nos lo digan, porque es muy posible que tengan razón.
 
@@ -87,7 +87,7 @@ También tengo que ponerme de acuerdo con su madre y, aun haciéndolo, puede hab
 
 ### Mentiras piadosas
 
-En casa, **desde pequeños**, hemos explicado el concepto de **'mentirijilla piadosa'**, como esas mentiras inofensivas o bienintencionadas que a veces se dicen pensando en el bien del otro, por ejemplo para hacerles sentir bien o no herir los sentimientos.
+En casa, **desde pequeños**, hemos explicado el concepto de **'mentirijilla piadosa'**, como esas mentiras inofensivas o bienintencionadas que a veces se dicen pensando en el bien del otro, por ejemplo para hacerles sentir bien, "protegerles", o no herir los sentimientos.
 
 Y al mayor ya le hemos explicado alguna.
 
@@ -99,17 +99,17 @@ Para temas más complicados, que deben introducirse poco a poco, como "cómo se 
 
 Por ejemplo, muchas veces aprovechamos comentarios que hace sobre su hermano pequeño para recordarle que a él mismo antes le gustaban juegos que ahora le parecen 'de niños chicos', y que ahora le gustan juegos que antes no le interesaban.
 
-Del mismo modo hubo una época en la que le incomodaba ver en la TV a dos adultos besándose en la boca. Aprovechamos ese momento para explicarle que hay cosas que a ciertas edades nos incomodan y que luego eso puede cambiar.
+Del mismo modo hubo una época en la que le incomodaba ver en la TV a dos adultos besándose en la boca. Aprovechamos ese momento para explicarle que era normal, que a veces hay cosas que a ciertas edades nos incomodan y que luego eso puede cambiar.
 
 **Intentar que tome conciencia de cómo cambia su nivel de madurez**
 
 Le hacemos ver que hay cosas que solo se entienden cuando se es más mayor y, para ello, intentamos buscar ejemplos de cosas que ya haya vivido.
 
-Por ejemplo, le hicimos consciente del impacto que tenía en el comportamiento, el vocabulario, etc. que su hermano pequeño viese contenidos o jugase a juegos que le gustaban a él, pero que no eran adecuados para su edad.
+Por ejemplo, le hicimos consciente del impacto que tenía (en el comportamiento, el vocabulario, etc.) que su hermano pequeño viese contenidos o jugase a juegos que le gustaban a él, pero que no eran adecuados para su edad.
 
-También le hicimos ver que, aunque se lo expliquemos a su hermano pequeño, no es capaz de entender bien por qué no debe ver o jugar a eso.
+También le hicimos ver que, aunque le intentemos explicar a su hermano pequeño por qué él no debe ver o jugar a eso, no es capaz de entenderlo bien.
 
-Y esa misma regla aplica a diferentes contenidos o a cierta información que no son adecuados para ciertas edades: no porque sean malos de por sí, sino porque aún no han alcanzado el nivel de madurez necesario para entenderlos bien.
+Y esa misma regla aplica a otros contenidos o información que no son adecuados para ciertas edades: no porque sean malos de por sí, sino porque aún no han alcanzado el nivel de madurez necesario para entenderlos bien.
 
 ### Lo más importante para nosotros
 
@@ -120,6 +120,6 @@ Intentamos que sientan que **en casa hay un espacio seguro para hablar**, sincer
 
 ## ¿Hablamos?
 
-Y aunque esperamos que todo esto ayude a mantener la confianza con nuestros hijos, seguimos sintiendo que nos falta una pieza importante del puzle: poder hablar de estas cosas con otros padres.
+Y aunque esperamos que todo esto ayude a mantener la confianza con nuestros hijos, **seguimos sintiendo que nos falta una pieza importante del puzle: poder hablar de estas cosas con otros padres**.
 
-¿Hablamos?
+**¿Hablamos?**
