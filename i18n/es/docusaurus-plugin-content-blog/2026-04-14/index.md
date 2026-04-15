@@ -1,56 +1,64 @@
 ---
 slug: when-to-talk-to-children-about-certain-topics
 title: 🤔 Hablar de ciertos temas con los niños
-description: ....
+description: Reflexión personal sobre cuándo hablar con nuestros hijos de temas delicados, los riesgos de aplazar ciertas conversaciones y la importancia de crear confianza en casa y diálogo con otras familias.
 authors: [hhkaos]
-image: /img/blogs/nobody-taught-us-how-to-be-parents/nobody-taught-us-how-to-be-parents-es.webp
-tags: []
+image: /img/blogs/when-to-talk-to-children-about-certain-topics/hablar-de-ciertos-temas-con-los-ninos.webp
+tags: [parenting, self-reflection]
 enableComments: true 
 ---
 
 Si tienes hijos preadolescentes, seguro que ya te has preguntado cuándo hablar con ellos de ciertos temas delicados. En cada casa esos temas pueden ser distintos: los **Reyes Magos, Papá Noel, el Ratoncito Pérez, cómo se hacen los hijos**...
 
+![Familia teniendo una conversación incómoda durante la cena](/img/blogs/when-to-talk-to-children-about-certain-topics/preguntas-incomodas-750.webp)
 
 **¿Cuándo es el momento adecuado para hablar de estos temas?** ¿Hasta cuándo tiene sentido mantener una mentirijilla piadosa para conservar la ilusión? ¿Y con cuánto detalle conviene entrar?
 
-Y es que la respuesta no es trivial. En casa, de hecho, muchas veces también nos cuesta ponernos de acuerdo entre mi mujer y yo 😅
+Y es que la respuesta no es trivial. En casa, de hecho, muchas veces también nos cuesta ponernos de acuerdo entre mi mujer y yo 😅.
 
-Así que quería escribir este artículo, no para dar consejos a nadie, sino para compartir nuestra experiencia y una reflexión: no hablar de ciertas cosas **a tiempo** también podría suponer un riesgo, ¿no crees?
+Así que quería escribir este artículo, no para dar consejos a nadie, sino para compartir nuestra experiencia y una reflexión: *no hablar de ciertas cosas **a tiempo** también podría suponer un riesgo*, ¿no crees?
 
 > **Nota**: Por supuesto, también ha sido revisado por mi editora favorita, mi mujer 😜.
 
 ## Nuestros hijos no viven en una burbuja
 
-Creo que muchas veces nos cuesta hablar de ciertos temas porque, en cierto modo, significa reconocer que nuestros hijos se hacen mayores... ¡y es que, leche, qué rápido crecen! 😅
+Creo que muchas veces nos cuesta hablar de ciertos temas porque, en cierto modo, significa reconocer que nuestros hijos se hacen mayores... ¡y es que, leche, qué rápido crecen! 😭
 
 Pero una cosa es lo que a nosotros nos gustaría, y otra cosa es la realidad.
 
 Por más que queramos, **nuestros hijos no viven en una burbuja**, al final:
 - pasan mucho tiempo con sus amigos
 - con otros niños mayores (en el cole, hermanos, primos, etc.)
-- acceden a Internet (o alguno de los otros niños lo hace) 
+- encuentras cosas en Internet (o alguno de los otros niños lo hace)
 - etc
 
-Por eso es inevitable que antes o después escuchen o vean cosas. A veces les llegan sin buscarlas. Otras veces preguntan o buscan respuestas en otro sitio. Y al final terminan repitiendo cosas por imitación, sin entender realmente lo que significan.
+Por eso es inevitable que antes o después escuchen o vean cosas. A veces les llegan sin buscarlas. Otras veces preguntan o buscan respuestas. Y, al final, terminan repitiendo cosas por imitación, sin entender realmente lo que significan.
 
-En definitiva, muchas veces **no sabemos exactamente qué saben o qué han entendido**, lo que a veces nos lleva a malinterpretar cosas.
+En definitiva, muchas veces **no sabemos exactamente qué saben o qué han entendido**, y esto... nos puede llevar a malinterpretar cosas 😕.
 
-En cualquier caso, hay una verdad como un templo que me dijo el tutor de mi hijo en una tutoría: **cuando un niño "sabe algo", es cuestión de poco tiempo que el resto también "lo sepa"**.
+En cualquier caso, hay una verdad como un templo que me dijo el tutor de mi hijo en una tutoría: 
 
-En cuanto vuelva a surgir ese tema, cuando vea a otro niño que sabe menos, sentirá la tentación de sacar pecho y dar una lección, como forma de demostrar no solo que sabe más, sino que 'es más mayor'.
+> *Independientemente de lo que hagamos o digamos,* ***cuando un niño "sabe algo", es cuestión de poco tiempo que el resto también "lo sepa"***.
+>
+> *Porque en cuanto vuelva a surgir ese tema, cuando uno vea que otro niño sabe menos, puede sentir la tentación de sacar pecho y "dar una lección", no solo para demostrar que sabe más, sino que 'es más mayor'.*"
 
-Y nos guste o no, repito, esto es inevitable, ¿o es que no lo hemos vivido todos?
+![Los niños nos viven en una burbuja](/img/blogs/when-to-talk-to-children-about-certain-topics/los-ninios-no-viven-en-una-burbuja-750.webp)
+
+Y nos guste o no, asumámoslo...  es inevitable, ¿o es que no nos ha pasado también a nosotros? 😅
 
 ## Riesgos de no hablar a tiempo
 
-Nuestra preocupación, como imagino que les pasa a muchos padres, es que aplazar estas conversaciones, decir "verdades a medias", o dar respuestas incompletas porque creemos que aún son pequeños, también tiene riesgos. Por ejemplo:
-- que sientan que no pueden hablar de ciertos temas con nosotros y **pierdan la confianza en nosotros** (buscando respuestas en otros sitios)
+Nuestra preocupación, como imagino que les pasa a muchos padres, es que aplazar estas conversaciones, decir "verdades a medias" o dar respuestas incompletas porque creemos que aún son pequeños, también tiene riesgos. 
+
+Por ejemplo:
+- que sientan que no pueden hablar de ciertos temas con nosotros, **poco a poco pierdan la confianza** y terminen buscando respuestas en otros sitios
 - **que reciban o interpreten información de manera errónea** y se hagan ideas equivocadas
 
+![Perdida de la confianza](/img/blogs/when-to-talk-to-children-about-certain-topics/perdida-de-la-confianza-750.webp)
 
 ## Hablar con otras familias
 
-Pero hay otro tema que cuesta todavía más: **hablar con otros padres y madres de estos temas**, porque parecen "tabú".
+Pero hay algo que creo que cuesta todavía más: **hablar con otros padres y madres de estos temas**, porque a veces parecen "tabú".
 
 No sé si os pasará también, pero a nosotros nos cuesta sacar este tema con el resto. A veces por:
 - miedo a incomodar
@@ -59,9 +67,11 @@ No sé si os pasará también, pero a nosotros nos cuesta sacar este tema con el
 
 Y no se trata de que todas las familias tengamos que pensar igual ni contar las cosas de la misma manera. Cada casa tiene sus tiempos, sus valores y su forma de explicarlo. Pero sí creemos que ayuda poder hablar de estos temas con más naturalidad entre padres y madres, compartiendo qué conversaciones van apareciendo en nuestras casas y cómo las vamos abordando.
 
+![Hablando en confianza con otras familias](/img/blogs/when-to-talk-to-children-about-certain-topics/hablando-en-confianza-con-otros-padres-750.webp)
+
 No para ponernos todos de acuerdo ni para imponer un criterio, sino para tener un poco más de contexto. Si nuestros hijos escuchan algo de otros niños, podemos explicarles por qué en nuestra familia hemos tratado el tema de otra manera, sin que sientan que les hemos ocultado la verdad o que les tratamos de forma más infantil que a sus amigos.
 
-Y si somos nosotros quienes hablamos de algo en casa, quizá también ayude a otras familias saber que esa conversación puede aparecer. Mejor que les llegue por nosotros, con calma y contexto, que por una versión incompleta contada entre niños. Porque ahí es fácil que aparezca el efecto teléfono roto: un niño cuenta algo a medias, otro lo interpreta como puede, llega a casa una versión confusa, y los padres acabamos preocupándonos o malinterpretando lo que ha pasado.
+Y si somos nosotros quienes hablamos de algo en casa, quizá también ayude a otras familias saber que esa conversación puede aparecer. Es mejor que les llegue por nosotros, con calma y contexto, que por una versión incompleta contada entre niños. Porque ahí es fácil que aparezca el efecto teléfono roto: un niño cuenta algo a medias, otro lo interpreta como puede, llega a casa una versión confusa, y los padres acabamos preocupándonos o malinterpretando lo que ha pasado.
 
 Hablarlo entre adultos no debería ser para imponer nada, sino para allanar el terreno y estar un poco más preparados si la conversación aparece.
 
@@ -73,21 +83,23 @@ No digo que sea la forma correcta, pero sí la mejor manera que se nos ha ocurri
 
 ### Todos estamos aprendiendo
 
-Como ya sabéis, les hemos explicado que a nosotros nadie nos ha enseñado a ser padres. Y aunque lo hacemos lo mejor que sabemos y podemos, también cometemos errores. Pero ellos son lo más importante de nuestras vidas, y casi todo lo que hacemos lo hacemos pensando en ayudarles a crecer como buenas personas y a ser más felices.
+Les hemos explicado que a nosotros nadie nos ha enseñado a ser padres. Y aunque lo hacemos lo mejor que sabemos y podemos, también cometemos errores. Pero ellos son lo más importante de nuestras vidas, y casi todo lo que hacemos lo hacemos pensando en ayudarles a crecer como buenas personas y a ser más felices.
 
-Por eso les leemos libros que puedan darles herramientas para entenderse mejor y entender mejor el mundo. A veces son libros más emocionales, como 'De mayor quiero ser feliz' o 'El emocionario'; otras veces, libros sobre el cuerpo, como "Tu cuerpo es tuyo", de educación financiera o incluso de inteligencia artificial. Y procuramos que entiendan que detrás de esos libros hay "lecciones de vida" importantes.
+Por eso les leemos libros que puedan darles herramientas para entenderse mejor y entender mejor el mundo. A veces son libros más emocionales, como 'De mayor quiero ser feliz' o 'El emocionario'; otras veces, libros sobre el cuerpo, como "Tu cuerpo es tuyo", de educación financiera, etc. También procuramos que entiendan que detrás de esos libros hay "lecciones de vida" importantes.
 
 Del mismo modo, cuando nosotros leemos libros sobre crianza, como 'El cerebro del niño' o 'Disciplina sin lágrimas', también se lo contamos. Queremos que vean que nosotros seguimos aprendiendo a ser padres y que, si alguna vez creen que nos equivocamos, nos lo digan, porque es muy posible que tengan razón.
+
+![Padres e hijos aprendiendo a la vez](/img/blogs/when-to-talk-to-children-about-certain-topics/padres-e-hijos-aprendiendo-a-la-vez-750.webp)
 
 ### No depende de uno solo
 
 Yo, por ejemplo, he tenido que explicarle alguna vez que, aunque quizá a mí me hubiera salido contarle ciertas cosas antes, no siempre es tan sencillo.
 
-También tengo que ponerme de acuerdo con su madre y, aun haciéndolo, puede haber otras personas de la familia, como los abuelos, que no lo vean igual.
+Quiero que entienda que también tengo que ponerme de acuerdo con su madre y, aun haciéndolo, puede haber otras personas de la familia, como los abuelos, que no lo vean igual.
 
 ### Mentiras piadosas
 
-En casa, **desde pequeños**, hemos explicado el concepto de **'mentirijilla piadosa'**, como esas mentiras inofensivas o bienintencionadas que a veces se dicen pensando en el bien del otro, por ejemplo para hacerles sentir bien, "protegerles", o no herir los sentimientos.
+En casa, **desde pequeños**, hemos explicado el concepto de **'mentirijilla piadosa'**, como esas mentiras inofensivas o bienintencionadas que a veces se dicen pensando en el bien del otro, por ejemplo para hacerles sentir bien, "protegerles" o no herir sus sentimientos.
 
 Y al mayor ya le hemos explicado alguna.
 
@@ -99,27 +111,31 @@ Para temas más complicados, que deben introducirse poco a poco, como "cómo se 
 
 Por ejemplo, muchas veces aprovechamos comentarios que hace sobre su hermano pequeño para recordarle que a él mismo antes le gustaban juegos que ahora le parecen 'de niños chicos', y que ahora le gustan juegos que antes no le interesaban.
 
-Del mismo modo hubo una época en la que le incomodaba ver en la TV a dos adultos besándose en la boca. Aprovechamos ese momento para explicarle que era normal, que a veces hay cosas que a ciertas edades nos incomodan y que luego eso puede cambiar.
+Del mismo modo, hubo una época en la que le incomodaba ver en la TV a dos adultos besándose en la boca. Aprovechamos ese momento para explicarle que era normal, que a veces hay cosas que a ciertas edades nos incomodan y que luego eso puede cambiar.
+
+![Contenidos no apropiados](/img/blogs/when-to-talk-to-children-about-certain-topics/sentir-verguenza-al-ver-un-beso-750.webp)
 
 **Intentar que tome conciencia de cómo cambia su nivel de madurez**
 
-Le hacemos ver que hay cosas que solo se entienden cuando se es más mayor y, para ello, intentamos buscar ejemplos de cosas que ya haya vivido.
+Le hacemos ver que hay cosas que solo se entienden cuando se es más mayor y, para ello, intentamos buscar ejemplos de situaciones que ya haya vivido.
 
-Por ejemplo, le hicimos consciente del impacto que tenía (en el comportamiento, el vocabulario, etc.) que su hermano pequeño viese contenidos o jugase a juegos que le gustaban a él, pero que no eran adecuados para su edad.
+Por ejemplo, le hicimos ver el impacto que podía tener en el comportamiento, el vocabulario, etc., que su hermano pequeño viese contenidos o jugase a juegos que le gustaban a él, pero que no eran adecuados para su edad.
 
-También le hicimos ver que, aunque le intentemos explicar a su hermano pequeño por qué él no debe ver o jugar a eso, no es capaz de entenderlo bien.
+También le hicimos ver que, aunque intentemos explicarle a su hermano pequeño por qué no debe ver o jugar a eso, todavía no es capaz de entenderlo bien.
 
-Y esa misma regla aplica a otros contenidos o información que no son adecuados para ciertas edades: no porque sean malos de por sí, sino porque aún no han alcanzado el nivel de madurez necesario para entenderlos bien.
+![Contenidos no apropiados](/img/blogs/when-to-talk-to-children-about-certain-topics/contenidos-no-apropiados-750.webp)
+
+Y esa misma regla se aplica a otros contenidos o a cierta información que no consideramos adecuados para ciertas edades: no porque sean malos de por sí, sino porque aún no han alcanzado el nivel de madurez necesario para entenderlos bien.
 
 ### Lo más importante para nosotros
 
-Por encima de todo, lo que siempre intentamos transmitirles es que confíen en que hacemos lo que creemos que es mejor para ellos, y que **se sientan con la confianza de hablar con nosotros de cualquier tema**. Incluso si notan que lo estamos evitando, preferimos que insistan y nos pregunten por qué.
+Por encima de todo, lo que siempre intentamos transmitirles es que confíen en que hacemos lo que creemos que es mejor para ellos, y que queremos que **se sientan con la confianza de hablar con nosotros de cualquier tema**. Incluso si notan que lo estamos evitando, preferimos que insistan y nos pregunten por qué.
 
 Intentamos que sientan que **en casa hay un espacio seguro para hablar**, sincerarse y hacer preguntas, y que cuando lo hacen se lo reconocemos y lo valoramos.
 
 
 ## ¿Hablamos?
 
-Y aunque esperamos que todo esto ayude a mantener la confianza con nuestros hijos, **seguimos sintiendo que nos falta una pieza importante del puzle: poder hablar de estas cosas con otros padres**.
+Aunque esperamos que todo esto ayude a mantener la confianza con nuestros hijos, **seguimos sintiendo que nos falta una pieza importante del puzle: poder hablar de estas cosas con otros padres y madres**.
 
 **¿Hablamos?**
