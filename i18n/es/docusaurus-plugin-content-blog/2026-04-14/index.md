@@ -15,7 +15,7 @@ Si tienes hijos preadolescentes, seguro que ya te has preguntado cuándo hablar 
 
 Y es que la respuesta no es trivial. En casa, de hecho, muchas veces también nos cuesta ponernos de acuerdo entre mi mujer y yo 😅
 
-Así que quería escribir este artículo, no para dar consejos a nadie, sino para compartir nuestra experiencia y una reflexión: no hablar de ciertas cosas **a tiempo** también supone un riesgo.
+Así que quería escribir este artículo, no para dar consejos a nadie, sino para compartir nuestra experiencia y una reflexión: no hablar de ciertas cosas **a tiempo** también podría suponer un riesgo, ¿no crees?
 
 > **Nota**: Por supuesto, también ha sido revisado por mi editora favorita, mi mujer 😜.
 
@@ -31,11 +31,11 @@ Por más que queramos, **nuestros hijos no viven en una burbuja**, al final:
 - acceden a Internet (o alguno de los otros niños lo hace) 
 - etc
 
-Por eso es inevitable que antes o después escuchen o vean cosas. A veces les llegan sin buscarlas. Otras veces preguntan o buscan respuestas en otro sitio. Y al final terminan repitiendo cosas por imiticación, sin entender realmente lo que significan.
+Por eso es inevitable que antes o después escuchen o vean cosas. A veces les llegan sin buscarlas. Otras veces preguntan o buscan respuestas en otro sitio. Y al final terminan repitiendo cosas por imitación, sin entender realmente lo que significan.
 
-En definitiva, muchas veces **no sabemos exactamente qué saben o qué han entendido**, lo que nos lleva a veces a mailterpretar cosas.
+En definitiva, muchas veces **no sabemos exactamente qué saben o qué han entendido**, lo que a veces nos lleva a malinterpretar cosas.
 
-En cualquier caso, hay una verdad como un templo y que me dijo el tutor de mi hijo en una tutoría: **cuando un niño "sabe algo", es cuestión de poco tiempo que el resto también "lo sepa"**.
+En cualquier caso, hay una verdad como un templo que me dijo el tutor de mi hijo en una tutoría: **cuando un niño "sabe algo", es cuestión de poco tiempo que el resto también "lo sepa"**.
 
 En cuanto vuelva a surgir ese tema, cuando vea a otro niño que sabe menos, sentirá la tentación de sacar pecho y dar una lección, como forma de demostrar no solo que sabe más, sino que 'es más mayor'.
 
@@ -43,23 +43,27 @@ Y nos guste o no, repito, esto es inevitable, ¿o es que no lo hemos vivido todo
 
 ## Riesgos de no hablar a tiempo
 
-Nuestra preocupación, como imagino que les pasa a muchos padres, es que aplazar estas conversaciones o decir verdades a medias porque creemos que aún son pequeños también tiene riesgos. Por ejemplo:
+Nuestra preocupación, como imagino que les pasa a muchos padres, es que aplazar estas conversaciones, decir "verdades a medias", o dar respuestas incompletas porque creemos que aún son pequeños, también tiene riesgos. Por ejemplo:
 - que sientan que no pueden hablar de ciertos temas con nosotros y **pierdan la confianza en nosotros** (buscando respuestas en otros sitios)
 - **que reciban o interpreten información de manera errónea** y se hagan ideas equivocadas
-
-Y no se trata de que todas las familias tengamos que pensar igual ni contar las cosas exactamente de la misma manera. Pero sí creemos que ayuda romper ciertos "tabús" entre padres para estar un poco en sintonía. Saber qué temas hemos hablado con nuestros hijos y cómo los hemos abordado puede prepararnos mejor si la conversación aparece en casa, no para imponer nada, sino para no pillarnos por sorpresa.
-
-Por un lado, evita que nuestros hijos escuchen algo de otros niños y sientan que nosotros les hemos ocultado la verdad, o que les tratamos de forma más infantil que a sus amigos. Y, por otro, ayuda a que otras familias no se enteren de ciertas cosas a través de una conversación entre niños, donde es fácil que aparezca el efecto teléfono roto: uno cuenta algo a medias, otro lo interpreta como puede, llega a casa con "ideas raras", y los padres acabamos preocupándonos o malinterpretando lo que ha pasado.
 
 
 ## Hablar con otras familias
 
-Pero hay otro tema que cuesta todavía más: **hablar y coordinarnos con otros padres y madres**.
+Pero hay otro tema que cuesta todavía más: **hablar con otros padres y madres de estos temas**, porque parecen "tabú".
 
 No sé si os pasará también, pero a nosotros nos cuesta sacar este tema con el resto. A veces por:
 - miedo a incomodar
 - miedo a generar un conflicto
 - miedo a que, por el simple hecho de mencionarlo, alguien piense que ha pasado algo
+
+Y no se trata de que todas las familias tengamos que pensar igual ni contar las cosas de la misma manera. Cada casa tiene sus tiempos, sus valores y su forma de explicarlo. Pero sí creemos que ayuda hablar de estos temas con más naturalidad entre padres y madres, aunque solo sea para tener un poco más de contexto.
+
+Saber qué temas han aparecido en otras casas, y cómo los han abordado, puede ayudarnos a evitar sorpresas y a prepararnos mejor si la conversación llega a la nuestra. Así, si nuestros hijos escuchan algo de otros niños podemos explicarles por qué nosotros hemos tratado el tema de manera diferente y que no sientan que les tratamos de forma más infantil que a sus amigos.
+
+Y, por otro lado, también ayuda a las demás familias. Si nosotros hablamos de algo en casa, quizá otros padres prefieran saberlo por nosotros antes que por una versión incompleta contada entre niños. Porque ahí es fácil que aparezca el efecto teléfono roto: uno cuenta algo a medias, otro lo interpreta como puede, llega a casa una versión confusa, y los padres acabamos preocupándonos o malinterpretando lo que ha pasado.
+
+Hablarlo entre adultos no debería ser para imponer nada, sino para allanar el terreno y estar un poco más preparados si la conversación aparece.
 
 Y muchas veces nos preguntamos: ¿habrá más padres en esta misma situación, queriendo hablarlo pero sin atreverse a dar el primer paso?
 
