@@ -1,6 +1,17 @@
 # Rasgos personales
 
-Tras una reflexión profunda y contrastándolo mi percepciones personales con el feedback que suelo recibir, voy a describirme lo mejor que pueda.
+Tras una reflexión profunda y contrastándolo mi percepciones personales con el feedback he recibido, voy a describirme lo mejor que pueda.
+
+<details>
+<summary>Más concretamente, de donde he sacado estos rasgos...</summary>
+
+He seguido el mismo enfoque que aplico en mi día a día. Hacer una reflexión profunda, y después usar la IA para complementar. En este caso utilizando:
+- Información publicada en Internet sobre mí
+- Evaluaciones de rendimiento del trabajo
+- Recomendaciones públicas en LinkedIn
+
+Y finalmente he retado estas percepciones hasta pulirlo y sentirme cómodo.
+</details>
 
 ## Cómo pienso
 
