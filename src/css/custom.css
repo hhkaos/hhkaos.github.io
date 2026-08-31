@@ -99,6 +99,54 @@ article figcaption{
   font-style: italic;
 }
 
+.webmentions {
+  border-top: 1px solid var(--ifm-color-emphasis-200);
+  margin-top: 3rem;
+  padding: 2rem 0;
+}
+
+.webmentions h2 {
+  font-size: 1.4rem;
+}
+
+.webmentions-list {
+  display: grid;
+  gap: 1rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.webmention {
+  display: flex;
+  gap: .75rem;
+}
+
+.webmention-photo {
+  border-radius: 50%;
+  flex: 0 0 40px;
+  height: 40px;
+  width: 40px;
+}
+
+.webmention-meta,
+.webmention-content {
+  margin-bottom: .25rem;
+}
+
+.webmention-meta {
+  color: var(--ifm-color-emphasis-700);
+  font-size: .9rem;
+}
+
+.webmention-content {
+  font-size: .95rem;
+}
+
+.webmention-source {
+  display: none;
+}
+
 article img{
   border: 1px solid #ccc;
   box-shadow: 1px 0px 14px #ccc;

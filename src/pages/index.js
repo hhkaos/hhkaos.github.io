@@ -17,12 +17,6 @@ const socialProfiles = [
     rel: 'me nofollow',
   },
   {
-    href: 'https://x.com/hhkaos',
-    alt: 'Raúl Jiménez Ortega X',
-    badgeUrl: 'https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white&label=(former%20Twitter)',
-    rel: 'me nofollow',
-  },
-  {
     href: 'https://bsky.app/profile/rauljimenez.info',
     alt: 'Raúl Jiménez Ortega Bluesky',
     badgeUrl: 'https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white',
@@ -46,32 +40,21 @@ const socialProfiles = [
     badgeUrl: 'https://img.shields.io/badge/sessionize-1AB394?style=for-the-badge&logo=sessionize&logoColor=white',
     rel: 'me nofollow',
   },
-  {
-    href: 'https://dev.to/hhkaos',
-    alt: 'Raúl Jiménez Ortega Dev.to',
-    badgeUrl: 'https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white',
-    rel: 'me nofollow',
-  },
-  {
-    href: 'https://stackoverflow.com/users/3541972/hhkaos',
-    alt: 'Raúl Jiménez Ortega StackOverflow',
-    badgeUrl: 'https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white',
-    rel: 'me nofollow',
-  },
-  {
-    href: 'https://www.twitch.tv/hhkaos_',
-    alt: 'Raúl Jiménez Ortega Twitch',
-    badgeUrl: 'https://img.shields.io/badge/Twitch-6441A4?style=for-the-badge&logo=twitch&logoColor=white',
-    rel: 'me nofollow',
-  },
 ];
+
+const linksProfile = {
+  href: 'https://links.rauljimenez.info/',
+  alt: 'Raúl Jiménez Ortega links',
+  badgeUrl: 'https://img.shields.io/badge/More%20profiles-555555?style=for-the-badge&logo=linktree&logoColor=white',
+  rel: 'me',
+};
 
 const profile = {
   name: 'Raúl Jiménez Ortega',
   url: 'https://www.rauljimenez.info/',
   photo: 'https://www.rauljimenez.info/img/hhkaos-raul-jimenez-ortega.jpeg',
   note: 'Principal Product Engineer, DevRel @ Esri',
-  sameAs: socialProfiles.map(({href}) => href),
+  sameAs: [...socialProfiles.map(({href}) => href), linksProfile.href],
 };
 
 const personJsonLd = {
@@ -138,6 +121,18 @@ export default function Home() {
                 <img src={badgeUrl} alt={alt} data-canonical-src={badgeUrl} />
               </a>
             ))}
+          </p>
+          <p>
+            <a className="u-url" href={linksProfile.href} rel={linksProfile.rel}>
+              <img
+                src={linksProfile.badgeUrl}
+                alt={linksProfile.alt}
+                data-canonical-src={linksProfile.badgeUrl}
+              />
+            </a>
+          </p>
+          <p>
+            <Translate>More profiles and links are available there.</Translate>
           </p>
         </main>
       </div>
