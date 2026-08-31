@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrauljimenez_info=self.webpackChunkrauljimenez_info||[]).push([[6699],{8121:e=>{e.exports=JSON.parse('{"label":"OpenTechEvents","permalink":"/blog/tags/open-tech-events","allTagsPath":"/blog/tags","count":1}')}}]);

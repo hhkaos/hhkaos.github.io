@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrauljimenez_info=self.webpackChunkrauljimenez_info||[]).push([[3967],{1748:e=>{e.exports=JSON.parse('{"label":"IndieWeb","permalink":"/es/blog/tags/indie-web","allTagsPath":"/es/blog/tags","count":1}')}}]);

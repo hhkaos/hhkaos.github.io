@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrauljimenez_info=self.webpackChunkrauljimenez_info||[]).push([[5962],{5281:e=>{e.exports=JSON.parse('{"label":"Web Personal","permalink":"/es/blog/tags/web-personal","allTagsPath":"/es/blog/tags","count":1}')}}]);

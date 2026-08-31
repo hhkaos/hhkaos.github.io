@@ -4,10 +4,23 @@
         <title>RaulJimenez.info Blog</title>
         <link>https://www.rauljimenez.info/es/blog</link>
         <description>RaulJimenez.info Blog</description>
-        <lastBuildDate>Tue, 14 Apr 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Sep 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
+        <item>
+            <title><![CDATA[🌱 Primeros pasos en la IndieWeb]]></title>
+            <link>https://www.rauljimenez.info/es/blog/first-steps-into-the-indieweb</link>
+            <guid>https://www.rauljimenez.info/es/blog/first-steps-into-the-indieweb</guid>
+            <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Cómo OpenTechEvents me llevó a profundizar en la IndieWeb, añadir datos semánticos a mi web y empezar a experimentar con Webmentions.]]></description>
+            <content:encoded><![CDATA[<p>Durante las últimas semanas, mientras trabajaba en <a href="https://opentechevents.org/" target="_blank" rel="noopener noreferrer">OpenTechEvents</a>, acabé tirando de un hilo que hasta ahora solo había tocado por encima: la <a href="https://indieweb.org/" target="_blank" rel="noopener noreferrer">IndieWeb</a>.</p><p>Y, la verdad, tiene bastante sentido que haya llegado hasta ahí desde un proyecto sobre eventos tecnológicos abiertos.</p><p>OpenTechEvents me está haciendo volver a pensar en cómo publicamos información en la web, cómo conectamos comunidades y cómo hacemos que las cosas sean más descubribles sin depender demasiado de una única plataforma. Cuanto más leía, más me encontraba asintiendo con algunas ideas de la IndieWeb: ser dueño de tu identidad, publicar en tu propio dominio, hacer el contenido más interoperable y permitir que las webs vuelvan a hablar entre ellas.</p><p>Todavía tengo mucho que aprender, pero ya he dado algunos primeros pasos.</p><p>He añadido más datos semánticos a esta web usando JSON-LD y Microformats2, para que mi página principal me describa un poco mejor como persona, y no solo como una colección de elementos HTML. También he actualizado mi <a href="https://links.rauljimenez.info/" target="_blank" rel="noopener noreferrer">página de enlaces</a> para que funcione mejor como hub de identidad, con enlaces <code>rel="me"</code> y más compatibilidad con IndieLogin.</p><p>Mientras leía más sobre todo esto, además, me volvía a encontrar una y otra vez con <a href="https://aaronparecki.com/" target="_blank" rel="noopener noreferrer">Aaron Parecki</a>, una de las personas detrás de IndieWebCamp y alguien a quien admiro desde hace tiempo. Hay una conexión personal curiosa: fue cofundador de <a href="https://geoloqi.com/esri-faq/" target="_blank" rel="noopener noreferrer">Geoloqi</a>, una plataforma de geolocalización que acabó siendo adquirida por Esri, donde trabajo actualmente. Y más allá del punto geo, he aprendido mucho sobre OAuth gracias a sus <a href="https://www.udemy.com/user/aaron-parecki-2/" target="_blank" rel="noopener noreferrer">cursos y materiales</a>, que de hecho cité en mi charla de Commit Conf 2023, <a href="https://youtu.be/I6ZYVsUuPU8?si=LC44P3NiscHMVQgq&amp;t=217" target="_blank" rel="noopener noreferrer">OAuth, OpenID Connect and JWT para dummies</a>.</p><p>Y ahora también he activado <a href="https://webmention.io/" target="_blank" rel="noopener noreferrer">Webmentions</a>.</p><p>Eso significa que, al menos en teoría, si alguien escribe un artículo enlazando a uno de mis posts, esa mención puede descubrirse y mostrarse aquí. Parece poca cosa, pero me gusta la dirección: en vez de que las conversaciones queden encerradas solo dentro de redes sociales, una web personal puede recibir señales del resto de la web.</p><p>No pretendo decir que esto sea una migración completa a la IndieWeb. Es más bien abrir una puerta y poner un pie dentro.</p><p>Pero me gusta lo que representa.</p><p>Durante años he tratado esta web como mi cerebro digital. Quizá ahora también pueda estar un poco más conectado.</p><p>A ver hasta dónde me lleva este camino 😅.</p>]]></content:encoded>
+            <category>IndieWeb</category>
+            <category>Webmentions</category>
+            <category>Web Semántica</category>
+            <category>OpenTechEvents</category>
+            <category>Web Personal</category>
+        </item>
         <item>
             <title><![CDATA[🤔 Hablar de ciertos temas con los niños]]></title>
             <link>https://www.rauljimenez.info/es/blog/when-to-talk-to-children-about-certain-topics</link>

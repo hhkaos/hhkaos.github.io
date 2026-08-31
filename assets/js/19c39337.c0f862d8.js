@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrauljimenez_info=self.webpackChunkrauljimenez_info||[]).push([[3917],{3111:e=>{e.exports=JSON.parse('{"label":"Webmentions","permalink":"/blog/tags/webmentions","allTagsPath":"/blog/tags","count":1}')}}]);
