@@ -3,6 +3,8 @@ import {useLocation} from '@docusaurus/router';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 
 const WEBMENTION_API_URL = 'https://webmention.io/api/mentions.jf2';
+const MAX_CONTENT_LENGTH = 220;
+const CONTEXT_TAGS = ['P', 'LI', 'BLOCKQUOTE'];
 
 function getMentionType(mention) {
   if (mention['wm-property'] === 'like-of') {
@@ -60,6 +62,86 @@ function formatDate(date) {
     month: 'short',
     day: 'numeric',
   }).format(date);
+}
+
+function cleanText(value) {
+  return String(value || '').replace(/\s+/g, ' ').trim();
+}
+
+function normalizeUrl(value, base) {
+  if (!value) {
+    return null;
+  }
+
+  try {
+    const url = new URL(value, base);
+    url.hash = '';
+
+    return url.toString().replace(/\/$/, '');
+  } catch {
+    return null;
+  }
+}
+
+function excerptText(value, focus) {
+  const content = cleanText(value);
+
+  if (!content) {
+    return null;
+  }
+
+  if (content.length <= MAX_CONTENT_LENGTH) {
+    return content;
+  }
+
+  const focusedText = cleanText(focus);
+  const focusIndex = focusedText ? content.indexOf(focusedText) : -1;
+
+  if (focusIndex === -1) {
+    return `${content.slice(0, MAX_CONTENT_LENGTH - 3)}...`;
+  }
+
+  const maxContextLength = MAX_CONTENT_LENGTH - 6;
+  const roomAroundFocus = Math.max(maxContextLength - focusedText.length, 0);
+  const start = Math.max(0, focusIndex - Math.floor(roomAroundFocus / 2));
+  const end = Math.min(content.length, start + maxContextLength);
+  const adjustedStart = Math.max(0, end - maxContextLength);
+  const excerpt = content.slice(adjustedStart, end);
+
+  return `${adjustedStart > 0 ? '...' : ''}${excerpt}${end < content.length ? '...' : ''}`;
+}
+
+function findLinkContext(html, target, source) {
+  if (!html || typeof DOMParser === 'undefined') {
+    return null;
+  }
+
+  const normalizedTarget = normalizeUrl(target);
+  if (!normalizedTarget) {
+    return null;
+  }
+
+  const doc = new DOMParser().parseFromString(html, 'text/html');
+  const link = [...doc.querySelectorAll('a[href]')].find((anchor) => (
+    normalizeUrl(anchor.getAttribute('href'), source) === normalizedTarget
+      || normalizeUrl(anchor.href) === normalizedTarget
+  ));
+
+  if (!link) {
+    return null;
+  }
+
+  const context = CONTEXT_TAGS.includes(link.parentElement?.tagName)
+    ? link.parentElement
+    : link.closest(CONTEXT_TAGS.map((tagName) => tagName.toLowerCase()).join(','));
+
+  return excerptText((context || link).textContent, link.textContent);
+}
+
+function getContent(mention) {
+  return findLinkContext(mention.content?.html, mention['wm-target'], mention['wm-source'])
+    || excerptText(mention.content?.text)
+    || excerptText(mention.content?.html);
 }
 
 export default function Webmentions() {
@@ -121,7 +203,7 @@ export default function Webmentions() {
             const author = mention.author || {};
             const published = mention.published || mention['wm-received'];
             const formattedDate = published ? formatDate(new Date(published)) : null;
-            const content = mention.content?.text;
+            const content = getContent(mention);
 
             return (
               <li className="h-cite webmention" key={mention['wm-id'] || mention.url}>

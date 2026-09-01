@@ -102,27 +102,42 @@ article figcaption{
 .webmentions {
   border-top: 1px solid var(--ifm-color-emphasis-200);
   margin-top: 3rem;
-  padding: 2rem 0;
+  padding: 2.5rem 0;
+}
+
+.webmentions .container {
+  max-width: 820px;
 }
 
 .webmentions h2 {
-  font-size: 1.4rem;
+  font-size: 1.25rem;
+  margin-bottom: 1rem;
 }
 
 .webmentions-list {
   display: grid;
-  gap: 1rem;
+  gap: .85rem;
   list-style: none;
   margin: 0;
   padding: 0;
 }
 
 .webmention {
+  background: var(--ifm-background-surface-color);
+  border: 1px solid var(--ifm-color-emphasis-200);
+  border-radius: 8px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, .04);
   display: flex;
   gap: .75rem;
+  padding: 1rem;
+}
+
+.webmention-body {
+  min-width: 0;
 }
 
 .webmention-photo {
+  background: var(--ifm-color-emphasis-100);
   border-radius: 50%;
   flex: 0 0 40px;
   height: 40px;
@@ -136,11 +151,14 @@ article figcaption{
 
 .webmention-meta {
   color: var(--ifm-color-emphasis-700);
-  font-size: .9rem;
+  font-size: .88rem;
 }
 
 .webmention-content {
-  font-size: .95rem;
+  color: var(--ifm-color-emphasis-800);
+  font-size: .94rem;
+  line-height: 1.55;
+  overflow-wrap: anywhere;
 }
 
 .webmention-source {
