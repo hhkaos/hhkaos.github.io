@@ -86,7 +86,7 @@ Well, this moved faster than expected. Since writing this post, I have already s
 
 The flow now stores notes, bookmarks, likes, and replies in a public GitHub repository, [hhkaos/posts.rauljimenez.info](https://github.com/hhkaos/posts.rauljimenez.info). From there, a GitHub Action renders the public feed at [posts.rauljimenez.info](https://posts.rauljimenez.info/), showing only the items marked as visible.
 
-For now, I am keeping a simple privacy model by content type: notes and replies are public by default, while bookmarks and likes are private by default. That may evolve, but it feels like a good starting point.
+For now, I am treating this as an explicitly public space: I only plan to publish things I actually want to share in the open, fully aware of what that means. In practice, I do not expect to share anything here that I would not already be publishing in other silos today.
 
 And this is no longer just theoretical: I have already sent a real outgoing Webmention to swyx's [learn in public](https://swyx.io/learn-in-public) post, as a reply. It was verified by webmention.io and is visible there, which felt like a very satisfying first end-to-end test.
 

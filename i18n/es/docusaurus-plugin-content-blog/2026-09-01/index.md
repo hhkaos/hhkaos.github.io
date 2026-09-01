@@ -86,7 +86,7 @@ Bueno, esto ha avanzado más rápido de lo que esperaba. Desde que escribí este
 
 El flujo ahora guarda notes, bookmarks, likes y replies en un repositorio público de GitHub, [hhkaos/posts.rauljimenez.info](https://github.com/hhkaos/posts.rauljimenez.info). Desde ahí, una GitHub Action renderiza el feed público en [posts.rauljimenez.info](https://posts.rauljimenez.info/), mostrando solo los elementos marcados como visibles.
 
-De momento estoy usando un modelo de privacidad sencillo por tipo de contenido: las notes y replies son públicas por defecto, mientras que los bookmarks y likes son privados por defecto. Puede que esto evolucione, pero me parece un buen punto de partida.
+De momento estoy tratando esto como un espacio explícitamente público: solo tengo intención de publicar cosas que realmente quiera compartir en abierto, siendo consciente de lo que eso implica. En la práctica, no espero compartir aquí nada que a día de hoy no estuviese publicando ya en otros silos.
 
 Y esto ya no es solo teórico: ya he enviado una Webmention saliente real al post de swyx sobre [aprender en público](https://swyx.io/learn-in-public), como reply. Fue verificada por webmention.io y ya aparece allí, lo cual ha sido una primera prueba end-to-end bastante satisfactoria.
 
