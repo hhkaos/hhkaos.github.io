@@ -4,7 +4,6 @@ import Head from '@docusaurus/Head';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 require('@site/static/img/undraw_docusaurus_react.svg').default
-import HhkaosImageUrl from '@site/static/img/hhkaos-raul-jimenez-ortega.jpeg';
 import Translate from '@docusaurus/Translate';
 
 import styles from './index.module.css';
@@ -79,7 +78,7 @@ function HomepageHeader() {
       <div className="container">
         <img
           className="u-photo rounded img-medium"
-          src={HhkaosImageUrl}
+          src={profile.photo}
           alt="Raúl Jiménez Ortega"
         />
         {/* <div className={styles.buttons}>
