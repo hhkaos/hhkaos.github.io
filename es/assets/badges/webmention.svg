@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="15" viewBox="0 0 80 15" role="img" aria-labelledby="title">
+  <title id="title">Webmention</title>
+  <rect width="80" height="15" fill="#111"/>
+  <rect x="1" y="1" width="78" height="13" fill="#fff"/>
+  <rect x="2" y="2" width="16" height="11" fill="#2457f5"/>
+  <text x="10" y="10.5" text-anchor="middle" font-family="Verdana,Arial,sans-serif" font-size="8" font-weight="700" fill="#fff">@</text>
+  <text x="49" y="10.5" text-anchor="middle" font-family="Verdana,Arial,sans-serif" font-size="7" font-weight="700" fill="#111">mention</text>
+</svg>
