@@ -17,13 +17,13 @@ OpenTechEvents me está haciendo volver a pensar en cómo publicamos informació
 
 Todavía tengo mucho que aprender, pero ya he dado algunos primeros pasos.
 
-He añadido más datos semánticos a esta web usando JSON-LD y Microformats2, para que mi página principal me describa un poco mejor como persona, y no solo como una colección de elementos HTML. También he actualizado mi [página de enlaces](https://links.rauljimenez.info/) para que funcione mejor como hub de identidad, con enlaces `rel="me"` y más compatibilidad con IndieLogin.
+He añadido más datos semánticos a esta web usando [JSON-LD](https://json-ld.org/) y [Microformats2](http://microformats.org/wiki/microformats2), para que mi página principal me describa un poco mejor como persona, y no solo como una colección de elementos HTML. También he actualizado mi [página de enlaces](https://links.rauljimenez.info/) para que funcione mejor como hub de identidad, con enlaces `rel="me"` y más compatibilidad con [IndieLogin](https://indielogin.com/).
 
-Un concepto que me resuena especialmente es [POSSE](https://indieweb.org/POSSE): publicar en tu propio sitio y después sindicar en otros lugares. Entenderlo bien se vuelve bastante técnico bastante rápido, pero la idea me atrae muchísimo: usar mi propio dominio como lugar canónico para mi contenido y mi actividad, y después distribuir copias a las plataformas donde ya está la mayoría de la gente.
+Un concepto que me resuena especialmente es [POSSE](https://indieweb.org/POSSE): publicar en tu propio sitio y después sindicar en otros lugares. En cierto modo, se parece a lo que ya hago con [Buffer](https://buffer.com/): publicar desde un sitio y distribuir a distintas plataformas. La diferencia importante es que, con POSSE, mi propia web pasa a ser la fuente de verdad, y el resto de plataformas son copias o canales de distribución. Entenderlo bien se vuelve bastante técnico bastante rápido, pero la idea me atrae muchísimo: usar mi propio dominio como lugar canónico para mi contenido y mi actividad, y después distribuir copias a las plataformas donde ya está la mayoría de la gente.
 
 Eso no significa abandonar del todo las plataformas sociales. Si quiero interactuar con la mayoría, sigo necesitando estar donde está la mayoría. Pero sí me gusta la idea de no quedarme completamente atado a plataformas que pueden cerrar, empezar a cobrar, restringir sus APIs o cambiar las reglas del juego. Ya he visto versiones de esa historia con Meetup.com, Twitter/X, LinkedIn y otros servicios. Deberíamos ser los dueños de lo que compartimos, aunque sigamos participando en plataformas de terceros.
 
-Mientras leía más sobre todo esto, además, me volvía a encontrar una y otra vez con [Aaron Parecki](https://aaronparecki.com/), una de las personas detrás de IndieWebCamp y alguien a quien admiro desde hace tiempo. Hay una conexión personal curiosa: fue cofundador de [Geoloqi](https://geoloqi.com/esri-faq/), una plataforma de geolocalización que acabó siendo adquirida por Esri, donde trabajo actualmente. Según su [experiencia en LinkedIn](https://www.linkedin.com/in/aaronparecki/details/experience/), también trabajó en Esri entre 2012 y 2016. Y más allá del punto geo, he aprendido mucho sobre OAuth gracias a sus [cursos y materiales](https://www.udemy.com/user/aaron-parecki-2/), que de hecho cité en mi charla de Commit Conf 2023, [OAuth, OpenID Connect and JWT para dummies](https://youtu.be/I6ZYVsUuPU8?si=LC44P3NiscHMVQgq&t=217).
+Si no has oído hablar nunca de [Aaron Parecki](https://aaronparecki.com/), es una de las personas detrás de IndieWebCamp. Y además es un geogeek: fue cofundador de [Geoloqi](https://geoloqi.com/esri-faq/), una plataforma de geolocalización adquirida por Esri, donde trabajó de 2012 a 2016 según su [experiencia en LinkedIn](https://www.linkedin.com/in/aaronparecki/details/experience/). Además de haber creado mucho contenido y herramientas alrededor de la IndieWeb, es alguien de quien he aprendido mucho sobre OAuth gracias a sus [cursos y materiales](https://www.udemy.com/user/aaron-parecki-2/), que cité en mi charla de Commit Conf 2023, [OAuth, OpenID Connect and JWT para dummies](https://youtu.be/I6ZYVsUuPU8?si=LC44P3NiscHMVQgq&t=217).
 
 Si alguien quiere entender qué puede significar sumarse a la IndieWeb en la práctica, la web de Aaron es un ejemplo viviente de lo que significa ser dueño de tu propio contenido en tu propio dominio.
 
@@ -37,10 +37,12 @@ No pretendo decir que esto sea una migración completa a la IndieWeb. Es más bi
 
 También hay una pieza importante que todavía no he resuelto: automatizar el envío de Webmentions salientes. De momento, cuando enlazo a una web que soporta Webmentions, aún tengo que enviar la notificación manualmente, normalmente con un pequeño comando `curl`. No es lo ideal, pero para un primer experimento me vale.
 
-También quiero sacar tiempo para probar otras piezas del ecosistema, como [Micropub](https://indieweb.org/Micropub), [Microsub](https://indieweb.org/Microsub), y quizá entender por fin bien el [Fediverse](https://indieweb.org/Fediverse). Nunca llegué a profundizar demasiado en ello, pero esto ha vuelto a despertarme la curiosidad.
+También quiero sacar tiempo para probar otras piezas del ecosistema IndieWeb, como [Micropub](https://indieweb.org/Micropub) y [Microsub](https://indieweb.org/Microsub).
+
+Y, relacionado pero distinto, también quiero entender por fin bien el [Fediverso](https://es.wikipedia.org/wiki/Fediverso). La IndieWeb y el Fediverso no son lo mismo, aunque ambos forman parte de un movimiento más amplio a favor de una internet descentralizada y del control de los datos por parte de los usuarios. Los veo como ecosistemas hermanos, con filosofías muy parecidas, pero tecnologías y enfoques diferentes. Nunca llegué a profundizar demasiado en el Fediverso, pero esto ha vuelto a despertarme la curiosidad.
 
 Pero me gusta lo que representa.
 
-Durante años he tratado esta web como mi cerebro digital. Quizá ahora también pueda estar un poco más conectado.
+[Desde 2023](../2023-04-18/index.md) he tratado esta web como mi cerebro digital. Quizá, poco a poco, también pueda convertirse en una especie de gemelo digital de mi presencia online: una representación más fiel de lo que publico, marco como favorito, guardo, confirmo como asistencia y comparto por la web.
 
 A ver hasta dónde me lleva este camino 😅.
