@@ -12,11 +12,10 @@ export default function BlogPostItemWrapper(props) {
   const { metadata, isBlogPostPage } = useBlogPost()
   const { siteConfig } = useDocusaurusContext();
 
-  const { frontMatter, permalink, date, title, description } = metadata
+  const { frontMatter, permalink, date, title } = metadata
   const { enableComments } = frontMatter
   const canonicalUrl = permalink ? new URL(permalink, siteConfig.url).toString() : null
   const semanticTitle = stripLeadingSymbols(title)
-  const summary = description || frontMatter.description || semanticTitle
 
   return (
     <>
@@ -29,7 +28,6 @@ export default function BlogPostItemWrapper(props) {
             Raúl Jiménez Ortega
           </a>
         </span>
-        {summary ? <p className="e-content" hidden>{summary}</p> : null}
         <BlogPostItem {...props} />
       </article>
       {(enableComments && isBlogPostPage) && (
