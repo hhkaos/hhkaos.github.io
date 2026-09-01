@@ -8,6 +8,15 @@ The first thing the Internet did for me, was open the doors to **meet fantastic 
 
 I think, I did initially because **I liked and admired those who helped me and I wanted to be like them**, but what I didn't know, was how good I was going to feel doing it, becoming almost addictive. This is what made me very passionate about communities, and helping/supporting anyone who needed it. I guess, I have the hope that by doing so, they will have a similar experience to the one I had, and they will also end up helping other people... contributing to a more solidary and healthy society.
 
+This timeline summarizes that journey at a glance. Open the Google Drawing to read it more comfortably.
+
+<figure>
+
+[![Timeline of Raúl Jiménez Ortega's community journey from 1999 to today](/img/docs/about-me/community-journey.png)](https://docs.google.com/drawings/d/1UgwdspMxR4MFPbJ-L2yw-7bQGmVqHsK9A8HZqr_Tg20/edit?usp=sharing)
+
+<figcaption>My community journey from 1999 to today. Click the image to open the full Google Drawing.</figcaption>
+</figure>
+
 Below I will name some of those that I consider to have had the greatest impact on my personal and professional development and the roles I have played in them:
 
 * 1999 - 2001 - [IRC-Hispano](https://es.wikipedia.org/wiki/IRC-Hispano) (user & moderator)
@@ -26,7 +35,7 @@ Below I will name some of those that I consider to have had the greatest impact 
 * 2018 - 2022 - [Asociación Tomelloso Tech](https://web.archive.org/web/20201130180149/https://www.tomellosotech.org/) (co-founder & president)
 * 2020 - 2022 - [Asociación Española de GeoVoluntariado](https://web.archive.org/web/20230227140653/https://geovoluntarios.org/) (co-founder & president)
 * 2014 - today - [GeoDevelopers.org](https://linktr.ee/geodevelopers) (founder & community leader) & [Esri Community](https://community.esri.com/t5/user/viewprofilepage/user-id/124187)
-* 2024 - today - [Community Builders](http://combuilderses.github.io/) (co-founder & community leader)
+* 2024 - today - [Community Builders](https://communitybuilders.dev/) (co-founder & community leader)
 
 Over time I have discovered that there are many types of communities, with different motivations behind them, what is clear to me now, is that for me, **the best are still those that maintain the original spirit that I experienced**, where members help each other selflessly, there is a good atmosphere and the issues and limits are set by the members themselves.
 
