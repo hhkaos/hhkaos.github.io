@@ -5,6 +5,7 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 const WEBMENTION_API_URL = 'https://webmention.io/api/mentions.jf2';
 const MAX_CONTENT_LENGTH = 220;
 const CONTEXT_TAGS = ['P', 'LI', 'BLOCKQUOTE'];
+const FALLBACK_LOCALE_PREFIXES = ['/es'];
 
 function getMentionType(mention) {
   if (mention['wm-property'] === 'like-of') {
@@ -26,30 +27,59 @@ function getMentionType(mention) {
   return 'Mention';
 }
 
-function getCanonicalTargets(siteUrl, pathname) {
-  const url = new URL(pathname, siteUrl);
-  url.hash = '';
-  url.search = '';
+function getPathnameVariants(pathname, i18n) {
+  const normalizedPathname = pathname.startsWith('/') ? pathname : `/${pathname}`;
+  const configuredLocalePrefixes = (i18n?.locales || [])
+    .filter((locale) => locale !== i18n?.defaultLocale)
+    .map((locale) => `/${locale}`);
+  const localePrefixes = configuredLocalePrefixes.length > 0
+    ? configuredLocalePrefixes
+    : FALLBACK_LOCALE_PREFIXES;
+  const pathnames = new Set([normalizedPathname]);
 
-  const hosts = url.hostname.startsWith('www.')
-    ? [url.hostname, url.hostname.replace(/^www\./, '')]
-    : [url.hostname, `www.${url.hostname}`];
-
-  return [...new Set(hosts.flatMap((hostname) => {
-    const targetUrl = new URL(url.toString());
-    targetUrl.hostname = hostname;
-
-    const canonicalUrl = targetUrl.toString();
-
-    if (targetUrl.pathname === '/') {
-      return [canonicalUrl];
+  localePrefixes.forEach((prefix) => {
+    if (normalizedPathname === prefix) {
+      pathnames.add('/');
+      return;
     }
 
-    const withoutSlash = canonicalUrl.replace(/\/$/, '');
-    const withSlash = `${withoutSlash}/`;
+    if (normalizedPathname.startsWith(`${prefix}/`)) {
+      pathnames.add(normalizedPathname.slice(prefix.length) || '/');
+      return;
+    }
 
-    return [withoutSlash, withSlash];
-  }))];
+    pathnames.add(normalizedPathname === '/' ? prefix : `${prefix}${normalizedPathname}`);
+  });
+
+  return [...pathnames];
+}
+
+function getCanonicalTargets(siteUrl, pathname, i18n) {
+  const baseUrl = new URL(siteUrl);
+
+  const hosts = baseUrl.hostname.startsWith('www.')
+    ? [baseUrl.hostname, baseUrl.hostname.replace(/^www\./, '')]
+    : [baseUrl.hostname, `www.${baseUrl.hostname}`];
+
+  return [...new Set(getPathnameVariants(pathname, i18n).flatMap((pathnameVariant) => (
+    hosts.flatMap((hostname) => {
+      const targetUrl = new URL(pathnameVariant, siteUrl);
+      targetUrl.hostname = hostname;
+      targetUrl.hash = '';
+      targetUrl.search = '';
+
+      const canonicalUrl = targetUrl.toString();
+
+      if (targetUrl.pathname === '/') {
+        return [canonicalUrl];
+      }
+
+      const withoutSlash = canonicalUrl.replace(/\/$/, '');
+      const withSlash = `${withoutSlash}/`;
+
+      return [withoutSlash, withSlash];
+    })
+  )))];
 }
 
 function formatDate(date) {
@@ -195,8 +225,8 @@ export default function Webmentions() {
   const [status, setStatus] = useState('idle');
 
   const targets = useMemo(
-    () => getCanonicalTargets(siteConfig.url, location.pathname),
-    [siteConfig.url, location.pathname],
+    () => getCanonicalTargets(siteConfig.url, location.pathname, siteConfig.i18n),
+    [siteConfig.url, siteConfig.i18n, location.pathname],
   );
 
   useEffect(() => {

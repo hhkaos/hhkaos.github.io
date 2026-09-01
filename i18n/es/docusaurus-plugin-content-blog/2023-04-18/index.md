@@ -1,5 +1,5 @@
 ---
-slug: launching-my-new-website
+slug: new-website
 title: 🆕 Mi nueva web
 authors: [hhkaos]
 tags: [esri, hello, docusaurus]
