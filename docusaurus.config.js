@@ -44,6 +44,46 @@ const config = {
         href: 'https://indie.rauljimenez.info/micropub',
       },
     },
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'alternate',
+        type: 'application/rss+xml',
+        title: 'RaulJimenez.info RSS feed',
+        href: 'https://www.rauljimenez.info/blog/rss.xml',
+        hreflang: 'en',
+      },
+    },
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'alternate',
+        type: 'application/atom+xml',
+        title: 'RaulJimenez.info Atom feed',
+        href: 'https://www.rauljimenez.info/blog/atom.xml',
+        hreflang: 'en',
+      },
+    },
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'alternate',
+        type: 'application/rss+xml',
+        title: 'RaulJimenez.info RSS feed en espanol',
+        href: 'https://www.rauljimenez.info/es/blog/rss.xml',
+        hreflang: 'es',
+      },
+    },
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'alternate',
+        type: 'application/atom+xml',
+        title: 'RaulJimenez.info Atom feed en espanol',
+        href: 'https://www.rauljimenez.info/es/blog/atom.xml',
+        hreflang: 'es',
+      },
+    },
   ],
 
   // GitHub pages deployment config.
@@ -180,6 +220,8 @@ const config = {
             <a href=\"https://indieweb.org/\"><img src=\"/assets/badges/indieweb.svg\" width=\"80\" height=\"15\" alt=\"IndieWeb\" loading=\"lazy\"></a>
             <a href=\"http://microformats.org/\"><img src=\"/assets/badges/microformats.svg\" width=\"80\" height=\"15\" alt=\"Microformats\" loading=\"lazy\"></a>
             <a href=\"https://indieweb.org/Webmention\"><img src=\"/assets/badges/webmention.svg\" width=\"80\" height=\"15\" alt=\"Webmention\" loading=\"lazy\"></a>
+            <a href=\"/blog/rss.xml\"><img src=\"/assets/badges/rss.svg\" width=\"80\" height=\"15\" alt=\"RSS feed\" loading=\"lazy\"></a>
+            <a href=\"/blog/atom.xml\"><img src=\"/assets/badges/atom.svg\" width=\"80\" height=\"15\" alt=\"Atom feed\" loading=\"lazy\"></a>
             <a href=\"http://creativecommons.org/licenses/by/4.0/\"><img src=\"/assets/badges/cc-commons.svg\" width=\"80\" height=\"15\" alt=\"Creative Commons\" loading=\"lazy\"></a>
           </div>
         `,
