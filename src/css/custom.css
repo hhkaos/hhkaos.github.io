@@ -147,6 +147,19 @@ article figcaption{
   display: none;
 }
 
+.indieweb-badges {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.35rem;
+  padding-top: 0.5rem;
+}
+
+.indieweb-badges img {
+  display: block;
+  image-rendering: pixelated;
+}
+
 article img{
   border: 1px solid #ccc;
   box-shadow: 1px 0px 14px #ccc;
