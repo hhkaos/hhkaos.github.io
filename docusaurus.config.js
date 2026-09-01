@@ -20,7 +20,7 @@ const config = {
       tagName: 'link',
       attributes: {
         rel: 'webmention',
-        href: 'https://webmention.io/www.rauljimenez.info/webmention',
+        href: 'https://webmention.io/links.rauljimenez.info/webmention',
       },
     },
     {
