@@ -23,6 +23,27 @@ const config = {
         href: 'https://webmention.io/links.rauljimenez.info/webmention',
       },
     },
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'authorization_endpoint',
+        href: 'https://indie.rauljimenez.info/auth',
+      },
+    },
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'token_endpoint',
+        href: 'https://indie.rauljimenez.info/auth/token',
+      },
+    },
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'micropub',
+        href: 'https://indie.rauljimenez.info/micropub',
+      },
+    },
   ],
 
   // GitHub pages deployment config.
