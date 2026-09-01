@@ -29,16 +29,25 @@ function getCanonicalTargets(siteUrl, pathname) {
   url.hash = '';
   url.search = '';
 
-  const canonicalUrl = url.toString();
+  const hosts = url.hostname.startsWith('www.')
+    ? [url.hostname, url.hostname.replace(/^www\./, '')]
+    : [url.hostname, `www.${url.hostname}`];
 
-  if (url.pathname === '/') {
-    return [canonicalUrl];
-  }
+  return [...new Set(hosts.flatMap((hostname) => {
+    const targetUrl = new URL(url.toString());
+    targetUrl.hostname = hostname;
 
-  const withoutSlash = canonicalUrl.replace(/\/$/, '');
-  const withSlash = `${withoutSlash}/`;
+    const canonicalUrl = targetUrl.toString();
 
-  return withoutSlash === withSlash ? [canonicalUrl] : [withoutSlash, withSlash];
+    if (targetUrl.pathname === '/') {
+      return [canonicalUrl];
+    }
+
+    const withoutSlash = canonicalUrl.replace(/\/$/, '');
+    const withSlash = `${withoutSlash}/`;
+
+    return [withoutSlash, withSlash];
+  }))];
 }
 
 function formatDate(date) {
