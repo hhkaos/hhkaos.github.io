@@ -83,6 +83,27 @@ function normalizeUrl(value, base) {
   }
 }
 
+function moveStartToWordBoundary(content, start, focusIndex) {
+  if (start === 0) {
+    return start;
+  }
+
+  const nextSpace = content.slice(start).search(/\s/);
+  const nextStart = nextSpace === -1 ? start : start + nextSpace + 1;
+
+  return nextStart < focusIndex ? nextStart : start;
+}
+
+function moveEndToWordBoundary(content, end, focusEnd) {
+  if (end === content.length) {
+    return end;
+  }
+
+  const previousSpace = content.slice(0, end).lastIndexOf(' ');
+
+  return previousSpace > focusEnd ? previousSpace : end;
+}
+
 function excerptText(value, focus) {
   const content = cleanText(value);
 
@@ -98,17 +119,22 @@ function excerptText(value, focus) {
   const focusIndex = focusedText ? content.indexOf(focusedText) : -1;
 
   if (focusIndex === -1) {
-    return `${content.slice(0, MAX_CONTENT_LENGTH - 3)}...`;
+    const end = moveEndToWordBoundary(content, MAX_CONTENT_LENGTH - 3, 0);
+
+    return `${content.slice(0, end)}...`;
   }
 
   const maxContextLength = MAX_CONTENT_LENGTH - 6;
   const roomAroundFocus = Math.max(maxContextLength - focusedText.length, 0);
+  const focusEnd = focusIndex + focusedText.length;
   const start = Math.max(0, focusIndex - Math.floor(roomAroundFocus / 2));
   const end = Math.min(content.length, start + maxContextLength);
   const adjustedStart = Math.max(0, end - maxContextLength);
-  const excerpt = content.slice(adjustedStart, end);
+  const wordStart = moveStartToWordBoundary(content, adjustedStart, focusIndex);
+  const wordEnd = moveEndToWordBoundary(content, end, focusEnd);
+  const excerpt = content.slice(wordStart, wordEnd);
 
-  return `${adjustedStart > 0 ? '...' : ''}${excerpt}${end < content.length ? '...' : ''}`;
+  return `${wordStart > 0 ? '...' : ''}${excerpt}${wordEnd < content.length ? '...' : ''}`;
 }
 
 function findLinkContext(html, target, source) {
@@ -142,6 +168,24 @@ function getContent(mention) {
   return findLinkContext(mention.content?.html, mention['wm-target'], mention['wm-source'])
     || excerptText(mention.content?.text)
     || excerptText(mention.content?.html);
+}
+
+function getSourceUrl(mention, content) {
+  const sourceUrl = mention.url || mention['wm-source'];
+  const fragmentText = cleanText(content).replace(/^\.\.\./, '').replace(/\.\.\.$/, '');
+
+  if (!sourceUrl || !fragmentText) {
+    return sourceUrl;
+  }
+
+  try {
+    const url = new URL(sourceUrl);
+    url.hash = `:~:text=${encodeURIComponent(fragmentText)}`;
+
+    return url.toString();
+  } catch {
+    return sourceUrl;
+  }
 }
 
 export default function Webmentions() {
@@ -204,6 +248,7 @@ export default function Webmentions() {
             const published = mention.published || mention['wm-received'];
             const formattedDate = published ? formatDate(new Date(published)) : null;
             const content = getContent(mention);
+            const sourceUrl = getSourceUrl(mention, content);
 
             return (
               <li className="h-cite webmention" key={mention['wm-id'] || mention.url}>
@@ -221,7 +266,7 @@ export default function Webmentions() {
                   <p className="webmention-meta">
                     <a
                       className="p-author h-card u-url"
-                      href={author.url || mention.url}
+                      href={sourceUrl || author.url}
                       rel="nofollow noopener"
                       target="_blank">
                       <span className="p-name">{author.name || mention.url}</span>
@@ -235,7 +280,7 @@ export default function Webmentions() {
                   </p>
                   {content ? <p className="e-content webmention-content">{content}</p> : null}
                   {mention.url ? (
-                    <a className="u-url webmention-source" href={mention.url}>
+                    <a className="u-url webmention-source" href={sourceUrl}>
                       {mention.url}
                     </a>
                   ) : null}
