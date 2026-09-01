@@ -79,3 +79,15 @@ Y, relacionado pero distinto, también quiero entender por fin bien el [Fedivers
 [Desde 2023](../2023-04-18/index.md) he tratado esta web como mi cerebro digital. Quizá, poco a poco, también pueda convertirse en una especie de gemelo digital de mi presencia online: una representación más fiel de lo que publico, cuando hago una reseña, marco algo como favorito, guardo, confirmo mi asistencia a un evento y comparto por la web.
 
 A ver hasta dónde me lleva este camino 😅.
+
+## Actualización: Micropub ya funciona
+
+Bueno, esto ha avanzado más rápido de lo que esperaba. Desde que escribí este post, ya he montado Micropub de verdad, con un servidor [Indiekit](https://getindiekit.com/) privado, ayudado bastante por la IA durante el proceso. En este nuevo flujo, publicar ya no depende de comandos `curl` manuales, aunque esta integración todavía no está conectada con Docusaurus.
+
+El flujo ahora guarda notes, bookmarks, likes y replies en un repositorio público de GitHub, [hhkaos/posts.rauljimenez.info](https://github.com/hhkaos/posts.rauljimenez.info). Desde ahí, una GitHub Action renderiza el feed público en [posts.rauljimenez.info](https://posts.rauljimenez.info/), mostrando solo los elementos marcados como visibles.
+
+De momento estoy usando un modelo de privacidad sencillo por tipo de contenido: las notes y replies son públicas por defecto, mientras que los bookmarks y likes son privados por defecto. Puede que esto evolucione, pero me parece un buen punto de partida.
+
+Y esto ya no es solo teórico: ya he enviado una Webmention saliente real al post de swyx sobre [aprender en público](https://swyx.io/learn-in-public), como reply. Fue verificada por webmention.io y ya aparece allí, lo cual ha sido una primera prueba end-to-end bastante satisfactoria.
+
+Siguen quedando varias piezas pendientes: recibir Webmentions correctamente, experimentar con Microsub y decidir si este nuevo feed público debería aparecer en la navegación principal de esta web. Pero los cimientos son ahora bastante más reales que cuando empecé a escribir este post.

@@ -115,6 +115,16 @@ const config = {
           },
           {to: '/blog', label: '📝 Blog', position: 'left'},
           {
+            href: 'https://posts.rauljimenez.info/',
+            label: 'Activity ↗',
+            position: 'left',
+          },
+          {
+            to: '/docs/category/-about-me',
+            label: 'About me',
+            position: 'left',
+          },
+          {
             type: "localeDropdown",
             position: "right"
           }

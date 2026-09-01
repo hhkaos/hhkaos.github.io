@@ -79,3 +79,15 @@ And, related but different, I also want to finally understand the [Fediverse](ht
 [Since 2023](../2023-04-18/index.md) I have treated this site as my digital brain. Maybe, little by little, it can also become a kind of digital twin of my online presence: a more faithful representation of what I publish, when I write a review, mark something as a favorite, save something, RSVP to an event, or share things across the web.
 
 Let's see where this path leads 😅.
+
+## Update: Micropub is live
+
+Well, this moved faster than expected. Since writing this post, I have already set up Micropub for real, with a private [Indiekit](https://getindiekit.com/) server, helped a lot by AI along the way. In this new flow, publishing no longer depends on manual `curl` commands, although this integration is not connected to Docusaurus yet.
+
+The flow now stores notes, bookmarks, likes, and replies in a public GitHub repository, [hhkaos/posts.rauljimenez.info](https://github.com/hhkaos/posts.rauljimenez.info). From there, a GitHub Action renders the public feed at [posts.rauljimenez.info](https://posts.rauljimenez.info/), showing only the items marked as visible.
+
+For now, I am keeping a simple privacy model by content type: notes and replies are public by default, while bookmarks and likes are private by default. That may evolve, but it feels like a good starting point.
+
+And this is no longer just theoretical: I have already sent a real outgoing Webmention to swyx's [learn in public](https://swyx.io/learn-in-public) post, as a reply. It was verified by webmention.io and is visible there, which felt like a very satisfying first end-to-end test.
+
+There are still several pieces pending: receiving Webmentions properly, experimenting with Microsub, and deciding whether this new public feed should appear in the main navigation of this site. But the foundations are now much more real than they were when I started writing this post.
