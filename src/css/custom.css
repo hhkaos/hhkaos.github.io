@@ -57,9 +57,28 @@
   display: none;
 }
 
-[itemprop="blogPost"] h2,
 [itemprop="blogPost"] h1{
-  font-size: 2.4rem;
+  font-size: 2.1rem;
+}
+
+[itemprop="blogPost"] h2{
+  font-size: 1.75rem;
+}
+
+[itemprop="blogPost"] h3{
+  font-size: 1.45rem;
+}
+
+[itemprop="blogPost"] h4{
+  font-size: 1.25rem;
+}
+
+[itemprop="blogPost"] h5{
+  font-size: 1.1rem;
+}
+
+[itemprop="blogPost"] h6{
+  font-size: 1rem;
 }
 
 .full-width{
