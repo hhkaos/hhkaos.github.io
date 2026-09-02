@@ -158,6 +158,7 @@ const config = {
             href: 'https://posts.rauljimenez.info/',
             label: '📡 Activity',
             className: 'navbar-activity-link',
+            target: '_self',
             position: 'left',
           },
           {
