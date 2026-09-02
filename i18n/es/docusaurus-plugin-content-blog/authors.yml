@@ -4,8 +4,15 @@ hhkaos:
   url: https://www.linkedin.com/in/jimenezortegaraul/?locale=es_ES
   image_url: https://github.com/hhkaos.png
   socials:
-    x: hhkaos
+    linkedin: https://www.linkedin.com/in/jimenezortegaraul/?locale=es_ES
+    bluesky: rauljimenez.info
+    mastodon: hhkaos
+    youtube: https://www.youtube.com/hhkaos
     github: hhkaos
+    stackoverflow: 3541972
+    indieweb: https://posts.rauljimenez.info/?lang=es
+    instagram: hhkaos
+    x: hhkaos
 
 hhjose:
   name: José Jimenez Cano
