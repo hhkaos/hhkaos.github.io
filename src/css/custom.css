@@ -59,6 +59,7 @@
 
 .h-entry h1.hero__title,
 .h-entry h1[class*="title_"],
+.h-entry h2[class*="title_"],
 [itemprop="articleBody"] h1{
   font-size: 2.1rem;
 }
