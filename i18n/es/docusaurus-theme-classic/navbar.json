@@ -11,9 +11,9 @@
     "message": "📝 Blog",
     "description": "Navbar item with label 📝 Blog"
   },
-  "item.label.📡 Activity ↗": {
-    "message": "📡 Actividad ↗",
-    "description": "Navbar item with label 📡 Activity ↗"
+  "item.label.📡 Activity": {
+    "message": "📡 Actividad",
+    "description": "Navbar item with label 📡 Activity"
   },
   "item.label.🤓 About me": {
     "message": "🤓 Sobre mí",

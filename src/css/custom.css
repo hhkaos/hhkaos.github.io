@@ -53,6 +53,10 @@
   margin-right: 1rem;;
 }
 
+.navbar-activity-link svg[class*='iconExternalLink'] {
+  display: none;
+}
+
 [itemprop="blogPost"] h2,
 [itemprop="blogPost"] h1{
   font-size: 2.4rem;

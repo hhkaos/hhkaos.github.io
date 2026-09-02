@@ -156,7 +156,8 @@ const config = {
           {to: '/blog', label: '📝 Blog', position: 'left'},
           {
             href: 'https://posts.rauljimenez.info/',
-            label: '📡 Activity ↗',
+            label: '📡 Activity',
+            className: 'navbar-activity-link',
             position: 'left',
           },
           {
