@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkrauljimenez_info||=[]).push([[9647],{7121(e,r,s){s.r(r),s.d(r,{default:()=>t});s(6540);var a=s(4164),u=s(7559),n=s(5500),c=s(2831),i=s(7046),l=s(4848);function t(e){return(0,l.jsx)(n.e3,{className:(0,a.A)(u.G.wrapper.docsPages),children:(0,l.jsx)(i.A,{children:(0,c.v)(e.route.routes)})})}}}]);
