@@ -1,5 +1,5 @@
 import React from 'react';
-import { useBlogPost } from '@docusaurus/theme-common/internal'
+import {useBlogPost} from '@docusaurus/plugin-content-blog/client';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import BlogPostItem from '@theme-original/BlogPostItem';
 import GiscusComponent from '@site/src/components/GiscusComponent';

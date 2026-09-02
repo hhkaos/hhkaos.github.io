@@ -6,8 +6,8 @@ tags: [history, community, tech community, meetups, spain]
 enableComments: true 
 ---
 
-<details><summary>⚠️ <strong>Notices and acknowledgments</strong></summary>
-<p>
+<details>
+<summary>⚠️ <strong>Notices and acknowledgments</strong></summary>
 
 I would like to start by clarifying that:
 * I was born in 1984, so what I put in this article is mostly the result of my research and contributions received.
@@ -16,7 +16,6 @@ I would like to start by clarifying that:
 
 **Acknowledgments**: to [JJ Merelo](https://www.linkedin.com/in/juan-j-merelo-0815/) for his contributions and to [SCIE](https://www.scie.es/inicios-informatica-en-espana/) because their website has been enormously helpful.
     
-</p>
 </details>
 
 In this first article of the series "[History of technical communities](../2024-07-05/index.md)," we will review the history of technical communities in Spain, before the Internet, during the era when computing arrived and the revolution of [personal computers](https://en.wikipedia.org/wiki/History_of_personal_computers) began.

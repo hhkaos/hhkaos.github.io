@@ -7,8 +7,8 @@ image: /img/blogs/aprendiendo-a-aprender/learn-to-teach-your-kids.png
 enableComments: true 
 ---
 
-<details><summary>It's been a long time since I wrote about these topics...</summary>
-<p>
+<details>
+<summary>It's been a long time since I wrote about these topics...</summary>
 
 Specifically since I launched the [family blog attempt](https://familiajimenezcano.wordpress.com/) (in 2018), although I hope to find time another day to share these experiences. 
 
@@ -32,7 +32,6 @@ BTW, in case you need it, here is a table of course equivalencies between countr
 | 2nd Bachillerato  | Grade 12 | Grade 12 | 6th Year  | Year 13 & A Levels | Terminale      | 12 Klasse  |
 
 
-</p>
 </details>
 
 Those who know me know that I am used to giving training and talks to adults, but **helping a 7-year-old child learn to study**... is something totally different, and it is proving to be quite a challenge 😅.

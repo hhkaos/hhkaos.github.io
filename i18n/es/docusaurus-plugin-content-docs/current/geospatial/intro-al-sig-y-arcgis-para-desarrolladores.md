@@ -237,18 +237,17 @@ import Ed50VsWgs84 from './intro-sig-arcgis/ed50-vs-wgs84.png';
   </div>
   <p>Por tanto, es importante tener claros los requisitos de exactitud y precisión del proyecto, y asegurarse de que los métodos de recopilación de datos sean los adecuados. Veremos más en el apartado: <a href="#captura--generación">Captura / generación</a>.</p>
 
-  <details><summary>👀 <strong>Curiosidad</strong>: Precisión del WGS84 y vehículos autónomos</summary>
-<p>
+  <details>
+  <summary>👀 <strong>Curiosidad</strong>: Precisión del WGS84 y vehículos autónomos</summary>
 
 Como curiosidad, comentar que el primer sistema de coordenadas usado en los GPS ([WGS84 (G730)](https://en.wikipedia.org/wiki/World_Geodetic_System#Updates_and_new_standards)) podía introducir hasta uno o dos metros de error. A lo largo del tiempo el modelo matemático fue refinado hasta reducirlo a diez centrímetros aproximadamente.
 
 Te dejo esta interesante [entrevista a Brian McClendon](https://youtu.be/gC1x0pVu-YI?si=b7-CpR3ovj3mxaAG&t=3558), quien fue VP de Ingeniería en Keyhole y posteriormente Google, hablando de cómo el sistema GPS (WGS84) es totalmente insuficiente para casos de us como los sistemas de navegación de vehículos autónomos.
 
-</p>
 </details>
 
-<details><summary>👀 <strong>Curiosidad</strong>: El impacto del movimiento de las placas tectónicas en la precisión</summary>
-<p>
+<details>
+<summary>👀 <strong>Curiosidad</strong>: El impacto del movimiento de las placas tectónicas en la precisión</summary>
 
 En los proyectos que se requiere una precisión centimétrica, hasta el movimiento de las [placas tectónicas](https://en.wikipedia.org/wiki/Plate_tectonics), que es de un par de centímetros al año de media (aprox. la velocidad a la que crecen las uñas), puede ser un factor importante. En algunos casos hasta el punto de tener que supervisar periódicamente e incluso que actualizar los sistemas de referencia, y recalibrar para mantener la precisión y fiabilidad de los ubicación. Ejemplos de estos proyectos pueden ser sistemas de navegación para vehículos autónomos, instalación y **mantenimiento** de tuberías, vías de tren, construcción de puentes, etc.
 
@@ -260,17 +259,15 @@ En los proyectos que se requiere una precisión centimétrica, hasta el movimien
 
 Más en: "[How Tectonic Motion is affecting your Map Accuracy](https://www.exprodat.com/blog/how-tectonic-motion-is-affecting-your-map-accuracy/)".
 
-</p>
 </details>
 
-<details><summary>👀 <strong>Curiosidad</strong>: Relación entre precisión y decimales en un GeoJSON</summary>
-<p>
+<details>
+<summary>👀 <strong>Curiosidad</strong>: Relación entre precisión y decimales en un GeoJSON</summary>
 
 En ocasiones no encontramos ficheros GeoJSON donde las coordenadas tienen una precisión extrema, con hasta 15-17 decimales, lo que da una precisión a escala atómica (de átomos). Para la mayoría de las aplicaciones prácticas, se puede reducir la precisión de las coordenadas a unos 6 decimales, lo que equivale aproximadamente a una escala de 1-10 cm. Esto reduce el tamaño del archivo sin comprometer la usabilidad.
 
 Algo que traté en mi charla <a href="https://www.youtube.com/watch?v=7oTNGJDg238&t=802s">DataViz: Técnicas de optimización para visualización en mapas</a>.
 
-</p>
 </details>
 
 
@@ -383,22 +380,16 @@ La ubicación de estos datos se pueden representar con diferentes tipos de geome
 
 Aunque los datos vectoriales son frecuentes en todos los campos y sectores económicos, en algunos como el energético, defensa, agricultura, climatología, medio ambiente, conservación, etc, es muy habitual trabajar con datos de resultantes de la [observación de la tierra](https://en.wikipedia.org/wiki/Earth_observation) que se almacenan en formato [ráster](https://en.wikipedia.org/wiki/Data_model_(GIS)#Raster_data_model), y que se obtienen mediante [teledetección](https://en.wikipedia.org/wiki/Remote_sensing) (a partir de sensores ubicados en satélites, aviones, drones, etc.).
 
-<details><summary>Vínculo entre el sector militar, la teledetección y los datos raster</summary>
-<p>
+<details>
+<summary>Vínculo entre el sector militar, la teledetección y los datos raster</summary>
 El impulso de la teledetección y la observación de la tierra está fuertemente ligado al sector militar, ya que a primeros del siglo XX (durante la Primera Guerra Mundial), los militares desarrollaron la fotografía aérea sistemática con objeto de vigilancia y reconocimiento de territorios. Y en la segunda mitad del siglo XX, el desarrollo de satélites artificiales permitió el uso de la teledetección remota a escala global proveyendo información con varios fines (civil, militar y de investigación). 
-
-
-</p>
-
-<p>
 
 Más info en: [Historia de la teledetección](https://es.wikipedia.org/wiki/Teledetecci%C3%B3n#Historia).
 
-</p>
 </details>
 
-<details><summary>👀 <strong>Curiosidad</strong>: ¿Sabías que cada día se generan TB de datos abiertos en formato ráster?</summary>
-<p>
+<details>
+<summary>👀 <strong>Curiosidad</strong>: ¿Sabías que cada día se generan TB de datos abiertos en formato ráster?</summary>
 
 A día de hoy:
 
@@ -408,7 +399,6 @@ A día de hoy:
 
 Y gran parte de estos datos se presentan en formato ráster.
 
-</p>
 </details>
 
 Estos datos ráster por tanto representan datos espacialmente continuos, y al igual que un [gráfico de mapa de bits](https://en.wikipedia.org/wiki/Raster_graphics), se almacenan como matrices de celdas/píxeles organizadas en filas y columnas, pero en este caso cada celda está asociada a una ubicación real.
@@ -459,8 +449,8 @@ En definitiva, estos tipos de datos, ya sean procesados o en crudo, son usados p
 
 Más adelante veremos cómo manipular, visualizar, analizar y extraer información de la ingente cantidad de datos disponibles a través de estos formatos.
 
-<details><summary>Algunos recursos adicionales</summary>
-<p>
+<details>
+<summary>Algunos recursos adicionales</summary>
 
 Aquí tienes tres recursos adicionales si quieres profundizar un poco más:
 * [¿Qué son los datos ráster?](https://desktop.arcgis.com/es/arcmap/latest/manage-data/raster-and-images/what-is-raster-data.htm)
@@ -469,7 +459,6 @@ Aquí tienes tres recursos adicionales si quieres profundizar un poco más:
 * [Un mini resumen de tipos de datos ráster](https://esri-es.github.io/awesome-arcgis/arcgis/content/data-types/raster/) (hecho hace unos años).
 * [Casos de uso de imágenes raster y teledetección](https://learn.arcgis.com/en/gallery/#?c=imagery)
 
-</p>
 </details>
 
 ## Capas de datos

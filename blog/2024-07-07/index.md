@@ -6,8 +6,8 @@ tags: [history, community, online communities, tech community, meetups, spain]
 enableComments: true 
 ---
 
-<details><summary>⚠️ <strong>Notices and acknowledgments</strong></summary>
-<p>
+<details>
+<summary>⚠️ <strong>Notices and acknowledgments</strong></summary>
 I would like to start by clarifying that:
 
 - This article will be completely biased by [my own life experience](https://www.rauljimenez.info/docs/about-me/my-journey) (as a Spaniard and because of my environment).
@@ -15,7 +15,6 @@ I would like to start by clarifying that:
 - I appreciate all contributions, which of course will be acknowledged and will be under [CC Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/)
 
 **Acknowledgments**: to [JJ Merelo](https://www.linkedin.com/in/juan-j-merelo-0815/), and [José Luis Orihuela](https://www.linkedin.com/in/jlori/) for their contributions and resources.  
-</p>
 </details>
 
 This is the second article in the series "[History of Technical Communities](../2024-07-05/index.md)," in which we are reviewing the history of technical communities in Spain. In this one, we will focus specifically on the era when the Internet became popular, reaching many households, and we will continue to get nostalgic with some of the innovations that were introduced.

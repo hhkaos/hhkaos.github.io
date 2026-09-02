@@ -261,8 +261,8 @@ Y los tres pulsadores que ya están colocados en la estructura.
 
 Empezad cortando el cable eléctrico en 9 trozos. El cable **no** es necesario que sea negro y rojo, pero en cualquier caso, es una buena excusa para explicar que hay una [convención](https://dle.rae.es/convenci%C3%B3n) establecida para indicar que en los circuitos de corriente continua el color negro se usa para representar el polo negativo (-) y el rojo al positivo (+).
 
-<details><summary>📚 Si queréis consultar alguno de los conceptos como: corriente, la función de los cables conductores, la fuente de alimentación, ... expandid esta sección.</summary>
-<p>
+<details>
+<summary>📚 Si queréis consultar alguno de los conceptos como: corriente, la función de los cables conductores, la fuente de alimentación, ... expandid esta sección.</summary>
 
 Para que los tengáis más a mano, aquí os dejamos un índice con las explicaciones teóricas para entender todo lo relacionado con el funcionamiento del circuito:
 
@@ -278,7 +278,6 @@ Para que los tengáis más a mano, aquí os dejamos un índice con las explicaci
 * [¿Cómo se calcula la vida útil de la fuente de alimentación?](#cómo-se-calcula-la-vida-útil-de-la-fuente-de-alimentación)
 * [¿Como saber cuánta energía gasta un aparato en una hora?](#cómo-saber-cuánta-energía-gasta-un-aparato-en-una-hora)
 
-</p>
 </details>
 
 
@@ -699,8 +698,8 @@ Queríamos resumir en este apartado las cosas que cambiaríamos, si tuviésemos 
 
 Este ha sido el primer proyecto **que hemos documentado**, aunque ya habíamos hecho algunas otras cosillas antes. 
 
-<details><summary>Expande si te interesa ver las otras cosas que hemos hecho 😊.</summary>
-<p>
+<details>
+<summary>Expande si te interesa ver las otras cosas que hemos hecho 😊.</summary>
 
 Que recuerde ahora mismo:
 * En 2019, cuando compré el [kit de Micro:bit](https://www.amazon.es/KEYESTUDIO-Sensors-Box-Starter-Micro/dp/B07GSVHWNS/ref=asc_df_B07GSVHWNS?mcid=e2fddc049e85349db2566391043bac0a&tag=googshopes-21&linkCode=df0&hvadid=699750830830&hvpos=&hvnetw=g&hvrand=13342692338367672801&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1005407&hvtargid=pla-583389400445&psc=1&gad_source=1) para [los talleres que organizamos desde Tomelloso Tech](https://www.youtube.com/playlist?list=PLwB9KstFgABt9sFwnt_2FEdFvmB1a2i9U), hicimos que la placa de Micro:bit pusiera cara triste o contenta en función de si apretaba el pulsador izquierdo o derecho.
@@ -713,7 +712,6 @@ Aunque seguro que me dejo cosas...😅
 
 A veces me planteo documentar alguna de las experiencias anteriores, pero la verdad es que se nos acumula el trabajo, y hay que decidir si documentar lo pasado o centrarse en lo futuro, y documentar este en concreto no ha sido rápido. ¡Así que ya veremos!.
 
-</p>
 </details>
 
 Es más, en esta [lista de reproducción](https://www.youtube.com/playlist?list=PLPAGhVhnLUfBLa2HvWgZJrNV5WvshvUSH) vamos guardando algunas ideas, y ya hemos comprado materiales para hacer más cosas, como por ejemplo:

@@ -7,8 +7,8 @@ enableComments: true
 ---
 
 
-<details><summary>⚠️ <strong>Avisos y agradecimientos</strong></summary>
-<p>
+<details>
+<summary>⚠️ <strong>Avisos y agradecimientos</strong></summary>
 Me gustaría empezar por aclarar que:
 
 - Yo nací en 1984, por lo que lo que pongo en este artículo es mayormente fruto de mi investigación y de las contribuciones recibidas.
@@ -16,7 +16,6 @@ Me gustaría empezar por aclarar que:
 - Agradezco todas las contribuciones, que por supuesto serán agradecidas y estarán bajo [CC Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/)
 
 **Agradecimientos**: a [JJ Merelo](https://www.linkedin.com/in/juan-j-merelo-0815/) por sus contribuciones y a la [SCIE](https://www.scie.es/inicios-informatica-en-espana/) porque su web me ha servido enormemente.  
-</p>
 </details>
 
 En este primer artículo de la serie "[Historia de las comunidades tecnológicas](../2024-07-05/index.md)", vamos a hacer un repaso a la historia de las comunidades técnicas en España, antes de Internet, en la época en la que aterriza la informática y empieza la revolución de los [computadores personales](https://en.wikipedia.org/wiki/History_of_personal_computers). 

@@ -7,8 +7,8 @@ image: /img/blogs/aprendiendo-a-aprender/aprender-a-enseniar-en-casa.png
 enableComments: true 
 ---
 
-<details><summary>Hace mucho que no escribo sobre estos temas...</summary>
-<p>
+<details>
+<summary>Hace mucho que no escribo sobre estos temas...</summary>
 
 Concretamente desde que lancé el [amago de blog familiar](https://familiajimenezcano.wordpress.com/) (en 2018), aunque espero poder sacar tiempo otro día para compartir estas experiencias. 
 
@@ -19,7 +19,6 @@ La verdad es que me gustaría compartir cómo estoy intentando involucrarme en e
 
 Si os interesan estos temas decídmelo en los [comentarios](#comentarios) (para priorizarlo) 😉.
 
-</p>
 </details>
 
 Quienes me conocéis sabéis que estoy acostumbrado a dar formación y charlas a personas adultas, pero **ayudar a un niño de 7 años a aprender a estudiar**... es algo totalmente diferente, y que me está suponiendo todo un reto 😅.

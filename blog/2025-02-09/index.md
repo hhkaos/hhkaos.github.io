@@ -254,8 +254,8 @@ And the three push buttons that are already installed in the structure.
 
 Start by cutting the electrical wire into 9 pieces. The wire does **not** need to be black and red, but this is a good opportunity to explain that there is a [convention](https://en.wikipedia.org/wiki/Electrical_wiring) where black represents the negative (-) pole and red represents the positive (+) pole in direct current circuits.
 
-<details><summary>📚 If you want to review some concepts such as: electric current, the function of conductive wires, power sources, ... expand this section.</summary>
-<p>
+<details>
+<summary>📚 If you want to review some concepts such as: electric current, the function of conductive wires, power sources, ... expand this section.</summary>
 
 To have everything handy, here is an index with theoretical explanations to understand everything related to the circuit’s operation:
 
@@ -271,7 +271,6 @@ To have everything handy, here is an index with theoretical explanations to unde
 * [How to calculate the power source’s lifespan?](#how-to-calculate-the-power-source-lifespan)
 * [How to determine how much energy a device consumes in an hour?](#how-to-determine-how-much-energy-a-device-consumes-in-an-hour)
 
-</p>
 </details>
 
 To avoid excess wire and keep the power source centered, the wire lengths should be approximately:
@@ -628,8 +627,8 @@ We wanted to summarize the things we would change if we had to do the project ag
 
 This has been the first project **we have documented**, although we had done some smaller projects before.
 
-<details><summary>Expand if you're interested in seeing other things we've done 😊.</summary>
-<p>
+<details>
+<summary>Expand if you're interested in seeing other things we've done 😊.</summary>
 
 That I can remember right now:
 * In 2019, when I bought the [Micro:bit kit](https://www.amazon.es/KEYESTUDIO-Sensors-Box-Starter-Micro/dp/B07GSVHWNS/ref=asc_df_B07GSVHWNS?mcid=e2fddc049e85349db2566391043bac0a&tag=googshopes-21&linkCode=df0&hvadid=699750830830&hvpos=&hvnetw=g&hvrand=13342692338367672801&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1005407&hvtargid=pla-583389400445&psc=1&gad_source=1) for [the workshops we organized from Tomelloso Tech](https://www.youtube.com/playlist?list=PLwB9KstFgABt9sFwnt_2FEdFvmB1a2i9U), we programmed the Micro:bit board to display a happy or sad face depending on whether the left or right button was pressed.
@@ -642,7 +641,6 @@ Although I’m sure I’m forgetting some things... 😅
 
 Sometimes I think about documenting previous experiences, but the truth is, work keeps piling up, and we have to decide whether to document the past or focus on the future. Documenting this one in particular was not quick. So, we’ll see!
 
-</p>
 </details>
 
 Moreover, in this [playlist](https://www.youtube.com/playlist?list=PLPAGhVhnLUfBLa2HvWgZJrNV5WvshvUSH), we keep saving some ideas, and we have already purchased materials for more projects, such as:
