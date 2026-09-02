@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkrauljimenez_info||=[]).push([[7057],{328(a){a.exports=JSON.parse('{"tag":{"label":"IA","permalink":"/es/blog/tags/ia","allTagsPath":"/es/blog/tags","count":3,"unlisted":false},"listMetadata":{"permalink":"/es/blog/tags/ia","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

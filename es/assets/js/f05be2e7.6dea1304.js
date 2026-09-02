@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkrauljimenez_info||=[]).push([[6577],{5734(e){e.exports=JSON.parse('{"tag":{"label":"memory","permalink":"/es/blog/tags/memory","allTagsPath":"/es/blog/tags","count":2,"unlisted":false},"listMetadata":{"permalink":"/es/blog/tags/memory","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

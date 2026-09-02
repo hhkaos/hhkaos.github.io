@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrauljimenez_info=self.webpackChunkrauljimenez_info||[]).push([[7686],{1539:e=>{e.exports=JSON.parse('{"label":"Semantic Web","permalink":"/blog/tags/semantic-web","allTagsPath":"/blog/tags","count":1}')}}]);

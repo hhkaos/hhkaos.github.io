@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrauljimenez_info=self.webpackChunkrauljimenez_info||[]).push([[5964],{7007:e=>{e.exports=JSON.parse('{"label":"Web Sem\xe1ntica","permalink":"/es/blog/tags/web-semantica","allTagsPath":"/es/blog/tags","count":1}')}}]);
