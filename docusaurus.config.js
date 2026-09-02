@@ -221,7 +221,6 @@ const config = {
         // ],
         copyright: `
           <p>All contents on this site have been created with ❤️ and are licensed as <a href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons, Attribution 4.0 International</a>.</p>
-          <p>This site supports <a href=\"https://webmention.net/\">Webmention</a>.</p>
           <div class=\"indieweb-badges\">
             <a href=\"https://indieweb.org/\"><img src=\"/assets/badges/indieweb.svg\" width=\"80\" height=\"15\" alt=\"IndieWeb\" loading=\"lazy\"></a>
             <a href=\"http://microformats.org/\"><img src=\"/assets/badges/microformats.svg\" width=\"80\" height=\"15\" alt=\"Microformats\" loading=\"lazy\"></a>
