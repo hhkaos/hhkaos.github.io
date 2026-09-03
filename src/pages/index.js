@@ -71,7 +71,7 @@ const organizations = [
     href: 'https://www.youtube.com/geo-developers',
   },
   {
-    name: 'Community Builders ES',
+    name: 'Community Builders',
     href: 'https://communitybuilders.dev/',
   },
   {
@@ -145,7 +145,7 @@ const localizedContent = {
     notePrefix: 'Principal Product Engineer (Developer Relations) at ',
     noteSuffix: '. I work where geospatial technology, developer communities, and open knowledge meet.',
     context: 'I like building useful things, connecting people who can help each other, and sharing what I learn along the way.',
-    description: 'Raúl Jiménez Ortega is Principal Product Engineer (Developer Relations) at Esri, founder of GeoDevelopers, co-founder of Community Builders ES, and an open knowledge advocate with 26+ years in technical communities.',
+    description: 'Raúl Jiménez Ortega is Principal Product Engineer (Developer Relations) at Esri, founder of GeoDevelopers, co-founder of Community Builders, and an open knowledge advocate with 26+ years in technical communities.',
     communityTitle: 'Community journey',
     communityText: 'I started helping people in IRC and hacking forums, later joined the Free Software Office, helped launch one of the first GDGs in Spain, and kept creating collaborative spaces around open culture.',
     communityBuildersPrefix: 'Today I am helping grow ',
@@ -157,7 +157,7 @@ const localizedContent = {
     notePrefix: 'Principal Product Engineer (Developer Relations) en ',
     noteSuffix: '. Trabajo en el punto donde se encuentran la tecnología geoespacial, las comunidades de desarrolladores y el conocimiento abierto.',
     context: 'Me gusta construir cosas útiles, conectar a personas que pueden ayudarse entre sí y compartir lo que voy aprendiendo por el camino.',
-    description: 'Raúl Jiménez Ortega es Principal Product Engineer (Developer Relations) en Esri, fundador de GeoDevelopers, cofundador de Community Builders ES y defensor del conocimiento abierto, con más de 26 años en comunidades técnicas.',
+    description: 'Raúl Jiménez Ortega es Principal Product Engineer (Developer Relations) en Esri, fundador de GeoDevelopers, cofundador de Community Builders y defensor del conocimiento abierto, con más de 26 años en comunidades técnicas.',
     communityTitle: 'Trayectoria en comunidades',
     communityText: 'Empecé ayudando a otras personas en IRC y foros de hacking, después participé en la Oficina de Software Libre, ayudé a lanzar uno de los primeros GDGs en España y seguí creando espacios colaborativos alrededor de la cultura abierta.',
     communityBuildersPrefix: 'Actualmente impulso ',
