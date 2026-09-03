@@ -48,41 +48,8 @@ const config = {
     {
       tagName: 'link',
       attributes: {
-        rel: 'alternate',
-        type: 'application/rss+xml',
-        title: 'RaulJimenez.info RSS feed',
-        href: 'https://www.rauljimenez.info/blog/rss.xml',
-        hreflang: 'en',
-      },
-    },
-    {
-      tagName: 'link',
-      attributes: {
-        rel: 'alternate',
-        type: 'application/atom+xml',
-        title: 'RaulJimenez.info Atom feed',
-        href: 'https://www.rauljimenez.info/blog/atom.xml',
-        hreflang: 'en',
-      },
-    },
-    {
-      tagName: 'link',
-      attributes: {
-        rel: 'alternate',
-        type: 'application/rss+xml',
-        title: 'RaulJimenez.info RSS feed en espanol',
-        href: 'https://www.rauljimenez.info/es/blog/rss.xml',
-        hreflang: 'es',
-      },
-    },
-    {
-      tagName: 'link',
-      attributes: {
-        rel: 'alternate',
-        type: 'application/atom+xml',
-        title: 'RaulJimenez.info Atom feed en espanol',
-        href: 'https://www.rauljimenez.info/es/blog/atom.xml',
-        hreflang: 'es',
+        rel: 'me',
+        href: 'https://mastodon.social/@hhkaos',
       },
     },
   ],

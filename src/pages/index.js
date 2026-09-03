@@ -22,6 +22,12 @@ const socialProfiles = [
     rel: 'me nofollow',
   },
   {
+    href: 'https://mastodon.social/@hhkaos',
+    alt: 'Raúl Jiménez Ortega Mastodon',
+    badgeUrl: 'https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white',
+    rel: 'me nofollow',
+  },
+  {
     href: 'https://github.com/hhkaos',
     alt: 'GitHub',
     badgeUrl: 'https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010',
@@ -224,6 +230,12 @@ export default function Home() {
       title={profile.name}
       description={content.description}>
       <Head>
+        <link
+          rel="alternate"
+          type="application/rss+xml"
+          title="Raul Jimenez posts RSS feed"
+          href="https://posts.rauljimenez.info/feed.xml"
+        />
         <script type="application/ld+json">
           {JSON.stringify({...personJsonLd, description: content.description})}
         </script>
