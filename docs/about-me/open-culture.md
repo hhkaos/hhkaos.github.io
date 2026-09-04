@@ -30,7 +30,7 @@ Below I will name some of those that I consider to have had the greatest impact 
 * 2010 - 2012 - [Google Developer Group (GDG) Granada](https://web.archive.org/web/20200807235648/http://rauljimenez.info/proyectos/gdg/) (co-founder & community leader)
 * 2012 - 2012 - [Google Developer Group (GDG) Spain](https://gdg.es/) (community leader)
 * 2014 - 2014 - [Comunidades Tecnológicas Madrid](https://github.com/Comunidades-Tecnologicas) (member)
-* 2014 - 2015 - [Startup Weekend Madrid](http://www.techstars.com/startup-weekend/) (organizer)
+* 2014 - 2015 - [Startup Weekend Madrid](https://novobrief.com/startup-weekend-madrid/2802/) (organizer)
 * 2015 - 2016 - [Iniciador Madrid & Iniciador Foundation](http://www.iniciador.com/es/que-es-iniciador/historia) (community leader & governing board)
 * 2018 - 2022 - [Asociación Tomelloso Tech](https://web.archive.org/web/20201130180149/https://www.tomellosotech.org/) (co-founder & president)
 * 2020 - 2022 - [Asociación Española de GeoVoluntariado](https://web.archive.org/web/20230227140653/https://geovoluntarios.org/) (co-founder & president)
@@ -40,6 +40,20 @@ Below I will name some of those that I consider to have had the greatest impact 
 Over time I have discovered that there are many types of communities, with different motivations behind them, what is clear to me now, is that for me, **the best are still those that maintain the original spirit that I experienced**, where members help each other selflessly, there is a good atmosphere and the issues and limits are set by the members themselves.
 
 > **Related**: In "[Consejos para dinamizar comunidades](https://docs.google.com/document/d/1txUERZ8vcXD2F99_WbiQO-lryAVk6ftUS3OuGwDVNZ4/edit?usp=sharing)" (Tips for community building) I shared almost all of my experience in this matter (translation t.b.d. 😅).
+
+## Open spaces
+
+One of the formats I like the most is the [open space](https://en.wikipedia.org/wiki/Open_Space_Technology) (also known as unconference), where **the agenda is built by the attendees themselves** at the beginning of the event. It fits perfectly with the community spirit I described above: horizontal, self-organized and driven by the real interests of those in the room.
+
+Here are some of the ones I have organized, facilitated or participated in:
+
+* 2014 - [1er encuentro de Comunidades Tecnológicas](https://github.com/orgs/ComBuildersES/discussions/24) (Madrid)
+* 2015 - [Open space CLSxMadrid](https://github.com/orgs/ComBuildersES/discussions/23) (Madrid)
+* 2020 - [Unconference DevRel España](https://www.devrel.es/post/unconference-agenda/) (Madrid)
+* 2023 - [1er open space de comunidades en Commit Conf](https://github.com/orgs/ComBuildersES/discussions/28) (Madrid)
+* 2024 - [2º open space de comunidades en Commit Conf](https://github.com/orgs/ComBuildersES/discussions/27) (Madrid)
+* 2025 - [3er open space de comunidades en Commit Conf](https://github.com/orgs/ComBuildersES/discussions/31) (Madrid)
+* 2026 - [Implicaciones de la IA en sectores clave de la sociedad](https://groups.google.com/g/community-builders-es/c/shTnxp-Y3jU/m/sjgamoTKAgAJ) (Granada)
 
 ## Share knowledge
 

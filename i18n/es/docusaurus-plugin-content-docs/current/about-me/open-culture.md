@@ -41,6 +41,20 @@ Con el tiempo he descubierto que hay muchos tipos de comunidades, con motivacion
 
 > **Relacionado**: en "[Consejos para dinamizar comunidades](https://docs.google.com/document/d/1txUERZ8vcXD2F99_WbiQO-lryAVk6ftUS3OuGwDVNZ4/edit?usp=sharing)" compartí casi toda mi experiencia en este ámbito.
 
+## Open spaces
+
+Uno de los formatos que más me gusta es el [open space](https://es.wikipedia.org/wiki/Tecnolog%C3%ADa_de_espacio_abierto) (también conocido como *unconference*), donde **la agenda la construyen las propias personas asistentes** al comienzo del evento. Encaja perfectamente con el espíritu comunitario que describía antes: horizontal, autoorganizado y guiado por los intereses reales de quienes están en la sala.
+
+Estos son algunos de los que he organizado, facilitado o en los que he participado:
+
+* 2014 - [1er encuentro de Comunidades Tecnológicas](https://github.com/orgs/ComBuildersES/discussions/24) (Madrid)
+* 2015 - [Open space CLSxMadrid](https://github.com/orgs/ComBuildersES/discussions/23) (Madrid)
+* 2020 - [Unconference DevRel España](https://www.devrel.es/post/unconference-agenda/) (Madrid)
+* 2023 - [1er open space de comunidades en Commit Conf](https://github.com/orgs/ComBuildersES/discussions/28) (Madrid)
+* 2024 - [2º open space de comunidades en Commit Conf](https://github.com/orgs/ComBuildersES/discussions/27) (Madrid)
+* 2025 - [3er open space de comunidades en Commit Conf](https://github.com/orgs/ComBuildersES/discussions/31) (Madrid)
+* 2026 - [Implicaciones de la IA en sectores clave de la sociedad](https://groups.google.com/g/community-builders-es/c/shTnxp-Y3jU/m/sjgamoTKAgAJ) (Granada)
+
 ## Compartir conocimiento
 
 <!-- Desde pequeño solía ir a la biblioteca del pueblo a estudiar, pero a veces también a leer libros (principalmente ficción). Pero desde que tuve acceso a Internet (~1996), mi curiosidad aumentó. Sin duda, a esa edad poder acceder gratis a muchísimo contenido (manuales y tutoriales) marcó un antes y un después. -->
