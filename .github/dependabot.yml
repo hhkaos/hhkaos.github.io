@@ -1,0 +1,14 @@
+version: 2
+updates:
+  - package-ecosystem: npm
+    directory: /
+    schedule:
+      interval: weekly
+    commit-message:
+      prefix: chore
+    # Deliberately scoped to the shared webmentions widget: the point is to
+    # propagate its releases here automatically. Widening this to every
+    # dependency would bury that signal under Docusaurus bumps — see
+    # DEPENDABOT-HANDOFF.md before changing it.
+    allow:
+      - dependency-name: '@hhkaos/webmentions-widget'
