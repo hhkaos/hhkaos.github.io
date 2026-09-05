@@ -5,8 +5,9 @@ name: Refresh webmentions snapshot
 # section survives their outages, and the committed JSON is a durable copy if
 # the service ever disappears.
 #
-# repository_dispatch lets a webmention.io webhook (via a proxy that can add the
-# GitHub credential) refresh within minutes instead of waiting for the schedule.
+# Daily is deliberate: mentions arrive rarely enough that same-day is fine, and
+# the widget dates what it shows. repository_dispatch is kept as an escape hatch
+# to force a refresh without waiting for the schedule.
 on:
   schedule:
     - cron: '32 5 * * *'
