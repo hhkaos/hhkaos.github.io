@@ -136,7 +136,7 @@ Dicho esto, yo ya he hablado con mi mujer y mi hijo mayor sobre este tema, y hem
 
 > **Nota**: también les he pedido consentimiento para publicar este artículo.
 
-Si te interesa este tema, he añadido a [los anexos](#anexo-privacidad) algunas cosas más.
+Si te interesa este tema, he añadido a [los anexos](#anexos) algunas cosas más.
 
 ## Por qué ChatGPT
 

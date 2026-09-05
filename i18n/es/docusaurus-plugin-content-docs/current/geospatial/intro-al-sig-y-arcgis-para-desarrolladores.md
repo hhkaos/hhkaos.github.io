@@ -700,7 +700,7 @@ Cuando los datos son más complejos, la APIs suelen utilizan múltiples endpoint
 
 https://www.postman.com/esridevs/workspace/arcgis-location-services/request/23458780-6701bf15-a46d-4de8-9843-2fe897a3b9b1
 
-Un mapa base con 23 niveles de zoom puede pesar ~20.480 GB (en raster con teselas de 256x256px) 13GBs en vector
+Un mapa base con 23 niveles de zoom puede pesar ~240TB (en raster con teselas de 256x256px) 13GBs en vector
 [Desktop Mapping: Creating Vector Tiles](https://youtu.be/dqKsEos1iSw?si=JTsb9KtbGRyETyDP&t=732)
 [Cómo se crean y almacenan los mapas base](https://www.youtube.com/live/b182O1Yscnc?si=LmaA1Wa5318GpZbT&t=239)
 

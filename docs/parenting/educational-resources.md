@@ -1,9 +1,19 @@
 # Educational resources
 
+## Board games
+
+* Memory
+* Genios
+* Finellis
+
 ## Games
 
 * Programming
   * [Unplugged Activities for K-5 kids (5-10 years)](https://studio.code.org/s/k5-unplugged)
+
+## Books
+
+<!-- Libros q hemos comprado -->
 
 ## Apps
 

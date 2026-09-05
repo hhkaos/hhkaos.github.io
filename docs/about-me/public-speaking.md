@@ -45,7 +45,18 @@ I have included my first public talks, outside of classroom presentations, which
 * 2009 - Asoc. de Webmasters de Granada - [Instalación de Apache+Subversion+Trac en Ubuntu](https://www.slideshare.net/hhKaoS/instalacin-de-apachesubversiontrac-en-ubuntu-2228618)
 * 2009 - Oficina de Software Libre - [Cómo ha influido el Software Libre en el desarrollo de Internet](https://osl.ugr.es/2011/09/16/manana-es-el-software-freedom-day/)
 * 2009 - Asoc. de Webmasters de Granada - [Presentacion de la Asoc. de Webmasters. Curso 09/10](https://www.slideshare.net/hhKaoS/presentacion-de-la-asoc-de-webmasters-curso-0910)
-* 2009 - Oficina de Software Libre - [Taller de OpenOffice en la ETSIIT](https://osl.ugr.es/2009/03/08/taller-de-openoffice-en-la-etsiit/)
+* 2009 - Free Software Office - [OpenOffice Workshop at ETSIIT](https://osl.ugr.es/2009/03/08/taller-de-openoffice-en-la-etsiit/)
+  * 2009 - [OpenOffice Writer workshop at ETSIIT](http://osl.ugr.es/wordpress/?p=286)
+  * 2009 - [OpenOffice Calc workshop at the Business School](http://osl.ugr.es/wordpress/?p=271)
+  * 2009 - [Talk on OpenOffice Writer at the Health Technology Conference](http://osl.ugr.es/
+* 2009 - [XHTML+CSS workshop at CEVUG](http://www.webmastergranada.es/)
+wordpress/?p=259)
+* 2009 - [Subversion workshop at ETSIIT](http://osl.ugr.es/wordpress/?p=229)
+* 2009 - Talk on whether optimism is always best at the Faculty of Psychology
+* 2009 - [Talk on Web Engineering at ETSIIT](http://lsi.ugr.es/~is2/Trabajos/GrupoC/Desarrollo_de_aplicaciones_Web_22_01.pdf)
+* 2008 - [Introduction to web page development](https://web.archive.org/web/20090212165255/https://webmastergranada.es/index.php?option=com_content&view=article&id=48:intro&catid=34:conocimientos-generales&Itemid=37)
+* 2008 - Talk: Sleep and learning in dreams at the Faculty of Psychology
+* 2008 - Python+Django seminar at [ETSIIT](https://es.wikipedia.org/wiki/Escuela_T%C3%A9cnica_Superior_de_Ingenier%C3%ADas_Inform%C3%A1tica_y_de_Telecomunicaci%C3%B3n_de_la_Universidad_de_Granada)
 
 > **Note**: Some ratings can be found at the meetup events.
 
@@ -53,6 +64,7 @@ I have included my first public talks, outside of classroom presentations, which
 
 The first big conference I remember attended was the [Google Developer Day in 2008](https://web.archive.org/web/20080905225048/http://code.google.com/intl/es/events/developerday/2008/home.html) (Madrid), and then the [Webmasters Congress in 2009](https://web.archive.org/web/20080702121112/http://www.congresodewebmasters.com/) (Madrid). A few years later, and after starting to attend as an attendee, I began to give talks at them, and even organized some of them. As in the previous section, there have been quite a few conferences, so I will not include them all (also in reverse chronological order):
 
+* 2026 - OpenSouthCode - [Why most tech communities die (and how to make sure yours doesn't)](https://www.opensouthcode.org/conferences/opensouthcode2026/program/proposals/1082)
 * 2025 - OpenSouthCode - [Tech for kids - Despertando la curiosidad de mis hijos por la tecnología](https://www.opensouthcode.org/conferences/opensouthcode2025/program/proposals/844)
 * 2025 - Codemotion - [Optimizando el rendimiento de la visualización de datos en mapas web](https://www.codemotion.com/magazine/es/dev-life-es/eventos/codemotion-madrid-2025-esta-por-llegar-y-traemos-nuevos-speakers/)
 * 2025 - Commit Conf - [El Código del Billón de Dólares](https://www.linkedin.com/posts/jimenezortegaraul_i-just-published-a-blog-article-about-my-activity-7336288487672885249-wHZG)

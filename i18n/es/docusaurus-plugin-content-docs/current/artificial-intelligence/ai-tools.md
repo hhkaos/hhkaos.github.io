@@ -4,6 +4,10 @@ Aquí tienes una lista curada de herramientas impulsadas por IA:
 
 ## ChatGPT
 
+Edad mínima: 13 años
+
+[Desactivar compartir datos](https://www.ocu.org/organizacion/prensa/notas-de-prensa/2025/chatgpt040425)
+
 *Por hacer*
 <!-- Una herramienta versátil para generar ideas, asistencia para escribir y resolver problemas.
 
@@ -16,7 +20,13 @@ Buscar ejemplos de GPTs personalizados creados por la comunidad: https://chatgpt
 canvas, search , elegir modelo
 -->
 
+## Learn your way (Google)
+
+https://learnyourway.withgoogle.com/
+
 ## AudioTTS
+
+
 
 Si quieres descargar las respuesta de ChatGPT en audio puedes usar la extensión de Google Chrome [AudioTTS](https://chromewebstore.google.com/detail/audiotts-simple-text-to-s/lhbdjaomnaobfljmhkmcfhhnihaaangh).
 
@@ -34,15 +44,24 @@ Diseñado para organizar y comprender notas.
 
 ## DeepSeek
 
+No recome
+
+https://www.ocu.org/tecnologia/antivirus/noticias/riesgos-deepseek-ia-china
+https://www.antena3.com/noticias/sociedad/ocu-denuncia-china-deepseek-cumplir-reglamento-proteccion-datos_2025020367a0a499e95c06000185709d.html
+
 *Por hacer*
 
 ## Perplexity
+
+Edad mínima: 13 años
 
 Un asistente enfocado a la búsqueda de información
 
 *Por hacer*
 
 ## Gemini
+
+Edad mínima: 13 años
 
 <!--  Google Gemini(Bard) -->
 
