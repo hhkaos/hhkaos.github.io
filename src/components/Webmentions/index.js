@@ -11,9 +11,11 @@ import useWebmentionTargets from './useWebmentionTargets';
 // Mentions come from a snapshot refreshed daily by
 // .github/workflows/webmentions-snapshot.yml, so a page view costs
 // webmention.io nothing and the section survives their outages.
+// No "el": the timestamp is relative while the snapshot is fresh, so "el"
+// would read as "Actualizado el hace 1 hora".
 const UPDATED_LABEL = {
   en: 'Updated',
-  es: 'Actualizado el',
+  es: 'Actualizado',
 };
 
 const TITLE = {
