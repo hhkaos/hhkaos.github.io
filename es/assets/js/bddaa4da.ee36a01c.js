@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkrauljimenez_info||=[]).push([[5846],{3287(e){e.exports=JSON.parse('{"metadata":{"permalink":"/es/blog/page/2","page":2,"postsPerPage":10,"totalPages":3,"totalCount":23,"previousPage":"/es/blog","nextPage":"/es/blog/page/3","blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
