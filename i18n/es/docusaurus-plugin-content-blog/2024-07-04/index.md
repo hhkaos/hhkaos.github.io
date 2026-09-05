@@ -3,7 +3,6 @@ slug: what-is-a-technical-community
 title: 👥 ¿Qué es una comunidad técnica?
 authors: [hhkaos]
 tags: [community, user groups, meetups, debate]
-enableComments: true 
 ---
 
 Hoy escribo este artículo motivado por una [nueva iniciativa de comunidad](https://blog.commit-conf.com/meetups-sobre-dinamizacion-de-comunidades/) que estamos iniciando y que aún no tiene nombre, pero que está dirigida principalmente a personas con experiencia o con intención de crear comunidades técnicas, y que tiene como propósito **ayudar a crear comunidades más sanas, atractivas, útiles y sostenibles**.

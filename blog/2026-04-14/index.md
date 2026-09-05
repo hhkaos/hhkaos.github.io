@@ -5,7 +5,6 @@ description: A personal reflection on when to talk to our children about delicat
 authors: [hhkaos]
 image: /img/blogs/when-to-talk-to-children-about-certain-topics/hablar-de-ciertos-temas-con-los-ninos-en.webp
 tags: [parenting, self-reflection]
-enableComments: true
 ---
 
 If you have preteens, you have probably wondered when to talk to them about certain delicate topics. In every home those topics may be different: the **Three Wise Men, Santa Claus, the Tooth Fairy, where babies come from**...

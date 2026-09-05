@@ -3,7 +3,6 @@ slug: what-is-a-technical-community
 title: 👥 What is a technical community?
 authors: [hhkaos]
 tags: [guide, handbook, community, user groups, meetups]
-enableComments: true 
 ---
 
 Today, I write this article motivated by a [new community initiative](https://blog-commit--conf-com.translate.goog/meetups-sobre-dinamizacion-de-comunidades/?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp) that we are starting and still doesn’t have a name. It is mainly aimed at people with experience or the intention to create technical communities, with the purpose of **helping to create healthier, more attractive, useful, and sustainable communities**.

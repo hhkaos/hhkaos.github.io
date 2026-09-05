@@ -3,7 +3,6 @@ slug: mala-memoria
 title: 🧠 Tener mala memoria también tiene sus ventajas
 authors: [hhkaos]
 tags: [memory, thoughts]
-enableComments: true 
 ---
 
 # Tener mala memoria también tiene sus ventajas

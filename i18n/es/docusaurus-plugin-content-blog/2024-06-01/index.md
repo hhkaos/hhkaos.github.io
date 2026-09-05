@@ -4,7 +4,6 @@ title: 👨‍🏫 Aprender a enseñar (en casa)
 authors: [hhkaos]
 tags: [teach, kids]
 image: /img/blogs/aprendiendo-a-aprender/aprender-a-enseniar-en-casa.png
-enableComments: true 
 ---
 
 <details>

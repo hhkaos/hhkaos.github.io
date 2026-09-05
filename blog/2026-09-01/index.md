@@ -4,7 +4,6 @@ title: 🌱 First steps into the IndieWeb
 description: How OpenTechEvents led me to revisit the IndieWeb, add semantic data to my site, and start experimenting with Webmentions.
 authors: [hhkaos]
 tags: [IndieWeb, Webmentions, Semantic Web, OpenTechEvents, Personal Website]
-enableComments: true
 ---
 
 Over the last few weeks, while working on [OpenTechEvents](https://opentechevents.org/), I ended up pulling a thread I had only touched lightly before: the [IndieWeb](https://indieweb.org/).

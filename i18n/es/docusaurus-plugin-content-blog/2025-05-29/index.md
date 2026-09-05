@@ -5,7 +5,6 @@ description: Una reflexión personal sobre el valor de hablar con sinceridad, co
 authors: [hhkaos]
 image: /img/blogs/dad-learn-to-speak-up-without-fear.webp
 tags: [parenting, self-reflection]
-enableComments: true 
 ---
 
 Durante gran parte de mi vida he evitado opinar en público sobre temas polémicos. No porque no tenga opiniones (que las tengo, a veces contradictorias, políticamente incorrectas o en evolución), sino por miedo a ser malinterpretado, prejuzgado, a caer mal, a decepcionar o dejar de “gustar”.

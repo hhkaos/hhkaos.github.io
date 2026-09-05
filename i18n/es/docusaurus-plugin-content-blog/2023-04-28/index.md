@@ -3,7 +3,6 @@ slug: about-geo-development-skills
 title: 🌎 Habilidades Geo para desarrolladores  
 authors: [hhkaos]  
 tags: [learning, career-path, geo]  
-enableComments: true  
 ---
 
 He compartido un nuevo documento (no 100% pulido) donde **trato de explicar qué problemas se pueden resolver mejor aprendiendo nuevas habilidades y herramientas geoespaciales**, incluyendo bases de datos espaciales, técnicas de análisis espacial, frameworks de mapeo web, bibliotecas y APIs geoespaciales, formatos de datos espaciales y herramientas de visualización de datos espaciales, software GIS, etc.

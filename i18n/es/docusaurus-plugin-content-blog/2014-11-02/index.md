@@ -2,7 +2,6 @@
 slug: lo-sucedido-desde-abril-nov-2014
 authors: [hhkaos]
 tags: [experiences]
-enableComments: true 
 ---
 
 # 📝 Lo sucedido desde Abril 2014

@@ -5,7 +5,6 @@ description: Recap of Commit Conf 2025, highlights from our map APIs talk, commu
 authors: [hhkaos]
 image: /img/blogs/commit-conf-2025-recap/commit-conf-2025-recap-es.webp
 tags: [Commit Conf, Conference, Map APIs, Geospatial Technology, Community Building, AI, Networking]
-enableComments: true 
 ---
 
 A couple of months ago, I attended [Commit Conf](https://2025.commit-conf.com/), one of my favorite conferences in Spain (and I never get tired of saying it).

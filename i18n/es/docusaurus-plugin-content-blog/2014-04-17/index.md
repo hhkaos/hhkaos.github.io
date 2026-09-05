@@ -2,7 +2,6 @@
 slug: mi-nuevo-trabajo-en-esri
 authors: [hhkaos]
 tags: [memory, thoughts]
-enableComments: true 
 ---
 
 # 💼 Mi nuevo trabajo en Esri

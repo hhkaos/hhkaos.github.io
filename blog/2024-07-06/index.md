@@ -3,7 +3,6 @@ slug: first-associations-and-online-communities
 title: 1️⃣ [1975-1991] First associations and online communities
 authors: [hhkaos]
 tags: [history, community, tech community, meetups, spain]
-enableComments: true 
 ---
 
 <details>

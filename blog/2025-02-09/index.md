@@ -5,7 +5,6 @@ description: In this tutorial, José and I show you how to create your own soda 
 image: https://raw.githubusercontent.com/hhkaos/hhkaos.github.io/refs/heads/master/static/img/blogs/creamos-una-maquina-de-refrescos/we-created-a-soda-machine-thumb-en.webp
 authors: [hhkaos, hhjose]
 tags: [dyi, soda machine, electronics, home project, electricity]
-enableComments: true 
 ---
 
 As I mentioned on social media a few weeks ago, José and I, father and son, have joined [La Jaquería](https://lajaqueria.org/), a [HackSpace](https://en.wikipedia.org/wiki/Hackerspace) in Almería, to:

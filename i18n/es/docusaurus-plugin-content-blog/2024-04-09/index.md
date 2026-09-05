@@ -3,7 +3,6 @@ slug: resources-for-community-leaders
 title: 📦 Recursos para comunidades técnicas
 authors: [hhkaos]
 tags: [guia, manual, comunidades, grupos de usuarios, meetups, asociaciones]
-enableComments: true 
 ---
 
 Hoy escribo para anunciar que en [🧠 Mi cerebro digital](/es/docs/digital-brain) he añadido un nuevo apartado para recopilar recursos dirigidos personas que dinamizan [🌈 Comunidades técnicas](/es/docs/category/-tech-communities) con la esperanza de que ayuden a **crear comunidades más sostenibles en el tiempo**.

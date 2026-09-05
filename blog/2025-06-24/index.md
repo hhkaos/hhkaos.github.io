@@ -5,7 +5,6 @@ description: A reflection on how I use ChatGPT in raising my kids, the benefits,
 authors: [hhkaos]
 image: /img/blogs/nobody-taught-us-how-to-be-parents/nobody-taught-us-how-to-be-parents-en.webp
 tags: [parenting, AI, custom-gpt]
-enableComments: true 
 ---
 
 <details>

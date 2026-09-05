@@ -5,7 +5,6 @@ description: A personal reflection on the value of speaking sincerely, connectin
 authors: [hhkaos]
 image: /img/blogs/dad-learn-to-speak-up-without-fear.webp
 tags: [parenting, self-reflection]
-enableComments: true 
 ---
 
 For much of my life, I’ve avoided sharing my opinions in public on controversial topics. Not because I don’t have any (I do, sometimes contradictory, politically incorrect, or evolving), but because I’ve been afraid of being misunderstood, judged, disliked, or disappointing people.

@@ -2,7 +2,6 @@
 slug: invertir-en-formacion-online
 authors: [hhkaos]
 tags: [formación]
-enableComments: true 
 ---
 
 # 💰 Invertir en formación online

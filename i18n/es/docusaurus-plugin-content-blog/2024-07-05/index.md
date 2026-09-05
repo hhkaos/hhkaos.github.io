@@ -3,7 +3,6 @@ slug: history-of-technical-communities
 title: 📖 Historia de las comunidades tecnológicas (en España)
 authors: [hhkaos]
 tags: [history, community, tech community, meetups]
-enableComments: true 
 ---
 
 A raíz de una serie de reflexiones que me han llevado a plantearme [qué es una comunidad técnica (para mi)](../2024-07-04/index.md), he pensado en iniciar esta serie de artículos que recopilen los hechos más relevantes del mundo de la tecnología y las comunidades, con especial foco en España.

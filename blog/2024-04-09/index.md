@@ -3,7 +3,6 @@ slug: resources-for-community-leaders
 title: 📦 Resources for technical communities
 authors: [hhkaos]
 tags: [guide, handbook, community, user groups, meetups]
-enableComments: true 
 ---
 
 Today I am writing to announce that in [🧠 My digital brain](/docs/digital-brain) I have added a new section to collect resources for people who energize [🌈 Tech communities](/docs/category/-tech-communities) in the hope that they will help **create more sustainable communities over time**.

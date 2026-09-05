@@ -2,7 +2,6 @@
 slug: mala-memoria
 authors: [hhkaos]
 tags: [memory, thoughts]
-enableComments: true 
 ---
 
 # 🧠 Having a poor memory it's not so bad

@@ -3,7 +3,6 @@ slug: history-of-technical-communities
 title: 📖 History of technology communities
 authors: [hhkaos]
 tags: [history, community, tech community, meetups]
-enableComments: true 
 ---
 
 Following a series of reflections that led me to consider [what a technical community is (for me)](../2024-07-04/index.md), I decided to start this series of articles that compile the most relevant facts from the world of technology and communities, with a special focus on Spain.

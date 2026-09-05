@@ -5,7 +5,6 @@ description: Reflexión sobre cómo uso ChatGPT en la crianza de mis hijos, sus 
 authors: [hhkaos]
 image: /img/blogs/nobody-taught-us-how-to-be-parents/nobody-taught-us-how-to-be-parents-es.webp
 tags: [parenting, IA, custom-gpt]
-enableComments: true 
 ---
 
 <details>

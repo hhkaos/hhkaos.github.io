@@ -3,7 +3,6 @@ slug: the-rise-of-online-communities
 title: 2️⃣ [1992-2003] El auge de las comunidades online
 authors: [hhkaos]
 tags: [history, community, online communities, tech community, meetups, spain]
-enableComments: true 
 ---
 
 <details>

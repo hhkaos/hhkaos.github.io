@@ -5,7 +5,6 @@ description: Reflexión personal sobre cuándo hablar con nuestros hijos de tema
 authors: [hhkaos]
 image: /img/blogs/when-to-talk-to-children-about-certain-topics/hablar-de-ciertos-temas-con-los-ninos.webp
 tags: [parenting, self-reflection]
-enableComments: true 
 ---
 
 Si tienes hijos preadolescentes, seguro que ya te has preguntado cuándo hablar con ellos de ciertos temas delicados. En cada casa esos temas pueden ser distintos: los **Reyes Magos, Papá Noel, el Ratoncito Pérez, cómo se hacen los hijos**...
