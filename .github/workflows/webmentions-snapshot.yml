@@ -49,10 +49,11 @@ jobs:
       - name: Fetch mentions
         env:
           WEBMENTION_IO_TOKEN: ${{ secrets.WEBMENTION_IO_TOKEN }}
-          # The account is registered under links.rauljimenez.info, so mentions
-          # for this site are stored there too. Querying rauljimenez.info
-          # returns nothing.
-          DOMAIN: ${{ inputs.domain || 'links.rauljimenez.info' }}
+          # domain= filters by the target's host, and the mentions for this
+          # site are stored against www.rauljimenez.info. Bare rauljimenez.info
+          # returns nothing, and links.rauljimenez.info returns only the link
+          # page's own mentions.
+          DOMAIN: ${{ inputs.domain || 'www.rauljimenez.info' }}
         run: |
           npx webmentions-snapshot \
             --domain "$DOMAIN" \
