@@ -223,6 +223,12 @@ article figcaption{
   overflow-wrap: anywhere;
 }
 
+.webmentions-updated {
+  color: var(--ifm-color-emphasis-600);
+  font-size: .78rem;
+  margin: .75rem 0 0;
+}
+
 .webmention-source {
   display: none;
 }

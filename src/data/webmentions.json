@@ -1,0 +1,45 @@
+{
+  "generatedAt": "2026-09-05T13:54:13.000Z",
+  "lastId": 2028249,
+  "count": 2,
+  "mentions": [
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Wojtek Powiertowski",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/fb63563a65c386b51276519fc2a055e13c4da43b57bd1afcb882e4dc840a14eb.png",
+        "url": "https://mastodon.social/@wojtekpow"
+      },
+      "url": "https://mastodon.social/@hhkaos/117196043964695624#favorited-by-109742414877250719",
+      "published": null,
+      "wm-received": "2026-09-02T10:22:05Z",
+      "wm-id": 2028249,
+      "wm-source": "https://brid.gy/like/mastodon/@hhkaos@mastodon.social/117196043964695624/109742414877250719",
+      "wm-target": "https://www.rauljimenez.info/es/blog/first-steps-into-the-indieweb",
+      "wm-protocol": "webmention",
+      "like-of": "https://www.rauljimenez.info/es/blog/first-steps-into-the-indieweb",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Wojtek Powiertowski",
+        "photo": "https://avatars.webmention.io/files.mastodon.social/fb63563a65c386b51276519fc2a055e13c4da43b57bd1afcb882e4dc840a14eb.png",
+        "url": "https://mastodon.social/@wojtekpow"
+      },
+      "url": "https://mastodon.social/@hhkaos/117196043964695624#favorited-by-109742414877250719",
+      "published": null,
+      "wm-received": "2026-09-02T10:22:04Z",
+      "wm-id": 2028248,
+      "wm-source": "https://brid.gy/like/mastodon/@hhkaos@mastodon.social/117196043964695624/109742414877250719",
+      "wm-target": "https://www.rauljimenez.info/blog/first-steps-into-the-indieweb",
+      "wm-protocol": "webmention",
+      "like-of": "https://www.rauljimenez.info/blog/first-steps-into-the-indieweb",
+      "wm-property": "like-of",
+      "wm-private": false
+    }
+  ]
+}
