@@ -92,59 +92,58 @@ The first big conference I remember attended was the [Google Developer Day in 20
 
 ### Esri conferences 
 
-All of these talks at Esri [DevSummit](https://www.esri.com/en-us/about/events/devsummit/save-date) (Palm Springs, CA), [European DevSummit](https://www.esri.com/en-us/about/events/devsummit-europe/save-date) (Berlin & Frankfurt, Germany), and [Conferencia Esri España](https://www.esri.es/es-es/acerca-de/eventos/cesri23/conferencia-esri23) (Madrid, Spain) have been for work-related reasons. This list is not complete either:
+All of these talks at Esri [DevSummit](https://www.esri.com/en-us/about/events/devsummit/save-date) (check this [Virtual Tour to the event](https://storymaps.arcgis.com/stories/51eaa04891814ae58b2db881f6afa5c4)) (Palm Springs, CA), [European DevSummit](https://www.esri.com/en-us/about/events/devsummit-europe/save-date) (Berlin & Frankfurt, Germany), and [Conferencia Esri España](https://www.esri.es/es-es/acerca-de/eventos/cesri23/conferencia-esri23) (Madrid, Spain) have been for work-related reasons. This list is not complete either:
 
-* 🇺🇸 2025 - European Developer and Technology DevSummit - Security and Authentication for Custom Applications
-* 🇺🇸 2025 - European Developer and Technology DevSummit - Authentication: A Practical Approach to Security in ArcGIS
-* 🇺🇸 2025 - European Developer and Technology DevSummit - Tips and Tricks to Optimize ArcGIS Location Platform Service Usage
-* 🇺🇸 2025 - European Developer and Technology DevSummit - Working with ArcGIS REST JS
-* 🇺🇸 2025 - European Developer and Technology DevSummit - ArcGIS Location Platform: Best Practices When Hosting Your Data
-* 🇺🇸 2025 - European Developer and Technology DevSummit - ArcGIS Location Platform: An Introduction for Developers
-* 🇺🇸 2025 - European Developer and Technology DevSummit - Building Web Apps with Open Source Mapping APIs
+* 🇺🇸 2026 - Developer and Technology Summit - [AI-Infused Development: Lessons Learned and Patterns from Esri Engineers](https://www.youtube.com/watch?v=QlsXxDXEXTY)
+* 🇺🇸 2026 - Developer and Technology Summit - [Building Beautiful Interactive Mapping Applications with ArcGIS Basemap Services](https://www.youtube.com/watch?v=0gekWZy8k3w)
+* 🇺🇸 2026 - Developer and Technology Summit - [Empowering Your Applications with Your Data Hosted in ArcGIS](https://www.youtube.com/watch?v=Cul3wyLUZYg)
+* 🇪🇺 2025 - European Developer and Technology DevSummit - Security and Authentication for Custom Applications
+* 🇪🇺 2025 - European Developer and Technology DevSummit - Authentication: A Practical Approach to Security in ArcGIS
+* 🇪🇺 2025 - European Developer and Technology DevSummit - Tips and Tricks to Optimize ArcGIS Location Platform Service Usage
+* 🇪🇺 2025 - European Developer and Technology DevSummit - Working with ArcGIS REST JS
+* 🇪🇺 2025 - European Developer and Technology DevSummit - ArcGIS Location Platform: Best Practices When Hosting Your Data
+* 🇪🇺 2025 - European Developer and Technology DevSummit - ArcGIS Location Platform: An Introduction for Developers
+* 🇪🇺 2025 - European Developer and Technology DevSummit - Building Web Apps with Open Source Mapping APIs
 * 🇺🇸 2025 - Developer and Technology DevSummit - [Building Apps with Hosted Data Services](https://mediaspace.esri.com/media/t/1_vv79l0p3)
 * 🇺🇸 2025 - Esri Partner Conference - Authentication Strategies Within Partner Offerings
 * 🇺🇸 2025 - Esri Partner Conference - ArcGIS Location Platform and Developer: An Introduction
-* 🇺🇸 2024 - European DevSummit - ArcGIS Location Platform: An Introduction for Developers
-* 🇺🇸 2024 - European DevSummit - ArcGIS REST API: Full Throttle
-* 🇺🇸 2024 - European DevSummit - Authentication: A Practical Approach to Security in ArcGIS
-* 🇺🇸 2024 - European DevSummit - Using Postman to access ArcGIS services
-* 🇺🇸 2024 - European DevSummit - Working with the New Services with ArcGIS Location Platform
-* 🇺🇸 2024 - European DevSummit - Security and Authentication for Custom Applications
-* 🇺🇸 2023 - European DevSummit - Working with ArcGIS REST JS
-* 🇺🇸 2023 - European DevSummit - ArcGIS Platform: Best Practices When Hosting Your Data
-* 🇺🇸 2023 - European DevSummit - ArcGIS Maps SDK for JavaScript: Real-Time Data Visualization and Analytics
-* 🇺🇸 2023 - European DevSummit - Building Web Apps with Open Source Mapping APIs
-* 🇺🇸 2023 - European DevSummit - Strategies for Web Developers
+* 🇪🇺 2024 - European DevSummit - ArcGIS Location Platform: An Introduction for Developers
+* 🇪🇺 2024 - European DevSummit - ArcGIS REST API: Full Throttle
+* 🇪🇺 2024 - European DevSummit - Authentication: A Practical Approach to Security in ArcGIS
+* 🇪🇺 2024 - European DevSummit - Using Postman to access ArcGIS services
+* 🇪🇺 2024 - European DevSummit - Working with the New Services with ArcGIS Location Platform
+* 🇪🇺 2024 - European DevSummit - Security and Authentication for Custom Applications
+* 🇪🇺 2023 - European DevSummit - Working with ArcGIS REST JS
+* 🇪🇺 2023 - European DevSummit - ArcGIS Platform: Best Practices When Hosting Your Data
+* 🇪🇺 2023 - European DevSummit - ArcGIS Maps SDK for JavaScript: Real-Time Data Visualization and Analytics
+* 🇪🇺 2023 - European DevSummit - Building Web Apps with Open Source Mapping APIs
+* 🇪🇺 2023 - European DevSummit - Strategies for Web Developers
 * 🇪🇸 2023 - Conferencia Esri España - [ArcGIS Platform locations services](https://www.youtube.com/watch?v=eqaikkyJqrY&list=PLoptan2utx17HcgYmjZMdwqqzzfjocCLq&index=4)
 * 🇺🇸 2023 - DevSummit - [ArcGIS Platform: Location Services for Developers](https://registration.esri.com/flow/esri/23epcdev/devsummit-2023-ps/page/proceedings/session/1673589690135001ERCS)
 * 🇺🇸 2023 - DevSummit - [Spatial Analysis for Developers](https://registration.esri.com/flow/esri/23epcdev/devsummit-2023-ps/page/proceedings/session/1671506582269001InJm)
-* 🇺🇸 2022 - European DevSummit - [ArcGIS Platform: An Introduction for Developers](https://registration.esri.com/flow/esri/22eurdev/eurdev-2022-ps/page/proceedings/session/1664834620902001ilW1)
-* 🇺🇸 2022 - European DevSummit - ArcGIS API for JavaScript: Using Arcade with you Apps
-* 🇺🇸 2022 - European DevSummit - [Customize Your Maps with the Vector Tile Style Editor](https://registration.esri.com/flow/esri/22eurdev/eurdev-2022-ps/page/proceedings/session/1664834622060001izOR)
-* 🇺🇸 2022 - European DevSummit - [Authentication in ArcGIS: A Practical Approach](https://registration.esri.com/flow/esri/22eurdev/eurdev-2022-ps/page/proceedings/session/1664834621025001iHGn)
-* 🇺🇸 2022 - European DevSummit - [Working with ArcGIS REST JS](https://registration.esri.com/flow/esri/22eurdev/eurdev-2022-ps/page/proceedings/session/1664834621150001iZgX)
-* 🇺🇸 2022 - European DevSummit - [Strategies for Web Developers](https://registration.esri.com/flow/esri/22eurdev/eurdev-2022-ps/page/proceedings/session/1664834620835001ivr9)
-* 🇺🇸 2022 - European DevSummit - [Building Web Apps with Open Source Mapping APIs](https://registration.esri.com/flow/esri/22eurdev/eurdev-2022-ps/page/proceedings/session/1664834621214001iwfO)
+* 🇪🇺 2022 - European DevSummit - [ArcGIS Platform: An Introduction for Developers](https://registration.esri.com/flow/esri/22eurdev/eurdev-2022-ps/page/proceedings/session/1664834620902001ilW1)
+* 🇪🇺 2022 - European DevSummit - ArcGIS API for JavaScript: Using Arcade with you Apps
+* 🇪🇺 2022 - European DevSummit - [Customize Your Maps with the Vector Tile Style Editor](https://registration.esri.com/flow/esri/22eurdev/eurdev-2022-ps/page/proceedings/session/1664834622060001izOR)
+* 🇪🇺 2022 - European DevSummit - [Authentication in ArcGIS: A Practical Approach](https://registration.esri.com/flow/esri/22eurdev/eurdev-2022-ps/page/proceedings/session/1664834621025001iHGn)
+* 🇪🇺 2022 - European DevSummit - [Working with ArcGIS REST JS](https://registration.esri.com/flow/esri/22eurdev/eurdev-2022-ps/page/proceedings/session/1664834621150001iZgX)
+* 🇪🇺 2022 - European DevSummit - [Strategies for Web Developers](https://registration.esri.com/flow/esri/22eurdev/eurdev-2022-ps/page/proceedings/session/1664834620835001ivr9)
+* 🇪🇺 2022 - European DevSummit - [Building Web Apps with Open Source Mapping APIs](https://registration.esri.com/flow/esri/22eurdev/eurdev-2022-ps/page/proceedings/session/1664834621214001iwfO)
 * 🇺🇸 2021 - DevSummit - [Esri Koop: Converting Data in PostgreSQL to Feature Layers](https://www.youtube.com/watch?v=-TCFaXQuhUE)
 * 🇺🇸 2021 - DevSummit - [The ArcGIS GeoInformation Model](https://www.youtube.com/watch?v=uj0tHzM9G5c)
 * 🇺🇸 2021 - DevSummit - [Cloning Apps and Items with ArcGIS API for Python](https://www.youtube.com/watch?v=PhEM-k34bbY)
 * 🇪🇸 2020 - Conferencia Esri España - [Visión Esri Respecto a Developers y Data Scientists](https://docs.google.com/presentation/d/1NRfesqnFPNuaTU5Mb91F9l7oL4aE-4aKVSV1bnSkP8M/edit?usp=sharing)
 * 🇪🇸 2019 Conferencia Esri España - Developers Track (multiple talks)
-* 🇺🇸 2019 - European DevSummit - [Esri Koop: Using Third Party Data Sources in ArcGIS](https://www.esri.com/content/dam/esrisites/en-us/about/events/media/2019-european-developers-summit/eurodev-43.pdf)
-* 🇺🇸 2019 - European DevSummit  - [ArcGIS REST API: Getting Started](https://www.esri.com/content/dam/esrisites/en-us/about/events/media/2019-european-developers-summit/eurodev-29.pdf)
+* 🇪🇺 2019 - European DevSummit - [Esri Koop: Using Third Party Data Sources in ArcGIS](https://www.esri.com/content/dam/esrisites/en-us/about/events/media/2019-european-developers-summit/eurodev-43.pdf)
+* 🇪🇺 2019 - European DevSummit  - [ArcGIS REST API: Getting Started](https://www.esri.com/content/dam/esrisites/en-us/about/events/media/2019-european-developers-summit/eurodev-29.pdf)
 * 🇪🇸 2018 - Conferencia Esri España - Developers Track (multiple talks)
 * 🇪🇸 2017 - The Sciende Of Where en Bizkaia - [Crear WebApps impresionantes con menos de 100 líneas de código](https://docs.google.com/document/d/1it6K3EIC2bWt3nclFJSBHCiLw96cRKBzxmPp9caiPc8/edit?usp=sharing)
-* 🇺🇸 2017 - European DevSummit  - [ArcGIS API for JavaScript: Getting Started](https://proceedings.esri.com/library/userconf/devsummit-euro17/papers/devsummit-euro_21.pdf)
-* 🇺🇸 2017 - European DevSummit  - [Choosing a JavaScript Framework for You	](https://proceedings.esri.com/library/userconf/devsummit-euro17/papers/devsummit-euro_28.pdf)
+* 🇪🇺 2017 - European DevSummit  - [ArcGIS API for JavaScript: Getting Started](https://proceedings.esri.com/library/userconf/devsummit-euro17/papers/devsummit-euro_21.pdf)
+* 🇪🇺 2017 - European DevSummit  - [Choosing a JavaScript Framework for You	](https://proceedings.esri.com/library/userconf/devsummit-euro17/papers/devsummit-euro_28.pdf)
 * 🇪🇸 2017 DevSummit Esri España - [Multiple talks](https://www.youtube.com/watch?v=HsNzMQRQsQg&list=PLwq5dz_FjCx6C9-ZtGJGM1eBEjFyndXd6&pp=iAQB)
 * 🇪🇸 2017 Conferencia Esri España - [Developers Track (multiple talks)](https://www.youtube.com/watch?v=B7KbFQKa-7I&list=PLwq5dz_FjCx702K99Ae1pQqTP2Yr8aAT4&pp=iAQB)
-* 🇺🇸 2016 - European DevSummit  - [Choosing the Best JavaScript Framework for You](https://proceedings.esri.com/library/userconf/devsummit-euro16/papers/devsummit-euro_07.pdf)
+* 🇪🇺 2016 - European DevSummit  - [Choosing the Best JavaScript Framework for You](https://proceedings.esri.com/library/userconf/devsummit-euro16/papers/devsummit-euro_07.pdf)
 * 🇪🇸 2016 DevSummit Esri España - [Multiple talks](https://www.youtube.com/watch?v=860ZxjltwXI&list=PLwq5dz_FjCx7f_YTKAjG8ho_Y-6frw1XU)
-* 🇺🇸 2015 - European DevSummit - [ArcGIS API for JavaScript: An Introduction](https://proceedings.esri.com/library/userconf/devsummit-euro15/papers/devsummit-euro_07.pdf)
-* 🇺🇸 2015 - European DevSummit - [Choosing the Best JavaScript Framework for You](https://proceedings.esri.com/library/userconf/devsummit-euro15/papers/devsummit-euro_12.pdf)
+* 🇪🇺 2015 - European DevSummit - [ArcGIS API for JavaScript: An Introduction](https://proceedings.esri.com/library/userconf/devsummit-euro15/papers/devsummit-euro_07.pdf)
+* 🇪🇺 2015 - European DevSummit - [Choosing the Best JavaScript Framework for You](https://proceedings.esri.com/library/userconf/devsummit-euro15/papers/devsummit-euro_12.pdf)
 * 🇪🇸 2015 Conferencia Esri España - Developers Track (multiple talks)
 * 🇪🇸 2014 Conferencia Esri España - Developers Track (multiple talks)
-
-import GiscusComponent from '@site/src/components/GiscusComponent';
-
-<GiscusComponent></GiscusComponent>

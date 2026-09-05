@@ -46,7 +46,3 @@ https://eventgarden.io/  (internacional)
 ## Comentarios
 
 Si conoces otras iniciativas, recursos, etc. que sirvan por favor añadela en los comentarios 🙏😊.
-
-import GiscusComponent from '@site/src/components/GiscusComponent';
-
-<GiscusComponent></GiscusComponent>

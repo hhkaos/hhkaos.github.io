@@ -157,9 +157,3 @@ Como explicaré a continuación, este último punto para que las personas conect
 ## Contribuciones y agradecimientos
 
 Este documento no sería posible sin las contribuciones recibidas. ¡Gracias!
-
-## Comentarios
-
-import GiscusComponent from '@site/src/components/GiscusComponent';
-
-<GiscusComponent></GiscusComponent>

@@ -927,14 +927,10 @@ A veces, que sin conocer la historia y su evolución, cuesta entender en el pres
 #### \[6\] Tipos de geometría en diferentes technologías: [GeoJSON](https://en.wikipedia.org/wiki/GeoJSON), [geometrías en ArcGIS](https://developers.arcgis.com/documentation/common-data-types/geometry-objects.htm), [tipos de datos en PostGIS](https://postgis.net/workshops/postgis-intro/geometries.html), [formas en la API JS de Google Maps](https://developers.google.com/maps/documentation/javascript/shapes).
 
 <!-- 
-Sistemas de Información Geográfica Un libro libre de Víctor Olaya: https://volaya.github.io/libro-sig/ -->
+Sistemas de Información Geográfica Un libro libre de Víctor Olaya: https://volaya.github.io/libro-sig/ 
+https://www.interactivelearner-gis.com/
+-->
 
 <!-- 
 
  -->
-
-## Comentarios
-
-import GiscusComponent from '@site/src/components/GiscusComponent';
-
-<GiscusComponent></GiscusComponent>

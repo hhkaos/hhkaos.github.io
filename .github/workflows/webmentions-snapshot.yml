@@ -17,6 +17,12 @@ on:
         description: Refetch everything instead of only what is new
         type: boolean
         default: false
+      domain:
+        description: >-
+          Domain to query. Must be one registered on the webmention.io account,
+          which is not necessarily this site's hostname.
+        type: string
+        default: ''
   repository_dispatch:
     types: [webmention]
 
@@ -43,9 +49,13 @@ jobs:
       - name: Fetch mentions
         env:
           WEBMENTION_IO_TOKEN: ${{ secrets.WEBMENTION_IO_TOKEN }}
+          # The account is registered under links.rauljimenez.info, so mentions
+          # for this site are stored there too. Querying rauljimenez.info
+          # returns nothing.
+          DOMAIN: ${{ inputs.domain || 'links.rauljimenez.info' }}
         run: |
           npx webmentions-snapshot \
-            --domain rauljimenez.info \
+            --domain "$DOMAIN" \
             --out src/data/webmentions.json \
             ${{ inputs.full && '--full' || '' }}
 

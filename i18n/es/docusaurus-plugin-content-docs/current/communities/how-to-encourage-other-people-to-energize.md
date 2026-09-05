@@ -10,9 +10,3 @@ Este tema concretamente que no se discutió [en el Open Space](/es/blog/resource
 Por eso me gustaría hablar con otras personas sobre este asunto, especialmente con personas que tengan experiencia con comunidades que hayan mantenido la actividad constante durante diez o quince años, personas que hayan dinamizado organizaciones que no sigan una organización jerárquica, con una cultura de liderazgo compartido, etc.
 
 Si os interesa el tema, déjalo en los comentarios.
-
-## Comentarios
-
-import GiscusComponent from '@site/src/components/GiscusComponent';
-
-<GiscusComponent></GiscusComponent>

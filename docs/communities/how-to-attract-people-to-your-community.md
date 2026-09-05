@@ -125,7 +125,3 @@ This document would not be possible without the contributions received. Thanks!
 ## Comments
 
 And what about you? Have you tried these or other methods? Please share your experiences so that others can benefit from them 😊.
-
-import GiscusComponent from '@site/src/components/GiscusComponent';
-
-<GiscusComponent></GiscusComponent>

@@ -105,7 +105,3 @@ Later on, especially after joining the Free Software Office of the University of
 ## Takeaways
 
 En base a muchas because I also believe in karma 🫶🏼. -->
-
-import GiscusComponent from '@site/src/components/GiscusComponent';
-
-<GiscusComponent></GiscusComponent>

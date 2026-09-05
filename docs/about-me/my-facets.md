@@ -15,7 +15,3 @@ Mainly due to my curiosity and entrepreneurial spirit, over the years I have wor
 * ...
 
 That is why I have developed skills in many of these fields and learned to use a wide variety of tools.
-
-import GiscusComponent from '@site/src/components/GiscusComponent';
-
-<GiscusComponent></GiscusComponent>

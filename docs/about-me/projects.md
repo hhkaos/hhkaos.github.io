@@ -34,7 +34,3 @@ Discontinued projects retrieved from Web Archive:
 online presence
 https://web.archive.org/web/20080315072516/http://raul-jimenez-ortega.neurona.com/ 
 -->
-
-import GiscusComponent from '@site/src/components/GiscusComponent';
-
-<GiscusComponent></GiscusComponent>

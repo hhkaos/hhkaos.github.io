@@ -133,9 +133,3 @@ A continuación dejo otros tipos de comunidades, que me gustaría evaluar y desa
 Communities & Events - Jonathan Vila JCon Europe: http://bit.ly/vilojona-communities
 What's in a community like Liferay's https://www.youtube.com/watch?v=GrG5idMGxF8
  -->
-
-## Comentarios
-
-import GiscusComponent from '@site/src/components/GiscusComponent';
-
-<GiscusComponent></GiscusComponent>

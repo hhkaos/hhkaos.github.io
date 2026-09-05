@@ -2,7 +2,7 @@ import React from 'react';
 import {useBlogPost} from '@docusaurus/plugin-content-blog/client';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import BlogPostItem from '@theme-original/BlogPostItem';
-import GiscusComponent from '@site/src/components/GiscusComponent';
+import Webmentions from '@site/src/components/Webmentions';
 
 const author = {
   name: 'Raúl Jiménez Ortega',
@@ -18,8 +18,7 @@ export default function BlogPostItemWrapper(props) {
   const { metadata, isBlogPostPage } = useBlogPost()
   const { siteConfig } = useDocusaurusContext();
 
-  const { frontMatter, permalink, date, title } = metadata
-  const { enableComments } = frontMatter
+  const { permalink, date, title } = metadata
   const canonicalUrl = permalink ? new URL(permalink, siteConfig.url).toString() : null
   const semanticTitle = stripLeadingSymbols(title)
 
@@ -37,9 +36,9 @@ export default function BlogPostItemWrapper(props) {
         </span>
         <BlogPostItem {...props} />
       </article>
-      {(enableComments && isBlogPostPage) && (
-        <GiscusComponent />
-      )}
+      {/* Here rather than in the Layout so the section lands above the
+          previous/next pagination, where the comments used to be. */}
+      {isBlogPostPage && <Webmentions />}
     </>
   );
 }

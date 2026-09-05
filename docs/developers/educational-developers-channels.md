@@ -768,10 +768,3 @@ There are many other forums there, issues on repos, corporate forums (e.g. [comm
 * https://www.producthunt.com/topics/developer-tools
 * https://blog.codinghorror.com/
 * https://thedailywtf.com/
-
-
-
-
-import GiscusComponent from '@site/src/components/GiscusComponent';
-
-<GiscusComponent></GiscusComponent>

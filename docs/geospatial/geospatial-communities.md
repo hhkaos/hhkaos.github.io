@@ -33,7 +33,3 @@ Do you know of a geospatial event, meetup, or organization that’s missing? Con
 
 * 🔍 [Explore the spreadsheet](https://docs.google.com/spreadsheets/d/1fTmotoVrgTrts9qP2NenQjNAGLb06w1_CHGctp-8yHA/edit?usp=sharing)
 * ✏️ Suggest additions or updates in the comments or directly in the spreadsheet
-
-import GiscusComponent from '@site/src/components/GiscusComponent';
-
-<GiscusComponent></GiscusComponent>

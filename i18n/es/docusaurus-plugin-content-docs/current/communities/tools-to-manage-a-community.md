@@ -28,9 +28,3 @@ Herramientas que sirvan para gestionar y dinamizar una comunidad, como por ejemp
 * etc.
 
 ¿Te animas a dejar algunas en los comentarios?
-
-## Comentarios
-
-import GiscusComponent from '@site/src/components/GiscusComponent';
-
-<GiscusComponent></GiscusComponent>

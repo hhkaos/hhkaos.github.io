@@ -129,7 +129,3 @@ Este documento no sería posible sin las contribuciones recibidas. ¡Gracias!
 ## Comentarios
 
 Y tú, ¿qué opinas?, ¿has probado estas u otras cosas?, por favor comparte tu experiencia para que otras personas se puedan enriquecer de ellas 😊
-
-import GiscusComponent from '@site/src/components/GiscusComponent';
-
-<GiscusComponent></GiscusComponent>

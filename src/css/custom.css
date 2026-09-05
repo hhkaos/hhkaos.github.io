@@ -140,6 +140,127 @@ article figcaption{
   margin-bottom: 1rem;
 }
 
+/* Reactions summary in the post header: a self-contained chip that names what
+   it counts, so the faces read as "reactions to this post" rather than as
+   decoration next to the byline. Links down to the full section. */
+.webmentions-summary {
+  align-items: center;
+  background: var(--ifm-background-surface-color);
+  border: 1px solid var(--ifm-color-emphasis-200);
+  border-radius: 999px;
+  color: var(--ifm-color-emphasis-700);
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: .35rem .7rem;
+  margin-bottom: 1.25rem;
+  padding: .4rem .85rem;
+  text-decoration: none;
+  transition: border-color .15s ease, color .15s ease;
+}
+
+.webmentions-summary:hover,
+.webmentions-summary:focus-visible {
+  border-color: var(--ifm-color-primary);
+  color: var(--ifm-color-primary);
+  text-decoration: none;
+}
+
+.webmentions-summary-label {
+  font-size: .78rem;
+  font-weight: 600;
+  letter-spacing: .04em;
+  text-transform: uppercase;
+}
+
+/* A hairline between the label and the counters, so the chip reads as
+   "heading + data" instead of one undifferentiated run. */
+.webmentions-summary-label::after {
+  background: var(--ifm-color-emphasis-300);
+  content: '';
+  display: inline-block;
+  height: 1em;
+  margin-left: .7rem;
+  vertical-align: -.2em;
+  width: 1px;
+}
+
+.webmentions-summary-group {
+  align-items: center;
+  display: inline-flex;
+  gap: .3rem;
+}
+
+.webmentions-summary-icon {
+  font-size: .95rem;
+  line-height: 1;
+}
+
+.webmentions-summary-count {
+  font-size: .9rem;
+  font-weight: 600;
+}
+
+/* A chevron, not an arrow: next to a heart, a down arrow reads as a downvote.
+   Nudges right on hover so it reads as "go to the section". */
+.webmentions-summary-jump {
+  font-size: 1.1rem;
+  line-height: 1;
+  opacity: .5;
+  transition: transform .15s ease, opacity .15s ease;
+}
+
+.webmentions-summary:hover .webmentions-summary-jump,
+.webmentions-summary:focus-visible .webmentions-summary-jump {
+  opacity: 1;
+  transform: translateX(2px);
+}
+
+.sr-only {
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+}
+
+.webmentions-summary-facepile {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.webmentions-summary-item {
+  display: block;
+  /* Overlap the avatars slightly so a long pile stays compact. */
+  margin-left: -.4rem;
+}
+
+.webmentions-summary-item:first-child {
+  margin-left: 0;
+}
+
+.webmentions-summary-photo {
+  align-items: center;
+  background: var(--ifm-color-emphasis-100);
+  border: 2px solid var(--ifm-background-color);
+  border-radius: 50%;
+  display: flex;
+  height: 28px;
+  justify-content: center;
+  object-fit: cover;
+  width: 28px;
+}
+
+.webmentions-summary-initial {
+  font-size: .72rem;
+  font-weight: 700;
+}
+
 .webmentions-facepile {
   display: flex;
   flex-wrap: wrap;

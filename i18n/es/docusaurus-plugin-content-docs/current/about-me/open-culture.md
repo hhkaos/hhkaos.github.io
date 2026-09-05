@@ -106,7 +106,3 @@ Más adelante, especialmente después de incorporarme a la Oficina de Software L
 
 En base a muchas cosas, porque también creo en el karma 🫶🏼.
 -->
-
-import GiscusComponent from '@site/src/components/GiscusComponent';
-
-<GiscusComponent></GiscusComponent>
