@@ -18,6 +18,25 @@ const UPDATED_LABEL = {
   es: 'Actualizado',
 };
 
+// Verbs read inline after the author's name ("Ana Ruiz respondió · 3 sept"),
+// so they are lowercase past tense rather than the widget's English nouns.
+const VERBS = {
+  en: {
+    'like-of': 'liked this',
+    'repost-of': 'reposted this',
+    'bookmark-of': 'bookmarked this',
+    'in-reply-to': 'replied',
+    'mention-of': 'mentioned this',
+  },
+  es: {
+    'like-of': 'le gusta esto',
+    'repost-of': 'ha compartido esto',
+    'bookmark-of': 'ha guardado esto',
+    'in-reply-to': 'ha respondido',
+    'mention-of': 'ha mencionado esto',
+  },
+};
+
 const TITLE = {
   en: 'Responses from the web',
   es: 'Respuestas de la web',
@@ -33,7 +52,10 @@ export default function Webmentions() {
       snapshot={snapshot}
       locale={i18n.currentLocale}
       title={TITLE[i18n.currentLocale] || TITLE.en}
-      labels={{updated: UPDATED_LABEL[i18n.currentLocale] || UPDATED_LABEL.en}}
+      labels={{
+        ...(VERBS[i18n.currentLocale] || VERBS.en),
+        updated: UPDATED_LABEL[i18n.currentLocale] || UPDATED_LABEL.en,
+      }}
       // `.webmentions .container` is what caps the section at 820px.
       innerClassName="container"
     />

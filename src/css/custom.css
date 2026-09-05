@@ -297,6 +297,26 @@ article figcaption{
   width: 32px;
 }
 
+/* An author whose h-card carries no photo still gets a face-shaped element, so
+   the pile keeps one rhythm. The hue comes from the widget, derived from the
+   name, so two initials side by side read as two people. */
+.webmention-facepile-photo.is-initial,
+.webmention-photo.is-initial {
+  align-items: center;
+  background: hsl(var(--webmention-avatar-hue, 220) 45% 90%);
+  color: hsl(var(--webmention-avatar-hue, 220) 45% 28%);
+  display: flex;
+  font-weight: 700;
+  justify-content: center;
+  line-height: 1;
+}
+
+[data-theme='dark'] .webmention-facepile-photo.is-initial,
+[data-theme='dark'] .webmention-photo.is-initial {
+  background: hsl(var(--webmention-avatar-hue, 220) 30% 28%);
+  color: hsl(var(--webmention-avatar-hue, 220) 45% 88%);
+}
+
 .webmentions-list {
   display: grid;
   gap: .85rem;
@@ -305,14 +325,16 @@ article figcaption{
   padding: 0;
 }
 
+/* No shadow: a 24px blur under an 80px-tall card reads as floating debris next
+   to the flat post body. The border alone separates it from the page. */
 .webmention {
+  align-items: flex-start;
   background: var(--ifm-background-surface-color);
   border: 1px solid var(--ifm-color-emphasis-200);
   border-radius: 8px;
-  box-shadow: 0 8px 24px rgba(0, 0, 0, .04);
   display: flex;
-  gap: .75rem;
-  padding: 1rem;
+  gap: .65rem;
+  padding: .8rem .9rem;
 }
 
 .webmention-body {
@@ -322,25 +344,33 @@ article figcaption{
 .webmention-photo {
   background: var(--ifm-color-emphasis-100);
   border-radius: 50%;
-  flex: 0 0 40px;
-  height: 40px;
-  width: 40px;
-}
-
-.webmention-meta,
-.webmention-content {
-  margin-bottom: .25rem;
+  flex: 0 0 36px;
+  font-size: .85rem;
+  height: 36px;
+  /* Nudge down to sit on the meta line's optical centre rather than its box. */
+  margin-top: .1rem;
+  object-fit: cover;
+  width: 36px;
 }
 
 .webmention-meta {
-  color: var(--ifm-color-emphasis-700);
-  font-size: .88rem;
+  color: var(--ifm-color-emphasis-600);
+  font-size: .82rem;
+  margin-bottom: .2rem;
+}
+
+/* The name carries the row; the verb and the date are context. Without this
+   they all weigh the same and there is nothing to read first. */
+.webmention-meta .p-author {
+  color: var(--ifm-color-emphasis-900);
+  font-weight: 600;
 }
 
 .webmention-content {
   color: var(--ifm-color-emphasis-800);
-  font-size: .94rem;
-  line-height: 1.55;
+  font-size: .92rem;
+  line-height: 1.45;
+  margin-bottom: 0;
   overflow-wrap: anywhere;
 }
 
