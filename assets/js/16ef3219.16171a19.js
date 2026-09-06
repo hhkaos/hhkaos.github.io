@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkrauljimenez_info||=[]).push([[5434],{5709(a){a.exports=JSON.parse('{"tag":{"label":"Microsub","permalink":"/blog/tags/microsub","allTagsPath":"/blog/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/blog/tags/microsub","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

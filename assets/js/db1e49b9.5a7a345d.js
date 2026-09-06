@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkrauljimenez_info||=[]).push([[7097],{1151(a){a.exports=JSON.parse('{"tag":{"label":"POSSE","permalink":"/blog/tags/posse","allTagsPath":"/blog/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/blog/tags/posse","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

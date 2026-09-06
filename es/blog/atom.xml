@@ -2,11 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.rauljimenez.info/es/blog</id>
     <title>RaulJimenez.info Blog</title>
-    <updated>2026-09-01T00:00:00.000Z</updated>
+    <updated>2026-09-06T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.rauljimenez.info/es/blog"/>
     <subtitle>RaulJimenez.info Blog</subtitle>
     <icon>https://www.rauljimenez.info/es/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[🌿 Segundos pasos en la IndieWeb]]></title>
+        <id>https://www.rauljimenez.info/es/blog/second-steps-into-the-indieweb</id>
+        <link href="https://www.rauljimenez.info/es/blog/second-steps-into-the-indieweb"/>
+        <updated>2026-09-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Publicar en mi propio dominio ya es rutina, pero seguir al resto de la web desde él sigue siendo una casilla vacía.]]></summary>
+        <content type="html"><![CDATA[<p>Hace unos días escribí sobre mis <a class="" href="https://www.rauljimenez.info/es/blog/first-steps-into-the-indieweb">primeros pasos en la IndieWeb</a>: datos semánticos, un hub de identidad, Webmentions enviadas a mano con <code>curl</code> y un servidor <a href="https://indieweb.org/Micropub" target="_blank" rel="noopener noreferrer" class="">Micropub</a> que acababa de empezar a funcionar.</p>
+<p>Desde entonces he seguido tirando del hilo, y el panorama ha cambiado lo suficiente como para merecer un segundo post. La versión corta: <strong>publicar está casi resuelto, seguir no</strong>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="publicar-mi-propia-actividad-de-verdad">Publicar mi propia actividad, de verdad<a href="https://www.rauljimenez.info/es/blog/second-steps-into-the-indieweb#publicar-mi-propia-actividad-de-verdad" class="hash-link" aria-label="Enlace directo al Publicar mi propia actividad, de verdad" title="Enlace directo al Publicar mi propia actividad, de verdad" translate="no">​</a></h2>
+<p>La parte de publicación ha pasado de teoría a rutina. Tengo un pequeño servidor <a href="https://getindiekit.com/" target="_blank" rel="noopener noreferrer" class="">Indiekit</a> privado, protegido con contraseña y sin enlazar desde ningún sitio, que hace de endpoint Micropub.</p>
+<p>Cuando creo algo ahí, se guarda en un repositorio público de GitHub, <a href="https://github.com/hhkaos/posts.rauljimenez.info" target="_blank" rel="noopener noreferrer" class="">hhkaos/posts.rauljimenez.info</a>, y una GitHub Action lo renderiza en <a href="https://posts.rauljimenez.info/" target="_blank" rel="noopener noreferrer" class="">posts.rauljimenez.info</a>. Solo se renderiza, sindica o webmenciona lo que está marcado explícitamente como público. Mi web es la copia canónica; todo lo demás es una copia de ella.</p>
+<p>Los tipos de post que realmente he publicado y puedo ver en vivo son: bookmarks, likes, replies, RSVPs, eventos, fotos y, más recientemente, reseñas y entradas de "leído" y "visto". Hay otros configurados pero todavía sin probar (reposts, artículos, "escuchado", check-ins), así que no voy a decir que funcionan. Los notes de prueba que usé al principio los borré una vez cumplida su función.</p>
+<p>Dos clientes cubren casi todo: <a href="https://quill.p3k.io/" target="_blank" rel="noopener noreferrer" class="">Quill</a> para notes, bookmarks, likes, replies y RSVPs, y la propia interfaz de Indiekit para los tipos más ricos, como reseñas, lecturas, visionados y eventos. Ambos hablan con mi servidor a través de <a href="https://indieweb.org/IndieAuth" target="_blank" rel="noopener noreferrer" class="">IndieAuth</a>, así que entro con mi propio dominio en vez de con otra cuenta más.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="posse-a-mastodon-y-bluesky">POSSE a Mastodon y Bluesky<a href="https://www.rauljimenez.info/es/blog/second-steps-into-the-indieweb#posse-a-mastodon-y-bluesky" class="hash-link" aria-label="Enlace directo al POSSE a Mastodon y Bluesky" title="Enlace directo al POSSE a Mastodon y Bluesky" translate="no">​</a></h2>
+<p><a href="https://indieweb.org/POSSE" target="_blank" rel="noopener noreferrer" class="">POSSE</a> fue el concepto que me enganchó en el primer post, y ahora funciona de verdad. Si marco un post para sindicar, se publica en <a href="https://mastodon.social/@hhkaos" target="_blank" rel="noopener noreferrer" class="">Mastodon</a> y <a href="https://bsky.app/profile/rauljimenez.info" target="_blank" rel="noopener noreferrer" class="">Bluesky</a> unos minutos después, cuando el proceso programado lo recoge. No es instantáneo, y tampoco es automático para todo: es una decisión por post.</p>
+<p>El texto se adapta al tipo de actividad ("🔖 He guardado…", "🎤 Voy a dar una charla en…"), se adjunta una imagen de previsualización, y las URLs resultantes se escriben de vuelta en el post original como enlaces <code>u-syndication</code>, para que la versión canónica sepa dónde viven sus copias. De esto se encarga Indiekit con unos wrappers de sindicador locales, no la función de publicación de Bridgy.</p>
+<p>Dos limitaciones honestas. La primera: editar un post no actualiza las copias; la sindicación ocurre una vez y ya está. La segunda: LinkedIn, X e Instagram siguen sin una vía limpia — una API solo de pago en un caso, un proceso de aprobación de app OAuth más un sindicador de terceros poco mantenido en otro, y directamente ninguna API de publicación personal en el tercero. Así que esos siguen yendo a mano. No es imposible para siempre, simplemente hoy no compensa el esfuerzo.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="conversaciones-que-vuelven">Conversaciones que vuelven<a href="https://www.rauljimenez.info/es/blog/second-steps-into-the-indieweb#conversaciones-que-vuelven" class="hash-link" aria-label="Enlace directo al Conversaciones que vuelven" title="Enlace directo al Conversaciones que vuelven" translate="no">​</a></h2>
+<p>Las Webmentions salientes ya no son un <code>curl</code> que lanzo a mano, al menos para el contenido creado a través de Indiekit. Cuando uno de esos posts enlaza a algún sitio, el proceso de build descubre el endpoint del destino y le avisa, llevando un pequeño registro para no enviar nunca dos veces la misma mención. Los artículos normales del blog, como este, todavía no están cubiertos por esa automatización, así que para ellos vuelvo al envío manual — una decisión que aún tengo abierta.</p>
+<p>Las Webmentions entrantes las recibe <a href="https://webmention.io/" target="_blank" rel="noopener noreferrer" class="">webmention.io</a>, un servicio alojado, y ahora además se <em>muestran</em>: likes, reposts y respuestas aparecen bajo cada post en posts.rauljimenez.info, bajo los artículos de este blog, y en <a href="https://links.rauljimenez.info/" target="_blank" rel="noopener noreferrer" class="">links.rauljimenez.info</a>. Los tres usan el mismo widget compartido que acabé extrayendo por el camino, <a href="https://www.npmjs.com/package/@hhkaos/webmentions-widget" target="_blank" rel="noopener noreferrer" class="">@hhkaos/webmentions-widget</a>, que hace una foto de las menciones en tiempo de build en lugar de pedirlas en vivo desde el navegador.</p>
+<p>Y <a href="https://brid.gy/" target="_blank" rel="noopener noreferrer" class="">Bridgy</a> cierra el círculo. Está conectado a Mastodon y Bluesky solo en modo backfeed — su parte de publicación está desactivada a propósito, porque de eso ya se encarga Indiekit. Así que cuando alguien da un like o responde a una de las copias sindicadas, esa reacción viaja de vuelta como Webmention a mi post original. La conversación que antes se quedaba atrapada en un silo acaba en mi propio dominio.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="ahora-me-entero">Ahora me entero<a href="https://www.rauljimenez.info/es/blog/second-steps-into-the-indieweb#ahora-me-entero" class="hash-link" aria-label="Enlace directo al Ahora me entero" title="Enlace directo al Ahora me entero" translate="no">​</a></h2>
+<p>Cada mención entrante verificada me llega además como notificación push y como email, con el tipo, el autor, el origen y el destino. Ambas salen de un webhook que webmention.io llama contra un pequeño servicio self-hosted, usando <a href="https://github.com/binwiederhier/ntfy" target="_blank" rel="noopener noreferrer" class="">ntfy</a> para la parte de push. Todavía no hay ningún filtro, porque el volumen es mínimo y, sinceramente, cada mención sigue pareciéndome un pequeño acontecimiento.</p>
+<p>Lo que <em>no</em> tengo es aviso para los fallos aburridos: una sindicación atascada en la cola, un render roto, un build que en silencio no publicó nada. Esos los sigo descubriendo mirando.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="chequeo-de-realidad">Chequeo de realidad<a href="https://www.rauljimenez.info/es/blog/second-steps-into-the-indieweb#chequeo-de-realidad" class="hash-link" aria-label="Enlace directo al Chequeo de realidad" title="Enlace directo al Chequeo de realidad" translate="no">​</a></h2>
+<p>webmention.io tuvo 502 intermitentes este mes. La visualización los aguantó sin que yo me enterase, precisamente porque las menciones se hornean en tiempo de build en vez de pedirse en vivo — pero fue un buen recordatorio de que la mitad <em>receptora</em> de mi montaje depende del servidor de otra persona.</p>
+<p>Estoy valorando si auto-alojar esa pieza. El intercambio es real: pasaría a asumir el anti-spam, el uptime y el mantenimiento de algo que hoy simplemente funciona, gestionado por gente que entiende el problema muchísimo mejor que yo. De momento, una visualización resistente más un receptor alojado me parece un sitio razonable donde estar.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="la-otra-mitad-seguir">La otra mitad: seguir<a href="https://www.rauljimenez.info/es/blog/second-steps-into-the-indieweb#la-otra-mitad-seguir" class="hash-link" aria-label="Enlace directo al La otra mitad: seguir" title="Enlace directo al La otra mitad: seguir" translate="no">​</a></h2>
+<p>Aquí está la parte que llevo posponiendo. Publicar está casi completo, y seguir es donde apenas he empezado — en realidad, no he hecho absolutamente nada.</p>
+<p>La respuesta de la IndieWeb es <a href="https://indieweb.org/Microsub" target="_blank" rel="noopener noreferrer" class="">Microsub</a>, y merece la pena explicar qué problema resuelve, porque a mí me costó un rato entenderlo. Un lector de feeds normalmente hace dos trabajos muy distintos a la vez: buscar y organizar las fuentes, y mostrártelas. Microsub los separa. Un servidor (como <a href="https://aperture.p3k.io/" target="_blank" rel="noopener noreferrer" class="">Aperture</a>) recopila las fuentes — feeds RSS/Atom, los Microformats publicados en la web personal de alguien, cuentas del Fediverso — y lleva la cuenta de lo que ya has leído. Una app lectora aparte (como <a href="https://monocle.p3k.io/" target="_blank" rel="noopener noreferrer" class="">Monocle</a> en web, o <a href="https://indigenous.realize.be/" target="_blank" rel="noopener noreferrer" class="">Indigenous</a> en móvil) se conecta a ese servidor y lo muestra todo como un único timeline. Puedes cambiar de app sin perder tus suscripciones ni lo que ya has leído, y no hay ningún algoritmo de plataforma decidiendo el orden.</p>
+<p>Relacionado, y apuntando en la otra dirección: <a href="https://indieweb.org/WebSub" target="_blank" rel="noopener noreferrer" class="">WebSub</a>. Hoy un feed obliga a los lectores a preguntar cada cierto tiempo "¿hay algo nuevo?", lo que significa o peticiones desperdiciadas o actualizaciones con retraso. Con WebSub, mi web avisa a un hub en el momento en que publico, y el hub se lo empuja a todo el que esté suscrito. Seguir una web se sentiría tan inmediato como seguir una cuenta.</p>
+<p>Los feeds ya los tengo: este blog y posts.rauljimenez.info publican Atom/RSS con autodiscovery. Lo que no tengo es el hub, ni el lector. Eso es lo siguiente que toca romper.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lo-siguiente">Lo siguiente<a href="https://www.rauljimenez.info/es/blog/second-steps-into-the-indieweb#lo-siguiente" class="hash-link" aria-label="Enlace directo al Lo siguiente" title="Enlace directo al Lo siguiente" translate="no">​</a></h2>
+<p>Un experimento con Microsub y un lector, para por fin leer la web igual que publico en ella. Quizá un hub WebSub encima de los feeds que ya existen. Decidir si este feed de actividad se ha ganado un enlace en la navegación de la web, o si se queda como un rincón tranquilo. Y puede que una suscripción por email sencilla para quien prefiera recibir las novedades en su bandeja de entrada antes que añadir otro feed más — algo que hoy no existe, y que resulta ligeramente irónico en un post sobre descentralización, pero la gente lee donde lee.</p>
+<p>Publicar ha resultado ser la mitad fácil. Leer, por lo visto, es donde están los problemas interesantes.</p>]]></content>
+        <author>
+            <name>Raul Jimenez Ortega</name>
+            <uri>https://www.linkedin.com/in/jimenezortegaraul/?locale=es_ES</uri>
+        </author>
+        <category label="IndieWeb" term="IndieWeb"/>
+        <category label="Webmentions" term="Webmentions"/>
+        <category label="POSSE" term="POSSE"/>
+        <category label="Micropub" term="Micropub"/>
+        <category label="Microsub" term="Microsub"/>
+        <category label="Web Personal" term="Web Personal"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🌱 Primeros pasos en la IndieWeb]]></title>
         <id>https://www.rauljimenez.info/es/blog/first-steps-into-the-indieweb</id>
@@ -52,7 +98,8 @@
 <p>El flujo ahora guarda notes, bookmarks, likes y replies en un repositorio público de GitHub, <a href="https://github.com/hhkaos/posts.rauljimenez.info" target="_blank" rel="noopener noreferrer" class="">hhkaos/posts.rauljimenez.info</a>. Desde ahí, una GitHub Action renderiza el feed público en <a href="https://posts.rauljimenez.info/" target="_blank" rel="noopener noreferrer" class="">posts.rauljimenez.info</a>, mostrando solo los elementos marcados como visibles.</p>
 <p>De momento estoy tratando esto como un espacio explícitamente público: solo tengo intención de publicar cosas que realmente quiera compartir en abierto, siendo consciente de lo que eso implica. En la práctica, no espero compartir aquí nada que a día de hoy no estuviese publicando ya en otros silos.</p>
 <p>Y esto ya no es solo teórico: ya he enviado una Webmention saliente real al post de swyx sobre <a href="https://swyx.io/learn-in-public" target="_blank" rel="noopener noreferrer" class="">aprender en público</a>, como reply. Fue verificada por webmention.io y ya aparece allí, lo cual ha sido una primera prueba end-to-end bastante satisfactoria.</p>
-<p>Siguen quedando varias piezas pendientes: recibir Webmentions correctamente, experimentar con Microsub y decidir si este nuevo feed público debería aparecer en la navegación principal de esta web. Pero los cimientos son ahora bastante más reales que cuando empecé a escribir este post.</p>]]></content>
+<p>Siguen quedando varias piezas pendientes: recibir Webmentions correctamente, experimentar con Microsub y decidir si este nuevo feed público debería aparecer en la navegación principal de esta web. Pero los cimientos son ahora bastante más reales que cuando empecé a escribir este post.</p>
+<p><em>Continúa en <a class="" href="https://www.rauljimenez.info/es/blog/second-steps-into-the-indieweb">Segundos pasos en la IndieWeb</a>.</em></p>]]></content>
         <author>
             <name>Raul Jimenez Ortega</name>
             <uri>https://www.linkedin.com/in/jimenezortegaraul/?locale=es_ES</uri>
@@ -2285,22 +2332,5 @@ Me gustaría empezar por aclarar que:<p></p><ul>
             <uri>https://www.linkedin.com/in/jimenezortegaraul/?locale=es_ES</uri>
         </author>
         <category label="experiences" term="experiences"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😎 Cómo funcionan las Google Glass]]></title>
-        <id>https://www.rauljimenez.info/es/blog/como-funcionan-las-google-glass</id>
-        <link href="https://www.rauljimenez.info/es/blog/como-funcionan-las-google-glass"/>
-        <updated>2014-07-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Hace ya bastante tiempo que quería experimentar cómo funcionan las Google Glass, y después de una larga espera ya lo he podido vivir en mis propias carnes (y con calma). Así que para aquellos que teníais las mismas preguntas que yo, he decidido grabar estos vídeos en los que trato de explicar cómo funcionan.]]></summary>
-        <content type="html"><![CDATA[<p>Hace ya bastante tiempo que quería experimentar cómo funcionan las&nbsp;<a href="https://web.archive.org/web/20150419172442/http://www.google.es/glass/start/" target="_blank" rel="noopener noreferrer" class="">Google Glass</a>, y después de una larga espera ya lo he podido vivir en mis propias carnes (y con calma). Así que para aquellos que teníais las mismas preguntas que yo, he decidido grabar estos vídeos en los que trato de explicar cómo funcionan.</p>
-<p>En este vídeo hago una&nbsp;<strong>mini demo</strong>&nbsp;(hasta donde las gafas me dejaron xD):</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TVvgNtIxdNo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
-<p>Me encantaría que me dijeseis si se entiende bien, que me preguntéis las dudas que os queden, si queréis ver algo concreto, etc.</p>
-<p>¡Un abrazo!</p>]]></content>
-        <author>
-            <name>Raul Jimenez Ortega</name>
-            <uri>https://www.linkedin.com/in/jimenezortegaraul/?locale=es_ES</uri>
-        </author>
-        <category label="google-glass" term="google-glass"/>
     </entry>
 </feed>
