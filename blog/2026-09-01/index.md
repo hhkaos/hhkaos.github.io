@@ -90,3 +90,5 @@ For now, I am treating this as an explicitly public space: I only plan to publis
 And this is no longer just theoretical: I have already sent a real outgoing Webmention to swyx's [learn in public](https://swyx.io/learn-in-public) post, as a reply. It was verified by webmention.io and is visible there, which felt like a very satisfying first end-to-end test.
 
 There are still several pieces pending: receiving Webmentions properly, experimenting with Microsub, and deciding whether this new public feed should appear in the main navigation of this site. But the foundations are now much more real than they were when I started writing this post.
+
+_Continued in [Second steps into the IndieWeb](/blog/second-steps-into-the-indieweb)._
