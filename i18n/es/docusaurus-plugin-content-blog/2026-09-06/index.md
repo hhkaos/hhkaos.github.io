@@ -6,13 +6,13 @@ authors: [hhkaos]
 tags: [IndieWeb, Webmentions, POSSE, Micropub, Microsub, Web Personal]
 ---
 
-Hace unos días escribí sobre mis [primeros pasos en la IndieWeb](/es/blog/first-steps-into-the-indieweb): hacer más semántico el HTML, usar mi web como un hub de identidad, referencias a webs usando Webmentions enviadas a mano con `curl` y un servidor [Micropub](https://indieweb.org/Micropub) que acababa de echar a andar.
+Hace unos días escribí sobre mis [primeros pasos en la IndieWeb](/es/blog/first-steps-into-the-indieweb): hacer más semántico el HTML, convertir mi web en un hub de identidad (con enlaces `rel="me"`, para identificarme con mi propio dominio (en los servicios que lo soportan) en lugar de con cuentas de plataformas que no controlo), referencias a webs usando Webmentions enviadas a mano con `curl` y un servidor [Micropub](https://indieweb.org/Micropub) que acababa de echar a andar.
 
 Desde entonces he seguido incorporando cosas nuevas, y he cambiado tantas cosas que quería escribir un segundo post antes de olvidar todo lo que he hecho. La versión corta: **publicar lo tengo casi resuelto, seguir aún no**.
 
 ## POSSE: publicar en mi sitio, sindicar en el resto
 
-[POSSE](https://indieweb.org/POSSE) fue el concepto que me enganchó de la IndieWeb, y que diría que ya está funcionando de verdad. Vamos a ver las dos partes, "POS" y "SE":
+[POSSE](https://indieweb.org/POSSE) fue el concepto que me enganchó de la IndieWeb, y que diría que ya está funcionando (de verdad). Vamos a ver las dos partes, "POS" y "SE":
 - **POS** (***P**ublish (on your) **O**wn **S**ite*): publicar primero en tu propio sitio/dominio.
 - **SE** (***S**yndicate **E**lsewhere*):  repartir después copias (a las plataformas donde está la gente). 
 
@@ -26,7 +26,7 @@ Cuando creo algo desde ahí, se guarda en un [repositorio de GitHub](https://git
 
 Los tipos de post con los que he empezado a probar son: likes, replies, asistencias a eventos (RSVPs), eventos, fotos, bookmarks, reseñas, check-ins, y entradas de "leído" y "visto". Hay más tipos configurados, pero todavía no los he usado (ej: reposts, artículos, y "escuchado").
 
-A continuación puedes ver un pantallazo de la interfaz web de publicación con los diferentes tipos de posts:
+A continuación puedes ver un pantallazo de la interfaz web de publicación de Indieweb con los diferentes tipos de posts:
 
 <div style={{textAlign: 'center'}}>
 
@@ -46,6 +46,17 @@ Gracias a [IndieAuth](https://indieweb.org/IndieAuth) y a la API de mi servidor,
 
 </div>
 
+<details>
+  <summary><strong>ℹ️ ¿Y de quién dependo</strong> entonces para mi identidad?</summary>
+
+  Aquí la identidad es la URL, no la cuenta: mi web declara cuál es su endpoint de autorización, y en mi caso apunta a mi propio servidor, que es quien me autentica.
+
+  Si en lugar de eso delegase la verificación en [IndieLogin](https://indielogin.com/), sí que seguiría dependiendo de una cuenta de terceros (GitHub, mi email, etc.), pero de una intercambiable: la cambio editando los enlaces `rel="me"` de mi web y sigo siendo la misma identidad.
+
+  La dependencia que no desaparece es **el dominio**: registrador, DNS y hosting. Y no es menor: si pierdo `rauljimenez.info` no solo se rompen todas mis URLs canónicas, es que quien lo registre después podría publicar sus propios `rel="me"` y hacerse pasar por mí. La diferencia con una plataforma es que aquí el riesgo es mío y prevenible (renovación larga, auto-renew, bloqueo en el registrador) en lugar de depender de la decisión unilateral de alguien — pero si me despisto, no hay soporte al que reclamar.
+
+</details>
+
 ### Sindicar después en Mastodon y Bluesky
 
 He configurado Indiekit para que cuando cree un nuevo "post" (contenido), pueda sindicarlo/publicarlo en [Mastodon](https://mastodon.social/@hhkaos) y [Bluesky](https://bsky.app/profile/rauljimenez.info).
@@ -58,11 +69,11 @@ Cuando estoy creando el post tengo dos casillas al final del formulario que pued
 
 </div>
 
-El texto se personaliza en [posts.rauljimenez.info](https://posts.rauljimenez.info/) y las URLs de los posts en redes se escriben de vuelta en el post original como enlaces `class="u-syndication"`, para que la versión canónica sepa dónde se ha distribuido, de esto se encarga Indiekit.
+Además, por cada post que distribuye, Indiekit guarda de vuelta en el post original las URLs donde se ha publicado. Luego, al renderizar [posts.rauljimenez.info](https://posts.rauljimenez.info/), esas URLs se pintan como enlaces marcados con el microformato `class="u-syndication"`, para que cualquier web pueda saber que esas copias en redes y el original son lo mismo.
 
-Dos limitaciones de este sistema:
-- Editar un post no permite actualizar las copias distribuidas.
-- Y aún tengo que resolver cómo publicar a otras plataformas populares, pero con APIs restringidas, como LinkedIn, X, Instagram, etc.
+La limitación principal de este sistema es que la sindicación ocurre una sola vez: si luego edito el post en mi web, las copias ya distribuidas se quedan como estaban.
+
+Y luego está el elefante en la habitación: plataformas populares como LinkedIn, X o Instagram, cuyas APIs de publicación no existen o están restringidas, y a las que de momento no sindico nada. Es uno de los frentes que [me planteo abordar más adelante](#lo-siguiente).
 
 ## Comunicación entre webs
 
@@ -70,7 +81,7 @@ Esto se trata de que pueda avisar cuando yo enlazo a alguien, y recibir un aviso
 
 ### Comentar en la web de otra persona
 
-Cuando uno de mis posts enlaza a algún sitio, el proceso de "build" descubre el endpoint del destino y le avisa. Este es el resultado: escribo [un reply en mi web](https://posts.rauljimenez.info/replies/2026/09/01/9821c), y mi comentario acaba apareciendo bajo [el artículo original de otra persona](https://www.swyx.io/learn-in-public/), sin haber tenido que crearme una cuenta en ningún sitio.
+Cuando uno de mis posts enlaza a algún sitio, el proceso de "*build*" descubre el endpoint del destino y le avisa. Este es el resultado: escribo [un reply en mi web](https://posts.rauljimenez.info/replies/2026/09/01/9821c), y mi comentario acaba apareciendo bajo [el artículo original de otra persona](https://www.swyx.io/learn-in-public/), sin haber tenido que crearme una cuenta en ningún sitio.
 
 ![A la izquierda, un reply publicado en posts.rauljimenez.info respondiendo al artículo ’Learn In Public’ de swyx. A la derecha, ese mismo comentario aparece en la sección de Webmentions del artículo original en swyx.io](/img/blogs/second-steps-into-the-indieweb/outgoing-webmention-to-swyx.png)
 
@@ -89,11 +100,11 @@ Para las Webmentions entrantes uso [webmention.io](https://webmention.io/), un s
 - Bajo cada post en [posts.rauljimenez.info](https://posts.rauljimenez.info/)
 - Bajo los enlaces en [links.rauljimenez.info](https://links.rauljimenez.info/)
  
-Los tres dominios usan [el mismo widget](https://www.npmjs.com/package/@hhkaos/webmentions-widget), el cual, debido a problemas con webmention.io (que comentaré más adelante) usa un "archivo" o "snapshot" diario de las menciones, en vez de recuperarlas en tiempo real. Al fin y al cabo, tampoco tengo tantas visitas que vayan a echarlo en falta, y lo que realmente quiero es poder mantener una copia y unificar esta presencia e interacción.
+Los tres dominios usan [el mismo widget](https://www.npmjs.com/package/@hhkaos/webmentions-widget), el cual, debido a problemas con webmention.io (que comentaré más adelante) usa un "archivo" o "*snapshot*" diario de las menciones, en vez de recuperarlas en tiempo real. Al fin y al cabo, tampoco tengo tantas visitas que vayan a echarlo en falta, y lo que realmente quiero es poder mantener una copia y unificar esta presencia e interacción.
 
 ### Recuperar las reacciones de las redes sociales
 
-Y la pieza que cierra el círculo es [Bridgy](https://brid.gy/). Está conectado a Mastodon y Bluesky solo en modo *[backfeed](https://indieweb.org/backfeed)*. De lo que se encarga es de que cuando alguien da un *like*/*fav*, *respost* o responde a una de las copias sindicadas en redes sociales, esa reacción vuelva (como Webmention) a mi post original. Así la conversación que antes se quedaba solo en una red, acaba en mi propio dominio.
+Y la pieza que cierra el círculo es [Bridgy](https://brid.gy/). Está conectado a Mastodon y Bluesky solo en modo *[backfeed](https://indieweb.org/backfeed)*. De lo que se encarga es de que cuando alguien da un *like*/*fav*, *repost* o responde a una de las copias sindicadas en redes sociales, esa reacción vuelva (como Webmention) a mi post original. Así la conversación que antes se quedaba solo en una red, acaba en mi propio dominio.
 
 Aquí se ve con un caso real: [Wojtek Powiertowski](https://mastodon.social/@wojtekpow) marcó como favorito en Mastodon [la publicación que anunciaba mi post anterior](https://mastodon.social/@hhkaos/117196043964695624), y ese corazón terminó apareciendo en [la cabecera del artículo](/es/blog/first-steps-into-the-indieweb), en mi web.
 
@@ -133,7 +144,7 @@ Y sigue pasando. Repasando lo publicado hasta hoy me encontré seis reacciones r
 
 Un problema de esto es que no se vean en la web, pero lo que más me "preocupa" es que **no llegue a enterarme**: las notificaciones solo saltan cuando una mención llega bien. De estos fallos no avisa nadie.
 
-Por otro lado webmention.io ha tenido 502 intermitentes este fin de semana, lo que me recordó que la mitad *receptora* de mi sistema depende del servidor de otra persona. Así que me pregunté si debería auto-alojar esa pieza. 
+Por otro lado webmention.io ha estado dando errores 502 intermitentemente este fin de semana, lo que me recordó que la mitad *receptora* de mi sistema depende del servidor de otra persona. Así que me pregunté si debería auto-alojar esa pieza. 
 
 Tras darle un par de vueltas, no quiero tomar una decisión "a la ligera" y subestimar el trabajo que podría conllevar, de hacerlo posiblemente tendría que preocuparme del posible spam, el uptime y el mantenimiento de algo que hasta ahora parece que ha funcionado bastante bien, y gestionado por gente que sabe de esto muchísimo más que yo. Así que de momento he decidido hacer una visualización más "resistente", y seguir usando este receptor alojado.
 
@@ -143,19 +154,19 @@ Publicar lo tengo casi completo (creo). Sobre seguir aún me queda mucho por apr
 
 Por lo que he leído/visto, para esto han creado [Microsub](https://indieweb.org/Microsub), y voy a explicar qué problema resuelve, porque a mí me costó un poco entenderlo 😅. 
 
-Si nos paramos a pensar, los lectores de feeds normalmente tenemos unificados un cliente y servidor que en conjunto permiten hacer varias cosas: gestionar las fuentes (RSS, personas, ...), pero también recuperar y mostrar las novedades de cada fuente, te permite organizar las fuentes, te recuerda qué has visto, etc.
+Si nos paramos a pensar, en los lectores de feeds normalmente tenemos unificados un cliente y servidor que en conjunto permiten hacer varias cosas: gestionar las fuentes (RSS, personas, ...), pero también recuperar y mostrar las novedades de cada fuente, te permite organizar las fuentes, te recuerda qué has visto, etc.
 
 En el caso de Microsub la separación es más clara:
-- **Un servidor** (como [Aperture](https://aperture.p3k.io/)) se pelea para recopilar todo tipo de información de las fuentes: feeds RSS/Atom, los Microformats publicados en la web personal de alguien, cuentas del [Fediverso](https://es.wikipedia.org/wiki/Fediverso) y lleva la cuenta de lo que ya has leído. 
+- **Un servidor** (como [Aperture](https://aperture.p3k.io/)) se pelea para recopilar todo tipo de información de las fuentes: feeds RSS/Atom, los Microformats publicados en la web personal de alguien, cuentas del [Fediverso](https://es.wikipedia.org/wiki/Fediverso), etc y lleva la cuenta de lo que ya has leído. 
 - **Una app lectora** aparte (como [Monocle](https://monocle.p3k.io/) en web) se conecta a ese servidor y lo muestra todo como un único timeline. Anteriormente existió [IndiePass](https://indieweb.org/IndiePass) como aplicación móvil pero ya no está mantenida.
 
-Una de las ventajas de este modelo es que puedes cambiar de app sin perder tus suscripciones ni lo que ya has leído, y otra es que tampoco hay ningún algoritmo de plataforma que decida por tí que es lo más relevante.
+Una de las ventajas de este modelo es que puedes cambiar de app sin perder tus suscripciones ni lo que ya has leído, y otra es que tampoco hay ningún algoritmo de plataforma que decida por tí "que es lo más relevante", o te meta publicidad.
 
 La desventaja clara parece la volatilidad de algunas herramientas del ecosistema 😅.
 
 Otra pieza clave de este puzzle es [WebSub](https://indieweb.org/WebSub). Sin él, los clientes de lectura tienen que preguntar cada cierto tiempo "¿hay algo nuevo?", con la consabida cantidad de peticiones desperdiciadas y actualizaciones con retraso. 
 
-Con WebSub, una web puede avisar a un hub en el momento en que publico, y el hub le informa a todo el que esté suscrito ([más info](https://indieweb.org/How_to_publish_and_consume_WebSub)). Con este modelo se puede "seguir a una web" y que sea tan inmediato como seguir una cuenta de una red social, interesante cuanto menos, ¿no?.
+Con WebSub, una web puede avisar a un hub en el momento en que publico, y el hub le informa a todo el que esté suscrito ([más info](https://indieweb.org/How_to_publish_and_consume_WebSub)). Con este modelo se puede "seguir a una web" y que sea tan inmediato como seguir una cuenta de una red social. Interesante cuanto menos, ¿no?.
 
 En mi caso ya tengo los feeds (tanto en RSS como microformats), pero aún no tengo ni el hub, ni el lector.
 
@@ -167,9 +178,10 @@ Me alegro que preguntes, porque no tengo ni pajolera idea 🤣🤣. Aún me esto
 
 - **[Microsub](https://indieweb.org/Microsub) y un lector**, para poder leer la web igual que publico en ella. Quizá con un hub [WebSub](https://indieweb.org/WebSub) encima de los feeds que ya tengo.
 - **Una newsletter**, si es que hay alguien a quien le interese recibir lo que publico en mi web directamente en su correo. Un poco irónico en un post sobre descentralización... pero la gente lee donde lee 😅.
-- **Un archivo personal**, que es la otra cara de POSSE: recuperar lo que llevo años publicando en otras plataformas (X, LinkedIn, productos de Google, ...) y luego hacer un *[backfill](https://indieweb.org/backfill)* (importar parte de ese contenido aquí). Además, sería potencialmente una vía de seguir alimentando (cada X tiempo) esta web con el contenido de esas plataformas a las que no hay forma de importar automáticamente el contenido.
+- **Una extensión de navegador** para las plataformas cuyas APIs de publicación no existen o están restringidas (LinkedIn, X, Instagram...). La idea sería que me facilitase recuperar el contenido que ya he publicado en mi web y republicarlo allí, aunque el último paso lo tenga que dar yo manualmente.
+- **Un archivo personal**, que es la otra cara de POSSE: recuperar lo que llevo años publicando en otras plataformas (X, LinkedIn, productos de Google, ...) y luego hacer un *[backfill](https://indieweb.org/backfill)* (importar parte de ese contenido aquí). Además, sería potencialmente una vía de seguir alimentando (cada X tiempo) esta web con el contenido de esas plataformas de las que no hay forma de importar automáticamente el contenido.
 
-¡Gracias por leer el artículo! Espero que te haya resultado interesante y servido para entender un poco mejor cómo funciona esto de la web.
+¡Gracias por leer el artículo! Espero que te haya resultado interesante y servido para entender un poco mejor cómo funciona esto de la IndieWeb.
 
 Si quieres ayudarme, puedes darme tu opinión, por ejemplo: si tienes algún consejo, o has montado algo parecido y sabes dónde me la voy a pegar, te agradezco que me lo digas.
 

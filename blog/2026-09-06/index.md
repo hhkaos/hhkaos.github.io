@@ -6,7 +6,7 @@ authors: [hhkaos]
 tags: [IndieWeb, Webmentions, POSSE, Micropub, Microsub, Personal Website]
 ---
 
-A few days ago I wrote about my [first steps into the IndieWeb](/blog/first-steps-into-the-indieweb): making my HTML more semantic, using my site as an identity hub, referencing other sites with Webmentions sent by hand with `curl`, and a [Micropub](https://indieweb.org/Micropub) server that had just started working.
+A few days ago I wrote about my [first steps into the IndieWeb](/blog/first-steps-into-the-indieweb): making my HTML more semantic, turning my site into an identity hub (with `rel="me"` links, so that on the services that support it I can identify myself with my own domain instead of with accounts on platforms I do not control), referencing other sites with Webmentions sent by hand with `curl`, and a [Micropub](https://indieweb.org/Micropub) server that had just started working.
 
 Since then I have kept adding new things, and I have changed so much that I wanted to write a second post before forgetting everything I did. The short version: **publishing is almost solved, following is not**.
 
@@ -26,7 +26,7 @@ When I create something there, it gets saved into a [GitHub repository](https://
 
 The post types I have started experimenting with are: likes, replies, event attendances (RSVPs), events, photos, bookmarks, reviews, check-ins, and "read" and "watched" entries. There are more types configured, but I have not used them yet (e.g. reposts, articles and "listen").
 
-Below you can see a screenshot of the web publishing interface with the different post types:
+Below you can see a screenshot of Indiekit's web publishing interface with the different post types:
 
 <div style={{textAlign: 'center'}}>
 
@@ -46,6 +46,17 @@ Thanks to [IndieAuth](https://indieweb.org/IndieAuth) and my server's API, I can
 
 </div>
 
+<details>
+  <summary><strong>ℹ️ So who do I actually depend on</strong> for my identity?</summary>
+
+  Here the identity is the URL, not the account: my site declares which authorization endpoint it uses, and in my case that points to my own server, which is the one that authenticates me.
+
+  If instead I delegated verification to [IndieLogin](https://indielogin.com/), I would indeed still depend on a third-party account (GitHub, my email, etc.), but on an interchangeable one: I swap it by editing the `rel="me"` links on my site and I am still the same identity.
+
+  The dependency that does not go away is **the domain**: registrar, DNS and hosting. And it is not a small one: if I lose `rauljimenez.info`, not only does every canonical URL of mine break, but whoever registers it next could publish their own `rel="me"` links and impersonate me. The difference with a platform is that here the risk is mine and preventable (long renewals, auto-renew, registrar lock) instead of depending on somebody else's unilateral decision — but if I let it slip, there is no support desk to appeal to.
+
+</details>
+
 ### Syndicating elsewhere: Mastodon and Bluesky
 
 I have configured Indiekit so that when I create a new post (content), I can syndicate/publish it to [Mastodon](https://mastodon.social/@hhkaos) and [Bluesky](https://bsky.app/profile/rauljimenez.info).
@@ -58,11 +69,11 @@ While I am creating the post I have two checkboxes at the bottom of the form tha
 
 </div>
 
-The wording is customized on [posts.rauljimenez.info](https://posts.rauljimenez.info/) and the URLs of the posts on social networks are written back into the original post as `class="u-syndication"` links, so the canonical version knows where it has been distributed — Indiekit takes care of this.
+On top of that, for every post it distributes, Indiekit writes the URLs where it has been published back into the original post. Then, when [posts.rauljimenez.info](https://posts.rauljimenez.info/) is rendered, those URLs are output as links marked up with the `class="u-syndication"` microformat, so that any website can tell that those copies on social networks and the original are the same thing.
 
-Two limitations of this setup:
-- Editing a post does not update the distributed copies.
-- And I still have to work out how to publish to other popular platforms with restricted APIs, such as LinkedIn, X, Instagram, etc.
+The main limitation of this setup is that syndication happens only once: if I later edit the post on my own site, the copies already distributed stay as they were.
+
+And then there is the elephant in the room: popular platforms like LinkedIn, X or Instagram, whose publishing APIs either do not exist or are restricted, and to which I currently syndicate nothing. That is one of the fronts I am [considering tackling later on](#whats-next).
 
 ## Letting websites talk to each other
 
@@ -133,7 +144,7 @@ And it keeps happening. Going through what I have published so far, I found six 
 
 Not seeing them on my site is one problem, but what "worries" me most is that **I never find out**: notifications only fire when a mention arrives correctly. Nothing warns you about these failures.
 
-On another note, webmention.io had intermittent 502s this weekend, which reminded me that the *receiving* half of my setup depends on somebody else's server. So I asked myself whether I should self-host that piece.
+On another note, webmention.io has been intermittently returning 502 errors this weekend, which reminded me that the *receiving* half of my setup depends on somebody else's server. So I asked myself whether I should self-host that piece.
 
 After thinking about it for a while, I do not want to take that decision lightly and underestimate the work it could involve: if I did it, I would probably have to worry about spam, uptime and the maintenance of something that so far seems to have worked pretty well, run by people who know far more about this than I do. So for now I have decided to make the display more "resilient", and to keep using this hosted receiver.
 
@@ -146,10 +157,10 @@ From what I have read and seen, [Microsub](https://indieweb.org/Microsub) is wha
 If we stop to think about it, in feed readers we normally have a client and a server bundled together, which between them let you do several things: manage the sources (RSS, people, ...), but also fetch and display what is new in each source, organize those sources, remember what you have already seen, etc.
 
 With Microsub the separation is clearer:
-- **A server** (like [Aperture](https://aperture.p3k.io/)) does the hard work of collecting all kinds of information from the sources: RSS/Atom feeds, the Microformats published on someone's personal site, [Fediverse](https://en.wikipedia.org/wiki/Fediverse) accounts, and it keeps track of what you have already read.
+- **A server** (like [Aperture](https://aperture.p3k.io/)) does the hard work of collecting all kinds of information from the sources: RSS/Atom feeds, the Microformats published on someone's personal site, [Fediverse](https://en.wikipedia.org/wiki/Fediverse) accounts, etc., and it keeps track of what you have already read.
 - **A separate reader app** (like [Monocle](https://monocle.p3k.io/) on the web) connects to that server and shows everything as a single timeline. There used to be [IndiePass](https://indieweb.org/IndiePass) as a mobile app, but it is no longer maintained.
 
-One of the advantages of this model is that you can change apps without losing your subscriptions or what you have already read, and another is that there is no platform algorithm deciding for you what is most relevant.
+One of the advantages of this model is that you can change apps without losing your subscriptions or what you have already read, and another is that there is no platform algorithm deciding for you "what is most relevant", or slipping ads in.
 
 The obvious downside seems to be how volatile some tools in the ecosystem are 😅.
 
@@ -167,9 +178,10 @@ I am glad you asked, because I have not got the faintest idea 🤣🤣. I am sti
 
 - **[Microsub](https://indieweb.org/Microsub) and a reader**, to finally read the web the same way I publish to it. Maybe with a [WebSub](https://indieweb.org/WebSub) hub on top of the feeds I already have.
 - **A newsletter**, in case anyone is interested in getting what I publish on my site straight in their inbox. Slightly ironic in a post about decentralization... but people read where they read 😅.
+- **A browser extension** for platforms whose publishing APIs either do not exist or are restricted (LinkedIn, X, Instagram...). The idea would be for it to make it easy to pull in the content I have already published on my own site and republish it there, even if the last step still has to be done by hand.
 - **A personal archive**, which is the other face of POSSE: pulling back what I have been posting on other platforms for years (X, LinkedIn, Google products, ...) and then doing a *[backfill](https://indieweb.org/backfill)* (importing part of that content here). It would also potentially be a way to keep feeding this site (every so often) with content from those platforms that offer no way to import it automatically.
 
-Thanks for reading! I hope you found it interesting and that it helped you understand a bit better how all this web stuff works.
+Thanks for reading! I hope you found it interesting and that it helped you understand a bit better how all this IndieWeb stuff works.
 
 If you want to help me, you can give me your opinion: for example, if you have any advice, or you have built something similar and know exactly where I am about to crash, I would appreciate you telling me.
 
