@@ -46,7 +46,7 @@ Si alguien quiere entender qué puede significar sumarse a la IndieWeb en la pr�
 
 Y ahora también he activado [Webmentions](https://webmention.io/).
 
-Creo que la primera vez que vi una referencia a este concepto fue leyendo algún artículo de [swyx](https://swyx.io/), el de [aprender en público](https://swyx.io/learn-in-public). En aquel momento me sonó interesante, pero no terminé de bajar al barro para entender cómo funcionaba de verdad.
+Creo que la primera vez que vi una referencia a este concepto fue leyendo algún artículo de [swyx](https://swyx.io/), el de [aprender en público](https://www.swyx.io/learn-in-public/). En aquel momento me sonó interesante, pero no terminé de bajar al barro para entender cómo funcionaba de verdad.
 
 Probando todo esto me di cuenta también de que **recibir una Webmention** es solo una pequeña pieza de la IndieWeb. Si quiero que otras herramientas entiendan bien el contexto, mis artículos también tienen que incluir metadatos útiles. Así que empecé a marcar los posts con valores de Microformats2 como `h-entry`, `p-name`, `dt-published`, `p-author`, `u-url` y `e-content`, para que los servicios puedan extraer el título, el autor, la fecha, la URL canónica y el contenido real que menciona a otra página. Todavía tengo que extender esto de forma más consistente al resto de la web, incluyendo mi cerebro digital.
 

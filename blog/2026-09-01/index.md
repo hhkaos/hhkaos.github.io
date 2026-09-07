@@ -87,7 +87,7 @@ The flow now stores notes, bookmarks, likes, and replies in a public GitHub repo
 
 For now, I am treating this as an explicitly public space: I only plan to publish things I actually want to share in the open, fully aware of what that means. In practice, I do not expect to share anything here that I would not already be publishing in other silos today.
 
-And this is no longer just theoretical: I have already sent a real outgoing Webmention to swyx's [learn in public](https://swyx.io/learn-in-public) post, as a reply. It was verified by webmention.io and is visible there, which felt like a very satisfying first end-to-end test.
+And this is no longer just theoretical: I have already sent a real outgoing Webmention to swyx's [learn in public](https://www.swyx.io/learn-in-public/) post, as a reply. It was verified by webmention.io and is visible there, which felt like a very satisfying first end-to-end test.
 
 There are still several pieces pending: receiving Webmentions properly, experimenting with Microsub, and deciding whether this new public feed should appear in the main navigation of this site. But the foundations are now much more real than they were when I started writing this post.
 
