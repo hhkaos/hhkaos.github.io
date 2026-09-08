@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 # Professional profile
 
 I never set out to become "multifaceted." Looking back, though, I realize that's what working as a freelancer and then in startups did to me. There were no clean boundaries between roles. If something needed to be defined, I defined it. If something needed to be built, I built it. If something needed to be explained, documented, promoted, or measured, I usually ended up doing that too.

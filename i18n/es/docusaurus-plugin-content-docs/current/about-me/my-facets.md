@@ -101,6 +101,6 @@ Lo importante para mí no es acumular etiquetas.
 
 La parte que más me define aparece cuando estas facetas se combinan: detectar una oportunidad, entenderla bien, convertirla en algo tangible, explicarla, sumar a otras personas y hacer que pueda evolucionar.
 
-Por eso estas facetas conectan directamente con mi [perfil profesional](professional-profile-3.md) y con mis [rasgos personales](personal-traits.md). No son compartimentos separados, sino formas distintas de una misma manera de trabajar y relacionarme con proyectos, personas e ideas.
+Por eso estas facetas conectan directamente con mis [rasgos personales](personal-traits.md). No son compartimentos separados, sino formas distintas de una misma manera de trabajar y relacionarme con proyectos, personas e ideas.
 
-> Páginas relacionadas: [Perfil profesional](professional-profile-3) y  [Rasgos personales](personal-traits).
+> Página relacionada: [Rasgos personales](personal-traits).
