@@ -48,6 +48,13 @@ const config = {
     {
       tagName: 'link',
       attributes: {
+        rel: 'microsub',
+        href: 'https://aperture.p3k.io/microsub/1113',
+      },
+    },
+    {
+      tagName: 'link',
+      attributes: {
         rel: 'me',
         href: 'https://mastodon.social/@hhkaos',
       },
