@@ -203,6 +203,11 @@ const config = {
             <a href=\"/blog/atom.xml\"><img src=\"/assets/badges/atom.svg\" width=\"80\" height=\"15\" alt=\"Atom feed\" loading=\"lazy\"></a>
             <a href=\"http://creativecommons.org/licenses/by/4.0/\"><img src=\"/assets/badges/cc-commons.svg\" width=\"80\" height=\"15\" alt=\"Creative Commons\" loading=\"lazy\"></a>
           </div>
+          <p class=\"webring\">
+            <a href=\"https://xn--sr8hvo.ws/previous\">←</a>
+            An <a href=\"https://xn--sr8hvo.ws\">IndieWeb Webring</a> 🕸💍
+            <a href=\"https://xn--sr8hvo.ws/next\">→</a>
+          </p>
         `,
       },
       prism: {
