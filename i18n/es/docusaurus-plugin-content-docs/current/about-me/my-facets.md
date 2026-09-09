@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 # Mis facetas
 
 Debido a mi curiosidad y mi espíritu emprendedor, **a lo largo de los años he llevado muchos sombreros distintos** 🎩.

@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 # My facets
 
 Mainly due to my curiosity and entrepreneurial spirit, over the years I have worn many different hats, which has led me to develop a multifaceted profile:
