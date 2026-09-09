@@ -20,4 +20,17 @@ Below I am going through the main milestones in my early life that led me to lov
 
 I will continue adding milestones about my professional development and the different stages I have been going through. For now, you can check [my Linkedin profile](https://www.linkedin.com/in/jimenezortegaraul/)
 
+<details>
+<summary><strong>My personal journey, this time literally: places where I have physically been</strong></summary>
+
+This is not meant to be a complete travel log, but a personal map of places I have visited, lived in, or that have been part of my journey in some way.
+
+<iframe title="Map of places Raúl Jiménez Ortega has been" src="https://www.google.com/maps/d/u/1/embed?mid=1Vaeh6GY9VzbGgMJI6kXZ79PlgUg&ehbc=2E312F" width="100%" height="480" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+I also keep some [public reviews on Google Maps](https://www.google.com/maps/contrib/103394787368944111412/reviews), and I have more maps that I hope to share over time: places I have collected while travelling, recommendations I have shared, and other small geographic memories.
+
+Eventually, I would like to migrate the relevant parts of that content, especially the reviews, to my own open space at [posts.rauljimenez.info](https://posts.rauljimenez.info/).
+
+</details>
+
 <!-- Looking backwards... I think I was lucky + made some right choices,  I guess I have always found a way to be involved with technologies not out of obligation, but out of passion for it. -->

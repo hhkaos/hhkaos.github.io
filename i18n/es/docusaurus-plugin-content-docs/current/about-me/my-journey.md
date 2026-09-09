@@ -20,4 +20,17 @@ A continuación repaso los principales hitos de mi infancia y adolescencia que m
 
 Seguiré añadiendo hitos sobre mi desarrollo profesional y las distintas etapas por las que he ido pasando. Por ahora, puedes consultar [mi perfil de LinkedIn](https://www.linkedin.com/in/jimenezortegaraul/)
 
+<details>
+<summary><strong>Mi trayectoria personal, pero esta vez literal: lugares donde he estado físicamente</strong></summary>
+
+No pretende ser un registro completo de viajes, sino un mapa personal de lugares que he visitado, en los que he vivido o que han formado parte de mi recorrido de alguna manera.
+
+<iframe title="Mapa de lugares en los que ha estado Raúl Jiménez Ortega" src="https://www.google.com/maps/d/u/1/embed?mid=1Vaeh6GY9VzbGgMJI6kXZ79PlgUg&ehbc=2E312F" width="100%" height="480" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+También mantengo algunas [reseñas públicas en Google Maps](https://www.google.com/maps/contrib/103394787368944111412/reviews), y tengo más mapas que espero poder ir compartiendo con el tiempo: lugares que he ido recopilando al viajar, recomendaciones que he compartido y otros pequeños recuerdos geográficos.
+
+Con el tiempo me gustaría migrar el contenido relevante, especialmente las reseñas, a mi propio espacio abierto en [posts.rauljimenez.info](https://posts.rauljimenez.info/).
+
+</details>
+
 <!-- Mirando hacia atrás... creo que tuve suerte + tomé algunas buenas decisiones. Supongo que siempre he encontrado la forma de estar involucrado con la tecnología no por obligación, sino por pasión. -->
